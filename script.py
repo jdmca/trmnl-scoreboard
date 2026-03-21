@@ -1,14 +1,15 @@
 import os
 import json
 import datetime
-import dateutil
-import urllib
-import bs4
+from dateutil import tz
+from dateutil.parser import parse
+import urllib.request
+from bs4 import BeautifulSoup
 
 
 # script.py
 filename = 'output.txt'
-content = 'Hello, GitHub Actions! This file was created by a Python script. v0.5'
+content = 'Hello, GitHub Actions! This file was created by a Python script. v0.6'
 
 try:
     with open(filename, 'w') as f: # Open in write mode ('w') to create/overwrite
