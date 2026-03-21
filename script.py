@@ -1,6 +1,6 @@
 import os
 import json
-from datetime import datetime, UTC
+import datetime
 
 
 # script.py
