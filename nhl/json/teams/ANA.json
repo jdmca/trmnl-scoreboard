@@ -1,0 +1,846 @@
+{
+  "division": [
+    {
+      "team": {
+        "id": "ANA",
+        "city": "Anaheim",
+        "nick": "Ducks",
+        "full": "Anaheim Ducks",
+        "div": {
+          "id": "div-pacific",
+          "name": "Pacific Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 70,
+        "w": 39,
+        "l": 27,
+        "t": 0,
+        "otl": 4,
+        "pts": 82,
+        "pct": 0.58571,
+        "stk": "W2",
+        "gf": 235,
+        "ga": 242,
+        "gd": -7
+      },
+      "rnk": {
+        "lg": 14,
+        "cf": 4,
+        "dv": 1,
+        "wc": null
+      }
+    },
+    {
+      "team": {
+        "id": "VGK",
+        "city": "Vegas",
+        "nick": "Golden Knights",
+        "full": "Vegas Golden Knights",
+        "div": {
+          "id": "div-pacific",
+          "name": "Pacific Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 71,
+        "w": 32,
+        "l": 25,
+        "t": 0,
+        "otl": 14,
+        "pts": 78,
+        "pct": 0.5493,
+        "stk": "W1",
+        "gf": 224,
+        "ga": 221,
+        "gd": 3
+      },
+      "rnk": {
+        "lg": 18,
+        "cf": 6,
+        "dv": 2,
+        "wc": null
+      }
+    },
+    {
+      "team": {
+        "id": "EDM",
+        "city": "Edmonton",
+        "nick": "Oilers",
+        "full": "Edmonton Oilers",
+        "div": {
+          "id": "div-pacific",
+          "name": "Pacific Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 71,
+        "w": 34,
+        "l": 28,
+        "t": 0,
+        "otl": 9,
+        "pts": 77,
+        "pct": 0.54225,
+        "stk": "L2",
+        "gf": 245,
+        "ga": 244,
+        "gd": 1
+      },
+      "rnk": {
+        "lg": 19,
+        "cf": 7,
+        "dv": 3,
+        "wc": null
+      }
+    },
+    {
+      "team": {
+        "id": "LAK",
+        "city": "Los Angeles",
+        "nick": "Kings",
+        "full": "Los Angeles Kings",
+        "div": {
+          "id": "div-pacific",
+          "name": "Pacific Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 70,
+        "w": 28,
+        "l": 25,
+        "t": 0,
+        "otl": 17,
+        "pts": 73,
+        "pct": 0.52143,
+        "stk": "OT1",
+        "gf": 187,
+        "ga": 213,
+        "gd": -26
+      },
+      "rnk": {
+        "lg": 21,
+        "cf": 9,
+        "dv": 4,
+        "wc": 3
+      }
+    },
+    {
+      "team": {
+        "id": "SEA",
+        "city": "Seattle",
+        "nick": "Kraken",
+        "full": "Seattle Kraken",
+        "div": {
+          "id": "div-pacific",
+          "name": "Pacific Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 69,
+        "w": 31,
+        "l": 29,
+        "t": 0,
+        "otl": 9,
+        "pts": 71,
+        "pct": 0.51449,
+        "stk": "L3",
+        "gf": 196,
+        "ga": 213,
+        "gd": -17
+      },
+      "rnk": {
+        "lg": 24,
+        "cf": 10,
+        "dv": 5,
+        "wc": 4
+      }
+    },
+    {
+      "team": {
+        "id": "SJS",
+        "city": "San Jose",
+        "nick": "Sharks",
+        "full": "San Jose Sharks",
+        "div": {
+          "id": "div-pacific",
+          "name": "Pacific Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 68,
+        "w": 32,
+        "l": 30,
+        "t": 0,
+        "otl": 6,
+        "pts": 70,
+        "pct": 0.51471,
+        "stk": "L4",
+        "gf": 208,
+        "ga": 243,
+        "gd": -35
+      },
+      "rnk": {
+        "lg": 26,
+        "cf": 11,
+        "dv": 6,
+        "wc": 5
+      }
+    },
+    {
+      "team": {
+        "id": "CGY",
+        "city": "Calgary",
+        "nick": "Flames",
+        "full": "Calgary Flames",
+        "div": {
+          "id": "div-pacific",
+          "name": "Pacific Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 70,
+        "w": 29,
+        "l": 34,
+        "t": 0,
+        "otl": 7,
+        "pts": 65,
+        "pct": 0.46429,
+        "stk": "W3",
+        "gf": 177,
+        "ga": 217,
+        "gd": -40
+      },
+      "rnk": {
+        "lg": 29,
+        "cf": 14,
+        "dv": 7,
+        "wc": 8
+      }
+    },
+    {
+      "team": {
+        "id": "VAN",
+        "city": "Vancouver",
+        "nick": "Canucks",
+        "full": "Vancouver Canucks",
+        "div": {
+          "id": "div-pacific",
+          "name": "Pacific Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 69,
+        "w": 21,
+        "l": 40,
+        "t": 0,
+        "otl": 8,
+        "pts": 50,
+        "pct": 0.36232,
+        "stk": "L2",
+        "gf": 179,
+        "ga": 257,
+        "gd": -78
+      },
+      "rnk": {
+        "lg": 32,
+        "cf": 16,
+        "dv": 8,
+        "wc": 10
+      }
+    }
+  ],
+  "conference": [
+    {
+      "team": {
+        "id": "COL",
+        "city": "Colorado",
+        "nick": "Avalanche",
+        "full": "Colorado Avalanche",
+        "div": {
+          "id": "div-central",
+          "name": "Central Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 69,
+        "w": 46,
+        "l": 13,
+        "t": 0,
+        "otl": 10,
+        "pts": 102,
+        "pct": 0.73913,
+        "stk": "W2",
+        "gf": 257,
+        "ga": 175,
+        "gd": 82
+      },
+      "rnk": {
+        "lg": 1,
+        "cf": 1,
+        "dv": 1,
+        "wc": null
+      }
+    },
+    {
+      "team": {
+        "id": "DAL",
+        "city": "Dallas",
+        "nick": "Stars",
+        "full": "Dallas Stars",
+        "div": {
+          "id": "div-central",
+          "name": "Central Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 70,
+        "w": 43,
+        "l": 16,
+        "t": 0,
+        "otl": 11,
+        "pts": 97,
+        "pct": 0.69286,
+        "stk": "L1",
+        "gf": 240,
+        "ga": 190,
+        "gd": 50
+      },
+      "rnk": {
+        "lg": 2,
+        "cf": 2,
+        "dv": 2,
+        "wc": null
+      }
+    },
+    {
+      "team": {
+        "id": "MIN",
+        "city": "Minnesota",
+        "nick": "Wild",
+        "full": "Minnesota Wild",
+        "div": {
+          "id": "div-central",
+          "name": "Central Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 71,
+        "w": 40,
+        "l": 19,
+        "t": 0,
+        "otl": 12,
+        "pts": 92,
+        "pct": 0.64789,
+        "stk": "W1",
+        "gf": 233,
+        "ga": 202,
+        "gd": 31
+      },
+      "rnk": {
+        "lg": 5,
+        "cf": 3,
+        "dv": 3,
+        "wc": null
+      }
+    },
+    {
+      "team": {
+        "id": "ANA",
+        "city": "Anaheim",
+        "nick": "Ducks",
+        "full": "Anaheim Ducks",
+        "div": {
+          "id": "div-pacific",
+          "name": "Pacific Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 70,
+        "w": 39,
+        "l": 27,
+        "t": 0,
+        "otl": 4,
+        "pts": 82,
+        "pct": 0.58571,
+        "stk": "W2",
+        "gf": 235,
+        "ga": 242,
+        "gd": -7
+      },
+      "rnk": {
+        "lg": 14,
+        "cf": 4,
+        "dv": 1,
+        "wc": null
+      }
+    },
+    {
+      "team": {
+        "id": "UTA",
+        "city": "Utah",
+        "nick": "Mammoth",
+        "full": "Utah Mammoth",
+        "div": {
+          "id": "div-central",
+          "name": "Central Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 71,
+        "w": 37,
+        "l": 28,
+        "t": 0,
+        "otl": 6,
+        "pts": 80,
+        "pct": 0.56338,
+        "stk": "W1",
+        "gf": 223,
+        "ga": 198,
+        "gd": 25
+      },
+      "rnk": {
+        "lg": 16,
+        "cf": 5,
+        "dv": 4,
+        "wc": 1
+      }
+    },
+    {
+      "team": {
+        "id": "VGK",
+        "city": "Vegas",
+        "nick": "Golden Knights",
+        "full": "Vegas Golden Knights",
+        "div": {
+          "id": "div-pacific",
+          "name": "Pacific Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 71,
+        "w": 32,
+        "l": 25,
+        "t": 0,
+        "otl": 14,
+        "pts": 78,
+        "pct": 0.5493,
+        "stk": "W1",
+        "gf": 224,
+        "ga": 221,
+        "gd": 3
+      },
+      "rnk": {
+        "lg": 18,
+        "cf": 6,
+        "dv": 2,
+        "wc": null
+      }
+    },
+    {
+      "team": {
+        "id": "EDM",
+        "city": "Edmonton",
+        "nick": "Oilers",
+        "full": "Edmonton Oilers",
+        "div": {
+          "id": "div-pacific",
+          "name": "Pacific Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 71,
+        "w": 34,
+        "l": 28,
+        "t": 0,
+        "otl": 9,
+        "pts": 77,
+        "pct": 0.54225,
+        "stk": "L2",
+        "gf": 245,
+        "ga": 244,
+        "gd": 1
+      },
+      "rnk": {
+        "lg": 19,
+        "cf": 7,
+        "dv": 3,
+        "wc": null
+      }
+    },
+    {
+      "team": {
+        "id": "NSH",
+        "city": "Nashville",
+        "nick": "Predators",
+        "full": "Nashville Predators",
+        "div": {
+          "id": "div-central",
+          "name": "Central Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 70,
+        "w": 33,
+        "l": 28,
+        "t": 0,
+        "otl": 9,
+        "pts": 75,
+        "pct": 0.53571,
+        "stk": "W4",
+        "gf": 209,
+        "ga": 232,
+        "gd": -23
+      },
+      "rnk": {
+        "lg": 20,
+        "cf": 8,
+        "dv": 5,
+        "wc": 2
+      }
+    },
+    {
+      "team": {
+        "id": "LAK",
+        "city": "Los Angeles",
+        "nick": "Kings",
+        "full": "Los Angeles Kings",
+        "div": {
+          "id": "div-pacific",
+          "name": "Pacific Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 70,
+        "w": 28,
+        "l": 25,
+        "t": 0,
+        "otl": 17,
+        "pts": 73,
+        "pct": 0.52143,
+        "stk": "OT1",
+        "gf": 187,
+        "ga": 213,
+        "gd": -26
+      },
+      "rnk": {
+        "lg": 21,
+        "cf": 9,
+        "dv": 4,
+        "wc": 3
+      }
+    },
+    {
+      "team": {
+        "id": "SEA",
+        "city": "Seattle",
+        "nick": "Kraken",
+        "full": "Seattle Kraken",
+        "div": {
+          "id": "div-pacific",
+          "name": "Pacific Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 69,
+        "w": 31,
+        "l": 29,
+        "t": 0,
+        "otl": 9,
+        "pts": 71,
+        "pct": 0.51449,
+        "stk": "L3",
+        "gf": 196,
+        "ga": 213,
+        "gd": -17
+      },
+      "rnk": {
+        "lg": 24,
+        "cf": 10,
+        "dv": 5,
+        "wc": 4
+      }
+    },
+    {
+      "team": {
+        "id": "SJS",
+        "city": "San Jose",
+        "nick": "Sharks",
+        "full": "San Jose Sharks",
+        "div": {
+          "id": "div-pacific",
+          "name": "Pacific Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 68,
+        "w": 32,
+        "l": 30,
+        "t": 0,
+        "otl": 6,
+        "pts": 70,
+        "pct": 0.51471,
+        "stk": "L4",
+        "gf": 208,
+        "ga": 243,
+        "gd": -35
+      },
+      "rnk": {
+        "lg": 26,
+        "cf": 11,
+        "dv": 6,
+        "wc": 5
+      }
+    },
+    {
+      "team": {
+        "id": "WPG",
+        "city": "Winnipeg",
+        "nick": "Jets",
+        "full": "Winnipeg Jets",
+        "div": {
+          "id": "div-central",
+          "name": "Central Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 70,
+        "w": 29,
+        "l": 29,
+        "t": 0,
+        "otl": 12,
+        "pts": 70,
+        "pct": 0.5,
+        "stk": "W1",
+        "gf": 199,
+        "ga": 219,
+        "gd": -20
+      },
+      "rnk": {
+        "lg": 27,
+        "cf": 12,
+        "dv": 6,
+        "wc": 6
+      }
+    },
+    {
+      "team": {
+        "id": "STL",
+        "city": "St. Louis",
+        "nick": "Blues",
+        "full": "St. Louis Blues",
+        "div": {
+          "id": "div-central",
+          "name": "Central Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 69,
+        "w": 28,
+        "l": 30,
+        "t": 0,
+        "otl": 11,
+        "pts": 67,
+        "pct": 0.48551,
+        "stk": "W1",
+        "gf": 181,
+        "ga": 225,
+        "gd": -44
+      },
+      "rnk": {
+        "lg": 28,
+        "cf": 13,
+        "dv": 7,
+        "wc": 7
+      }
+    },
+    {
+      "team": {
+        "id": "CGY",
+        "city": "Calgary",
+        "nick": "Flames",
+        "full": "Calgary Flames",
+        "div": {
+          "id": "div-pacific",
+          "name": "Pacific Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 70,
+        "w": 29,
+        "l": 34,
+        "t": 0,
+        "otl": 7,
+        "pts": 65,
+        "pct": 0.46429,
+        "stk": "W3",
+        "gf": 177,
+        "ga": 217,
+        "gd": -40
+      },
+      "rnk": {
+        "lg": 29,
+        "cf": 14,
+        "dv": 7,
+        "wc": 8
+      }
+    },
+    {
+      "team": {
+        "id": "CHI",
+        "city": "Chicago",
+        "nick": "Blackhawks",
+        "full": "Chicago Blackhawks",
+        "div": {
+          "id": "div-central",
+          "name": "Central Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 70,
+        "w": 26,
+        "l": 31,
+        "t": 0,
+        "otl": 13,
+        "pts": 65,
+        "pct": 0.46429,
+        "stk": "OT1",
+        "gf": 183,
+        "ga": 225,
+        "gd": -42
+      },
+      "rnk": {
+        "lg": 30,
+        "cf": 15,
+        "dv": 8,
+        "wc": 9
+      }
+    },
+    {
+      "team": {
+        "id": "VAN",
+        "city": "Vancouver",
+        "nick": "Canucks",
+        "full": "Vancouver Canucks",
+        "div": {
+          "id": "div-pacific",
+          "name": "Pacific Division"
+        },
+        "conf": {
+          "id": "conf-western",
+          "name": "Western Conference"
+        }
+      },
+      "stats": {
+        "gp": 69,
+        "w": 21,
+        "l": 40,
+        "t": 0,
+        "otl": 8,
+        "pts": 50,
+        "pct": 0.36232,
+        "stk": "L2",
+        "gf": 179,
+        "ga": 257,
+        "gd": -78
+      },
+      "rnk": {
+        "lg": 32,
+        "cf": 16,
+        "dv": 8,
+        "wc": 10
+      }
+    }
+  ]
+}

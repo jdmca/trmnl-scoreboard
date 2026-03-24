@@ -1,1 +1,0 @@
-Hello, GitHub Actions! This file was created by a Python script. v0.6

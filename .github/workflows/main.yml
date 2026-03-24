@@ -34,7 +34,7 @@ jobs:
       
       - name: Commit and push the new file
         run: |
-          git add schedules/nhl/_master.json # Stage the specific file
-          git commit -m "Updated NHL Schedule"
+          git add * # Stage the specific file
+          git commit -m "Updated by daily NHL Workflow"
           git push
         # This will push the changes to the branch that triggered the workflow
