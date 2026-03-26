@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 from dateutil import tz
 from dateutil.parser import parse
-from common import http_request, json_request, json_from_file, get_data_stat
+from .common import *
 
 
 # Constants
@@ -243,9 +243,3 @@ def generate_team_json():
     with open( TEAM_OUTPUT_PATH.format(team_id), 'w+') as f:
       json.dump(team, f, indent=2)
 
-
-
-update_games()
-update_teams()
-update_livescores()
-generate_team_json()

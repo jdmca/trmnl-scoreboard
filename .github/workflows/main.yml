@@ -25,7 +25,7 @@ jobs:
           
       - name: Run NHL Controller
         run: |
-          python -u controllers/nhl.py # Execute your Python script # The -u flag ensures unbuffered output, so print statements appear correctly
+          python -u nhl-daily.py # Execute your Python script # The -u flag ensures unbuffered output, so print statements appear correctly
 
       - name: Configure Git for commit
         run: |
