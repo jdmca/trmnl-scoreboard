@@ -16,6 +16,10 @@ def json_request(url):
     return json.loads(response.read().decode('utf-8'))
 
 
+def json_from_file(file_name):
+  with open( file_name, 'r') as f:
+    return json.load(f)
+
 def get_data_stat(row, datastat, default=None, href=False):
   cell = row.select_one(f'td[data-stat={datastat}], th[data-stat={datastat}]')
   if cell:

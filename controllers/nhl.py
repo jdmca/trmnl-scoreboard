@@ -3,13 +3,18 @@ import json
 from datetime import datetime
 from dateutil import tz
 from dateutil.parser import parse
-from common import http_request, json_request, get_data_stat
+from common import http_request, json_request, json_from_file, get_data_stat
 
 
 # Constants
 TZ_SCHEDULE = [tz.gettz("America/New_York")]
 TZ_UTC      = tz.gettz("Etc/UTC")
-OUTPUT_PATH = '../nhl'
+
+GAME_FILE_PATH      = 'nhl/data/games_{}.json'
+TEAMS_FILE_PATH     = 'nhl/data/all_teams.json'
+LIVESCORE_FILE_PATH = 'nhl/data/livescores.json'
+STANDINGS_FILE_PATH = 'nhl/data/standings_{}.json'
+TEAM_OUTPUT_PATH    = 'nhl/api/{}.json'
 
 
 # Functions
@@ -82,23 +87,12 @@ def update_teams():
     group_standings[conf_id].append( json.loads(json.dumps(teams_data[team_id]) ) )
 
   for group_id in group_standings:
-    with open( os.path.join(OUTPUT_PATH, 'data', f'standings_{group_id}.json'), 'w+') as f:
+    with open( STANDINGS_FILE_PATH.format(group_id), 'w+') as f:
       json.dump(group_standings[group_id], f, indent=2)
 
-
-  with open( os.path.join(OUTPUT_PATH, 'data', f'all_teams.json'), 'w+') as f:
+  with open( TEAMS_FILE_PATH, 'w+') as f:
     json.dump(teams_data, f, indent=2)
-
-  # for team_id in teams_data:
-  #   del teams_data[team_id]['stats']
-  #   teams_data[team_id]['standings'] = {
-  #     'division':   group_standings[teams_data[team_id]['team']['div']['id']],
-  #     'conference': group_standings[teams_data[team_id]['team']['conf']['id']],
-  #   }
-  #   with open( os.path.join(OUTPUT_PATH, 'json', 'teams', f'{team_id}.json'), 'w+') as f:
-  #     json.dump(teams_data[team_id]['standings'], f, indent=2)
-
-  return True
+    return True
 
 
 def update_games():
@@ -111,7 +105,6 @@ def update_games():
   all_team_ids = {}
 
   if len(rows) == 0:
-    # print(f"Attempting to scrape '{url}', no rows found for 'table#games'")
     return False
 
   for row in rows:
@@ -144,8 +137,8 @@ def update_games():
       'away_outcome': away_outcome,
     })
 
-  with open( os.path.join(OUTPUT_PATH, 'json', 'games', '_all.json'), 'w+') as f:
-    json.dump(full_schedule, f, indent=2)
+  # with open( os.path.join(OUTPUT_PATH, 'json', 'games', '_all.json'), 'w+') as f:
+  #   json.dump(full_schedule, f, indent=2)
   
   team_schedules = {team_id: [] for team_id in all_team_ids}
   
@@ -172,9 +165,87 @@ def update_games():
     })
 
   for team_id in team_schedules:
-    with open( os.path.join(OUTPUT_PATH, 'data', f'games_{team_id.lower()}.json'), 'w+') as f:
+    with open( GAME_FILE_PATH.format(team_id.lower()), 'w+') as f:
       json.dump(team_schedules[team_id], f, indent=2)
 
 
-# update_games()
+def update_livescores():
+  url = 'https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/scoreboard'
+  response = json_request(url)
+  live_data = {}
+
+  if response['events'] == []:
+    return False
+
+  for event in response['events']:
+    if event['status']['type']['name'] != 'STATUS_SCHEDULED':
+      game_date = f"{parse(event['date'], tzinfos=TZ_SCHEDULE).astimezone().strftime("%Y%m%d")}"
+      h = 1 if event['competitions'][0]['competitors'][0]['homeAway'] == 'away' else 0
+      a = 1 - h
+      home_id  = event['competitions'][0]['competitors'][h]['team']['abbreviation']
+      away_id  = event['competitions'][0]['competitors'][a]['team']['abbreviation']
+      home_scr = event['competitions'][0]['competitors'][h]['score']
+      away_scr = event['competitions'][0]['competitors'][a]['score']
+      game_id  = build_game_id( game_date, home_id, away_id )
+      clock    = event['status']['displayClock']
+      period   = event['status']['period']
+      status   = event['status']['type']['name']
+      detail   = event['status']['type']['shortDetail']
+      live_data[game_id] = {
+        'clock': clock,
+        'period': period,
+        'status': status,
+        'detail': detail,
+        'home_score': int(home_scr),
+        'away_score': int(away_scr),
+      }
+
+  with open( LIVESCORE_FILE_PATH, 'w+') as f:
+    json.dump(live_data, f, indent=2)
+    return True
+
+
+def generate_team_json():
+  teams = json_from_file( TEAMS_FILE_PATH )
+  for team_id in teams:
+    team = teams[team_id]
+
+    all_games    = json_from_file( GAME_FILE_PATH.format(team_id.lower()) )
+    past_games   = []
+    future_games = []
+    for game in all_games:
+      if game['outcome'] == 'upcoming':
+        future_games.append(game)
+      else:
+        past_games.append(game)
+
+    num_past_games   = len(past_games)
+    num_future_games = len(future_games)
+
+    games_back  = 3
+    games_ahead = 4
+    total_games = games_ahead + games_back
+
+    if num_past_games >= games_back and num_future_games >= games_ahead:
+      team['games'] = [*past_games[-games_back:]] + [*future_games[0:games_ahead]]
+    elif num_past_games < games_back and num_future_games >= games_ahead:
+      team['games'] = [*past_games] + [*future_games[0:(total_games-num_pas_games)]]
+    elif num_past_games >= games_back and num_future_games < games_ahead:
+      team['games'] = [*past_games[-(total_games-num_future_games):]] + [*future_games]
+    else:
+      team['games'] = [*past_games] + [*future_games]
+
+    team['standings'] = {
+      'division':   json_from_file( STANDINGS_FILE_PATH.format(team['team']['div']['id']) ),
+      'conference': json_from_file( STANDINGS_FILE_PATH.format(team['team']['conf']['id']) ),
+    }
+
+    with open( TEAM_OUTPUT_PATH.format(team_id), 'w+') as f:
+      json.dump(team, f, indent=2)
+
+
+
+update_games()
 update_teams()
+update_livescores()
+generate_team_json()

@@ -1,0 +1,18 @@
+{
+  "20260325-BUF-BOS": {
+    "clock": "16:29",
+    "period": 2,
+    "status": "STATUS_IN_PROGRESS",
+    "detail": "16:29 - 2nd",
+    "home_score": 1,
+    "away_score": 1
+  },
+  "20260325-TOR-NYR": {
+    "clock": "14:25",
+    "period": 2,
+    "status": "STATUS_IN_PROGRESS",
+    "detail": "14:25 - 2nd",
+    "home_score": 2,
+    "away_score": 0
+  }
+}
