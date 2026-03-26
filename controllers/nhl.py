@@ -179,7 +179,7 @@ def update_livescores():
 
   for event in response['events']:
     if event['status']['type']['name'] != 'STATUS_SCHEDULED':
-      game_date = f"{parse(event['date'], tzinfos=TZ_SCHEDULE).astimezone().strftime("%Y%m%d")}"
+      game_date = f"{parse(event['date'], tzinfos=TZ_SCHEDULE).astimezone().strftime('%Y%m%d')}"
       h = 1 if event['competitions'][0]['competitors'][0]['homeAway'] == 'away' else 0
       a = 1 - h
       home_id  = event['competitions'][0]['competitors'][h]['team']['abbreviation']
