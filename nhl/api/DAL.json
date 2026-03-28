@@ -35,7 +35,7 @@
   "games": [
     {
       "game_id": "20260322-DAL-VGK",
-      "game_time_utc": "2026-03-22 19:00:00+00:00",
+      "game_time_utc": "2026-03-22 23:00:00+00:00",
       "game_date": "2026-03-22",
       "final": "Final",
       "outcome": "loss",
@@ -44,11 +44,12 @@
         3
       ],
       "opponent_id": "VGK",
-      "opponent_name": "Vegas Golden Knights"
+      "opponent_name": "Vegas Golden Knights",
+      "location": "home"
     },
     {
       "game_id": "20260324-DAL-NJD",
-      "game_time_utc": "2026-03-24 20:00:00+00:00",
+      "game_time_utc": "2026-03-25 00:00:00+00:00",
       "game_date": "2026-03-24",
       "final": "Final",
       "outcome": "loss",
@@ -57,11 +58,12 @@
         6
       ],
       "opponent_id": "NJD",
-      "opponent_name": "New Jersey Devils"
+      "opponent_name": "New Jersey Devils",
+      "location": "home"
     },
     {
       "game_id": "20260326-NYI-DAL",
-      "game_time_utc": "2026-03-26 19:00:00+00:00",
+      "game_time_utc": "2026-03-26 23:00:00+00:00",
       "game_date": "2026-03-26",
       "final": "Final",
       "outcome": "loss",
@@ -70,11 +72,12 @@
         2
       ],
       "opponent_id": "NYI",
-      "opponent_name": "New York Islanders"
+      "opponent_name": "New York Islanders",
+      "location": "away"
     },
     {
       "game_id": "20260328-PIT-DAL",
-      "game_time_utc": "2026-03-28 17:00:00+00:00",
+      "game_time_utc": "2026-03-28 21:00:00+00:00",
       "game_date": "2026-03-28",
       "final": "",
       "outcome": "upcoming",
@@ -83,11 +86,12 @@
         ""
       ],
       "opponent_id": "PIT",
-      "opponent_name": "Pittsburgh Penguins"
+      "opponent_name": "Pittsburgh Penguins",
+      "location": "away"
     },
     {
       "game_id": "20260329-PHI-DAL",
-      "game_time_utc": "2026-03-29 19:00:00+00:00",
+      "game_time_utc": "2026-03-29 23:00:00+00:00",
       "game_date": "2026-03-29",
       "final": "",
       "outcome": "upcoming",
@@ -96,11 +100,12 @@
         ""
       ],
       "opponent_id": "PHI",
-      "opponent_name": "Philadelphia Flyers"
+      "opponent_name": "Philadelphia Flyers",
+      "location": "away"
     },
     {
       "game_id": "20260331-BOS-DAL",
-      "game_time_utc": "2026-03-31 19:00:00+00:00",
+      "game_time_utc": "2026-03-31 23:00:00+00:00",
       "game_date": "2026-03-31",
       "final": "",
       "outcome": "upcoming",
@@ -109,11 +114,12 @@
         ""
       ],
       "opponent_id": "BOS",
-      "opponent_name": "Boston Bruins"
+      "opponent_name": "Boston Bruins",
+      "location": "away"
     },
     {
       "game_id": "20260402-DAL-WPG",
-      "game_time_utc": "2026-04-02 20:00:00+00:00",
+      "game_time_utc": "2026-04-03 00:00:00+00:00",
       "game_date": "2026-04-02",
       "final": "",
       "outcome": "upcoming",
@@ -122,7 +128,8 @@
         ""
       ],
       "opponent_id": "WPG",
-      "opponent_name": "Winnipeg Jets"
+      "opponent_name": "Winnipeg Jets",
+      "location": "home"
     }
   ],
   "standings": {
@@ -388,20 +395,20 @@
           }
         },
         "stats": {
-          "gp": 72,
+          "gp": 73,
           "w": 27,
-          "l": 32,
+          "l": 33,
           "t": 0,
           "otl": 13,
           "pts": 67,
-          "pct": 0.46528,
-          "stk": "L1",
-          "gf": 188,
-          "ga": 233,
-          "gd": -45
+          "pct": 0.4589,
+          "stk": "L2",
+          "gf": 189,
+          "ga": 239,
+          "gd": -50
         },
         "rnk": {
-          "lg": 30,
+          "lg": 31,
           "cf": 15,
           "dv": 8,
           "wc": 9
@@ -543,7 +550,7 @@
           "gd": -4
         },
         "rnk": {
-          "lg": 13,
+          "lg": 14,
           "cf": 4,
           "dv": 1,
           "wc": null
@@ -915,20 +922,20 @@
           }
         },
         "stats": {
-          "gp": 72,
+          "gp": 73,
           "w": 27,
-          "l": 32,
+          "l": 33,
           "t": 0,
           "otl": 13,
           "pts": 67,
-          "pct": 0.46528,
-          "stk": "L1",
-          "gf": 188,
-          "ga": 233,
-          "gd": -45
+          "pct": 0.4589,
+          "stk": "L2",
+          "gf": 189,
+          "ga": 239,
+          "gd": -50
         },
         "rnk": {
-          "lg": 30,
+          "lg": 31,
           "cf": 15,
           "dv": 8,
           "wc": 9

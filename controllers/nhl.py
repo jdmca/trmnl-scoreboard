@@ -109,7 +109,7 @@ def update_games():
 
   for row in rows:
     game_date    = get_data_stat(row, 'date_game')
-    game_time    = f"{game_date} {get_data_stat(row, 'time_game')}"
+    game_time    = parse_datetime_to_utc( get_data_stat(row, 'date_game'), get_data_stat(row, 'time_game'), "America/New_York")
     game_final   = f"Final/{get_data_stat(row, 'overtimes')}" if get_data_stat(row, 'overtimes') else ("Final" if get_data_stat(row, 'date_game', href='True') else "")
     home_id      = normalize_id(get_data_stat(row, 'home_team_name', href=True)[7:10])
     away_id      = normalize_id(get_data_stat(row, 'visitor_team_name', href=True)[7:10])
@@ -124,8 +124,8 @@ def update_games():
 
     full_schedule.append({
       'game_id': game_id,
-      'game_time_utc': f"{parse(game_time, tzinfos=TZ_SCHEDULE).astimezone(TZ_UTC)}",
-      'game_date': f"{parse(game_time).strftime('%Y-%m-%d')}",
+      'game_date': game_date,
+      'game_time_utc': f"{game_time}",
       'final': game_final,
       'home_id': home_id,
       'home_name': home_name,
@@ -152,6 +152,7 @@ def update_games():
       'score': [game['home_score'], game['away_score']],
       'opponent_id': game['away_id'],
       'opponent_name': game['away_name'],
+      'location': 'home',
     })
     team_schedules[game['away_id']].append({
       'game_id': game['game_id'],
@@ -162,6 +163,7 @@ def update_games():
       'score': [game['away_score'], game['home_score']],
       'opponent_id': game['home_id'],
       'opponent_name': game['home_name'],
+      'location': 'away',
     })
 
   for team_id in team_schedules:

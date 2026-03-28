@@ -1,7 +1,7 @@
 [
   {
     "game_id": "20251009-SJS-VGK",
-    "game_time_utc": "2025-10-09 22:00:00+00:00",
+    "game_time_utc": "2025-10-10 02:00:00+00:00",
     "game_date": "2025-10-09",
     "final": "Final/OT",
     "outcome": "loss",
@@ -10,11 +10,12 @@
       4
     ],
     "opponent_id": "VGK",
-    "opponent_name": "Vegas Golden Knights"
+    "opponent_name": "Vegas Golden Knights",
+    "location": "home"
   },
   {
     "game_id": "20251011-SJS-ANA",
-    "game_time_utc": "2025-10-11 22:00:00+00:00",
+    "game_time_utc": "2025-10-12 02:00:00+00:00",
     "game_date": "2025-10-11",
     "final": "Final/OT",
     "outcome": "loss",
@@ -23,11 +24,12 @@
       7
     ],
     "opponent_id": "ANA",
-    "opponent_name": "Anaheim Ducks"
+    "opponent_name": "Anaheim Ducks",
+    "location": "home"
   },
   {
     "game_id": "20251014-SJS-CAR",
-    "game_time_utc": "2025-10-14 22:00:00+00:00",
+    "game_time_utc": "2025-10-15 02:00:00+00:00",
     "game_date": "2025-10-14",
     "final": "Final",
     "outcome": "loss",
@@ -36,11 +38,12 @@
       5
     ],
     "opponent_id": "CAR",
-    "opponent_name": "Carolina Hurricanes"
+    "opponent_name": "Carolina Hurricanes",
+    "location": "home"
   },
   {
     "game_id": "20251017-UTA-SJS",
-    "game_time_utc": "2025-10-17 21:00:00+00:00",
+    "game_time_utc": "2025-10-18 01:00:00+00:00",
     "game_date": "2025-10-17",
     "final": "Final",
     "outcome": "loss",
@@ -49,11 +52,12 @@
       6
     ],
     "opponent_id": "UTA",
-    "opponent_name": "Utah Mammoth"
+    "opponent_name": "Utah Mammoth",
+    "location": "away"
   },
   {
     "game_id": "20251018-SJS-PIT",
-    "game_time_utc": "2025-10-18 22:00:00+00:00",
+    "game_time_utc": "2025-10-19 02:00:00+00:00",
     "game_date": "2025-10-18",
     "final": "Final",
     "outcome": "loss",
@@ -62,11 +66,12 @@
       3
     ],
     "opponent_id": "PIT",
-    "opponent_name": "Pittsburgh Penguins"
+    "opponent_name": "Pittsburgh Penguins",
+    "location": "home"
   },
   {
     "game_id": "20251021-NYI-SJS",
-    "game_time_utc": "2025-10-21 19:00:00+00:00",
+    "game_time_utc": "2025-10-21 23:00:00+00:00",
     "game_date": "2025-10-21",
     "final": "Final",
     "outcome": "loss",
@@ -75,11 +80,12 @@
       4
     ],
     "opponent_id": "NYI",
-    "opponent_name": "New York Islanders"
+    "opponent_name": "New York Islanders",
+    "location": "away"
   },
   {
     "game_id": "20251023-NYR-SJS",
-    "game_time_utc": "2025-10-23 19:00:00+00:00",
+    "game_time_utc": "2025-10-23 23:00:00+00:00",
     "game_date": "2025-10-23",
     "final": "Final/OT",
     "outcome": "win",
@@ -88,11 +94,12 @@
       5
     ],
     "opponent_id": "NYR",
-    "opponent_name": "New York Rangers"
+    "opponent_name": "New York Rangers",
+    "location": "away"
   },
   {
     "game_id": "20251024-NJD-SJS",
-    "game_time_utc": "2025-10-24 19:00:00+00:00",
+    "game_time_utc": "2025-10-24 23:00:00+00:00",
     "game_date": "2025-10-24",
     "final": "Final",
     "outcome": "loss",
@@ -101,11 +108,12 @@
       3
     ],
     "opponent_id": "NJD",
-    "opponent_name": "New Jersey Devils"
+    "opponent_name": "New Jersey Devils",
+    "location": "away"
   },
   {
     "game_id": "20251026-MIN-SJS",
-    "game_time_utc": "2025-10-26 18:00:00+00:00",
+    "game_time_utc": "2025-10-26 22:00:00+00:00",
     "game_date": "2025-10-26",
     "final": "Final/OT",
     "outcome": "win",
@@ -114,11 +122,12 @@
       5
     ],
     "opponent_id": "MIN",
-    "opponent_name": "Minnesota Wild"
+    "opponent_name": "Minnesota Wild",
+    "location": "away"
   },
   {
     "game_id": "20251028-SJS-LAK",
-    "game_time_utc": "2025-10-28 23:00:00+00:00",
+    "game_time_utc": "2025-10-29 03:00:00+00:00",
     "game_date": "2025-10-28",
     "final": "Final",
     "outcome": "loss",
@@ -127,11 +136,12 @@
       4
     ],
     "opponent_id": "LAK",
-    "opponent_name": "Los Angeles Kings"
+    "opponent_name": "Los Angeles Kings",
+    "location": "home"
   },
   {
     "game_id": "20251030-SJS-NJD",
-    "game_time_utc": "2025-10-30 22:00:00+00:00",
+    "game_time_utc": "2025-10-31 02:00:00+00:00",
     "game_date": "2025-10-30",
     "final": "Final",
     "outcome": "win",
@@ -140,11 +150,12 @@
       2
     ],
     "opponent_id": "NJD",
-    "opponent_name": "New Jersey Devils"
+    "opponent_name": "New Jersey Devils",
+    "location": "home"
   },
   {
     "game_id": "20251101-SJS-COL",
-    "game_time_utc": "2025-11-01 16:00:00+00:00",
+    "game_time_utc": "2025-11-01 20:00:00+00:00",
     "game_date": "2025-11-01",
     "final": "Final/OT",
     "outcome": "win",
@@ -153,11 +164,12 @@
       2
     ],
     "opponent_id": "COL",
-    "opponent_name": "Colorado Avalanche"
+    "opponent_name": "Colorado Avalanche",
+    "location": "home"
   },
   {
     "game_id": "20251102-SJS-DET",
-    "game_time_utc": "2025-11-02 20:00:00+00:00",
+    "game_time_utc": "2025-11-03 01:00:00+00:00",
     "game_date": "2025-11-02",
     "final": "Final/SO",
     "outcome": "loss",
@@ -166,11 +178,12 @@
       3
     ],
     "opponent_id": "DET",
-    "opponent_name": "Detroit Red Wings"
+    "opponent_name": "Detroit Red Wings",
+    "location": "home"
   },
   {
     "game_id": "20251105-SEA-SJS",
-    "game_time_utc": "2025-11-05 22:00:00+00:00",
+    "game_time_utc": "2025-11-06 03:00:00+00:00",
     "game_date": "2025-11-05",
     "final": "Final",
     "outcome": "win",
@@ -179,11 +192,12 @@
       1
     ],
     "opponent_id": "SEA",
-    "opponent_name": "Seattle Kraken"
+    "opponent_name": "Seattle Kraken",
+    "location": "away"
   },
   {
     "game_id": "20251107-SJS-WPG",
-    "game_time_utc": "2025-11-07 22:00:00+00:00",
+    "game_time_utc": "2025-11-08 03:00:00+00:00",
     "game_date": "2025-11-07",
     "final": "Final",
     "outcome": "win",
@@ -192,11 +206,12 @@
       1
     ],
     "opponent_id": "WPG",
-    "opponent_name": "Winnipeg Jets"
+    "opponent_name": "Winnipeg Jets",
+    "location": "home"
   },
   {
     "game_id": "20251108-SJS-FLA",
-    "game_time_utc": "2025-11-08 22:00:00+00:00",
+    "game_time_utc": "2025-11-09 03:00:00+00:00",
     "game_date": "2025-11-08",
     "final": "Final",
     "outcome": "win",
@@ -205,11 +220,12 @@
       1
     ],
     "opponent_id": "FLA",
-    "opponent_name": "Florida Panthers"
+    "opponent_name": "Florida Panthers",
+    "location": "home"
   },
   {
     "game_id": "20251111-MIN-SJS",
-    "game_time_utc": "2025-11-11 20:00:00+00:00",
+    "game_time_utc": "2025-11-12 01:00:00+00:00",
     "game_date": "2025-11-11",
     "final": "Final/OT",
     "outcome": "win",
@@ -218,11 +234,12 @@
       1
     ],
     "opponent_id": "MIN",
-    "opponent_name": "Minnesota Wild"
+    "opponent_name": "Minnesota Wild",
+    "location": "away"
   },
   {
     "game_id": "20251113-CGY-SJS",
-    "game_time_utc": "2025-11-13 21:00:00+00:00",
+    "game_time_utc": "2025-11-14 02:00:00+00:00",
     "game_date": "2025-11-13",
     "final": "Final",
     "outcome": "loss",
@@ -231,11 +248,12 @@
       2
     ],
     "opponent_id": "CGY",
-    "opponent_name": "Calgary Flames"
+    "opponent_name": "Calgary Flames",
+    "location": "away"
   },
   {
     "game_id": "20251115-SEA-SJS",
-    "game_time_utc": "2025-11-15 22:00:00+00:00",
+    "game_time_utc": "2025-11-16 03:00:00+00:00",
     "game_date": "2025-11-15",
     "final": "Final",
     "outcome": "loss",
@@ -244,11 +262,12 @@
       4
     ],
     "opponent_id": "SEA",
-    "opponent_name": "Seattle Kraken"
+    "opponent_name": "Seattle Kraken",
+    "location": "away"
   },
   {
     "game_id": "20251118-SJS-UTA",
-    "game_time_utc": "2025-11-18 22:00:00+00:00",
+    "game_time_utc": "2025-11-19 03:00:00+00:00",
     "game_date": "2025-11-18",
     "final": "Final/OT",
     "outcome": "win",
@@ -257,11 +276,12 @@
       2
     ],
     "opponent_id": "UTA",
-    "opponent_name": "Utah Mammoth"
+    "opponent_name": "Utah Mammoth",
+    "location": "home"
   },
   {
     "game_id": "20251120-SJS-LAK",
-    "game_time_utc": "2025-11-20 22:00:00+00:00",
+    "game_time_utc": "2025-11-21 03:00:00+00:00",
     "game_date": "2025-11-20",
     "final": "Final/SO",
     "outcome": "win",
@@ -270,11 +290,12 @@
       3
     ],
     "opponent_id": "LAK",
-    "opponent_name": "Los Angeles Kings"
+    "opponent_name": "Los Angeles Kings",
+    "location": "home"
   },
   {
     "game_id": "20251122-SJS-OTT",
-    "game_time_utc": "2025-11-22 19:00:00+00:00",
+    "game_time_utc": "2025-11-23 00:00:00+00:00",
     "game_date": "2025-11-22",
     "final": "Final",
     "outcome": "loss",
@@ -283,11 +304,12 @@
       3
     ],
     "opponent_id": "OTT",
-    "opponent_name": "Ottawa Senators"
+    "opponent_name": "Ottawa Senators",
+    "location": "home"
   },
   {
     "game_id": "20251123-SJS-BOS",
-    "game_time_utc": "2025-11-23 20:00:00+00:00",
+    "game_time_utc": "2025-11-24 01:00:00+00:00",
     "game_date": "2025-11-23",
     "final": "Final",
     "outcome": "win",
@@ -296,11 +318,12 @@
       1
     ],
     "opponent_id": "BOS",
-    "opponent_name": "Boston Bruins"
+    "opponent_name": "Boston Bruins",
+    "location": "home"
   },
   {
     "game_id": "20251126-COL-SJS",
-    "game_time_utc": "2025-11-26 21:00:00+00:00",
+    "game_time_utc": "2025-11-27 02:00:00+00:00",
     "game_date": "2025-11-26",
     "final": "Final",
     "outcome": "loss",
@@ -309,11 +332,12 @@
       6
     ],
     "opponent_id": "COL",
-    "opponent_name": "Colorado Avalanche"
+    "opponent_name": "Colorado Avalanche",
+    "location": "away"
   },
   {
     "game_id": "20251128-SJS-VAN",
-    "game_time_utc": "2025-11-28 16:00:00+00:00",
+    "game_time_utc": "2025-11-28 21:00:00+00:00",
     "game_date": "2025-11-28",
     "final": "Final",
     "outcome": "win",
@@ -322,11 +346,12 @@
       2
     ],
     "opponent_id": "VAN",
-    "opponent_name": "Vancouver Canucks"
+    "opponent_name": "Vancouver Canucks",
+    "location": "home"
   },
   {
     "game_id": "20251129-VGK-SJS",
-    "game_time_utc": "2025-11-29 22:00:00+00:00",
+    "game_time_utc": "2025-11-30 03:00:00+00:00",
     "game_date": "2025-11-29",
     "final": "Final",
     "outcome": "loss",
@@ -335,11 +360,12 @@
       4
     ],
     "opponent_id": "VGK",
-    "opponent_name": "Vegas Golden Knights"
+    "opponent_name": "Vegas Golden Knights",
+    "location": "away"
   },
   {
     "game_id": "20251201-SJS-UTA",
-    "game_time_utc": "2025-12-01 22:00:00+00:00",
+    "game_time_utc": "2025-12-02 03:00:00+00:00",
     "game_date": "2025-12-01",
     "final": "Final",
     "outcome": "win",
@@ -348,11 +374,12 @@
       3
     ],
     "opponent_id": "UTA",
-    "opponent_name": "Utah Mammoth"
+    "opponent_name": "Utah Mammoth",
+    "location": "home"
   },
   {
     "game_id": "20251203-SJS-WSH",
-    "game_time_utc": "2025-12-03 22:00:00+00:00",
+    "game_time_utc": "2025-12-04 03:00:00+00:00",
     "game_date": "2025-12-03",
     "final": "Final",
     "outcome": "loss",
@@ -361,11 +388,12 @@
       7
     ],
     "opponent_id": "WSH",
-    "opponent_name": "Washington Capitals"
+    "opponent_name": "Washington Capitals",
+    "location": "home"
   },
   {
     "game_id": "20251205-DAL-SJS",
-    "game_time_utc": "2025-12-05 20:00:00+00:00",
+    "game_time_utc": "2025-12-06 01:00:00+00:00",
     "game_date": "2025-12-05",
     "final": "Final",
     "outcome": "loss",
@@ -374,11 +402,12 @@
       4
     ],
     "opponent_id": "DAL",
-    "opponent_name": "Dallas Stars"
+    "opponent_name": "Dallas Stars",
+    "location": "away"
   },
   {
     "game_id": "20251207-CAR-SJS",
-    "game_time_utc": "2025-12-07 17:00:00+00:00",
+    "game_time_utc": "2025-12-07 22:00:00+00:00",
     "game_date": "2025-12-07",
     "final": "Final",
     "outcome": "win",
@@ -387,11 +416,12 @@
       1
     ],
     "opponent_id": "CAR",
-    "opponent_name": "Carolina Hurricanes"
+    "opponent_name": "Carolina Hurricanes",
+    "location": "away"
   },
   {
     "game_id": "20251209-PHI-SJS",
-    "game_time_utc": "2025-12-09 19:00:00+00:00",
+    "game_time_utc": "2025-12-10 00:00:00+00:00",
     "game_date": "2025-12-09",
     "final": "Final",
     "outcome": "loss",
@@ -400,11 +430,12 @@
       4
     ],
     "opponent_id": "PHI",
-    "opponent_name": "Philadelphia Flyers"
+    "opponent_name": "Philadelphia Flyers",
+    "location": "away"
   },
   {
     "game_id": "20251211-TOR-SJS",
-    "game_time_utc": "2025-12-11 19:00:00+00:00",
+    "game_time_utc": "2025-12-12 00:00:00+00:00",
     "game_date": "2025-12-11",
     "final": "Final/OT",
     "outcome": "win",
@@ -413,11 +444,12 @@
       2
     ],
     "opponent_id": "TOR",
-    "opponent_name": "Toronto Maple Leafs"
+    "opponent_name": "Toronto Maple Leafs",
+    "location": "away"
   },
   {
     "game_id": "20251213-PIT-SJS",
-    "game_time_utc": "2025-12-13 15:00:00+00:00",
+    "game_time_utc": "2025-12-13 20:00:00+00:00",
     "game_date": "2025-12-13",
     "final": "Final/OT",
     "outcome": "win",
@@ -426,11 +458,12 @@
       5
     ],
     "opponent_id": "PIT",
-    "opponent_name": "Pittsburgh Penguins"
+    "opponent_name": "Pittsburgh Penguins",
+    "location": "away"
   },
   {
     "game_id": "20251216-SJS-CGY",
-    "game_time_utc": "2025-12-16 22:00:00+00:00",
+    "game_time_utc": "2025-12-17 03:00:00+00:00",
     "game_date": "2025-12-16",
     "final": "Final",
     "outcome": "win",
@@ -439,11 +472,12 @@
       3
     ],
     "opponent_id": "CGY",
-    "opponent_name": "Calgary Flames"
+    "opponent_name": "Calgary Flames",
+    "location": "home"
   },
   {
     "game_id": "20251218-SJS-DAL",
-    "game_time_utc": "2025-12-18 22:00:00+00:00",
+    "game_time_utc": "2025-12-19 03:00:00+00:00",
     "game_date": "2025-12-18",
     "final": "Final",
     "outcome": "loss",
@@ -452,11 +486,12 @@
       5
     ],
     "opponent_id": "DAL",
-    "opponent_name": "Dallas Stars"
+    "opponent_name": "Dallas Stars",
+    "location": "home"
   },
   {
     "game_id": "20251220-SJS-SEA",
-    "game_time_utc": "2025-12-20 22:00:00+00:00",
+    "game_time_utc": "2025-12-21 03:00:00+00:00",
     "game_date": "2025-12-20",
     "final": "Final",
     "outcome": "loss",
@@ -465,11 +500,12 @@
       4
     ],
     "opponent_id": "SEA",
-    "opponent_name": "Seattle Kraken"
+    "opponent_name": "Seattle Kraken",
+    "location": "home"
   },
   {
     "game_id": "20251223-VGK-SJS",
-    "game_time_utc": "2025-12-23 22:00:00+00:00",
+    "game_time_utc": "2025-12-24 03:00:00+00:00",
     "game_date": "2025-12-23",
     "final": "Final",
     "outcome": "loss",
@@ -478,11 +514,12 @@
       7
     ],
     "opponent_id": "VGK",
-    "opponent_name": "Vegas Golden Knights"
+    "opponent_name": "Vegas Golden Knights",
+    "location": "away"
   },
   {
     "game_id": "20251227-VAN-SJS",
-    "game_time_utc": "2025-12-27 22:00:00+00:00",
+    "game_time_utc": "2025-12-28 03:00:00+00:00",
     "game_date": "2025-12-27",
     "final": "Final",
     "outcome": "win",
@@ -491,11 +528,12 @@
       3
     ],
     "opponent_id": "VAN",
-    "opponent_name": "Vancouver Canucks"
+    "opponent_name": "Vancouver Canucks",
+    "location": "away"
   },
   {
     "game_id": "20251229-ANA-SJS",
-    "game_time_utc": "2025-12-29 22:00:00+00:00",
+    "game_time_utc": "2025-12-30 03:00:00+00:00",
     "game_date": "2025-12-29",
     "final": "Final",
     "outcome": "win",
@@ -504,11 +542,12 @@
       4
     ],
     "opponent_id": "ANA",
-    "opponent_name": "Anaheim Ducks"
+    "opponent_name": "Anaheim Ducks",
+    "location": "away"
   },
   {
     "game_id": "20251231-SJS-MIN",
-    "game_time_utc": "2025-12-31 16:00:00+00:00",
+    "game_time_utc": "2025-12-31 21:00:00+00:00",
     "game_date": "2025-12-31",
     "final": "Final/SO",
     "outcome": "win",
@@ -517,11 +556,12 @@
       3
     ],
     "opponent_id": "MIN",
-    "opponent_name": "Minnesota Wild"
+    "opponent_name": "Minnesota Wild",
+    "location": "home"
   },
   {
     "game_id": "20260103-SJS-TBL",
-    "game_time_utc": "2026-01-03 16:00:00+00:00",
+    "game_time_utc": "2026-01-03 21:00:00+00:00",
     "game_date": "2026-01-03",
     "final": "Final",
     "outcome": "loss",
@@ -530,11 +570,12 @@
       7
     ],
     "opponent_id": "TBL",
-    "opponent_name": "Tampa Bay Lightning"
+    "opponent_name": "Tampa Bay Lightning",
+    "location": "home"
   },
   {
     "game_id": "20260106-SJS-CBJ",
-    "game_time_utc": "2026-01-06 22:00:00+00:00",
+    "game_time_utc": "2026-01-07 03:00:00+00:00",
     "game_date": "2026-01-06",
     "final": "Final",
     "outcome": "win",
@@ -543,11 +584,12 @@
       2
     ],
     "opponent_id": "CBJ",
-    "opponent_name": "Columbus Blue Jackets"
+    "opponent_name": "Columbus Blue Jackets",
+    "location": "home"
   },
   {
     "game_id": "20260107-LAK-SJS",
-    "game_time_utc": "2026-01-07 22:30:00+00:00",
+    "game_time_utc": "2026-01-08 03:30:00+00:00",
     "game_date": "2026-01-07",
     "final": "Final/OT",
     "outcome": "win",
@@ -556,11 +598,12 @@
       3
     ],
     "opponent_id": "LAK",
-    "opponent_name": "Los Angeles Kings"
+    "opponent_name": "Los Angeles Kings",
+    "location": "away"
   },
   {
     "game_id": "20260110-SJS-DAL",
-    "game_time_utc": "2026-01-10 16:00:00+00:00",
+    "game_time_utc": "2026-01-10 21:00:00+00:00",
     "game_date": "2026-01-10",
     "final": "Final/OT",
     "outcome": "win",
@@ -569,11 +612,12 @@
       4
     ],
     "opponent_id": "DAL",
-    "opponent_name": "Dallas Stars"
+    "opponent_name": "Dallas Stars",
+    "location": "home"
   },
   {
     "game_id": "20260111-SJS-VGK",
-    "game_time_utc": "2026-01-11 20:00:00+00:00",
+    "game_time_utc": "2026-01-12 01:00:00+00:00",
     "game_date": "2026-01-11",
     "final": "Final",
     "outcome": "loss",
@@ -582,11 +626,12 @@
       7
     ],
     "opponent_id": "VGK",
-    "opponent_name": "Vegas Golden Knights"
+    "opponent_name": "Vegas Golden Knights",
+    "location": "home"
   },
   {
     "game_id": "20260115-WSH-SJS",
-    "game_time_utc": "2026-01-15 19:00:00+00:00",
+    "game_time_utc": "2026-01-16 00:00:00+00:00",
     "game_date": "2026-01-15",
     "final": "Final",
     "outcome": "win",
@@ -595,11 +640,12 @@
       2
     ],
     "opponent_id": "WSH",
-    "opponent_name": "Washington Capitals"
+    "opponent_name": "Washington Capitals",
+    "location": "away"
   },
   {
     "game_id": "20260116-DET-SJS",
-    "game_time_utc": "2026-01-16 19:00:00+00:00",
+    "game_time_utc": "2026-01-17 00:00:00+00:00",
     "game_date": "2026-01-16",
     "final": "Final",
     "outcome": "loss",
@@ -608,11 +654,12 @@
       4
     ],
     "opponent_id": "DET",
-    "opponent_name": "Detroit Red Wings"
+    "opponent_name": "Detroit Red Wings",
+    "location": "away"
   },
   {
     "game_id": "20260119-FLA-SJS",
-    "game_time_utc": "2026-01-19 18:00:00+00:00",
+    "game_time_utc": "2026-01-19 23:00:00+00:00",
     "game_date": "2026-01-19",
     "final": "Final",
     "outcome": "win",
@@ -621,11 +668,12 @@
       1
     ],
     "opponent_id": "FLA",
-    "opponent_name": "Florida Panthers"
+    "opponent_name": "Florida Panthers",
+    "location": "away"
   },
   {
     "game_id": "20260120-TBL-SJS",
-    "game_time_utc": "2026-01-20 19:00:00+00:00",
+    "game_time_utc": "2026-01-21 00:00:00+00:00",
     "game_date": "2026-01-20",
     "final": "Final",
     "outcome": "loss",
@@ -634,11 +682,12 @@
       4
     ],
     "opponent_id": "TBL",
-    "opponent_name": "Tampa Bay Lightning"
+    "opponent_name": "Tampa Bay Lightning",
+    "location": "away"
   },
   {
     "game_id": "20260123-SJS-NYR",
-    "game_time_utc": "2026-01-23 22:00:00+00:00",
+    "game_time_utc": "2026-01-24 03:00:00+00:00",
     "game_date": "2026-01-23",
     "final": "Final",
     "outcome": "win",
@@ -647,11 +696,12 @@
       1
     ],
     "opponent_id": "NYR",
-    "opponent_name": "New York Rangers"
+    "opponent_name": "New York Rangers",
+    "location": "home"
   },
   {
     "game_id": "20260127-VAN-SJS",
-    "game_time_utc": "2026-01-27 22:00:00+00:00",
+    "game_time_utc": "2026-01-28 03:00:00+00:00",
     "game_date": "2026-01-27",
     "final": "Final",
     "outcome": "win",
@@ -660,11 +710,12 @@
       2
     ],
     "opponent_id": "VAN",
-    "opponent_name": "Vancouver Canucks"
+    "opponent_name": "Vancouver Canucks",
+    "location": "away"
   },
   {
     "game_id": "20260129-EDM-SJS",
-    "game_time_utc": "2026-01-29 21:00:00+00:00",
+    "game_time_utc": "2026-01-30 02:00:00+00:00",
     "game_date": "2026-01-29",
     "final": "Final/OT",
     "outcome": "loss",
@@ -673,11 +724,12 @@
       4
     ],
     "opponent_id": "EDM",
-    "opponent_name": "Edmonton Oilers"
+    "opponent_name": "Edmonton Oilers",
+    "location": "away"
   },
   {
     "game_id": "20260131-CGY-SJS",
-    "game_time_utc": "2026-01-31 16:00:00+00:00",
+    "game_time_utc": "2026-01-31 21:00:00+00:00",
     "game_date": "2026-01-31",
     "final": "Final",
     "outcome": "loss",
@@ -686,11 +738,12 @@
       3
     ],
     "opponent_id": "CGY",
-    "opponent_name": "Calgary Flames"
+    "opponent_name": "Calgary Flames",
+    "location": "away"
   },
   {
     "game_id": "20260202-CHI-SJS",
-    "game_time_utc": "2026-02-02 20:30:00+00:00",
+    "game_time_utc": "2026-02-03 01:30:00+00:00",
     "game_date": "2026-02-02",
     "final": "Final",
     "outcome": "loss",
@@ -699,11 +752,12 @@
       6
     ],
     "opponent_id": "CHI",
-    "opponent_name": "Chicago Blackhawks"
+    "opponent_name": "Chicago Blackhawks",
+    "location": "away"
   },
   {
     "game_id": "20260204-COL-SJS",
-    "game_time_utc": "2026-02-04 21:00:00+00:00",
+    "game_time_utc": "2026-02-05 02:00:00+00:00",
     "game_date": "2026-02-04",
     "final": "Final",
     "outcome": "loss",
@@ -712,11 +766,12 @@
       4
     ],
     "opponent_id": "COL",
-    "opponent_name": "Colorado Avalanche"
+    "opponent_name": "Colorado Avalanche",
+    "location": "away"
   },
   {
     "game_id": "20260226-SJS-CGY",
-    "game_time_utc": "2026-02-26 22:00:00+00:00",
+    "game_time_utc": "2026-02-27 03:00:00+00:00",
     "game_date": "2026-02-26",
     "final": "Final",
     "outcome": "loss",
@@ -725,11 +780,12 @@
       4
     ],
     "opponent_id": "CGY",
-    "opponent_name": "Calgary Flames"
+    "opponent_name": "Calgary Flames",
+    "location": "home"
   },
   {
     "game_id": "20260228-SJS-EDM",
-    "game_time_utc": "2026-02-28 16:00:00+00:00",
+    "game_time_utc": "2026-02-28 21:00:00+00:00",
     "game_date": "2026-02-28",
     "final": "Final",
     "outcome": "win",
@@ -738,11 +794,12 @@
       4
     ],
     "opponent_id": "EDM",
-    "opponent_name": "Edmonton Oilers"
+    "opponent_name": "Edmonton Oilers",
+    "location": "home"
   },
   {
     "game_id": "20260301-SJS-WPG",
-    "game_time_utc": "2026-03-01 16:00:00+00:00",
+    "game_time_utc": "2026-03-01 21:00:00+00:00",
     "game_date": "2026-03-01",
     "final": "Final/OT",
     "outcome": "win",
@@ -751,11 +808,12 @@
       1
     ],
     "opponent_id": "WPG",
-    "opponent_name": "Winnipeg Jets"
+    "opponent_name": "Winnipeg Jets",
+    "location": "home"
   },
   {
     "game_id": "20260303-SJS-MTL",
-    "game_time_utc": "2026-03-03 22:00:00+00:00",
+    "game_time_utc": "2026-03-04 03:00:00+00:00",
     "game_date": "2026-03-03",
     "final": "Final",
     "outcome": "win",
@@ -764,11 +822,12 @@
       5
     ],
     "opponent_id": "MTL",
-    "opponent_name": "Montreal Canadiens"
+    "opponent_name": "Montreal Canadiens",
+    "location": "home"
   },
   {
     "game_id": "20260306-SJS-STL",
-    "game_time_utc": "2026-03-06 22:00:00+00:00",
+    "game_time_utc": "2026-03-07 03:00:00+00:00",
     "game_date": "2026-03-06",
     "final": "Final/OT",
     "outcome": "loss",
@@ -777,11 +836,12 @@
       3
     ],
     "opponent_id": "STL",
-    "opponent_name": "St. Louis Blues"
+    "opponent_name": "St. Louis Blues",
+    "location": "home"
   },
   {
     "game_id": "20260307-SJS-NYI",
-    "game_time_utc": "2026-03-07 22:00:00+00:00",
+    "game_time_utc": "2026-03-08 03:00:00+00:00",
     "game_date": "2026-03-07",
     "final": "Final/OT",
     "outcome": "loss",
@@ -790,11 +850,12 @@
       2
     ],
     "opponent_id": "NYI",
-    "opponent_name": "New York Islanders"
+    "opponent_name": "New York Islanders",
+    "location": "home"
   },
   {
     "game_id": "20260310-BUF-SJS",
-    "game_time_utc": "2026-03-10 19:00:00+00:00",
+    "game_time_utc": "2026-03-10 23:00:00+00:00",
     "game_date": "2026-03-10",
     "final": "Final",
     "outcome": "loss",
@@ -803,11 +864,12 @@
       6
     ],
     "opponent_id": "BUF",
-    "opponent_name": "Buffalo Sabres"
+    "opponent_name": "Buffalo Sabres",
+    "location": "away"
   },
   {
     "game_id": "20260312-BOS-SJS",
-    "game_time_utc": "2026-03-12 19:00:00+00:00",
+    "game_time_utc": "2026-03-12 23:00:00+00:00",
     "game_date": "2026-03-12",
     "final": "Final",
     "outcome": "win",
@@ -816,11 +878,12 @@
       2
     ],
     "opponent_id": "BOS",
-    "opponent_name": "Boston Bruins"
+    "opponent_name": "Boston Bruins",
+    "location": "away"
   },
   {
     "game_id": "20260314-MTL-SJS",
-    "game_time_utc": "2026-03-14 19:00:00+00:00",
+    "game_time_utc": "2026-03-14 23:00:00+00:00",
     "game_date": "2026-03-14",
     "final": "Final",
     "outcome": "win",
@@ -829,11 +892,12 @@
       2
     ],
     "opponent_id": "MTL",
-    "opponent_name": "Montreal Canadiens"
+    "opponent_name": "Montreal Canadiens",
+    "location": "away"
   },
   {
     "game_id": "20260315-OTT-SJS",
-    "game_time_utc": "2026-03-15 17:00:00+00:00",
+    "game_time_utc": "2026-03-15 21:00:00+00:00",
     "game_date": "2026-03-15",
     "final": "Final",
     "outcome": "loss",
@@ -842,11 +906,12 @@
       7
     ],
     "opponent_id": "OTT",
-    "opponent_name": "Ottawa Senators"
+    "opponent_name": "Ottawa Senators",
+    "location": "away"
   },
   {
     "game_id": "20260317-EDM-SJS",
-    "game_time_utc": "2026-03-17 21:00:00+00:00",
+    "game_time_utc": "2026-03-18 01:00:00+00:00",
     "game_date": "2026-03-17",
     "final": "Final",
     "outcome": "loss",
@@ -855,11 +920,12 @@
       5
     ],
     "opponent_id": "EDM",
-    "opponent_name": "Edmonton Oilers"
+    "opponent_name": "Edmonton Oilers",
+    "location": "away"
   },
   {
     "game_id": "20260319-SJS-BUF",
-    "game_time_utc": "2026-03-19 22:00:00+00:00",
+    "game_time_utc": "2026-03-20 02:00:00+00:00",
     "game_date": "2026-03-19",
     "final": "Final",
     "outcome": "loss",
@@ -868,11 +934,12 @@
       5
     ],
     "opponent_id": "BUF",
-    "opponent_name": "Buffalo Sabres"
+    "opponent_name": "Buffalo Sabres",
+    "location": "home"
   },
   {
     "game_id": "20260321-SJS-PHI",
-    "game_time_utc": "2026-03-21 16:00:00+00:00",
+    "game_time_utc": "2026-03-21 20:00:00+00:00",
     "game_date": "2026-03-21",
     "final": "Final",
     "outcome": "loss",
@@ -881,11 +948,12 @@
       4
     ],
     "opponent_id": "PHI",
-    "opponent_name": "Philadelphia Flyers"
+    "opponent_name": "Philadelphia Flyers",
+    "location": "home"
   },
   {
     "game_id": "20260324-NSH-SJS",
-    "game_time_utc": "2026-03-24 20:00:00+00:00",
+    "game_time_utc": "2026-03-25 00:00:00+00:00",
     "game_date": "2026-03-24",
     "final": "Final",
     "outcome": "loss",
@@ -894,11 +962,12 @@
       6
     ],
     "opponent_id": "NSH",
-    "opponent_name": "Nashville Predators"
+    "opponent_name": "Nashville Predators",
+    "location": "away"
   },
   {
     "game_id": "20260326-STL-SJS",
-    "game_time_utc": "2026-03-26 20:00:00+00:00",
+    "game_time_utc": "2026-03-27 00:00:00+00:00",
     "game_date": "2026-03-26",
     "final": "Final/OT",
     "outcome": "loss",
@@ -907,11 +976,12 @@
       2
     ],
     "opponent_id": "STL",
-    "opponent_name": "St. Louis Blues"
+    "opponent_name": "St. Louis Blues",
+    "location": "away"
   },
   {
     "game_id": "20260328-CBJ-SJS",
-    "game_time_utc": "2026-03-28 17:00:00+00:00",
+    "game_time_utc": "2026-03-28 21:00:00+00:00",
     "game_date": "2026-03-28",
     "final": "",
     "outcome": "upcoming",
@@ -920,11 +990,12 @@
       ""
     ],
     "opponent_id": "CBJ",
-    "opponent_name": "Columbus Blue Jackets"
+    "opponent_name": "Columbus Blue Jackets",
+    "location": "away"
   },
   {
     "game_id": "20260330-SJS-STL",
-    "game_time_utc": "2026-03-30 22:00:00+00:00",
+    "game_time_utc": "2026-03-31 02:00:00+00:00",
     "game_date": "2026-03-30",
     "final": "",
     "outcome": "upcoming",
@@ -933,11 +1004,12 @@
       ""
     ],
     "opponent_id": "STL",
-    "opponent_name": "St. Louis Blues"
+    "opponent_name": "St. Louis Blues",
+    "location": "home"
   },
   {
     "game_id": "20260401-SJS-ANA",
-    "game_time_utc": "2026-04-01 21:00:00+00:00",
+    "game_time_utc": "2026-04-02 01:00:00+00:00",
     "game_date": "2026-04-01",
     "final": "",
     "outcome": "upcoming",
@@ -946,11 +1018,12 @@
       ""
     ],
     "opponent_id": "ANA",
-    "opponent_name": "Anaheim Ducks"
+    "opponent_name": "Anaheim Ducks",
+    "location": "home"
   },
   {
     "game_id": "20260402-SJS-TOR",
-    "game_time_utc": "2026-04-02 22:00:00+00:00",
+    "game_time_utc": "2026-04-03 02:00:00+00:00",
     "game_date": "2026-04-02",
     "final": "",
     "outcome": "upcoming",
@@ -959,11 +1032,12 @@
       ""
     ],
     "opponent_id": "TOR",
-    "opponent_name": "Toronto Maple Leafs"
+    "opponent_name": "Toronto Maple Leafs",
+    "location": "home"
   },
   {
     "game_id": "20260404-SJS-NSH",
-    "game_time_utc": "2026-04-04 22:00:00+00:00",
+    "game_time_utc": "2026-04-05 02:00:00+00:00",
     "game_date": "2026-04-04",
     "final": "",
     "outcome": "upcoming",
@@ -972,11 +1046,12 @@
       ""
     ],
     "opponent_id": "NSH",
-    "opponent_name": "Nashville Predators"
+    "opponent_name": "Nashville Predators",
+    "location": "home"
   },
   {
     "game_id": "20260406-SJS-CHI",
-    "game_time_utc": "2026-04-06 22:00:00+00:00",
+    "game_time_utc": "2026-04-07 02:00:00+00:00",
     "game_date": "2026-04-06",
     "final": "",
     "outcome": "upcoming",
@@ -985,11 +1060,12 @@
       ""
     ],
     "opponent_id": "CHI",
-    "opponent_name": "Chicago Blackhawks"
+    "opponent_name": "Chicago Blackhawks",
+    "location": "home"
   },
   {
     "game_id": "20260408-SJS-EDM",
-    "game_time_utc": "2026-04-08 22:00:00+00:00",
+    "game_time_utc": "2026-04-09 02:00:00+00:00",
     "game_date": "2026-04-08",
     "final": "",
     "outcome": "upcoming",
@@ -998,11 +1074,12 @@
       ""
     ],
     "opponent_id": "EDM",
-    "opponent_name": "Edmonton Oilers"
+    "opponent_name": "Edmonton Oilers",
+    "location": "home"
   },
   {
     "game_id": "20260409-ANA-SJS",
-    "game_time_utc": "2026-04-09 22:00:00+00:00",
+    "game_time_utc": "2026-04-10 02:00:00+00:00",
     "game_date": "2026-04-09",
     "final": "",
     "outcome": "upcoming",
@@ -1011,11 +1088,12 @@
       ""
     ],
     "opponent_id": "ANA",
-    "opponent_name": "Anaheim Ducks"
+    "opponent_name": "Anaheim Ducks",
+    "location": "away"
   },
   {
     "game_id": "20260411-SJS-VAN",
-    "game_time_utc": "2026-04-11 22:00:00+00:00",
+    "game_time_utc": "2026-04-12 02:00:00+00:00",
     "game_date": "2026-04-11",
     "final": "",
     "outcome": "upcoming",
@@ -1024,11 +1102,12 @@
       ""
     ],
     "opponent_id": "VAN",
-    "opponent_name": "Vancouver Canucks"
+    "opponent_name": "Vancouver Canucks",
+    "location": "home"
   },
   {
     "game_id": "20260413-NSH-SJS",
-    "game_time_utc": "2026-04-13 20:00:00+00:00",
+    "game_time_utc": "2026-04-14 00:00:00+00:00",
     "game_date": "2026-04-13",
     "final": "",
     "outcome": "upcoming",
@@ -1037,11 +1116,12 @@
       ""
     ],
     "opponent_id": "NSH",
-    "opponent_name": "Nashville Predators"
+    "opponent_name": "Nashville Predators",
+    "location": "away"
   },
   {
     "game_id": "20260415-CHI-SJS",
-    "game_time_utc": "2026-04-15 20:30:00+00:00",
+    "game_time_utc": "2026-04-16 00:30:00+00:00",
     "game_date": "2026-04-15",
     "final": "",
     "outcome": "upcoming",
@@ -1050,11 +1130,12 @@
       ""
     ],
     "opponent_id": "CHI",
-    "opponent_name": "Chicago Blackhawks"
+    "opponent_name": "Chicago Blackhawks",
+    "location": "away"
   },
   {
     "game_id": "20260416-WPG-SJS",
-    "game_time_utc": "2026-04-16 20:00:00+00:00",
+    "game_time_utc": "2026-04-17 00:00:00+00:00",
     "game_date": "2026-04-16",
     "final": "",
     "outcome": "upcoming",
@@ -1063,6 +1144,7 @@
       ""
     ],
     "opponent_id": "WPG",
-    "opponent_name": "Winnipeg Jets"
+    "opponent_name": "Winnipeg Jets",
+    "location": "away"
   }
 ]

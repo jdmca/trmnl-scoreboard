@@ -35,7 +35,7 @@
   "games": [
     {
       "game_id": "20260321-VAN-STL",
-      "game_time_utc": "2026-03-21 19:00:00+00:00",
+      "game_time_utc": "2026-03-21 23:00:00+00:00",
       "game_date": "2026-03-21",
       "final": "Final",
       "outcome": "loss",
@@ -44,11 +44,12 @@
         3
       ],
       "opponent_id": "STL",
-      "opponent_name": "St. Louis Blues"
+      "opponent_name": "St. Louis Blues",
+      "location": "home"
     },
     {
       "game_id": "20260324-VAN-ANA",
-      "game_time_utc": "2026-03-24 22:00:00+00:00",
+      "game_time_utc": "2026-03-25 02:00:00+00:00",
       "game_date": "2026-03-24",
       "final": "Final",
       "outcome": "loss",
@@ -57,11 +58,12 @@
         5
       ],
       "opponent_id": "ANA",
-      "opponent_name": "Anaheim Ducks"
+      "opponent_name": "Anaheim Ducks",
+      "location": "home"
     },
     {
       "game_id": "20260326-VAN-LAK",
-      "game_time_utc": "2026-03-26 22:00:00+00:00",
+      "game_time_utc": "2026-03-27 02:00:00+00:00",
       "game_date": "2026-03-26",
       "final": "Final",
       "outcome": "loss",
@@ -70,11 +72,12 @@
         4
       ],
       "opponent_id": "LAK",
-      "opponent_name": "Los Angeles Kings"
+      "opponent_name": "Los Angeles Kings",
+      "location": "home"
     },
     {
       "game_id": "20260328-CGY-VAN",
-      "game_time_utc": "2026-03-28 22:00:00+00:00",
+      "game_time_utc": "2026-03-29 02:00:00+00:00",
       "game_date": "2026-03-28",
       "final": "",
       "outcome": "upcoming",
@@ -83,11 +86,12 @@
         ""
       ],
       "opponent_id": "CGY",
-      "opponent_name": "Calgary Flames"
+      "opponent_name": "Calgary Flames",
+      "location": "away"
     },
     {
       "game_id": "20260330-VGK-VAN",
-      "game_time_utc": "2026-03-30 22:00:00+00:00",
+      "game_time_utc": "2026-03-31 02:00:00+00:00",
       "game_date": "2026-03-30",
       "final": "",
       "outcome": "upcoming",
@@ -96,11 +100,12 @@
         ""
       ],
       "opponent_id": "VGK",
-      "opponent_name": "Vegas Golden Knights"
+      "opponent_name": "Vegas Golden Knights",
+      "location": "away"
     },
     {
       "game_id": "20260401-COL-VAN",
-      "game_time_utc": "2026-04-01 20:30:00+00:00",
+      "game_time_utc": "2026-04-02 00:30:00+00:00",
       "game_date": "2026-04-01",
       "final": "",
       "outcome": "upcoming",
@@ -109,11 +114,12 @@
         ""
       ],
       "opponent_id": "COL",
-      "opponent_name": "Colorado Avalanche"
+      "opponent_name": "Colorado Avalanche",
+      "location": "away"
     },
     {
       "game_id": "20260402-MIN-VAN",
-      "game_time_utc": "2026-04-02 20:00:00+00:00",
+      "game_time_utc": "2026-04-03 00:00:00+00:00",
       "game_date": "2026-04-02",
       "final": "",
       "outcome": "upcoming",
@@ -122,7 +128,8 @@
         ""
       ],
       "opponent_id": "MIN",
-      "opponent_name": "Minnesota Wild"
+      "opponent_name": "Minnesota Wild",
+      "location": "away"
     }
   ],
   "standings": {
@@ -156,7 +163,7 @@
           "gd": -4
         },
         "rnk": {
-          "lg": 13,
+          "lg": 14,
           "cf": 4,
           "dv": 1,
           "wc": null
@@ -543,7 +550,7 @@
           "gd": -4
         },
         "rnk": {
-          "lg": 13,
+          "lg": 14,
           "cf": 4,
           "dv": 1,
           "wc": null
@@ -915,20 +922,20 @@
           }
         },
         "stats": {
-          "gp": 72,
+          "gp": 73,
           "w": 27,
-          "l": 32,
+          "l": 33,
           "t": 0,
           "otl": 13,
           "pts": 67,
-          "pct": 0.46528,
-          "stk": "L1",
-          "gf": 188,
-          "ga": 233,
-          "gd": -45
+          "pct": 0.4589,
+          "stk": "L2",
+          "gf": 189,
+          "ga": 239,
+          "gd": -50
         },
         "rnk": {
-          "lg": 30,
+          "lg": 31,
           "cf": 15,
           "dv": 8,
           "wc": 9

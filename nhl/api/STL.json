@@ -35,7 +35,7 @@
   "games": [
     {
       "game_id": "20260321-VAN-STL",
-      "game_time_utc": "2026-03-21 19:00:00+00:00",
+      "game_time_utc": "2026-03-21 23:00:00+00:00",
       "game_date": "2026-03-21",
       "final": "Final",
       "outcome": "win",
@@ -44,11 +44,12 @@
         1
       ],
       "opponent_id": "VAN",
-      "opponent_name": "Vancouver Canucks"
+      "opponent_name": "Vancouver Canucks",
+      "location": "away"
     },
     {
       "game_id": "20260324-STL-WSH",
-      "game_time_utc": "2026-03-24 20:00:00+00:00",
+      "game_time_utc": "2026-03-25 00:00:00+00:00",
       "game_date": "2026-03-24",
       "final": "Final",
       "outcome": "win",
@@ -57,11 +58,12 @@
         0
       ],
       "opponent_id": "WSH",
-      "opponent_name": "Washington Capitals"
+      "opponent_name": "Washington Capitals",
+      "location": "home"
     },
     {
       "game_id": "20260326-STL-SJS",
-      "game_time_utc": "2026-03-26 20:00:00+00:00",
+      "game_time_utc": "2026-03-27 00:00:00+00:00",
       "game_date": "2026-03-26",
       "final": "Final/OT",
       "outcome": "win",
@@ -70,11 +72,12 @@
         1
       ],
       "opponent_id": "SJS",
-      "opponent_name": "San Jose Sharks"
+      "opponent_name": "San Jose Sharks",
+      "location": "home"
     },
     {
       "game_id": "20260328-STL-TOR",
-      "game_time_utc": "2026-03-28 19:00:00+00:00",
+      "game_time_utc": "2026-03-28 23:00:00+00:00",
       "game_date": "2026-03-28",
       "final": "",
       "outcome": "upcoming",
@@ -83,11 +86,12 @@
         ""
       ],
       "opponent_id": "TOR",
-      "opponent_name": "Toronto Maple Leafs"
+      "opponent_name": "Toronto Maple Leafs",
+      "location": "home"
     },
     {
       "game_id": "20260330-SJS-STL",
-      "game_time_utc": "2026-03-30 22:00:00+00:00",
+      "game_time_utc": "2026-03-31 02:00:00+00:00",
       "game_date": "2026-03-30",
       "final": "",
       "outcome": "upcoming",
@@ -96,11 +100,12 @@
         ""
       ],
       "opponent_id": "SJS",
-      "opponent_name": "San Jose Sharks"
+      "opponent_name": "San Jose Sharks",
+      "location": "away"
     },
     {
       "game_id": "20260401-LAK-STL",
-      "game_time_utc": "2026-04-01 21:00:00+00:00",
+      "game_time_utc": "2026-04-02 01:00:00+00:00",
       "game_date": "2026-04-01",
       "final": "",
       "outcome": "upcoming",
@@ -109,11 +114,12 @@
         ""
       ],
       "opponent_id": "LAK",
-      "opponent_name": "Los Angeles Kings"
+      "opponent_name": "Los Angeles Kings",
+      "location": "away"
     },
     {
       "game_id": "20260403-ANA-STL",
-      "game_time_utc": "2026-04-03 22:00:00+00:00",
+      "game_time_utc": "2026-04-04 02:00:00+00:00",
       "game_date": "2026-04-03",
       "final": "",
       "outcome": "upcoming",
@@ -122,7 +128,8 @@
         ""
       ],
       "opponent_id": "ANA",
-      "opponent_name": "Anaheim Ducks"
+      "opponent_name": "Anaheim Ducks",
+      "location": "away"
     }
   ],
   "standings": {
@@ -388,20 +395,20 @@
           }
         },
         "stats": {
-          "gp": 72,
+          "gp": 73,
           "w": 27,
-          "l": 32,
+          "l": 33,
           "t": 0,
           "otl": 13,
           "pts": 67,
-          "pct": 0.46528,
-          "stk": "L1",
-          "gf": 188,
-          "ga": 233,
-          "gd": -45
+          "pct": 0.4589,
+          "stk": "L2",
+          "gf": 189,
+          "ga": 239,
+          "gd": -50
         },
         "rnk": {
-          "lg": 30,
+          "lg": 31,
           "cf": 15,
           "dv": 8,
           "wc": 9
@@ -543,7 +550,7 @@
           "gd": -4
         },
         "rnk": {
-          "lg": 13,
+          "lg": 14,
           "cf": 4,
           "dv": 1,
           "wc": null
@@ -915,20 +922,20 @@
           }
         },
         "stats": {
-          "gp": 72,
+          "gp": 73,
           "w": 27,
-          "l": 32,
+          "l": 33,
           "t": 0,
           "otl": 13,
           "pts": 67,
-          "pct": 0.46528,
-          "stk": "L1",
-          "gf": 188,
-          "ga": 233,
-          "gd": -45
+          "pct": 0.4589,
+          "stk": "L2",
+          "gf": 189,
+          "ga": 239,
+          "gd": -50
         },
         "rnk": {
-          "lg": 30,
+          "lg": 31,
           "cf": 15,
           "dv": 8,
           "wc": 9

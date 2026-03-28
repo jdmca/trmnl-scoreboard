@@ -1,6 +1,23 @@
-import json
 from bs4 import BeautifulSoup
+from zoneinfo import ZoneInfo
+import datetime as dt
+import json
 import urllib.request
+
+def parse_datetime_to_utc( date_str, time_str, timezone ):
+  date_arr = date_str.split("-")
+  time_arr = time_str.replace(" ",":").split(":")
+  yr = int(date_arr[0])
+  mo = int(date_arr[1])
+  dy = int(date_arr[2])
+  if "am" in time_str.lower() and int(time_arr[0]) == 12:
+    hr = 0
+  elif "pm" in time_str.lower() and int(time_arr[0]) != 12:
+    hr = int(time_arr[0]) + 12
+  else:
+    hr = int(time_arr[0])
+  mi = int(time_arr[1])
+  return dt.datetime(yr, mo, dy, hr, mi, 0, tzinfo=ZoneInfo(timezone)).astimezone(ZoneInfo("Etc/UTC"))
 
 
 def http_request(url):
