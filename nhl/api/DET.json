@@ -34,20 +34,6 @@
   },
   "games": [
     {
-      "game_id": "20260319-DET-MTL",
-      "game_time_utc": "2026-03-19 23:00:00+00:00",
-      "game_date": "2026-03-19",
-      "final": "Final",
-      "outcome": "win",
-      "score": [
-        3,
-        1
-      ],
-      "opponent_id": "MTL",
-      "opponent_name": "Montreal Canadiens",
-      "location": "Home"
-    },
-    {
       "game_id": "20260321-DET-BOS",
       "game_time_utc": "2026-03-22 00:00:00+00:00",
       "game_date": "2026-03-21",
@@ -79,11 +65,11 @@
       "game_id": "20260327-BUF-DET",
       "game_time_utc": "2026-03-27 23:00:00+00:00",
       "game_date": "2026-03-27",
-      "final": "",
-      "outcome": "upcoming",
+      "final": "Final",
+      "outcome": "win",
       "score": [
-        "",
-        ""
+        5,
+        2
       ],
       "opponent_id": "BUF",
       "opponent_name": "Buffalo Sabres",
@@ -129,6 +115,20 @@
       ],
       "opponent_id": "PHI",
       "opponent_name": "Philadelphia Flyers",
+      "location": "Away"
+    },
+    {
+      "game_id": "20260404-NYR-DET",
+      "game_time_utc": "2026-04-04 16:30:00+00:00",
+      "game_date": "2026-04-04",
+      "final": "",
+      "outcome": "upcoming",
+      "score": [
+        "",
+        ""
+      ],
+      "opponent_id": "NYR",
+      "opponent_name": "New York Rangers",
       "location": "Away"
     }
   ],
