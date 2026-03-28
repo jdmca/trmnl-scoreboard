@@ -152,7 +152,7 @@ def update_games():
       'score': [game['home_score'], game['away_score']],
       'opponent_id': game['away_id'],
       'opponent_name': game['away_name'],
-      'location': 'home',
+      'location': 'Home',
     })
     team_schedules[game['away_id']].append({
       'game_id': game['game_id'],
@@ -163,7 +163,7 @@ def update_games():
       'score': [game['away_score'], game['home_score']],
       'opponent_id': game['home_id'],
       'opponent_name': game['home_name'],
-      'location': 'away',
+      'location': 'Away',
     })
 
   for team_id in team_schedules:
