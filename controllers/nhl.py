@@ -14,8 +14,8 @@ GAME_FILE_PATH      = 'nhl/data/games_{}.json'
 TEAMS_FILE_PATH     = 'nhl/data/all_teams.json'
 LIVESCORE_FILE_PATH = 'nhl/data/livescores.json'
 STANDINGS_FILE_PATH = 'nhl/data/standings_{}.json'
-TEAM_OUTPUT_PATH    = 'nhl/api/{}_summary.json'
-NEXT_GAME_PATH      = 'nhl/api/{}_next_game.json'
+TEAM_OUTPUT_PATH    = 'nhl/api/teams/{}.json'
+NEXT_GAME_PATH      = 'nhl/api/next_game/{}.json'
 
 # Functions
 def build_game_id( game_date, home_id, away_id ):
