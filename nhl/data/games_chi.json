@@ -11,7 +11,7 @@
     ],
     "opponent_id": "FLA",
     "opponent_name": "Florida Panthers",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20251009-BOS-CHI",
@@ -25,7 +25,7 @@
     ],
     "opponent_id": "BOS",
     "opponent_name": "Boston Bruins",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20251011-CHI-MTL",
@@ -39,7 +39,7 @@
     ],
     "opponent_id": "MTL",
     "opponent_name": "Montreal Canadiens",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20251013-CHI-UTA",
@@ -53,7 +53,7 @@
     ],
     "opponent_id": "UTA",
     "opponent_name": "Utah Mammoth",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20251015-STL-CHI",
@@ -67,7 +67,7 @@
     ],
     "opponent_id": "STL",
     "opponent_name": "St. Louis Blues",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20251017-CHI-VAN",
@@ -81,7 +81,7 @@
     ],
     "opponent_id": "VAN",
     "opponent_name": "Vancouver Canucks",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20251019-CHI-ANA",
@@ -95,7 +95,7 @@
     ],
     "opponent_id": "ANA",
     "opponent_name": "Anaheim Ducks",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20251023-TBL-CHI",
@@ -109,7 +109,7 @@
     ],
     "opponent_id": "TBL",
     "opponent_name": "Tampa Bay Lightning",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20251026-CHI-LAK",
@@ -123,7 +123,7 @@
     ],
     "opponent_id": "LAK",
     "opponent_name": "Los Angeles Kings",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20251028-CHI-OTT",
@@ -137,7 +137,7 @@
     ],
     "opponent_id": "OTT",
     "opponent_name": "Ottawa Senators",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20251030-WPG-CHI",
@@ -151,7 +151,7 @@
     ],
     "opponent_id": "WPG",
     "opponent_name": "Winnipeg Jets",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20251101-EDM-CHI",
@@ -165,7 +165,7 @@
     ],
     "opponent_id": "EDM",
     "opponent_name": "Edmonton Oilers",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20251103-SEA-CHI",
@@ -179,7 +179,7 @@
     ],
     "opponent_id": "SEA",
     "opponent_name": "Seattle Kraken",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20251105-VAN-CHI",
@@ -193,7 +193,7 @@
     ],
     "opponent_id": "VAN",
     "opponent_name": "Vancouver Canucks",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20251107-CGY-CHI",
@@ -207,7 +207,7 @@
     ],
     "opponent_id": "CGY",
     "opponent_name": "Calgary Flames",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20251109-DET-CHI",
@@ -221,7 +221,7 @@
     ],
     "opponent_id": "DET",
     "opponent_name": "Detroit Red Wings",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20251112-CHI-NJD",
@@ -235,7 +235,7 @@
     ],
     "opponent_id": "NJD",
     "opponent_name": "New Jersey Devils",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20251115-CHI-TOR",
@@ -249,7 +249,7 @@
     ],
     "opponent_id": "TOR",
     "opponent_name": "Toronto Maple Leafs",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20251118-CHI-CGY",
@@ -263,7 +263,7 @@
     ],
     "opponent_id": "CGY",
     "opponent_name": "Calgary Flames",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20251120-CHI-SEA",
@@ -277,7 +277,7 @@
     ],
     "opponent_id": "SEA",
     "opponent_name": "Seattle Kraken",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20251121-BUF-CHI",
@@ -291,7 +291,7 @@
     ],
     "opponent_id": "BUF",
     "opponent_name": "Buffalo Sabres",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20251123-CHI-COL",
@@ -305,7 +305,7 @@
     ],
     "opponent_id": "COL",
     "opponent_name": "Colorado Avalanche",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20251126-CHI-MIN",
@@ -319,7 +319,7 @@
     ],
     "opponent_id": "MIN",
     "opponent_name": "Minnesota Wild",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20251128-CHI-NSH",
@@ -333,7 +333,7 @@
     ],
     "opponent_id": "NSH",
     "opponent_name": "Nashville Predators",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20251130-CHI-ANA",
@@ -347,7 +347,7 @@
     ],
     "opponent_id": "ANA",
     "opponent_name": "Anaheim Ducks",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20251202-VGK-CHI",
@@ -361,7 +361,7 @@
     ],
     "opponent_id": "VGK",
     "opponent_name": "Vegas Golden Knights",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20251204-LAK-CHI",
@@ -375,7 +375,7 @@
     ],
     "opponent_id": "LAK",
     "opponent_name": "Los Angeles Kings",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20251206-LAK-CHI",
@@ -389,7 +389,7 @@
     ],
     "opponent_id": "LAK",
     "opponent_name": "Los Angeles Kings",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20251207-ANA-CHI",
@@ -403,7 +403,7 @@
     ],
     "opponent_id": "ANA",
     "opponent_name": "Anaheim Ducks",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20251210-CHI-NYR",
@@ -417,7 +417,7 @@
     ],
     "opponent_id": "NYR",
     "opponent_name": "New York Rangers",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20251212-STL-CHI",
@@ -431,7 +431,7 @@
     ],
     "opponent_id": "STL",
     "opponent_name": "St. Louis Blues",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20251213-CHI-DET",
@@ -445,7 +445,7 @@
     ],
     "opponent_id": "DET",
     "opponent_name": "Detroit Red Wings",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20251216-TOR-CHI",
@@ -459,7 +459,7 @@
     ],
     "opponent_id": "TOR",
     "opponent_name": "Toronto Maple Leafs",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20251218-MTL-CHI",
@@ -473,7 +473,7 @@
     ],
     "opponent_id": "MTL",
     "opponent_name": "Montreal Canadiens",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20251220-OTT-CHI",
@@ -487,7 +487,7 @@
     ],
     "opponent_id": "OTT",
     "opponent_name": "Ottawa Senators",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20251223-CHI-PHI",
@@ -501,7 +501,7 @@
     ],
     "opponent_id": "PHI",
     "opponent_name": "Philadelphia Flyers",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20251227-DAL-CHI",
@@ -515,7 +515,7 @@
     ],
     "opponent_id": "DAL",
     "opponent_name": "Dallas Stars",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20251228-CHI-PIT",
@@ -529,7 +529,7 @@
     ],
     "opponent_id": "PIT",
     "opponent_name": "Pittsburgh Penguins",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20251230-CHI-NYI",
@@ -543,7 +543,7 @@
     ],
     "opponent_id": "NYI",
     "opponent_name": "New York Islanders",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260101-CHI-DAL",
@@ -557,7 +557,7 @@
     ],
     "opponent_id": "DAL",
     "opponent_name": "Dallas Stars",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260103-WSH-CHI",
@@ -571,7 +571,7 @@
     ],
     "opponent_id": "WSH",
     "opponent_name": "Washington Capitals",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20260104-CHI-VGK",
@@ -585,7 +585,7 @@
     ],
     "opponent_id": "VGK",
     "opponent_name": "Vegas Golden Knights",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260107-CHI-STL",
@@ -599,7 +599,7 @@
     ],
     "opponent_id": "STL",
     "opponent_name": "St. Louis Blues",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260109-CHI-WSH",
@@ -613,7 +613,7 @@
     ],
     "opponent_id": "WSH",
     "opponent_name": "Washington Capitals",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260110-NSH-CHI",
@@ -627,7 +627,7 @@
     ],
     "opponent_id": "NSH",
     "opponent_name": "Nashville Predators",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20260112-CHI-EDM",
@@ -641,7 +641,7 @@
     ],
     "opponent_id": "EDM",
     "opponent_name": "Edmonton Oilers",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260115-CHI-CGY",
@@ -655,7 +655,7 @@
     ],
     "opponent_id": "CGY",
     "opponent_name": "Calgary Flames",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260117-CHI-BOS",
@@ -669,7 +669,7 @@
     ],
     "opponent_id": "BOS",
     "opponent_name": "Boston Bruins",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260119-CHI-WPG",
@@ -683,7 +683,7 @@
     ],
     "opponent_id": "WPG",
     "opponent_name": "Winnipeg Jets",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260122-CAR-CHI",
@@ -697,7 +697,7 @@
     ],
     "opponent_id": "CAR",
     "opponent_name": "Carolina Hurricanes",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20260123-CHI-TBL",
@@ -711,7 +711,7 @@
     ],
     "opponent_id": "TBL",
     "opponent_name": "Tampa Bay Lightning",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260125-CHI-FLA",
@@ -725,7 +725,7 @@
     ],
     "opponent_id": "FLA",
     "opponent_name": "Florida Panthers",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260127-MIN-CHI",
@@ -739,7 +739,7 @@
     ],
     "opponent_id": "MIN",
     "opponent_name": "Minnesota Wild",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20260129-PIT-CHI",
@@ -753,7 +753,7 @@
     ],
     "opponent_id": "PIT",
     "opponent_name": "Pittsburgh Penguins",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20260130-CHI-CBJ",
@@ -767,7 +767,7 @@
     ],
     "opponent_id": "CBJ",
     "opponent_name": "Columbus Blue Jackets",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260202-CHI-SJS",
@@ -781,7 +781,7 @@
     ],
     "opponent_id": "SJS",
     "opponent_name": "San Jose Sharks",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260204-CBJ-CHI",
@@ -795,7 +795,7 @@
     ],
     "opponent_id": "CBJ",
     "opponent_name": "Columbus Blue Jackets",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20260226-NSH-CHI",
@@ -809,7 +809,7 @@
     ],
     "opponent_id": "NSH",
     "opponent_name": "Nashville Predators",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20260228-COL-CHI",
@@ -823,7 +823,7 @@
     ],
     "opponent_id": "COL",
     "opponent_name": "Colorado Avalanche",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20260301-UTA-CHI",
@@ -837,7 +837,7 @@
     ],
     "opponent_id": "UTA",
     "opponent_name": "Utah Mammoth",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20260303-WPG-CHI",
@@ -851,7 +851,7 @@
     ],
     "opponent_id": "WPG",
     "opponent_name": "Winnipeg Jets",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20260306-CHI-VAN",
@@ -865,7 +865,7 @@
     ],
     "opponent_id": "VAN",
     "opponent_name": "Vancouver Canucks",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260308-DAL-CHI",
@@ -879,7 +879,7 @@
     ],
     "opponent_id": "DAL",
     "opponent_name": "Dallas Stars",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20260309-CHI-UTA",
@@ -893,7 +893,7 @@
     ],
     "opponent_id": "UTA",
     "opponent_name": "Utah Mammoth",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260312-UTA-CHI",
@@ -907,7 +907,7 @@
     ],
     "opponent_id": "UTA",
     "opponent_name": "Utah Mammoth",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20260314-VGK-CHI",
@@ -921,7 +921,7 @@
     ],
     "opponent_id": "VGK",
     "opponent_name": "Vegas Golden Knights",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20260317-CHI-MIN",
@@ -935,7 +935,7 @@
     ],
     "opponent_id": "MIN",
     "opponent_name": "Minnesota Wild",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260319-MIN-CHI",
@@ -949,7 +949,7 @@
     ],
     "opponent_id": "MIN",
     "opponent_name": "Minnesota Wild",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20260320-CHI-COL",
@@ -963,7 +963,7 @@
     ],
     "opponent_id": "COL",
     "opponent_name": "Colorado Avalanche",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260322-CHI-NSH",
@@ -977,7 +977,7 @@
     ],
     "opponent_id": "NSH",
     "opponent_name": "Nashville Predators",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260324-NYI-CHI",
@@ -991,7 +991,7 @@
     ],
     "opponent_id": "NYI",
     "opponent_name": "New York Islanders",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20260326-PHI-CHI",
@@ -1005,35 +1005,35 @@
     ],
     "opponent_id": "PHI",
     "opponent_name": "Philadelphia Flyers",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20260327-NYR-CHI",
     "game_time_utc": "2026-03-27 23:00:00+00:00",
     "game_date": "2026-03-27",
-    "final": "",
-    "outcome": "upcoming",
+    "final": "Final",
+    "outcome": "loss",
     "score": [
-      "",
-      ""
+      1,
+      6
     ],
     "opponent_id": "NYR",
     "opponent_name": "New York Rangers",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20260329-NJD-CHI",
     "game_time_utc": "2026-03-29 23:00:00+00:00",
     "game_date": "2026-03-29",
-    "final": "",
-    "outcome": "upcoming",
+    "final": "Final",
+    "outcome": "loss",
     "score": [
-      "",
-      ""
+      3,
+      5
     ],
     "opponent_id": "NJD",
     "opponent_name": "New Jersey Devils",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20260331-CHI-WPG",
@@ -1047,7 +1047,7 @@
     ],
     "opponent_id": "WPG",
     "opponent_name": "Winnipeg Jets",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260402-EDM-CHI",
@@ -1061,7 +1061,7 @@
     ],
     "opponent_id": "EDM",
     "opponent_name": "Edmonton Oilers",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20260404-SEA-CHI",
@@ -1075,7 +1075,7 @@
     ],
     "opponent_id": "SEA",
     "opponent_name": "Seattle Kraken",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20260406-SJS-CHI",
@@ -1089,7 +1089,7 @@
     ],
     "opponent_id": "SJS",
     "opponent_name": "San Jose Sharks",
-    "location": "away"
+    "location": "Away"
   },
   {
     "game_id": "20260409-CHI-CAR",
@@ -1103,7 +1103,7 @@
     ],
     "opponent_id": "CAR",
     "opponent_name": "Carolina Hurricanes",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260411-CHI-STL",
@@ -1117,7 +1117,7 @@
     ],
     "opponent_id": "STL",
     "opponent_name": "St. Louis Blues",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260413-CHI-BUF",
@@ -1131,7 +1131,7 @@
     ],
     "opponent_id": "BUF",
     "opponent_name": "Buffalo Sabres",
-    "location": "home"
+    "location": "Home"
   },
   {
     "game_id": "20260415-CHI-SJS",
@@ -1145,6 +1145,6 @@
     ],
     "opponent_id": "SJS",
     "opponent_name": "San Jose Sharks",
-    "location": "home"
+    "location": "Home"
   }
 ]
