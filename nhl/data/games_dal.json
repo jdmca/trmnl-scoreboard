@@ -1011,11 +1011,11 @@
     "game_id": "20260328-PIT-DAL",
     "game_time_utc": "2026-03-28 21:00:00+00:00",
     "game_date": "2026-03-28",
-    "final": "",
-    "outcome": "upcoming",
+    "final": "Final",
+    "outcome": "win",
     "score": [
-      "",
-      ""
+      6,
+      3
     ],
     "opponent_id": "PIT",
     "opponent_name": "Pittsburgh Penguins",
@@ -1025,11 +1025,11 @@
     "game_id": "20260329-PHI-DAL",
     "game_time_utc": "2026-03-29 23:00:00+00:00",
     "game_date": "2026-03-29",
-    "final": "",
-    "outcome": "upcoming",
+    "final": "Final/OT",
+    "outcome": "loss",
     "score": [
-      "",
-      ""
+      1,
+      2
     ],
     "opponent_id": "PHI",
     "opponent_name": "Philadelphia Flyers",

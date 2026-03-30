@@ -997,11 +997,11 @@
     "game_id": "20260328-DET-PHI",
     "game_time_utc": "2026-03-29 00:00:00+00:00",
     "game_date": "2026-03-28",
-    "final": "",
-    "outcome": "upcoming",
+    "final": "Final",
+    "outcome": "win",
     "score": [
-      "",
-      ""
+      5,
+      3
     ],
     "opponent_id": "DET",
     "opponent_name": "Detroit Red Wings",
@@ -1011,11 +1011,11 @@
     "game_id": "20260329-PHI-DAL",
     "game_time_utc": "2026-03-29 23:00:00+00:00",
     "game_date": "2026-03-29",
-    "final": "",
-    "outcome": "upcoming",
+    "final": "Final/OT",
+    "outcome": "win",
     "score": [
-      "",
-      ""
+      2,
+      1
     ],
     "opponent_id": "DAL",
     "opponent_name": "Dallas Stars",

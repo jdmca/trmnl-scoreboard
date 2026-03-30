@@ -1011,11 +1011,11 @@
     "game_id": "20260328-PIT-DAL",
     "game_time_utc": "2026-03-28 21:00:00+00:00",
     "game_date": "2026-03-28",
-    "final": "",
-    "outcome": "upcoming",
+    "final": "Final",
+    "outcome": "loss",
     "score": [
-      "",
-      ""
+      3,
+      6
     ],
     "opponent_id": "DAL",
     "opponent_name": "Dallas Stars",
