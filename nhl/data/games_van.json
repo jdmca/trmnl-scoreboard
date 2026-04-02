@@ -1025,11 +1025,11 @@
     "game_id": "20260401-COL-VAN",
     "game_time_utc": "2026-04-02 00:30:00+00:00",
     "game_date": "2026-04-01",
-    "final": "",
-    "outcome": "upcoming",
+    "final": "Final",
+    "outcome": "win",
     "score": [
-      "",
-      ""
+      8,
+      6
     ],
     "opponent_id": "COL",
     "opponent_name": "Colorado Avalanche",

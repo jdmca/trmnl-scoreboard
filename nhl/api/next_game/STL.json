@@ -1,17 +1,17 @@
 {
-  "game_time_utc": "2026-04-02 01:00:00+00:00",
+  "game_time_utc": "2026-04-04 02:00:00+00:00",
   "home_team": {
-    "id": "LAK",
-    "city": "Los Angeles",
-    "nick": "Kings",
-    "full": "Los Angeles Kings",
+    "id": "ANA",
+    "city": "Anaheim",
+    "nick": "Ducks",
+    "full": "Anaheim Ducks",
     "record": {
-      "gp": 73,
-      "w": 29,
-      "l": 26,
-      "otl": 18,
-      "pts": 76,
-      "pct": 0.52055
+      "gp": 75,
+      "w": 41,
+      "l": 29,
+      "otl": 5,
+      "pts": 87,
+      "pct": 0.58
     }
   },
   "away_team": {
@@ -20,11 +20,11 @@
     "nick": "Blues",
     "full": "St. Louis Blues",
     "record": {
-      "gp": 73,
+      "gp": 74,
       "w": 31,
       "l": 31,
-      "otl": 11,
-      "pts": 73,
+      "otl": 12,
+      "pts": 74,
       "pct": 0.5
     }
   }

@@ -1,17 +1,17 @@
 {
-  "game_time_utc": "2026-04-02 00:30:00+00:00",
+  "game_time_utc": "2026-04-03 00:00:00+00:00",
   "home_team": {
-    "id": "COL",
-    "city": "Colorado",
-    "nick": "Avalanche",
-    "full": "Colorado Avalanche",
+    "id": "MIN",
+    "city": "Minnesota",
+    "nick": "Wild",
+    "full": "Minnesota Wild",
     "record": {
-      "gp": 73,
-      "w": 49,
-      "l": 14,
-      "otl": 10,
-      "pts": 108,
-      "pct": 0.73973
+      "gp": 74,
+      "w": 41,
+      "l": 21,
+      "otl": 12,
+      "pts": 94,
+      "pct": 0.63514
     }
   },
   "away_team": {
@@ -20,12 +20,12 @@
     "nick": "Canucks",
     "full": "Vancouver Canucks",
     "record": {
-      "gp": 73,
-      "w": 21,
+      "gp": 74,
+      "w": 22,
       "l": 44,
       "otl": 8,
-      "pts": 50,
-      "pct": 0.34247
+      "pts": 52,
+      "pct": 0.35135
     }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "game_time_utc": "2026-04-02 00:30:00+00:00",
+  "game_time_utc": "2026-04-04 19:00:00+00:00",
   "home_team": {
-    "id": "VAN",
-    "city": "Vancouver",
-    "nick": "Canucks",
-    "full": "Vancouver Canucks",
+    "id": "DAL",
+    "city": "Dallas",
+    "nick": "Stars",
+    "full": "Dallas Stars",
     "record": {
-      "gp": 73,
-      "w": 21,
-      "l": 44,
-      "otl": 8,
-      "pts": 50,
-      "pct": 0.34247
+      "gp": 75,
+      "w": 44,
+      "l": 19,
+      "otl": 12,
+      "pts": 100,
+      "pct": 0.66667
     }
   },
   "away_team": {
@@ -20,12 +20,12 @@
     "nick": "Avalanche",
     "full": "Colorado Avalanche",
     "record": {
-      "gp": 73,
+      "gp": 74,
       "w": 49,
-      "l": 14,
+      "l": 15,
       "otl": 10,
       "pts": 108,
-      "pct": 0.73973
+      "pct": 0.72973
     }
   }
 }

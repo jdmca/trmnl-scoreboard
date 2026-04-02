@@ -1025,11 +1025,11 @@
     "game_id": "20260401-LAK-STL",
     "game_time_utc": "2026-04-02 01:00:00+00:00",
     "game_date": "2026-04-01",
-    "final": "",
-    "outcome": "upcoming",
+    "final": "Final/OT",
+    "outcome": "win",
     "score": [
-      "",
-      ""
+      2,
+      1
     ],
     "opponent_id": "STL",
     "opponent_name": "St. Louis Blues",
