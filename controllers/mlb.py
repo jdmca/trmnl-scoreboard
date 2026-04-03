@@ -151,7 +151,7 @@ def update_games():
   full_schedule = []
   lookup     = get_lookup_file()
   teams_data = json_from_file(TEAMS_FILE_PATH)
-
+  
   year  = datetime.today().year
   url   = f'https://statsapi.mlb.com/api/v1/schedule?sportId=1&startDate={year}-01-01&endDate={year}-12-31&gameType[]=R&gameType[]=F&gameType[]=D&gameType[]=L&gameType[]=W&gameType[]=C&gameType[]=P'
   games = json_request(url)
@@ -247,6 +247,8 @@ def update_games():
 
 def generate_team_json():
   teams = json_from_file( TEAMS_FILE_PATH )
+  today = datetime.today().strftime('%Y-%m-%d')
+
   for team_id in teams:
     team = teams[team_id]
 
@@ -254,7 +256,7 @@ def generate_team_json():
     past_games   = []
     future_games = []
     for game in all_games:
-      if game['outcome'] == 'upcoming':
+      if game['game_date'] >= today:
         future_games.append(game)
       else:
         past_games.append(game)

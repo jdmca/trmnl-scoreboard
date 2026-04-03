@@ -34,6 +34,34 @@
   "games": {
     "past": [
       {
+        "game_id": "20260330-SEA-NYY-1",
+        "game_time_utc": "2026-03-31 01:40:00+00:00",
+        "game_date": "2026-03-30",
+        "final": "Final",
+        "location": "Away",
+        "outcome": "loss",
+        "score": [
+          1,
+          2
+        ],
+        "opponent": {
+          "id": "SEA",
+          "name": "Seattle Mariners",
+          "stats": {
+            "gp": 7,
+            "w": 3,
+            "l": 4,
+            "gb_div": "2.0",
+            "gb_wc": "0.5",
+            "pct": ".429",
+            "stk": "L2",
+            "rf": 27,
+            "ra": 24,
+            "rd": 3
+          }
+        }
+      },
+      {
         "game_id": "20260331-SEA-NYY-1",
         "game_time_utc": "2026-04-01 01:40:00+00:00",
         "game_date": "2026-03-31",
@@ -88,7 +116,9 @@
             "rd": 3
           }
         }
-      },
+      }
+    ],
+    "upcoming": [
       {
         "game_id": "20260403-NYY-MIA-1",
         "game_time_utc": "2026-04-03 17:35:00+00:00",
@@ -116,9 +146,7 @@
             "rd": 15
           }
         }
-      }
-    ],
-    "upcoming": [
+      },
       {
         "game_id": "20260404-NYY-MIA-1",
         "game_time_utc": "2026-04-04 23:05:00+00:00",
@@ -179,34 +207,6 @@
         "game_id": "20260407-NYY-ATH-1",
         "game_time_utc": "2026-04-07 23:05:00+00:00",
         "game_date": "2026-04-07",
-        "final": "",
-        "outcome": "upcoming",
-        "location": "Home",
-        "score": [
-          null,
-          null
-        ],
-        "opponent": {
-          "id": "ATH",
-          "name": "Athletics",
-          "stats": {
-            "gp": 6,
-            "w": 1,
-            "l": 5,
-            "gb_div": "3.5",
-            "gb_wc": "2.0",
-            "pct": ".167",
-            "stk": "L1",
-            "rf": 17,
-            "ra": 27,
-            "rd": -10
-          }
-        }
-      },
-      {
-        "game_id": "20260408-NYY-ATH-1",
-        "game_time_utc": "2026-04-08 23:05:00+00:00",
-        "game_date": "2026-04-08",
         "final": "",
         "outcome": "upcoming",
         "location": "Home",
