@@ -14,20 +14,20 @@
     }
   },
   "stats": {
-    "gp": 6,
+    "gp": 7,
     "w": 3,
-    "l": 3,
-    "gb_div": "2.0",
-    "gb_wc": "-",
-    "pct": ".500",
-    "stk": "L2",
-    "rf": 23,
-    "ra": 20,
-    "rd": 3
+    "l": 4,
+    "gb_div": "2.5",
+    "gb_wc": "0.5",
+    "pct": ".429",
+    "stk": "L3",
+    "rf": 25,
+    "ra": 27,
+    "rd": -2
   },
   "rnk": {
-    "lg": "8",
-    "cf": "8",
+    "lg": "13",
+    "cf": "13",
     "dv": "5",
     "clinch": false
   },
@@ -93,27 +93,27 @@
         "game_id": "20260402-SF-NYM-1",
         "game_time_utc": "2026-04-03 01:45:00+00:00",
         "game_date": "2026-04-02",
-        "final": "???",
+        "final": "final",
         "location": "Away",
-        "outcome": "tie",
+        "outcome": "loss",
         "score": [
-          0,
-          0
+          2,
+          7
         ],
         "opponent": {
           "id": "SF",
           "name": "San Francisco Giants",
           "stats": {
-            "gp": 6,
-            "w": 2,
+            "gp": 7,
+            "w": 3,
             "l": 4,
-            "gb_div": "2.0",
-            "gb_wc": "1.0",
-            "pct": ".333",
-            "stk": "L1",
-            "rf": 14,
-            "ra": 25,
-            "rd": -11
+            "gb_div": "1.5",
+            "gb_wc": "0.5",
+            "pct": ".429",
+            "stk": "W1",
+            "rf": 21,
+            "ra": 27,
+            "rd": -6
           }
         }
       }
@@ -134,16 +134,16 @@
           "id": "SF",
           "name": "San Francisco Giants",
           "stats": {
-            "gp": 6,
-            "w": 2,
+            "gp": 7,
+            "w": 3,
             "l": 4,
-            "gb_div": "2.0",
-            "gb_wc": "1.0",
-            "pct": ".333",
-            "stk": "L1",
-            "rf": 14,
-            "ra": 25,
-            "rd": -11
+            "gb_div": "1.5",
+            "gb_wc": "0.5",
+            "pct": ".429",
+            "stk": "W1",
+            "rf": 21,
+            "ra": 27,
+            "rd": -6
           }
         }
       },
@@ -162,16 +162,16 @@
           "id": "SF",
           "name": "San Francisco Giants",
           "stats": {
-            "gp": 6,
-            "w": 2,
+            "gp": 7,
+            "w": 3,
             "l": 4,
-            "gb_div": "2.0",
-            "gb_wc": "1.0",
-            "pct": ".333",
-            "stk": "L1",
-            "rf": 14,
-            "ra": 25,
-            "rd": -11
+            "gb_div": "1.5",
+            "gb_wc": "0.5",
+            "pct": ".429",
+            "stk": "W1",
+            "rf": 21,
+            "ra": 27,
+            "rd": -6
           }
         }
       },
@@ -190,16 +190,16 @@
           "id": "SF",
           "name": "San Francisco Giants",
           "stats": {
-            "gp": 6,
-            "w": 2,
+            "gp": 7,
+            "w": 3,
             "l": 4,
-            "gb_div": "2.0",
-            "gb_wc": "1.0",
-            "pct": ".333",
-            "stk": "L1",
-            "rf": 14,
-            "ra": 25,
-            "rd": -11
+            "gb_div": "1.5",
+            "gb_wc": "0.5",
+            "pct": ".429",
+            "stk": "W1",
+            "rf": 21,
+            "ra": 27,
+            "rd": -6
           }
         }
       },
@@ -218,16 +218,16 @@
           "id": "AZ",
           "name": "Arizona Diamondbacks",
           "stats": {
-            "gp": 6,
+            "gp": 7,
             "w": 3,
-            "l": 3,
-            "gb_div": "1.0",
-            "gb_wc": "-",
-            "pct": ".500",
-            "stk": "W3",
-            "rf": 25,
-            "ra": 27,
-            "rd": -2
+            "l": 4,
+            "gb_div": "1.5",
+            "gb_wc": "0.5",
+            "pct": ".429",
+            "stk": "L1",
+            "rf": 27,
+            "ra": 44,
+            "rd": -17
           }
         }
       }
@@ -285,16 +285,16 @@
           }
         },
         "stats": {
-          "gp": 6,
-          "w": 4,
+          "gp": 7,
+          "w": 5,
           "l": 2,
-          "gb_div": "1.0",
-          "gb_wc": "+1.0",
-          "pct": ".667",
-          "stk": "W1",
-          "rf": 24,
-          "ra": 12,
-          "rd": 12
+          "gb_div": "0.5",
+          "gb_wc": "+1.5",
+          "pct": ".714",
+          "stk": "W2",
+          "rf": 41,
+          "ra": 14,
+          "rd": 27
         },
         "rnk": {
           "lg": "3",
@@ -331,8 +331,8 @@
           "rd": -13
         },
         "rnk": {
-          "lg": "10",
-          "cf": "10",
+          "lg": "8",
+          "cf": "8",
           "dv": "3",
           "clinch": false
         }
@@ -365,8 +365,8 @@
           "rd": 10
         },
         "rnk": {
-          "lg": "9",
-          "cf": "9",
+          "lg": "7",
+          "cf": "7",
           "dv": "4",
           "clinch": false
         }
@@ -387,20 +387,20 @@
           }
         },
         "stats": {
-          "gp": 6,
+          "gp": 7,
           "w": 3,
-          "l": 3,
-          "gb_div": "2.0",
-          "gb_wc": "-",
-          "pct": ".500",
-          "stk": "L2",
-          "rf": 23,
-          "ra": 20,
-          "rd": 3
+          "l": 4,
+          "gb_div": "2.5",
+          "gb_wc": "0.5",
+          "pct": ".429",
+          "stk": "L3",
+          "rf": 25,
+          "ra": 27,
+          "rd": -2
         },
         "rnk": {
-          "lg": "8",
-          "cf": "8",
+          "lg": "13",
+          "cf": "13",
           "dv": "5",
           "clinch": false
         }
@@ -457,16 +457,16 @@
           }
         },
         "stats": {
-          "gp": 6,
-          "w": 4,
+          "gp": 7,
+          "w": 5,
           "l": 2,
-          "gb_div": "1.0",
-          "gb_wc": "+1.0",
-          "pct": ".667",
-          "stk": "W1",
-          "rf": 24,
-          "ra": 12,
-          "rd": 12
+          "gb_div": "0.5",
+          "gb_wc": "+1.5",
+          "pct": ".714",
+          "stk": "W2",
+          "rf": 41,
+          "ra": 14,
+          "rd": 27
         },
         "rnk": {
           "lg": "3",
@@ -503,8 +503,8 @@
           "rd": -13
         },
         "rnk": {
-          "lg": "10",
-          "cf": "10",
+          "lg": "8",
+          "cf": "8",
           "dv": "3",
           "clinch": false
         }
@@ -537,8 +537,8 @@
           "rd": 10
         },
         "rnk": {
-          "lg": "9",
-          "cf": "9",
+          "lg": "7",
+          "cf": "7",
           "dv": "4",
           "clinch": false
         }
@@ -559,20 +559,20 @@
           }
         },
         "stats": {
-          "gp": 6,
+          "gp": 7,
           "w": 3,
-          "l": 3,
-          "gb_div": "2.0",
-          "gb_wc": "-",
-          "pct": ".500",
-          "stk": "L2",
-          "rf": 23,
-          "ra": 20,
-          "rd": 3
+          "l": 4,
+          "gb_div": "2.5",
+          "gb_wc": "0.5",
+          "pct": ".429",
+          "stk": "L3",
+          "rf": 25,
+          "ra": 27,
+          "rd": -2
         },
         "rnk": {
-          "lg": "8",
-          "cf": "8",
+          "lg": "13",
+          "cf": "13",
           "dv": "5",
           "clinch": false
         }
@@ -673,8 +673,8 @@
           "rd": 3
         },
         "rnk": {
-          "lg": "11",
-          "cf": "11",
+          "lg": "9",
+          "cf": "9",
           "dv": "3",
           "clinch": false
         }
@@ -707,8 +707,8 @@
           "rd": -9
         },
         "rnk": {
-          "lg": "12",
-          "cf": "12",
+          "lg": "10",
+          "cf": "10",
           "dv": "4",
           "clinch": false
         }
@@ -783,40 +783,6 @@
       },
       {
         "team": {
-          "id": "AZ",
-          "city": "Arizona",
-          "nick": "Diamondbacks",
-          "full": "Arizona Diamondbacks",
-          "div": {
-            "id": "national-league-west",
-            "name": "National League West"
-          },
-          "conf": {
-            "id": "national-league",
-            "name": "National League"
-          }
-        },
-        "stats": {
-          "gp": 6,
-          "w": 3,
-          "l": 3,
-          "gb_div": "1.0",
-          "gb_wc": "-",
-          "pct": ".500",
-          "stk": "W3",
-          "rf": 25,
-          "ra": 27,
-          "rd": -2
-        },
-        "rnk": {
-          "lg": "7",
-          "cf": "7",
-          "dv": "2",
-          "clinch": false
-        }
-      },
-      {
-        "team": {
           "id": "SF",
           "city": "San Francisco",
           "nick": "Giants",
@@ -831,20 +797,54 @@
           }
         },
         "stats": {
-          "gp": 6,
-          "w": 2,
+          "gp": 7,
+          "w": 3,
           "l": 4,
-          "gb_div": "2.0",
-          "gb_wc": "1.0",
-          "pct": ".333",
-          "stk": "L1",
-          "rf": 14,
-          "ra": 25,
-          "rd": -11
+          "gb_div": "1.5",
+          "gb_wc": "0.5",
+          "pct": ".429",
+          "stk": "W1",
+          "rf": 21,
+          "ra": 27,
+          "rd": -6
         },
         "rnk": {
-          "lg": "13",
-          "cf": "13",
+          "lg": "12",
+          "cf": "12",
+          "dv": "2",
+          "clinch": false
+        }
+      },
+      {
+        "team": {
+          "id": "AZ",
+          "city": "Arizona",
+          "nick": "Diamondbacks",
+          "full": "Arizona Diamondbacks",
+          "div": {
+            "id": "national-league-west",
+            "name": "National League West"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 7,
+          "w": 3,
+          "l": 4,
+          "gb_div": "1.5",
+          "gb_wc": "0.5",
+          "pct": ".429",
+          "stk": "L1",
+          "rf": 27,
+          "ra": 44,
+          "rd": -17
+        },
+        "rnk": {
+          "lg": "11",
+          "cf": "11",
           "dv": "3",
           "clinch": false
         }
