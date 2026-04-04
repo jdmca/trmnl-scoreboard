@@ -739,17 +739,17 @@
       "id": "STL",
       "name": "St. Louis Blues",
       "stats": {
-        "gp": 74,
-        "w": 31,
+        "gp": 75,
+        "w": 32,
         "l": 31,
         "t": 0,
         "otl": 12,
-        "pts": 74,
-        "pct": 0.5,
-        "stk": "OT1",
-        "gf": 196,
-        "ga": 234,
-        "gd": -38
+        "pts": 76,
+        "pct": 0.50667,
+        "stk": "W1",
+        "gf": 202,
+        "ga": 236,
+        "gd": -34
       }
     }
   },
@@ -884,17 +884,17 @@
       "id": "NYI",
       "name": "New York Islanders",
       "stats": {
-        "gp": 76,
+        "gp": 77,
         "w": 42,
-        "l": 29,
+        "l": 30,
         "t": 0,
         "otl": 5,
         "pts": 89,
-        "pct": 0.58553,
-        "stk": "L2",
-        "gf": 222,
-        "ga": 221,
-        "gd": 1
+        "pct": 0.57792,
+        "stk": "L3",
+        "gf": 223,
+        "ga": 225,
+        "gd": -2
       }
     }
   },
@@ -1232,17 +1232,17 @@
       "id": "PHI",
       "name": "Philadelphia Flyers",
       "stats": {
-        "gp": 75,
-        "w": 37,
+        "gp": 76,
+        "w": 38,
         "l": 26,
         "t": 0,
         "otl": 12,
-        "pts": 86,
-        "pct": 0.57333,
-        "stk": "L2",
-        "gf": 222,
-        "ga": 229,
-        "gd": -7
+        "pts": 88,
+        "pct": 0.57895,
+        "stk": "W1",
+        "gf": 226,
+        "ga": 230,
+        "gd": -4
       }
     }
   },
@@ -1754,17 +1754,17 @@
       "id": "NYI",
       "name": "New York Islanders",
       "stats": {
-        "gp": 76,
+        "gp": 77,
         "w": 42,
-        "l": 29,
+        "l": 30,
         "t": 0,
         "otl": 5,
         "pts": 89,
-        "pct": 0.58553,
-        "stk": "L2",
-        "gf": 222,
-        "ga": 221,
-        "gd": 1
+        "pct": 0.57792,
+        "stk": "L3",
+        "gf": 223,
+        "ga": 225,
+        "gd": -2
       }
     }
   },
@@ -1812,17 +1812,17 @@
       "id": "STL",
       "name": "St. Louis Blues",
       "stats": {
-        "gp": 74,
-        "w": 31,
+        "gp": 75,
+        "w": 32,
         "l": 31,
         "t": 0,
         "otl": 12,
-        "pts": 74,
-        "pct": 0.5,
-        "stk": "OT1",
-        "gf": 196,
-        "ga": 234,
-        "gd": -38
+        "pts": 76,
+        "pct": 0.50667,
+        "stk": "W1",
+        "gf": 202,
+        "ga": 236,
+        "gd": -34
       }
     }
   },
@@ -1957,17 +1957,17 @@
       "id": "PHI",
       "name": "Philadelphia Flyers",
       "stats": {
-        "gp": 75,
-        "w": 37,
+        "gp": 76,
+        "w": 38,
         "l": 26,
         "t": 0,
         "otl": 12,
-        "pts": 86,
-        "pct": 0.57333,
-        "stk": "L2",
-        "gf": 222,
-        "ga": 229,
-        "gd": -7
+        "pts": 88,
+        "pct": 0.57895,
+        "stk": "W1",
+        "gf": 226,
+        "ga": 230,
+        "gd": -4
       }
     }
   },
@@ -2178,28 +2178,28 @@
     "game_id": "20260403-ANA-STL",
     "game_time_utc": "2026-04-04 02:00:00+00:00",
     "game_date": "2026-04-03",
-    "final": "",
-    "outcome": "upcoming",
+    "final": "Final",
+    "outcome": "loss",
     "location": "Home",
     "score": [
-      "",
-      ""
+      2,
+      6
     ],
     "opponent": {
       "id": "STL",
       "name": "St. Louis Blues",
       "stats": {
-        "gp": 74,
-        "w": 31,
+        "gp": 75,
+        "w": 32,
         "l": 31,
         "t": 0,
         "otl": 12,
-        "pts": 74,
-        "pct": 0.5,
-        "stk": "OT1",
-        "gf": 196,
-        "ga": 234,
-        "gd": -38
+        "pts": 76,
+        "pct": 0.50667,
+        "stk": "W1",
+        "gf": 202,
+        "ga": 236,
+        "gd": -34
       }
     }
   },

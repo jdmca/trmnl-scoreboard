@@ -330,17 +330,17 @@
       }
     },
     "stats": {
-      "gp": 76,
+      "gp": 77,
       "w": 42,
-      "l": 29,
+      "l": 30,
       "t": 0,
       "otl": 5,
       "pts": 89,
-      "pct": 0.58553,
-      "stk": "L2",
-      "gf": 222,
-      "ga": 221,
-      "gd": 1
+      "pct": 0.57792,
+      "stk": "L3",
+      "gf": 223,
+      "ga": 225,
+      "gd": -2
     },
     "rnk": {
       "lg": 10,
@@ -454,39 +454,39 @@
       "wc": 4
     }
   },
-  "ANA": {
+  "PHI": {
     "team": {
-      "id": "ANA",
-      "city": "Anaheim",
-      "nick": "Ducks",
-      "full": "Anaheim Ducks",
+      "id": "PHI",
+      "city": "Philadelphia",
+      "nick": "Flyers",
+      "full": "Philadelphia Flyers",
       "div": {
-        "id": "div-pacific",
-        "name": "Pacific Division"
+        "id": "div-metropolitan",
+        "name": "Metropolitan Division"
       },
       "conf": {
-        "id": "conf-western",
-        "name": "Western Conference"
+        "id": "conf-eastern",
+        "name": "Eastern Conference"
       }
     },
     "stats": {
-      "gp": 75,
-      "w": 41,
-      "l": 29,
+      "gp": 76,
+      "w": 38,
+      "l": 26,
       "t": 0,
-      "otl": 5,
-      "pts": 87,
-      "pct": 0.58,
-      "stk": "L1",
-      "gf": 252,
-      "ga": 260,
-      "gd": -8
+      "otl": 12,
+      "pts": 88,
+      "pct": 0.57895,
+      "stk": "W1",
+      "gf": 226,
+      "ga": 230,
+      "gd": -4
     },
     "rnk": {
       "lg": 14,
-      "cf": 4,
-      "dv": 1,
-      "wc": null
+      "cf": 11,
+      "dv": 5,
+      "wc": 5
     }
   },
   "EDM": {
@@ -519,44 +519,44 @@
     },
     "rnk": {
       "lg": 15,
-      "cf": 5,
-      "dv": 2,
+      "cf": 4,
+      "dv": 1,
       "wc": null
     }
   },
-  "PHI": {
+  "ANA": {
     "team": {
-      "id": "PHI",
-      "city": "Philadelphia",
-      "nick": "Flyers",
-      "full": "Philadelphia Flyers",
+      "id": "ANA",
+      "city": "Anaheim",
+      "nick": "Ducks",
+      "full": "Anaheim Ducks",
       "div": {
-        "id": "div-metropolitan",
-        "name": "Metropolitan Division"
+        "id": "div-pacific",
+        "name": "Pacific Division"
       },
       "conf": {
-        "id": "conf-eastern",
-        "name": "Eastern Conference"
+        "id": "conf-western",
+        "name": "Western Conference"
       }
     },
     "stats": {
-      "gp": 75,
-      "w": 37,
-      "l": 26,
+      "gp": 76,
+      "w": 41,
+      "l": 30,
       "t": 0,
-      "otl": 12,
-      "pts": 86,
-      "pct": 0.57333,
+      "otl": 5,
+      "pts": 87,
+      "pct": 0.57237,
       "stk": "L2",
-      "gf": 222,
-      "ga": 229,
-      "gd": -7
+      "gf": 254,
+      "ga": 266,
+      "gd": -12
     },
     "rnk": {
       "lg": 16,
-      "cf": 11,
-      "dv": 5,
-      "wc": 5
+      "cf": 5,
+      "dv": 2,
+      "wc": null
     }
   },
   "WSH": {
@@ -874,6 +874,41 @@
       "wc": 9
     }
   },
+  "STL": {
+    "team": {
+      "id": "STL",
+      "city": "St. Louis",
+      "nick": "Blues",
+      "full": "St. Louis Blues",
+      "div": {
+        "id": "div-central",
+        "name": "Central Division"
+      },
+      "conf": {
+        "id": "conf-western",
+        "name": "Western Conference"
+      }
+    },
+    "stats": {
+      "gp": 75,
+      "w": 32,
+      "l": 31,
+      "t": 0,
+      "otl": 12,
+      "pts": 76,
+      "pct": 0.50667,
+      "stk": "W1",
+      "gf": 202,
+      "ga": 236,
+      "gd": -34
+    },
+    "rnk": {
+      "lg": 26,
+      "cf": 11,
+      "dv": 6,
+      "wc": 5
+    }
+  },
   "WPG": {
     "team": {
       "id": "WPG",
@@ -903,10 +938,10 @@
       "gd": -18
     },
     "rnk": {
-      "lg": 26,
-      "cf": 11,
-      "dv": 6,
-      "wc": 5
+      "lg": 27,
+      "cf": 12,
+      "dv": 7,
+      "wc": 6
     }
   },
   "SEA": {
@@ -938,44 +973,9 @@
       "gd": -25
     },
     "rnk": {
-      "lg": 27,
-      "cf": 12,
-      "dv": 6,
-      "wc": 6
-    }
-  },
-  "STL": {
-    "team": {
-      "id": "STL",
-      "city": "St. Louis",
-      "nick": "Blues",
-      "full": "St. Louis Blues",
-      "div": {
-        "id": "div-central",
-        "name": "Central Division"
-      },
-      "conf": {
-        "id": "conf-western",
-        "name": "Western Conference"
-      }
-    },
-    "stats": {
-      "gp": 74,
-      "w": 31,
-      "l": 31,
-      "t": 0,
-      "otl": 12,
-      "pts": 74,
-      "pct": 0.5,
-      "stk": "OT1",
-      "gf": 196,
-      "ga": 234,
-      "gd": -38
-    },
-    "rnk": {
       "lg": 28,
       "cf": 13,
-      "dv": 7,
+      "dv": 6,
       "wc": 7
     }
   },

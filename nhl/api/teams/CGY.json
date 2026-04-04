@@ -35,35 +35,6 @@
   "games": {
     "past": [
       {
-        "game_id": "20260326-CGY-ANA",
-        "game_time_utc": "2026-03-27 01:00:00+00:00",
-        "game_date": "2026-03-26",
-        "final": "Final/OT",
-        "outcome": "loss",
-        "location": "Home",
-        "score": [
-          2,
-          3
-        ],
-        "opponent": {
-          "id": "ANA",
-          "name": "Anaheim Ducks",
-          "stats": {
-            "gp": 75,
-            "w": 41,
-            "l": 29,
-            "t": 0,
-            "otl": 5,
-            "pts": 87,
-            "pct": 0.58,
-            "stk": "L1",
-            "gf": 252,
-            "ga": 260,
-            "gd": -8
-          }
-        }
-      },
-      {
         "game_id": "20260328-CGY-VAN",
         "game_time_utc": "2026-03-29 02:00:00+00:00",
         "game_date": "2026-03-28",
@@ -120,19 +91,17 @@
             "gd": 90
           }
         }
-      }
-    ],
-    "upcoming": [
+      },
       {
         "game_id": "20260402-VGK-CGY",
         "game_time_utc": "2026-04-03 02:00:00+00:00",
         "game_date": "2026-04-02",
-        "final": "",
+        "final": "Final",
         "location": "Away",
-        "outcome": "upcoming",
+        "outcome": "loss",
         "score": [
-          "",
-          ""
+          3,
+          6
         ],
         "opponent": {
           "id": "VGK",
@@ -151,7 +120,9 @@
             "gd": 3
           }
         }
-      },
+      }
+    ],
+    "upcoming": [
       {
         "game_id": "20260404-ANA-CGY",
         "game_time_utc": "2026-04-05 02:00:00+00:00",
@@ -167,17 +138,17 @@
           "id": "ANA",
           "name": "Anaheim Ducks",
           "stats": {
-            "gp": 75,
+            "gp": 76,
             "w": 41,
-            "l": 29,
+            "l": 30,
             "t": 0,
             "otl": 5,
             "pts": 87,
-            "pct": 0.58,
-            "stk": "L1",
-            "gf": 252,
-            "ga": 260,
-            "gd": -8
+            "pct": 0.57237,
+            "stk": "L2",
+            "gf": 254,
+            "ga": 266,
+            "gd": -12
           }
         }
       },
@@ -238,46 +209,40 @@
             "gd": 90
           }
         }
+      },
+      {
+        "game_id": "20260411-SEA-CGY",
+        "game_time_utc": "2026-04-11 23:00:00+00:00",
+        "game_date": "2026-04-11",
+        "final": "",
+        "location": "Away",
+        "outcome": "upcoming",
+        "score": [
+          "",
+          ""
+        ],
+        "opponent": {
+          "id": "SEA",
+          "name": "Seattle Kraken",
+          "stats": {
+            "gp": 74,
+            "w": 32,
+            "l": 31,
+            "t": 0,
+            "otl": 11,
+            "pts": 75,
+            "pct": 0.50676,
+            "stk": "L2",
+            "gf": 208,
+            "ga": 233,
+            "gd": -25
+          }
+        }
       }
     ]
   },
   "standings": {
     "division": [
-      {
-        "team": {
-          "id": "ANA",
-          "city": "Anaheim",
-          "nick": "Ducks",
-          "full": "Anaheim Ducks",
-          "div": {
-            "id": "div-pacific",
-            "name": "Pacific Division"
-          },
-          "conf": {
-            "id": "conf-western",
-            "name": "Western Conference"
-          }
-        },
-        "stats": {
-          "gp": 75,
-          "w": 41,
-          "l": 29,
-          "t": 0,
-          "otl": 5,
-          "pts": 87,
-          "pct": 0.58,
-          "stk": "L1",
-          "gf": 252,
-          "ga": 260,
-          "gd": -8
-        },
-        "rnk": {
-          "lg": 14,
-          "cf": 4,
-          "dv": 1,
-          "wc": null
-        }
-      },
       {
         "team": {
           "id": "EDM",
@@ -308,6 +273,41 @@
         },
         "rnk": {
           "lg": 15,
+          "cf": 4,
+          "dv": 1,
+          "wc": null
+        }
+      },
+      {
+        "team": {
+          "id": "ANA",
+          "city": "Anaheim",
+          "nick": "Ducks",
+          "full": "Anaheim Ducks",
+          "div": {
+            "id": "div-pacific",
+            "name": "Pacific Division"
+          },
+          "conf": {
+            "id": "conf-western",
+            "name": "Western Conference"
+          }
+        },
+        "stats": {
+          "gp": 76,
+          "w": 41,
+          "l": 30,
+          "t": 0,
+          "otl": 5,
+          "pts": 87,
+          "pct": 0.57237,
+          "stk": "L2",
+          "gf": 254,
+          "ga": 266,
+          "gd": -12
+        },
+        "rnk": {
+          "lg": 16,
           "cf": 5,
           "dv": 2,
           "wc": null
@@ -447,10 +447,10 @@
           "gd": -25
         },
         "rnk": {
-          "lg": 27,
-          "cf": 12,
+          "lg": 28,
+          "cf": 13,
           "dv": 6,
-          "wc": 6
+          "wc": 7
         }
       },
       {
@@ -632,41 +632,6 @@
       },
       {
         "team": {
-          "id": "ANA",
-          "city": "Anaheim",
-          "nick": "Ducks",
-          "full": "Anaheim Ducks",
-          "div": {
-            "id": "div-pacific",
-            "name": "Pacific Division"
-          },
-          "conf": {
-            "id": "conf-western",
-            "name": "Western Conference"
-          }
-        },
-        "stats": {
-          "gp": 75,
-          "w": 41,
-          "l": 29,
-          "t": 0,
-          "otl": 5,
-          "pts": 87,
-          "pct": 0.58,
-          "stk": "L1",
-          "gf": 252,
-          "ga": 260,
-          "gd": -8
-        },
-        "rnk": {
-          "lg": 14,
-          "cf": 4,
-          "dv": 1,
-          "wc": null
-        }
-      },
-      {
-        "team": {
           "id": "EDM",
           "city": "Edmonton",
           "nick": "Oilers",
@@ -695,6 +660,41 @@
         },
         "rnk": {
           "lg": 15,
+          "cf": 4,
+          "dv": 1,
+          "wc": null
+        }
+      },
+      {
+        "team": {
+          "id": "ANA",
+          "city": "Anaheim",
+          "nick": "Ducks",
+          "full": "Anaheim Ducks",
+          "div": {
+            "id": "div-pacific",
+            "name": "Pacific Division"
+          },
+          "conf": {
+            "id": "conf-western",
+            "name": "Western Conference"
+          }
+        },
+        "stats": {
+          "gp": 76,
+          "w": 41,
+          "l": 30,
+          "t": 0,
+          "otl": 5,
+          "pts": 87,
+          "pct": 0.57237,
+          "stk": "L2",
+          "gf": 254,
+          "ga": 266,
+          "gd": -12
+        },
+        "rnk": {
+          "lg": 16,
           "cf": 5,
           "dv": 2,
           "wc": null
@@ -877,6 +877,41 @@
       },
       {
         "team": {
+          "id": "STL",
+          "city": "St. Louis",
+          "nick": "Blues",
+          "full": "St. Louis Blues",
+          "div": {
+            "id": "div-central",
+            "name": "Central Division"
+          },
+          "conf": {
+            "id": "conf-western",
+            "name": "Western Conference"
+          }
+        },
+        "stats": {
+          "gp": 75,
+          "w": 32,
+          "l": 31,
+          "t": 0,
+          "otl": 12,
+          "pts": 76,
+          "pct": 0.50667,
+          "stk": "W1",
+          "gf": 202,
+          "ga": 236,
+          "gd": -34
+        },
+        "rnk": {
+          "lg": 26,
+          "cf": 11,
+          "dv": 6,
+          "wc": 5
+        }
+      },
+      {
+        "team": {
           "id": "WPG",
           "city": "Winnipeg",
           "nick": "Jets",
@@ -904,10 +939,10 @@
           "gd": -18
         },
         "rnk": {
-          "lg": 26,
-          "cf": 11,
-          "dv": 6,
-          "wc": 5
+          "lg": 27,
+          "cf": 12,
+          "dv": 7,
+          "wc": 6
         }
       },
       {
@@ -939,44 +974,9 @@
           "gd": -25
         },
         "rnk": {
-          "lg": 27,
-          "cf": 12,
-          "dv": 6,
-          "wc": 6
-        }
-      },
-      {
-        "team": {
-          "id": "STL",
-          "city": "St. Louis",
-          "nick": "Blues",
-          "full": "St. Louis Blues",
-          "div": {
-            "id": "div-central",
-            "name": "Central Division"
-          },
-          "conf": {
-            "id": "conf-western",
-            "name": "Western Conference"
-          }
-        },
-        "stats": {
-          "gp": 74,
-          "w": 31,
-          "l": 31,
-          "t": 0,
-          "otl": 12,
-          "pts": 74,
-          "pct": 0.5,
-          "stk": "OT1",
-          "gf": 196,
-          "ga": 234,
-          "gd": -38
-        },
-        "rnk": {
           "lg": 28,
           "cf": 13,
-          "dv": 7,
+          "dv": 6,
           "wc": 7
         }
       },

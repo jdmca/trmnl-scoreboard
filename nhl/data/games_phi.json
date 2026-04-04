@@ -217,17 +217,17 @@
       "id": "NYI",
       "name": "New York Islanders",
       "stats": {
-        "gp": 76,
+        "gp": 77,
         "w": 42,
-        "l": 29,
+        "l": 30,
         "t": 0,
         "otl": 5,
         "pts": 89,
-        "pct": 0.58553,
-        "stk": "L2",
-        "gf": 222,
-        "ga": 221,
-        "gd": 1
+        "pct": 0.57792,
+        "stk": "L3",
+        "gf": 223,
+        "ga": 225,
+        "gd": -2
       }
     }
   },
@@ -478,17 +478,17 @@
       "id": "STL",
       "name": "St. Louis Blues",
       "stats": {
-        "gp": 74,
-        "w": 31,
+        "gp": 75,
+        "w": 32,
         "l": 31,
         "t": 0,
         "otl": 12,
-        "pts": 74,
-        "pct": 0.5,
-        "stk": "OT1",
-        "gf": 196,
-        "ga": 234,
-        "gd": -38
+        "pts": 76,
+        "pct": 0.50667,
+        "stk": "W1",
+        "gf": 202,
+        "ga": 236,
+        "gd": -34
       }
     }
   },
@@ -536,17 +536,17 @@
       "id": "STL",
       "name": "St. Louis Blues",
       "stats": {
-        "gp": 74,
-        "w": 31,
+        "gp": 75,
+        "w": 32,
         "l": 31,
         "t": 0,
         "otl": 12,
-        "pts": 74,
-        "pct": 0.5,
-        "stk": "OT1",
-        "gf": 196,
-        "ga": 234,
-        "gd": -38
+        "pts": 76,
+        "pct": 0.50667,
+        "stk": "W1",
+        "gf": 202,
+        "ga": 236,
+        "gd": -34
       }
     }
   },
@@ -652,17 +652,17 @@
       "id": "NYI",
       "name": "New York Islanders",
       "stats": {
-        "gp": 76,
+        "gp": 77,
         "w": 42,
-        "l": 29,
+        "l": 30,
         "t": 0,
         "otl": 5,
         "pts": 89,
-        "pct": 0.58553,
-        "stk": "L2",
-        "gf": 222,
-        "ga": 221,
-        "gd": 1
+        "pct": 0.57792,
+        "stk": "L3",
+        "gf": 223,
+        "ga": 225,
+        "gd": -2
       }
     }
   },
@@ -1174,17 +1174,17 @@
       "id": "ANA",
       "name": "Anaheim Ducks",
       "stats": {
-        "gp": 75,
+        "gp": 76,
         "w": 41,
-        "l": 29,
+        "l": 30,
         "t": 0,
         "otl": 5,
         "pts": 87,
-        "pct": 0.58,
-        "stk": "L1",
-        "gf": 252,
-        "ga": 260,
-        "gd": -8
+        "pct": 0.57237,
+        "stk": "L2",
+        "gf": 254,
+        "ga": 266,
+        "gd": -12
       }
     }
   },
@@ -1464,17 +1464,17 @@
       "id": "NYI",
       "name": "New York Islanders",
       "stats": {
-        "gp": 76,
+        "gp": 77,
         "w": 42,
-        "l": 29,
+        "l": 30,
         "t": 0,
         "otl": 5,
         "pts": 89,
-        "pct": 0.58553,
-        "stk": "L2",
-        "gf": 222,
-        "ga": 221,
-        "gd": 1
+        "pct": 0.57792,
+        "stk": "L3",
+        "gf": 223,
+        "ga": 225,
+        "gd": -2
       }
     }
   },
@@ -1928,17 +1928,17 @@
       "id": "ANA",
       "name": "Anaheim Ducks",
       "stats": {
-        "gp": 75,
+        "gp": 76,
         "w": 41,
-        "l": 29,
+        "l": 30,
         "t": 0,
         "otl": 5,
         "pts": 87,
-        "pct": 0.58,
-        "stk": "L1",
-        "gf": 252,
-        "ga": 260,
-        "gd": -8
+        "pct": 0.57237,
+        "stk": "L2",
+        "gf": 254,
+        "ga": 266,
+        "gd": -12
       }
     }
   },
@@ -2149,12 +2149,12 @@
     "game_id": "20260402-PHI-DET",
     "game_time_utc": "2026-04-02 23:00:00+00:00",
     "game_date": "2026-04-02",
-    "final": "",
-    "outcome": "upcoming",
+    "final": "Final",
+    "outcome": "loss",
     "location": "Home",
     "score": [
-      "",
-      ""
+      2,
+      4
     ],
     "opponent": {
       "id": "DET",
@@ -2178,28 +2178,28 @@
     "game_id": "20260403-NYI-PHI",
     "game_time_utc": "2026-04-03 23:00:00+00:00",
     "game_date": "2026-04-03",
-    "final": "",
+    "final": "Final",
     "location": "Away",
-    "outcome": "upcoming",
+    "outcome": "win",
     "score": [
-      "",
-      ""
+      4,
+      1
     ],
     "opponent": {
       "id": "NYI",
       "name": "New York Islanders",
       "stats": {
-        "gp": 76,
+        "gp": 77,
         "w": 42,
-        "l": 29,
+        "l": 30,
         "t": 0,
         "otl": 5,
         "pts": 89,
-        "pct": 0.58553,
-        "stk": "L2",
-        "gf": 222,
-        "ga": 221,
-        "gd": 1
+        "pct": 0.57792,
+        "stk": "L3",
+        "gf": 223,
+        "ga": 225,
+        "gd": -2
       }
     }
   },

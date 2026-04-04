@@ -35,35 +35,6 @@
   "games": {
     "past": [
       {
-        "game_id": "20260326-OTT-PIT",
-        "game_time_utc": "2026-03-26 23:00:00+00:00",
-        "game_date": "2026-03-26",
-        "final": "Final/SO",
-        "outcome": "loss",
-        "location": "Home",
-        "score": [
-          3,
-          4
-        ],
-        "opponent": {
-          "id": "PIT",
-          "name": "Pittsburgh Penguins",
-          "stats": {
-            "gp": 76,
-            "w": 38,
-            "l": 22,
-            "t": 0,
-            "otl": 16,
-            "pts": 92,
-            "pct": 0.60526,
-            "stk": "L1",
-            "gf": 266,
-            "ga": 244,
-            "gd": 22
-          }
-        }
-      },
-      {
         "game_id": "20260328-TBL-OTT",
         "game_time_utc": "2026-03-28 17:00:00+00:00",
         "game_date": "2026-03-28",
@@ -120,19 +91,17 @@
             "gd": -24
           }
         }
-      }
-    ],
-    "upcoming": [
+      },
       {
         "game_id": "20260402-OTT-BUF",
         "game_time_utc": "2026-04-02 23:00:00+00:00",
         "game_date": "2026-04-02",
-        "final": "",
-        "outcome": "upcoming",
+        "final": "Final",
+        "outcome": "win",
         "location": "Home",
         "score": [
-          "",
-          ""
+          4,
+          1
         ],
         "opponent": {
           "id": "BUF",
@@ -151,7 +120,9 @@
             "gd": 39
           }
         }
-      },
+      }
+    ],
+    "upcoming": [
       {
         "game_id": "20260404-OTT-MIN",
         "game_time_utc": "2026-04-04 17:00:00+00:00",
@@ -236,6 +207,35 @@
             "gf": 274,
             "ga": 210,
             "gd": 64
+          }
+        }
+      },
+      {
+        "game_id": "20260409-OTT-FLA",
+        "game_time_utc": "2026-04-09 23:00:00+00:00",
+        "game_date": "2026-04-09",
+        "final": "",
+        "outcome": "upcoming",
+        "location": "Home",
+        "score": [
+          "",
+          ""
+        ],
+        "opponent": {
+          "id": "FLA",
+          "name": "Florida Panthers",
+          "stats": {
+            "gp": 75,
+            "w": 37,
+            "l": 35,
+            "t": 0,
+            "otl": 3,
+            "pts": 77,
+            "pct": 0.51333,
+            "stk": "W2",
+            "gf": 224,
+            "ga": 248,
+            "gd": -24
           }
         }
       }
@@ -751,17 +751,17 @@
           }
         },
         "stats": {
-          "gp": 76,
+          "gp": 77,
           "w": 42,
-          "l": 29,
+          "l": 30,
           "t": 0,
           "otl": 5,
           "pts": 89,
-          "pct": 0.58553,
-          "stk": "L2",
-          "gf": 222,
-          "ga": 221,
-          "gd": 1
+          "pct": 0.57792,
+          "stk": "L3",
+          "gf": 223,
+          "ga": 225,
+          "gd": -2
         },
         "rnk": {
           "lg": 10,
@@ -891,20 +891,20 @@
           }
         },
         "stats": {
-          "gp": 75,
-          "w": 37,
+          "gp": 76,
+          "w": 38,
           "l": 26,
           "t": 0,
           "otl": 12,
-          "pts": 86,
-          "pct": 0.57333,
-          "stk": "L2",
-          "gf": 222,
-          "ga": 229,
-          "gd": -7
+          "pts": 88,
+          "pct": 0.57895,
+          "stk": "W1",
+          "gf": 226,
+          "ga": 230,
+          "gd": -4
         },
         "rnk": {
-          "lg": 16,
+          "lg": 14,
           "cf": 11,
           "dv": 5,
           "wc": 5

@@ -1,41 +1,6 @@
 [
   {
     "team": {
-      "id": "ANA",
-      "city": "Anaheim",
-      "nick": "Ducks",
-      "full": "Anaheim Ducks",
-      "div": {
-        "id": "div-pacific",
-        "name": "Pacific Division"
-      },
-      "conf": {
-        "id": "conf-western",
-        "name": "Western Conference"
-      }
-    },
-    "stats": {
-      "gp": 75,
-      "w": 41,
-      "l": 29,
-      "t": 0,
-      "otl": 5,
-      "pts": 87,
-      "pct": 0.58,
-      "stk": "L1",
-      "gf": 252,
-      "ga": 260,
-      "gd": -8
-    },
-    "rnk": {
-      "lg": 14,
-      "cf": 4,
-      "dv": 1,
-      "wc": null
-    }
-  },
-  {
-    "team": {
       "id": "EDM",
       "city": "Edmonton",
       "nick": "Oilers",
@@ -64,6 +29,41 @@
     },
     "rnk": {
       "lg": 15,
+      "cf": 4,
+      "dv": 1,
+      "wc": null
+    }
+  },
+  {
+    "team": {
+      "id": "ANA",
+      "city": "Anaheim",
+      "nick": "Ducks",
+      "full": "Anaheim Ducks",
+      "div": {
+        "id": "div-pacific",
+        "name": "Pacific Division"
+      },
+      "conf": {
+        "id": "conf-western",
+        "name": "Western Conference"
+      }
+    },
+    "stats": {
+      "gp": 76,
+      "w": 41,
+      "l": 30,
+      "t": 0,
+      "otl": 5,
+      "pts": 87,
+      "pct": 0.57237,
+      "stk": "L2",
+      "gf": 254,
+      "ga": 266,
+      "gd": -12
+    },
+    "rnk": {
+      "lg": 16,
       "cf": 5,
       "dv": 2,
       "wc": null
@@ -203,10 +203,10 @@
       "gd": -25
     },
     "rnk": {
-      "lg": 27,
-      "cf": 12,
+      "lg": 28,
+      "cf": 13,
       "dv": 6,
-      "wc": 6
+      "wc": 7
     }
   },
   {

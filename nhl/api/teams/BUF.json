@@ -35,35 +35,6 @@
   "games": {
     "past": [
       {
-        "game_id": "20260327-BUF-DET",
-        "game_time_utc": "2026-03-27 23:00:00+00:00",
-        "game_date": "2026-03-27",
-        "final": "Final",
-        "outcome": "loss",
-        "location": "Home",
-        "score": [
-          2,
-          5
-        ],
-        "opponent": {
-          "id": "DET",
-          "name": "Detroit Red Wings",
-          "stats": {
-            "gp": 75,
-            "w": 40,
-            "l": 27,
-            "t": 0,
-            "otl": 8,
-            "pts": 88,
-            "pct": 0.58667,
-            "stk": "W1",
-            "gf": 220,
-            "ga": 225,
-            "gd": -5
-          }
-        }
-      },
-      {
         "game_id": "20260328-BUF-SEA",
         "game_time_utc": "2026-03-28 21:30:00+00:00",
         "game_date": "2026-03-28",
@@ -107,32 +78,30 @@
           "id": "NYI",
           "name": "New York Islanders",
           "stats": {
-            "gp": 76,
+            "gp": 77,
             "w": 42,
-            "l": 29,
+            "l": 30,
             "t": 0,
             "otl": 5,
             "pts": 89,
-            "pct": 0.58553,
-            "stk": "L2",
-            "gf": 222,
-            "ga": 221,
-            "gd": 1
+            "pct": 0.57792,
+            "stk": "L3",
+            "gf": 223,
+            "ga": 225,
+            "gd": -2
           }
         }
-      }
-    ],
-    "upcoming": [
+      },
       {
         "game_id": "20260402-OTT-BUF",
         "game_time_utc": "2026-04-02 23:00:00+00:00",
         "game_date": "2026-04-02",
-        "final": "",
+        "final": "Final",
         "location": "Away",
-        "outcome": "upcoming",
+        "outcome": "loss",
         "score": [
-          "",
-          ""
+          1,
+          4
         ],
         "opponent": {
           "id": "OTT",
@@ -151,7 +120,9 @@
             "gd": 20
           }
         }
-      },
+      }
+    ],
+    "upcoming": [
       {
         "game_id": "20260404-WSH-BUF",
         "game_time_utc": "2026-04-04 23:00:00+00:00",
@@ -236,6 +207,35 @@
             "gf": 217,
             "ga": 236,
             "gd": -19
+          }
+        }
+      },
+      {
+        "game_id": "20260409-BUF-CBJ",
+        "game_time_utc": "2026-04-09 23:00:00+00:00",
+        "game_date": "2026-04-09",
+        "final": "",
+        "outcome": "upcoming",
+        "location": "Home",
+        "score": [
+          "",
+          ""
+        ],
+        "opponent": {
+          "id": "CBJ",
+          "name": "Columbus Blue Jackets",
+          "stats": {
+            "gp": 76,
+            "w": 38,
+            "l": 26,
+            "t": 0,
+            "otl": 12,
+            "pts": 88,
+            "pct": 0.57895,
+            "stk": "L2",
+            "gf": 240,
+            "ga": 236,
+            "gd": 4
           }
         }
       }
@@ -751,17 +751,17 @@
           }
         },
         "stats": {
-          "gp": 76,
+          "gp": 77,
           "w": 42,
-          "l": 29,
+          "l": 30,
           "t": 0,
           "otl": 5,
           "pts": 89,
-          "pct": 0.58553,
-          "stk": "L2",
-          "gf": 222,
-          "ga": 221,
-          "gd": 1
+          "pct": 0.57792,
+          "stk": "L3",
+          "gf": 223,
+          "ga": 225,
+          "gd": -2
         },
         "rnk": {
           "lg": 10,
@@ -891,20 +891,20 @@
           }
         },
         "stats": {
-          "gp": 75,
-          "w": 37,
+          "gp": 76,
+          "w": 38,
           "l": 26,
           "t": 0,
           "otl": 12,
-          "pts": 86,
-          "pct": 0.57333,
-          "stk": "L2",
-          "gf": 222,
-          "ga": 229,
-          "gd": -7
+          "pts": 88,
+          "pct": 0.57895,
+          "stk": "W1",
+          "gf": 226,
+          "ga": 230,
+          "gd": -4
         },
         "rnk": {
-          "lg": 16,
+          "lg": 14,
           "cf": 11,
           "dv": 5,
           "wc": 5

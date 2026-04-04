@@ -35,35 +35,6 @@
   "games": {
     "past": [
       {
-        "game_id": "20260326-UTA-WSH",
-        "game_time_utc": "2026-03-27 01:00:00+00:00",
-        "game_date": "2026-03-26",
-        "final": "Final",
-        "location": "Away",
-        "outcome": "win",
-        "score": [
-          7,
-          4
-        ],
-        "opponent": {
-          "id": "UTA",
-          "name": "Utah Mammoth",
-          "stats": {
-            "gp": 75,
-            "w": 39,
-            "l": 30,
-            "t": 0,
-            "otl": 6,
-            "pts": 84,
-            "pct": 0.56,
-            "stk": "W2",
-            "gf": 241,
-            "ga": 214,
-            "gd": 27
-          }
-        }
-      },
-      {
         "game_id": "20260328-VGK-WSH",
         "game_time_utc": "2026-03-29 02:30:00+00:00",
         "game_date": "2026-03-28",
@@ -107,32 +78,30 @@
           "id": "PHI",
           "name": "Philadelphia Flyers",
           "stats": {
-            "gp": 75,
-            "w": 37,
+            "gp": 76,
+            "w": 38,
             "l": 26,
             "t": 0,
             "otl": 12,
-            "pts": 86,
-            "pct": 0.57333,
-            "stk": "L2",
-            "gf": 222,
-            "ga": 229,
-            "gd": -7
+            "pts": 88,
+            "pct": 0.57895,
+            "stk": "W1",
+            "gf": 226,
+            "ga": 230,
+            "gd": -4
           }
         }
-      }
-    ],
-    "upcoming": [
+      },
       {
         "game_id": "20260402-NJD-WSH",
         "game_time_utc": "2026-04-02 23:30:00+00:00",
         "game_date": "2026-04-02",
-        "final": "",
+        "final": "Final",
         "location": "Away",
-        "outcome": "upcoming",
+        "outcome": "loss",
         "score": [
-          "",
-          ""
+          3,
+          7
         ],
         "opponent": {
           "id": "NJD",
@@ -151,7 +120,9 @@
             "gd": -18
           }
         }
-      },
+      }
+    ],
+    "upcoming": [
       {
         "game_id": "20260404-WSH-BUF",
         "game_time_utc": "2026-04-04 23:00:00+00:00",
@@ -236,6 +207,35 @@
             "gf": 236,
             "ga": 268,
             "gd": -32
+          }
+        }
+      },
+      {
+        "game_id": "20260411-PIT-WSH",
+        "game_time_utc": "2026-04-11 19:00:00+00:00",
+        "game_date": "2026-04-11",
+        "final": "",
+        "location": "Away",
+        "outcome": "upcoming",
+        "score": [
+          "",
+          ""
+        ],
+        "opponent": {
+          "id": "PIT",
+          "name": "Pittsburgh Penguins",
+          "stats": {
+            "gp": 76,
+            "w": 38,
+            "l": 22,
+            "t": 0,
+            "otl": 16,
+            "pts": 92,
+            "pct": 0.60526,
+            "stk": "L1",
+            "gf": 266,
+            "ga": 244,
+            "gd": 22
           }
         }
       }
@@ -329,17 +329,17 @@
           }
         },
         "stats": {
-          "gp": 76,
+          "gp": 77,
           "w": 42,
-          "l": 29,
+          "l": 30,
           "t": 0,
           "otl": 5,
           "pts": 89,
-          "pct": 0.58553,
-          "stk": "L2",
-          "gf": 222,
-          "ga": 221,
-          "gd": 1
+          "pct": 0.57792,
+          "stk": "L3",
+          "gf": 223,
+          "ga": 225,
+          "gd": -2
         },
         "rnk": {
           "lg": 10,
@@ -399,20 +399,20 @@
           }
         },
         "stats": {
-          "gp": 75,
-          "w": 37,
+          "gp": 76,
+          "w": 38,
           "l": 26,
           "t": 0,
           "otl": 12,
-          "pts": 86,
-          "pct": 0.57333,
-          "stk": "L2",
-          "gf": 222,
-          "ga": 229,
-          "gd": -7
+          "pts": 88,
+          "pct": 0.57895,
+          "stk": "W1",
+          "gf": 226,
+          "ga": 230,
+          "gd": -4
         },
         "rnk": {
-          "lg": 16,
+          "lg": 14,
           "cf": 11,
           "dv": 5,
           "wc": 5
@@ -751,17 +751,17 @@
           }
         },
         "stats": {
-          "gp": 76,
+          "gp": 77,
           "w": 42,
-          "l": 29,
+          "l": 30,
           "t": 0,
           "otl": 5,
           "pts": 89,
-          "pct": 0.58553,
-          "stk": "L2",
-          "gf": 222,
-          "ga": 221,
-          "gd": 1
+          "pct": 0.57792,
+          "stk": "L3",
+          "gf": 223,
+          "ga": 225,
+          "gd": -2
         },
         "rnk": {
           "lg": 10,
@@ -891,20 +891,20 @@
           }
         },
         "stats": {
-          "gp": 75,
-          "w": 37,
+          "gp": 76,
+          "w": 38,
           "l": 26,
           "t": 0,
           "otl": 12,
-          "pts": 86,
-          "pct": 0.57333,
-          "stk": "L2",
-          "gf": 222,
-          "ga": 229,
-          "gd": -7
+          "pts": 88,
+          "pct": 0.57895,
+          "stk": "W1",
+          "gf": 226,
+          "ga": 230,
+          "gd": -4
         },
         "rnk": {
-          "lg": 16,
+          "lg": 14,
           "cf": 11,
           "dv": 5,
           "wc": 5
