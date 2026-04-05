@@ -30,7 +30,7 @@
       "lg": "1",
       "cf": "1",
       "dv": "1",
-      "clinch": false
+      "clinch": ""
     }
   },
   "TOR": {
@@ -64,41 +64,7 @@
       "lg": "4",
       "cf": "4",
       "dv": "2",
-      "clinch": false
-    }
-  },
-  "BAL": {
-    "team": {
-      "id": "BAL",
-      "city": "Baltimore",
-      "nick": "Orioles",
-      "full": "Baltimore Orioles",
-      "div": {
-        "id": "american-league-east",
-        "name": "American League East"
-      },
-      "conf": {
-        "id": "american-league",
-        "name": "American League"
-      }
-    },
-    "stats": {
-      "gp": 8,
-      "w": 3,
-      "l": 5,
-      "gb_div": "4.0",
-      "gb_wc": "1.0",
-      "pct": ".375",
-      "stk": "L2",
-      "rf": 32,
-      "ra": 35,
-      "rd": -3
-    },
-    "rnk": {
-      "lg": "10",
-      "cf": "10",
-      "dv": "3",
-      "clinch": false
+      "clinch": ""
     }
   },
   "TB": {
@@ -129,10 +95,44 @@
       "rd": -8
     },
     "rnk": {
-      "lg": "11",
-      "cf": "11",
+      "lg": "10",
+      "cf": "10",
+      "dv": "3",
+      "clinch": ""
+    }
+  },
+  "BAL": {
+    "team": {
+      "id": "BAL",
+      "city": "Baltimore",
+      "nick": "Orioles",
+      "full": "Baltimore Orioles",
+      "div": {
+        "id": "american-league-east",
+        "name": "American League East"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 9,
+      "w": 3,
+      "l": 6,
+      "gb_div": "4.5",
+      "gb_wc": "1.5",
+      "pct": ".333",
+      "stk": "L3",
+      "rf": 34,
+      "ra": 43,
+      "rd": -9
+    },
+    "rnk": {
+      "lg": "13",
+      "cf": "13",
       "dv": "4",
-      "clinch": false
+      "clinch": ""
     }
   },
   "BOS": {
@@ -166,7 +166,7 @@
       "lg": "15",
       "cf": "15",
       "dv": "5",
-      "clinch": false
+      "clinch": ""
     }
   },
   "CLE": {
@@ -185,22 +185,22 @@
       }
     },
     "stats": {
-      "gp": 8,
+      "gp": 9,
       "w": 5,
-      "l": 3,
+      "l": 4,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".625",
-      "stk": "W2",
+      "pct": ".556",
+      "stk": "L1",
       "rf": 26,
-      "ra": 30,
-      "rd": -4
+      "ra": 31,
+      "rd": -5
     },
     "rnk": {
       "lg": "3",
       "cf": "3",
       "dv": "1",
-      "clinch": false
+      "clinch": ""
     }
   },
   "KC": {
@@ -222,7 +222,7 @@
       "gp": 8,
       "w": 4,
       "l": 4,
-      "gb_div": "1.0",
+      "gb_div": "0.5",
       "gb_wc": "-",
       "pct": ".500",
       "stk": "W1",
@@ -234,7 +234,7 @@
       "lg": "6",
       "cf": "6",
       "dv": "2",
-      "clinch": false
+      "clinch": ""
     }
   },
   "DET": {
@@ -256,7 +256,7 @@
       "gp": 8,
       "w": 4,
       "l": 4,
-      "gb_div": "1.0",
+      "gb_div": "0.5",
       "gb_wc": "-",
       "pct": ".500",
       "stk": "W2",
@@ -268,7 +268,7 @@
       "lg": "7",
       "cf": "7",
       "dv": "3",
-      "clinch": false
+      "clinch": ""
     }
   },
   "MIN": {
@@ -290,7 +290,7 @@
       "gp": 8,
       "w": 3,
       "l": 5,
-      "gb_div": "2.0",
+      "gb_div": "1.5",
       "gb_wc": "1.0",
       "pct": ".375",
       "stk": "L1",
@@ -299,10 +299,10 @@
       "rd": -2
     },
     "rnk": {
-      "lg": "12",
-      "cf": "12",
+      "lg": "11",
+      "cf": "11",
       "dv": "4",
-      "clinch": false
+      "clinch": ""
     }
   },
   "CWS": {
@@ -324,7 +324,7 @@
       "gp": 8,
       "w": 3,
       "l": 5,
-      "gb_div": "2.0",
+      "gb_div": "1.5",
       "gb_wc": "1.0",
       "pct": ".375",
       "stk": "W2",
@@ -333,10 +333,10 @@
       "rd": -27
     },
     "rnk": {
-      "lg": "13",
-      "cf": "13",
+      "lg": "12",
+      "cf": "12",
       "dv": "5",
-      "clinch": false
+      "clinch": ""
     }
   },
   "HOU": {
@@ -370,7 +370,7 @@
       "lg": "2",
       "cf": "2",
       "dv": "1",
-      "clinch": false
+      "clinch": ""
     }
   },
   "TEX": {
@@ -404,7 +404,7 @@
       "lg": "5",
       "cf": "5",
       "dv": "2",
-      "clinch": false
+      "clinch": ""
     }
   },
   "LAA": {
@@ -438,7 +438,7 @@
       "lg": "8",
       "cf": "8",
       "dv": "3",
-      "clinch": false
+      "clinch": ""
     }
   },
   "SEA": {
@@ -472,7 +472,7 @@
       "lg": "9",
       "cf": "9",
       "dv": "4",
-      "clinch": false
+      "clinch": ""
     }
   },
   "ATH": {
@@ -506,7 +506,7 @@
       "lg": "14",
       "cf": "14",
       "dv": "5",
-      "clinch": false
+      "clinch": ""
     }
   },
   "ATL": {
@@ -540,7 +540,7 @@
       "lg": "3",
       "cf": "3",
       "dv": "1",
-      "clinch": false
+      "clinch": ""
     }
   },
   "PHI": {
@@ -571,10 +571,10 @@
       "rd": -3
     },
     "rnk": {
-      "lg": "5",
-      "cf": "5",
+      "lg": "6",
+      "cf": "6",
       "dv": "2",
-      "clinch": false
+      "clinch": ""
     }
   },
   "MIA": {
@@ -605,10 +605,10 @@
       "rd": 7
     },
     "rnk": {
-      "lg": "4",
-      "cf": "4",
+      "lg": "5",
+      "cf": "5",
       "dv": "3",
-      "clinch": false
+      "clinch": ""
     }
   },
   "NYM": {
@@ -642,7 +642,7 @@
       "lg": "8",
       "cf": "8",
       "dv": "4",
-      "clinch": false
+      "clinch": ""
     }
   },
   "WSH": {
@@ -676,7 +676,7 @@
       "lg": "12",
       "cf": "12",
       "dv": "5",
-      "clinch": false
+      "clinch": ""
     }
   },
   "MIL": {
@@ -710,7 +710,7 @@
       "lg": "1",
       "cf": "1",
       "dv": "1",
-      "clinch": false
+      "clinch": ""
     }
   },
   "PIT": {
@@ -729,22 +729,22 @@
       }
     },
     "stats": {
-      "gp": 8,
-      "w": 5,
+      "gp": 9,
+      "w": 6,
       "l": 3,
-      "gb_div": "1.0",
-      "gb_wc": "-",
-      "pct": ".625",
-      "stk": "W4",
-      "rf": 37,
-      "ra": 32,
-      "rd": 5
+      "gb_div": "0.5",
+      "gb_wc": "+0.5",
+      "pct": ".667",
+      "stk": "W5",
+      "rf": 45,
+      "ra": 34,
+      "rd": 11
     },
     "rnk": {
-      "lg": "6",
-      "cf": "6",
+      "lg": "4",
+      "cf": "4",
       "dv": "2",
-      "clinch": false
+      "clinch": ""
     }
   },
   "CIN": {
@@ -778,7 +778,7 @@
       "lg": "7",
       "cf": "7",
       "dv": "3",
-      "clinch": false
+      "clinch": ""
     }
   },
   "STL": {
@@ -812,7 +812,7 @@
       "lg": "9",
       "cf": "9",
       "dv": "4",
-      "clinch": false
+      "clinch": ""
     }
   },
   "CHC": {
@@ -831,22 +831,22 @@
       }
     },
     "stats": {
-      "gp": 7,
-      "w": 3,
+      "gp": 8,
+      "w": 4,
       "l": 4,
-      "gb_div": "2.5",
-      "gb_wc": "1.5",
-      "pct": ".429",
-      "stk": "L1",
-      "rf": 31,
+      "gb_div": "2.0",
+      "gb_wc": "1.0",
+      "pct": ".500",
+      "stk": "W1",
+      "rf": 32,
       "ra": 28,
-      "rd": 3
+      "rd": 4
     },
     "rnk": {
-      "lg": "11",
-      "cf": "11",
+      "lg": "10",
+      "cf": "10",
       "dv": "5",
-      "clinch": false
+      "clinch": ""
     }
   },
   "LAD": {
@@ -880,7 +880,7 @@
       "lg": "2",
       "cf": "2",
       "dv": "1",
-      "clinch": false
+      "clinch": ""
     }
   },
   "AZ": {
@@ -911,10 +911,10 @@
       "rd": -18
     },
     "rnk": {
-      "lg": "10",
-      "cf": "10",
+      "lg": "11",
+      "cf": "11",
       "dv": "2",
-      "clinch": false
+      "clinch": ""
     }
   },
   "SD": {
@@ -948,7 +948,7 @@
       "lg": "13",
       "cf": "13",
       "dv": "3",
-      "clinch": false
+      "clinch": ""
     }
   },
   "SF": {
@@ -982,7 +982,7 @@
       "lg": "14",
       "cf": "14",
       "dv": "4",
-      "clinch": false
+      "clinch": ""
     }
   },
   "COL": {
@@ -1016,7 +1016,7 @@
       "lg": "15",
       "cf": "15",
       "dv": "5",
-      "clinch": false
+      "clinch": ""
     }
   }
 }

@@ -29,7 +29,7 @@
     "lg": "2",
     "cf": "2",
     "dv": "1",
-    "clinch": false
+    "clinch": ""
   },
   "games": {
     "past": [
@@ -48,16 +48,16 @@
           "id": "CLE",
           "name": "Cleveland Guardians",
           "stats": {
-            "gp": 8,
+            "gp": 9,
             "w": 5,
-            "l": 3,
+            "l": 4,
             "gb_div": "-",
             "gb_wc": "-",
-            "pct": ".625",
-            "stk": "W2",
+            "pct": ".556",
+            "stk": "L1",
             "rf": 26,
-            "ra": 30,
-            "rd": -4
+            "ra": 31,
+            "rd": -5
           }
         }
       },
@@ -123,12 +123,12 @@
         "game_id": "20260405-WSH-LAD-1",
         "game_time_utc": "2026-04-05 17:35:00+00:00",
         "game_date": "2026-04-05",
-        "final": "",
+        "final": "Live",
         "location": "Away",
-        "outcome": "upcoming",
+        "outcome": "win",
         "score": [
-          null,
-          null
+          1,
+          0
         ],
         "opponent": {
           "id": "WSH",
@@ -266,7 +266,7 @@
           "lg": "2",
           "cf": "2",
           "dv": "1",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -297,10 +297,10 @@
           "rd": -18
         },
         "rnk": {
-          "lg": "10",
-          "cf": "10",
+          "lg": "11",
+          "cf": "11",
           "dv": "2",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -334,7 +334,7 @@
           "lg": "13",
           "cf": "13",
           "dv": "3",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -368,7 +368,7 @@
           "lg": "14",
           "cf": "14",
           "dv": "4",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -402,7 +402,7 @@
           "lg": "15",
           "cf": "15",
           "dv": "5",
-          "clinch": false
+          "clinch": ""
         }
       }
     ],
@@ -438,7 +438,7 @@
           "lg": "3",
           "cf": "3",
           "dv": "1",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -469,10 +469,10 @@
           "rd": -3
         },
         "rnk": {
-          "lg": "5",
-          "cf": "5",
+          "lg": "6",
+          "cf": "6",
           "dv": "2",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -503,10 +503,10 @@
           "rd": 7
         },
         "rnk": {
-          "lg": "4",
-          "cf": "4",
+          "lg": "5",
+          "cf": "5",
           "dv": "3",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -540,7 +540,7 @@
           "lg": "8",
           "cf": "8",
           "dv": "4",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -574,7 +574,7 @@
           "lg": "12",
           "cf": "12",
           "dv": "5",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -608,7 +608,7 @@
           "lg": "1",
           "cf": "1",
           "dv": "1",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -627,22 +627,22 @@
           }
         },
         "stats": {
-          "gp": 8,
-          "w": 5,
+          "gp": 9,
+          "w": 6,
           "l": 3,
-          "gb_div": "1.0",
-          "gb_wc": "-",
-          "pct": ".625",
-          "stk": "W4",
-          "rf": 37,
-          "ra": 32,
-          "rd": 5
+          "gb_div": "0.5",
+          "gb_wc": "+0.5",
+          "pct": ".667",
+          "stk": "W5",
+          "rf": 45,
+          "ra": 34,
+          "rd": 11
         },
         "rnk": {
-          "lg": "6",
-          "cf": "6",
+          "lg": "4",
+          "cf": "4",
           "dv": "2",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -676,7 +676,7 @@
           "lg": "7",
           "cf": "7",
           "dv": "3",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -710,7 +710,7 @@
           "lg": "9",
           "cf": "9",
           "dv": "4",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -729,22 +729,22 @@
           }
         },
         "stats": {
-          "gp": 7,
-          "w": 3,
+          "gp": 8,
+          "w": 4,
           "l": 4,
-          "gb_div": "2.5",
-          "gb_wc": "1.5",
-          "pct": ".429",
-          "stk": "L1",
-          "rf": 31,
+          "gb_div": "2.0",
+          "gb_wc": "1.0",
+          "pct": ".500",
+          "stk": "W1",
+          "rf": 32,
           "ra": 28,
-          "rd": 3
+          "rd": 4
         },
         "rnk": {
-          "lg": "11",
-          "cf": "11",
+          "lg": "10",
+          "cf": "10",
           "dv": "5",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -778,7 +778,7 @@
           "lg": "2",
           "cf": "2",
           "dv": "1",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -809,10 +809,10 @@
           "rd": -18
         },
         "rnk": {
-          "lg": "10",
-          "cf": "10",
+          "lg": "11",
+          "cf": "11",
           "dv": "2",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -846,7 +846,7 @@
           "lg": "13",
           "cf": "13",
           "dv": "3",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -880,7 +880,7 @@
           "lg": "14",
           "cf": "14",
           "dv": "4",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -914,7 +914,7 @@
           "lg": "15",
           "cf": "15",
           "dv": "5",
-          "clinch": false
+          "clinch": ""
         }
       }
     ]

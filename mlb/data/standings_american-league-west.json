@@ -30,7 +30,7 @@
       "lg": "2",
       "cf": "2",
       "dv": "1",
-      "clinch": false
+      "clinch": ""
     }
   },
   {
@@ -64,7 +64,7 @@
       "lg": "5",
       "cf": "5",
       "dv": "2",
-      "clinch": false
+      "clinch": ""
     }
   },
   {
@@ -98,7 +98,7 @@
       "lg": "8",
       "cf": "8",
       "dv": "3",
-      "clinch": false
+      "clinch": ""
     }
   },
   {
@@ -132,7 +132,7 @@
       "lg": "9",
       "cf": "9",
       "dv": "4",
-      "clinch": false
+      "clinch": ""
     }
   },
   {
@@ -166,7 +166,7 @@
       "lg": "14",
       "cf": "14",
       "dv": "5",
-      "clinch": false
+      "clinch": ""
     }
   }
 ]

@@ -17,7 +17,7 @@
     "gp": 8,
     "w": 4,
     "l": 4,
-    "gb_div": "1.0",
+    "gb_div": "0.5",
     "gb_wc": "-",
     "pct": ".500",
     "stk": "W1",
@@ -29,7 +29,7 @@
     "lg": "6",
     "cf": "6",
     "dv": "2",
-    "clinch": false
+    "clinch": ""
   },
   "games": {
     "past": [
@@ -51,7 +51,7 @@
             "gp": 8,
             "w": 3,
             "l": 5,
-            "gb_div": "2.0",
+            "gb_div": "1.5",
             "gb_wc": "1.0",
             "pct": ".375",
             "stk": "L1",
@@ -123,12 +123,12 @@
         "game_id": "20260405-KC-MIL-1",
         "game_time_utc": "2026-04-05 18:10:00+00:00",
         "game_date": "2026-04-05",
-        "final": "",
-        "outcome": "upcoming",
+        "final": "Live",
+        "outcome": "loss",
         "location": "Home",
         "score": [
-          null,
-          null
+          2,
+          6
         ],
         "opponent": {
           "id": "MIL",
@@ -162,16 +162,16 @@
           "id": "CLE",
           "name": "Cleveland Guardians",
           "stats": {
-            "gp": 8,
+            "gp": 9,
             "w": 5,
-            "l": 3,
+            "l": 4,
             "gb_div": "-",
             "gb_wc": "-",
-            "pct": ".625",
-            "stk": "W2",
+            "pct": ".556",
+            "stk": "L1",
             "rf": 26,
-            "ra": 30,
-            "rd": -4
+            "ra": 31,
+            "rd": -5
           }
         }
       },
@@ -190,16 +190,16 @@
           "id": "CLE",
           "name": "Cleveland Guardians",
           "stats": {
-            "gp": 8,
+            "gp": 9,
             "w": 5,
-            "l": 3,
+            "l": 4,
             "gb_div": "-",
             "gb_wc": "-",
-            "pct": ".625",
-            "stk": "W2",
+            "pct": ".556",
+            "stk": "L1",
             "rf": 26,
-            "ra": 30,
-            "rd": -4
+            "ra": 31,
+            "rd": -5
           }
         }
       },
@@ -218,16 +218,16 @@
           "id": "CLE",
           "name": "Cleveland Guardians",
           "stats": {
-            "gp": 8,
+            "gp": 9,
             "w": 5,
-            "l": 3,
+            "l": 4,
             "gb_div": "-",
             "gb_wc": "-",
-            "pct": ".625",
-            "stk": "W2",
+            "pct": ".556",
+            "stk": "L1",
             "rf": 26,
-            "ra": 30,
-            "rd": -4
+            "ra": 31,
+            "rd": -5
           }
         }
       }
@@ -251,22 +251,22 @@
           }
         },
         "stats": {
-          "gp": 8,
+          "gp": 9,
           "w": 5,
-          "l": 3,
+          "l": 4,
           "gb_div": "-",
           "gb_wc": "-",
-          "pct": ".625",
-          "stk": "W2",
+          "pct": ".556",
+          "stk": "L1",
           "rf": 26,
-          "ra": 30,
-          "rd": -4
+          "ra": 31,
+          "rd": -5
         },
         "rnk": {
           "lg": "3",
           "cf": "3",
           "dv": "1",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -288,7 +288,7 @@
           "gp": 8,
           "w": 4,
           "l": 4,
-          "gb_div": "1.0",
+          "gb_div": "0.5",
           "gb_wc": "-",
           "pct": ".500",
           "stk": "W1",
@@ -300,7 +300,7 @@
           "lg": "6",
           "cf": "6",
           "dv": "2",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -322,7 +322,7 @@
           "gp": 8,
           "w": 4,
           "l": 4,
-          "gb_div": "1.0",
+          "gb_div": "0.5",
           "gb_wc": "-",
           "pct": ".500",
           "stk": "W2",
@@ -334,7 +334,7 @@
           "lg": "7",
           "cf": "7",
           "dv": "3",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -356,7 +356,7 @@
           "gp": 8,
           "w": 3,
           "l": 5,
-          "gb_div": "2.0",
+          "gb_div": "1.5",
           "gb_wc": "1.0",
           "pct": ".375",
           "stk": "L1",
@@ -365,10 +365,10 @@
           "rd": -2
         },
         "rnk": {
-          "lg": "12",
-          "cf": "12",
+          "lg": "11",
+          "cf": "11",
           "dv": "4",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -390,7 +390,7 @@
           "gp": 8,
           "w": 3,
           "l": 5,
-          "gb_div": "2.0",
+          "gb_div": "1.5",
           "gb_wc": "1.0",
           "pct": ".375",
           "stk": "W2",
@@ -399,10 +399,10 @@
           "rd": -27
         },
         "rnk": {
-          "lg": "13",
-          "cf": "13",
+          "lg": "12",
+          "cf": "12",
           "dv": "5",
-          "clinch": false
+          "clinch": ""
         }
       }
     ],
@@ -438,7 +438,7 @@
           "lg": "1",
           "cf": "1",
           "dv": "1",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -472,41 +472,7 @@
           "lg": "4",
           "cf": "4",
           "dv": "2",
-          "clinch": false
-        }
-      },
-      {
-        "team": {
-          "id": "BAL",
-          "city": "Baltimore",
-          "nick": "Orioles",
-          "full": "Baltimore Orioles",
-          "div": {
-            "id": "american-league-east",
-            "name": "American League East"
-          },
-          "conf": {
-            "id": "american-league",
-            "name": "American League"
-          }
-        },
-        "stats": {
-          "gp": 8,
-          "w": 3,
-          "l": 5,
-          "gb_div": "4.0",
-          "gb_wc": "1.0",
-          "pct": ".375",
-          "stk": "L2",
-          "rf": 32,
-          "ra": 35,
-          "rd": -3
-        },
-        "rnk": {
-          "lg": "10",
-          "cf": "10",
-          "dv": "3",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -537,10 +503,44 @@
           "rd": -8
         },
         "rnk": {
-          "lg": "11",
-          "cf": "11",
+          "lg": "10",
+          "cf": "10",
+          "dv": "3",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
+          "id": "BAL",
+          "city": "Baltimore",
+          "nick": "Orioles",
+          "full": "Baltimore Orioles",
+          "div": {
+            "id": "american-league-east",
+            "name": "American League East"
+          },
+          "conf": {
+            "id": "american-league",
+            "name": "American League"
+          }
+        },
+        "stats": {
+          "gp": 9,
+          "w": 3,
+          "l": 6,
+          "gb_div": "4.5",
+          "gb_wc": "1.5",
+          "pct": ".333",
+          "stk": "L3",
+          "rf": 34,
+          "ra": 43,
+          "rd": -9
+        },
+        "rnk": {
+          "lg": "13",
+          "cf": "13",
           "dv": "4",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -574,7 +574,7 @@
           "lg": "15",
           "cf": "15",
           "dv": "5",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -593,22 +593,22 @@
           }
         },
         "stats": {
-          "gp": 8,
+          "gp": 9,
           "w": 5,
-          "l": 3,
+          "l": 4,
           "gb_div": "-",
           "gb_wc": "-",
-          "pct": ".625",
-          "stk": "W2",
+          "pct": ".556",
+          "stk": "L1",
           "rf": 26,
-          "ra": 30,
-          "rd": -4
+          "ra": 31,
+          "rd": -5
         },
         "rnk": {
           "lg": "3",
           "cf": "3",
           "dv": "1",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -630,7 +630,7 @@
           "gp": 8,
           "w": 4,
           "l": 4,
-          "gb_div": "1.0",
+          "gb_div": "0.5",
           "gb_wc": "-",
           "pct": ".500",
           "stk": "W1",
@@ -642,7 +642,7 @@
           "lg": "6",
           "cf": "6",
           "dv": "2",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -664,7 +664,7 @@
           "gp": 8,
           "w": 4,
           "l": 4,
-          "gb_div": "1.0",
+          "gb_div": "0.5",
           "gb_wc": "-",
           "pct": ".500",
           "stk": "W2",
@@ -676,7 +676,7 @@
           "lg": "7",
           "cf": "7",
           "dv": "3",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -698,7 +698,7 @@
           "gp": 8,
           "w": 3,
           "l": 5,
-          "gb_div": "2.0",
+          "gb_div": "1.5",
           "gb_wc": "1.0",
           "pct": ".375",
           "stk": "L1",
@@ -707,10 +707,10 @@
           "rd": -2
         },
         "rnk": {
-          "lg": "12",
-          "cf": "12",
+          "lg": "11",
+          "cf": "11",
           "dv": "4",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -732,7 +732,7 @@
           "gp": 8,
           "w": 3,
           "l": 5,
-          "gb_div": "2.0",
+          "gb_div": "1.5",
           "gb_wc": "1.0",
           "pct": ".375",
           "stk": "W2",
@@ -741,10 +741,10 @@
           "rd": -27
         },
         "rnk": {
-          "lg": "13",
-          "cf": "13",
+          "lg": "12",
+          "cf": "12",
           "dv": "5",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -778,7 +778,7 @@
           "lg": "2",
           "cf": "2",
           "dv": "1",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -812,7 +812,7 @@
           "lg": "5",
           "cf": "5",
           "dv": "2",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -846,7 +846,7 @@
           "lg": "8",
           "cf": "8",
           "dv": "3",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -880,7 +880,7 @@
           "lg": "9",
           "cf": "9",
           "dv": "4",
-          "clinch": false
+          "clinch": ""
         }
       },
       {
@@ -914,7 +914,7 @@
           "lg": "14",
           "cf": "14",
           "dv": "5",
-          "clinch": false
+          "clinch": ""
         }
       }
     ]

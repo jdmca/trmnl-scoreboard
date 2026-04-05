@@ -128,7 +128,7 @@ def update_teams():
           'lg': team['sportRank'],
           'cf': team['leagueRank'],
           'dv': team['divisionRank'],
-          'clinch': team['clinched'],
+          'clinch': team['clinchIndicator'] if team['clinched'] == True else '',
         },
       }
 
