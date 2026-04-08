@@ -1,40 +1,6 @@
 [
   {
     "team": {
-      "id": "MIL",
-      "city": "Milwaukee",
-      "nick": "Brewers",
-      "full": "Milwaukee Brewers",
-      "div": {
-        "id": "national-league-central",
-        "name": "National League Central"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 10,
-      "w": 8,
-      "l": 2,
-      "gb_div": "-",
-      "gb_wc": "-",
-      "pct": ".800",
-      "stk": "W2",
-      "rf": 68,
-      "ra": 38,
-      "rd": 30
-    },
-    "rnk": {
-      "lg": "1",
-      "cf": "1",
-      "dv": "1",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
       "id": "CIN",
       "city": "Cincinnati",
       "nick": "Reds",
@@ -49,20 +15,54 @@
       }
     },
     "stats": {
-      "gp": 10,
-      "w": 7,
+      "gp": 11,
+      "w": 8,
       "l": 3,
-      "gb_div": "1.0",
-      "gb_wc": "+1.0",
-      "pct": ".700",
-      "stk": "W4",
-      "rf": 28,
-      "ra": 30,
-      "rd": -2
+      "gb_div": "-",
+      "gb_wc": "-",
+      "pct": ".727",
+      "stk": "W5",
+      "rf": 34,
+      "ra": 33,
+      "rd": 1
     },
     "rnk": {
       "lg": "3",
       "cf": "3",
+      "dv": "1",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "MIL",
+      "city": "Milwaukee",
+      "nick": "Brewers",
+      "full": "Milwaukee Brewers",
+      "div": {
+        "id": "national-league-central",
+        "name": "National League Central"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 11,
+      "w": 8,
+      "l": 3,
+      "gb_div": "-",
+      "gb_wc": "+1.5",
+      "pct": ".727",
+      "stk": "L1",
+      "rf": 70,
+      "ra": 41,
+      "rd": 29
+    },
+    "rnk": {
+      "lg": "2",
+      "cf": "2",
       "dv": "2",
       "clinch": ""
     }
@@ -83,20 +83,20 @@
       }
     },
     "stats": {
-      "gp": 10,
-      "w": 6,
+      "gp": 11,
+      "w": 7,
       "l": 4,
-      "gb_div": "2.0",
-      "gb_wc": "-",
-      "pct": ".600",
-      "stk": "L1",
-      "rf": 45,
-      "ra": 39,
-      "rd": 6
+      "gb_div": "1.0",
+      "gb_wc": "+0.5",
+      "pct": ".636",
+      "stk": "W1",
+      "rf": 52,
+      "ra": 40,
+      "rd": 12
     },
     "rnk": {
-      "lg": "7",
-      "cf": "7",
+      "lg": "5",
+      "cf": "5",
       "dv": "3",
       "clinch": ""
     }
@@ -117,20 +117,20 @@
       }
     },
     "stats": {
-      "gp": 10,
-      "w": 5,
+      "gp": 11,
+      "w": 6,
       "l": 5,
-      "gb_div": "3.0",
-      "gb_wc": "1.0",
-      "pct": ".500",
-      "stk": "L1",
-      "rf": 46,
-      "ra": 55,
-      "rd": -9
+      "gb_div": "2.0",
+      "gb_wc": "0.5",
+      "pct": ".545",
+      "stk": "W1",
+      "rf": 53,
+      "ra": 61,
+      "rd": -8
     },
     "rnk": {
-      "lg": "9",
-      "cf": "9",
+      "lg": "7",
+      "cf": "7",
       "dv": "4",
       "clinch": ""
     }
@@ -151,20 +151,20 @@
       }
     },
     "stats": {
-      "gp": 10,
-      "w": 4,
+      "gp": 11,
+      "w": 5,
       "l": 6,
-      "gb_div": "4.0",
-      "gb_wc": "2.0",
-      "pct": ".400",
-      "stk": "L2",
-      "rf": 41,
-      "ra": 40,
-      "rd": 1
+      "gb_div": "3.0",
+      "gb_wc": "1.5",
+      "pct": ".455",
+      "stk": "W1",
+      "rf": 50,
+      "ra": 42,
+      "rd": 8
     },
     "rnk": {
-      "lg": "12",
-      "cf": "12",
+      "lg": "10",
+      "cf": "10",
       "dv": "5",
       "clinch": ""
     }
