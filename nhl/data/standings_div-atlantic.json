@@ -1,6 +1,41 @@
 [
   {
     "team": {
+      "id": "BUF",
+      "city": "Buffalo",
+      "nick": "Sabres",
+      "full": "Buffalo Sabres",
+      "div": {
+        "id": "div-atlantic",
+        "name": "Atlantic Division"
+      },
+      "conf": {
+        "id": "conf-eastern",
+        "name": "Eastern Conference"
+      }
+    },
+    "stats": {
+      "gp": 79,
+      "w": 48,
+      "l": 23,
+      "t": 0,
+      "otl": 8,
+      "pts": 104,
+      "pct": 0.65823,
+      "stk": "W2",
+      "gf": 275,
+      "ga": 236,
+      "gd": 39
+    },
+    "rnk": {
+      "lg": 4,
+      "cf": 2,
+      "dv": 1,
+      "wc": null
+    }
+  },
+  {
+    "team": {
       "id": "TBL",
       "city": "Tampa Bay",
       "nick": "Lightning",
@@ -26,41 +61,6 @@
       "gf": 281,
       "ga": 221,
       "gd": 60
-    },
-    "rnk": {
-      "lg": 4,
-      "cf": 2,
-      "dv": 1,
-      "wc": null
-    }
-  },
-  {
-    "team": {
-      "id": "BUF",
-      "city": "Buffalo",
-      "nick": "Sabres",
-      "full": "Buffalo Sabres",
-      "div": {
-        "id": "div-atlantic",
-        "name": "Atlantic Division"
-      },
-      "conf": {
-        "id": "conf-eastern",
-        "name": "Eastern Conference"
-      }
-    },
-    "stats": {
-      "gp": 78,
-      "w": 47,
-      "l": 23,
-      "t": 0,
-      "otl": 8,
-      "pts": 102,
-      "pct": 0.65385,
-      "stk": "W1",
-      "gf": 270,
-      "ga": 233,
-      "gd": 37
     },
     "rnk": {
       "lg": 5,
@@ -203,45 +203,10 @@
       "gd": -10
     },
     "rnk": {
-      "lg": 13,
+      "lg": 14,
       "cf": 10,
       "dv": 6,
       "wc": 4
-    }
-  },
-  {
-    "team": {
-      "id": "TOR",
-      "city": "Toronto",
-      "nick": "Maple Leafs",
-      "full": "Toronto Maple Leafs",
-      "div": {
-        "id": "div-atlantic",
-        "name": "Atlantic Division"
-      },
-      "conf": {
-        "id": "conf-eastern",
-        "name": "Eastern Conference"
-      }
-    },
-    "stats": {
-      "gp": 77,
-      "w": 32,
-      "l": 31,
-      "t": 0,
-      "otl": 14,
-      "pts": 78,
-      "pct": 0.50649,
-      "stk": "OT1",
-      "gf": 242,
-      "ga": 275,
-      "gd": -33
-    },
-    "rnk": {
-      "lg": 26,
-      "cf": 14,
-      "dv": 7,
-      "wc": 8
     }
   },
   {
@@ -271,6 +236,41 @@
       "gf": 233,
       "ga": 266,
       "gd": -33
+    },
+    "rnk": {
+      "lg": 26,
+      "cf": 14,
+      "dv": 7,
+      "wc": 8
+    }
+  },
+  {
+    "team": {
+      "id": "TOR",
+      "city": "Toronto",
+      "nick": "Maple Leafs",
+      "full": "Toronto Maple Leafs",
+      "div": {
+        "id": "div-atlantic",
+        "name": "Atlantic Division"
+      },
+      "conf": {
+        "id": "conf-eastern",
+        "name": "Eastern Conference"
+      }
+    },
+    "stats": {
+      "gp": 78,
+      "w": 32,
+      "l": 32,
+      "t": 0,
+      "otl": 14,
+      "pts": 78,
+      "pct": 0.5,
+      "stk": "L1",
+      "gf": 242,
+      "ga": 279,
+      "gd": -37
     },
     "rnk": {
       "lg": 27,

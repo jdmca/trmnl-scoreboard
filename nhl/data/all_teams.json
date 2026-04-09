@@ -104,6 +104,41 @@
       "wc": null
     }
   },
+  "BUF": {
+    "team": {
+      "id": "BUF",
+      "city": "Buffalo",
+      "nick": "Sabres",
+      "full": "Buffalo Sabres",
+      "div": {
+        "id": "div-atlantic",
+        "name": "Atlantic Division"
+      },
+      "conf": {
+        "id": "conf-eastern",
+        "name": "Eastern Conference"
+      }
+    },
+    "stats": {
+      "gp": 79,
+      "w": 48,
+      "l": 23,
+      "t": 0,
+      "otl": 8,
+      "pts": 104,
+      "pct": 0.65823,
+      "stk": "W2",
+      "gf": 275,
+      "ga": 236,
+      "gd": 39
+    },
+    "rnk": {
+      "lg": 4,
+      "cf": 2,
+      "dv": 1,
+      "wc": null
+    }
+  },
   "TBL": {
     "team": {
       "id": "TBL",
@@ -131,41 +166,6 @@
       "gf": 281,
       "ga": 221,
       "gd": 60
-    },
-    "rnk": {
-      "lg": 4,
-      "cf": 2,
-      "dv": 1,
-      "wc": null
-    }
-  },
-  "BUF": {
-    "team": {
-      "id": "BUF",
-      "city": "Buffalo",
-      "nick": "Sabres",
-      "full": "Buffalo Sabres",
-      "div": {
-        "id": "div-atlantic",
-        "name": "Atlantic Division"
-      },
-      "conf": {
-        "id": "conf-eastern",
-        "name": "Eastern Conference"
-      }
-    },
-    "stats": {
-      "gp": 78,
-      "w": 47,
-      "l": 23,
-      "t": 0,
-      "otl": 8,
-      "pts": 102,
-      "pct": 0.65385,
-      "stk": "W1",
-      "gf": 270,
-      "ga": 233,
-      "gd": 37
     },
     "rnk": {
       "lg": 5,
@@ -419,6 +419,41 @@
       "wc": 3
     }
   },
+  "EDM": {
+    "team": {
+      "id": "EDM",
+      "city": "Edmonton",
+      "nick": "Oilers",
+      "full": "Edmonton Oilers",
+      "div": {
+        "id": "div-pacific",
+        "name": "Pacific Division"
+      },
+      "conf": {
+        "id": "conf-western",
+        "name": "Western Conference"
+      }
+    },
+    "stats": {
+      "gp": 79,
+      "w": 40,
+      "l": 29,
+      "t": 0,
+      "otl": 10,
+      "pts": 90,
+      "pct": 0.56962,
+      "stk": "W1",
+      "gf": 275,
+      "ga": 265,
+      "gd": 10
+    },
+    "rnk": {
+      "lg": 13,
+      "cf": 4,
+      "dv": 1,
+      "wc": null
+    }
+  },
   "DET": {
     "team": {
       "id": "DET",
@@ -448,7 +483,7 @@
       "gd": -10
     },
     "rnk": {
-      "lg": 13,
+      "lg": 14,
       "cf": 10,
       "dv": 6,
       "wc": 4
@@ -483,10 +518,45 @@
       "gd": -3
     },
     "rnk": {
-      "lg": 14,
+      "lg": 15,
       "cf": 11,
       "dv": 5,
       "wc": 5
+    }
+  },
+  "WSH": {
+    "team": {
+      "id": "WSH",
+      "city": "Washington",
+      "nick": "Capitals",
+      "full": "Washington Capitals",
+      "div": {
+        "id": "div-metropolitan",
+        "name": "Metropolitan Division"
+      },
+      "conf": {
+        "id": "conf-eastern",
+        "name": "Eastern Conference"
+      }
+    },
+    "stats": {
+      "gp": 79,
+      "w": 40,
+      "l": 30,
+      "t": 0,
+      "otl": 9,
+      "pts": 89,
+      "pct": 0.56329,
+      "stk": "W1",
+      "gf": 252,
+      "ga": 240,
+      "gd": 12
+    },
+    "rnk": {
+      "lg": 16,
+      "cf": 12,
+      "dv": 6,
+      "wc": 6
     }
   },
   "UTA": {
@@ -518,45 +588,10 @@
       "gd": 31
     },
     "rnk": {
-      "lg": 15,
-      "cf": 4,
+      "lg": 17,
+      "cf": 5,
       "dv": 4,
       "wc": 1
-    }
-  },
-  "EDM": {
-    "team": {
-      "id": "EDM",
-      "city": "Edmonton",
-      "nick": "Oilers",
-      "full": "Edmonton Oilers",
-      "div": {
-        "id": "div-pacific",
-        "name": "Pacific Division"
-      },
-      "conf": {
-        "id": "conf-western",
-        "name": "Western Conference"
-      }
-    },
-    "stats": {
-      "gp": 78,
-      "w": 39,
-      "l": 29,
-      "t": 0,
-      "otl": 10,
-      "pts": 88,
-      "pct": 0.5641,
-      "stk": "OT1",
-      "gf": 270,
-      "ga": 263,
-      "gd": 7
-    },
-    "rnk": {
-      "lg": 16,
-      "cf": 5,
-      "dv": 1,
-      "wc": null
     }
   },
   "VGK": {
@@ -588,45 +623,10 @@
       "gd": 8
     },
     "rnk": {
-      "lg": 17,
+      "lg": 18,
       "cf": 6,
       "dv": 2,
       "wc": null
-    }
-  },
-  "WSH": {
-    "team": {
-      "id": "WSH",
-      "city": "Washington",
-      "nick": "Capitals",
-      "full": "Washington Capitals",
-      "div": {
-        "id": "div-metropolitan",
-        "name": "Metropolitan Division"
-      },
-      "conf": {
-        "id": "conf-eastern",
-        "name": "Eastern Conference"
-      }
-    },
-    "stats": {
-      "gp": 78,
-      "w": 39,
-      "l": 30,
-      "t": 0,
-      "otl": 9,
-      "pts": 87,
-      "pct": 0.55769,
-      "stk": "L1",
-      "gf": 248,
-      "ga": 240,
-      "gd": 8
-    },
-    "rnk": {
-      "lg": 18,
-      "cf": 12,
-      "dv": 6,
-      "wc": 6
     }
   },
   "ANA": {
@@ -785,17 +785,17 @@
       }
     },
     "stats": {
-      "gp": 76,
+      "gp": 77,
       "w": 37,
-      "l": 32,
+      "l": 33,
       "t": 0,
       "otl": 7,
       "pts": 81,
-      "pct": 0.53289,
-      "stk": "W1",
-      "gf": 234,
-      "ga": 269,
-      "gd": -35
+      "pct": 0.52597,
+      "stk": "L1",
+      "gf": 236,
+      "ga": 274,
+      "gd": -38
     },
     "rnk": {
       "lg": 23,
@@ -874,41 +874,6 @@
       "wc": 6
     }
   },
-  "TOR": {
-    "team": {
-      "id": "TOR",
-      "city": "Toronto",
-      "nick": "Maple Leafs",
-      "full": "Toronto Maple Leafs",
-      "div": {
-        "id": "div-atlantic",
-        "name": "Atlantic Division"
-      },
-      "conf": {
-        "id": "conf-eastern",
-        "name": "Eastern Conference"
-      }
-    },
-    "stats": {
-      "gp": 77,
-      "w": 32,
-      "l": 31,
-      "t": 0,
-      "otl": 14,
-      "pts": 78,
-      "pct": 0.50649,
-      "stk": "OT1",
-      "gf": 242,
-      "ga": 275,
-      "gd": -33
-    },
-    "rnk": {
-      "lg": 26,
-      "cf": 14,
-      "dv": 7,
-      "wc": 8
-    }
-  },
   "FLA": {
     "team": {
       "id": "FLA",
@@ -936,6 +901,41 @@
       "gf": 233,
       "ga": 266,
       "gd": -33
+    },
+    "rnk": {
+      "lg": 26,
+      "cf": 14,
+      "dv": 7,
+      "wc": 8
+    }
+  },
+  "TOR": {
+    "team": {
+      "id": "TOR",
+      "city": "Toronto",
+      "nick": "Maple Leafs",
+      "full": "Toronto Maple Leafs",
+      "div": {
+        "id": "div-atlantic",
+        "name": "Atlantic Division"
+      },
+      "conf": {
+        "id": "conf-eastern",
+        "name": "Eastern Conference"
+      }
+    },
+    "stats": {
+      "gp": 78,
+      "w": 32,
+      "l": 32,
+      "t": 0,
+      "otl": 14,
+      "pts": 78,
+      "pct": 0.5,
+      "stk": "L1",
+      "gf": 242,
+      "ga": 279,
+      "gd": -37
     },
     "rnk": {
       "lg": 27,
@@ -995,17 +995,17 @@
       }
     },
     "stats": {
-      "gp": 78,
+      "gp": 79,
       "w": 33,
-      "l": 36,
+      "l": 37,
       "t": 0,
       "otl": 9,
       "pts": 75,
-      "pct": 0.48077,
-      "stk": "W2",
-      "gf": 229,
-      "ga": 238,
-      "gd": -9
+      "pct": 0.47468,
+      "stk": "L1",
+      "gf": 232,
+      "ga": 243,
+      "gd": -11
     },
     "rnk": {
       "lg": 29,

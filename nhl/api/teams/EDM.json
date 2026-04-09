@@ -14,21 +14,21 @@
     }
   },
   "stats": {
-    "gp": 78,
-    "w": 39,
+    "gp": 79,
+    "w": 40,
     "l": 29,
     "t": 0,
     "otl": 10,
-    "pts": 88,
-    "pct": 0.5641,
-    "stk": "OT1",
-    "gf": 270,
-    "ga": 263,
-    "gd": 7
+    "pts": 90,
+    "pct": 0.56962,
+    "stk": "W1",
+    "gf": 275,
+    "ga": 265,
+    "gd": 10
   },
   "rnk": {
-    "lg": 16,
-    "cf": 5,
+    "lg": 13,
+    "cf": 4,
     "dv": 1,
     "wc": null
   },
@@ -120,38 +120,38 @@
             "gd": 31
           }
         }
-      }
-    ],
-    "upcoming": [
+      },
       {
         "game_id": "20260408-SJS-EDM",
         "game_time_utc": "2026-04-09 02:00:00+00:00",
         "game_date": "2026-04-08",
-        "final": "",
+        "final": "Final",
         "location": "Away",
-        "outcome": "upcoming",
+        "outcome": "win",
         "score": [
-          "",
-          ""
+          5,
+          2
         ],
         "opponent": {
           "id": "SJS",
           "name": "San Jose Sharks",
           "stats": {
-            "gp": 76,
+            "gp": 77,
             "w": 37,
-            "l": 32,
+            "l": 33,
             "t": 0,
             "otl": 7,
             "pts": 81,
-            "pct": 0.53289,
-            "stk": "W1",
-            "gf": 234,
-            "ga": 269,
-            "gd": -35
+            "pct": 0.52597,
+            "stk": "L1",
+            "gf": 236,
+            "ga": 274,
+            "gd": -38
           }
         }
-      },
+      }
+    ],
+    "upcoming": [
       {
         "game_id": "20260411-LAK-EDM",
         "game_time_utc": "2026-04-11 20:00:00+00:00",
@@ -259,21 +259,21 @@
           }
         },
         "stats": {
-          "gp": 78,
-          "w": 39,
+          "gp": 79,
+          "w": 40,
           "l": 29,
           "t": 0,
           "otl": 10,
-          "pts": 88,
-          "pct": 0.5641,
-          "stk": "OT1",
-          "gf": 270,
-          "ga": 263,
-          "gd": 7
+          "pts": 90,
+          "pct": 0.56962,
+          "stk": "W1",
+          "gf": 275,
+          "ga": 265,
+          "gd": 10
         },
         "rnk": {
-          "lg": 16,
-          "cf": 5,
+          "lg": 13,
+          "cf": 4,
           "dv": 1,
           "wc": null
         }
@@ -307,7 +307,7 @@
           "gd": 8
         },
         "rnk": {
-          "lg": 17,
+          "lg": 18,
           "cf": 6,
           "dv": 2,
           "wc": null
@@ -399,17 +399,17 @@
           }
         },
         "stats": {
-          "gp": 76,
+          "gp": 77,
           "w": 37,
-          "l": 32,
+          "l": 33,
           "t": 0,
           "otl": 7,
           "pts": 81,
-          "pct": 0.53289,
-          "stk": "W1",
-          "gf": 234,
-          "ga": 269,
-          "gd": -35
+          "pct": 0.52597,
+          "stk": "L1",
+          "gf": 236,
+          "ga": 274,
+          "gd": -38
         },
         "rnk": {
           "lg": 23,
@@ -632,6 +632,41 @@
       },
       {
         "team": {
+          "id": "EDM",
+          "city": "Edmonton",
+          "nick": "Oilers",
+          "full": "Edmonton Oilers",
+          "div": {
+            "id": "div-pacific",
+            "name": "Pacific Division"
+          },
+          "conf": {
+            "id": "conf-western",
+            "name": "Western Conference"
+          }
+        },
+        "stats": {
+          "gp": 79,
+          "w": 40,
+          "l": 29,
+          "t": 0,
+          "otl": 10,
+          "pts": 90,
+          "pct": 0.56962,
+          "stk": "W1",
+          "gf": 275,
+          "ga": 265,
+          "gd": 10
+        },
+        "rnk": {
+          "lg": 13,
+          "cf": 4,
+          "dv": 1,
+          "wc": null
+        }
+      },
+      {
+        "team": {
           "id": "UTA",
           "city": "Utah",
           "nick": "Mammoth",
@@ -659,45 +694,10 @@
           "gd": 31
         },
         "rnk": {
-          "lg": 15,
-          "cf": 4,
+          "lg": 17,
+          "cf": 5,
           "dv": 4,
           "wc": 1
-        }
-      },
-      {
-        "team": {
-          "id": "EDM",
-          "city": "Edmonton",
-          "nick": "Oilers",
-          "full": "Edmonton Oilers",
-          "div": {
-            "id": "div-pacific",
-            "name": "Pacific Division"
-          },
-          "conf": {
-            "id": "conf-western",
-            "name": "Western Conference"
-          }
-        },
-        "stats": {
-          "gp": 78,
-          "w": 39,
-          "l": 29,
-          "t": 0,
-          "otl": 10,
-          "pts": 88,
-          "pct": 0.5641,
-          "stk": "OT1",
-          "gf": 270,
-          "ga": 263,
-          "gd": 7
-        },
-        "rnk": {
-          "lg": 16,
-          "cf": 5,
-          "dv": 1,
-          "wc": null
         }
       },
       {
@@ -729,7 +729,7 @@
           "gd": 8
         },
         "rnk": {
-          "lg": 17,
+          "lg": 18,
           "cf": 6,
           "dv": 2,
           "wc": null
@@ -856,17 +856,17 @@
           }
         },
         "stats": {
-          "gp": 76,
+          "gp": 77,
           "w": 37,
-          "l": 32,
+          "l": 33,
           "t": 0,
           "otl": 7,
           "pts": 81,
-          "pct": 0.53289,
-          "stk": "W1",
-          "gf": 234,
-          "ga": 269,
-          "gd": -35
+          "pct": 0.52597,
+          "stk": "L1",
+          "gf": 236,
+          "ga": 274,
+          "gd": -38
         },
         "rnk": {
           "lg": 23,

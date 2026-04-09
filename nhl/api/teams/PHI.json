@@ -412,7 +412,7 @@
           "gd": -3
         },
         "rnk": {
-          "lg": 14,
+          "lg": 15,
           "cf": 11,
           "dv": 5,
           "wc": 5
@@ -434,20 +434,20 @@
           }
         },
         "stats": {
-          "gp": 78,
-          "w": 39,
+          "gp": 79,
+          "w": 40,
           "l": 30,
           "t": 0,
           "otl": 9,
-          "pts": 87,
-          "pct": 0.55769,
-          "stk": "L1",
-          "gf": 248,
+          "pts": 89,
+          "pct": 0.56329,
+          "stk": "W1",
+          "gf": 252,
           "ga": 240,
-          "gd": 8
+          "gd": 12
         },
         "rnk": {
-          "lg": 18,
+          "lg": 16,
           "cf": 12,
           "dv": 6,
           "wc": 6
@@ -504,17 +504,17 @@
           }
         },
         "stats": {
-          "gp": 78,
+          "gp": 79,
           "w": 33,
-          "l": 36,
+          "l": 37,
           "t": 0,
           "otl": 9,
           "pts": 75,
-          "pct": 0.48077,
-          "stk": "W2",
-          "gf": 229,
-          "ga": 238,
-          "gd": -9
+          "pct": 0.47468,
+          "stk": "L1",
+          "gf": 232,
+          "ga": 243,
+          "gd": -11
         },
         "rnk": {
           "lg": 29,
@@ -562,6 +562,41 @@
       },
       {
         "team": {
+          "id": "BUF",
+          "city": "Buffalo",
+          "nick": "Sabres",
+          "full": "Buffalo Sabres",
+          "div": {
+            "id": "div-atlantic",
+            "name": "Atlantic Division"
+          },
+          "conf": {
+            "id": "conf-eastern",
+            "name": "Eastern Conference"
+          }
+        },
+        "stats": {
+          "gp": 79,
+          "w": 48,
+          "l": 23,
+          "t": 0,
+          "otl": 8,
+          "pts": 104,
+          "pct": 0.65823,
+          "stk": "W2",
+          "gf": 275,
+          "ga": 236,
+          "gd": 39
+        },
+        "rnk": {
+          "lg": 4,
+          "cf": 2,
+          "dv": 1,
+          "wc": null
+        }
+      },
+      {
+        "team": {
           "id": "TBL",
           "city": "Tampa Bay",
           "nick": "Lightning",
@@ -587,41 +622,6 @@
           "gf": 281,
           "ga": 221,
           "gd": 60
-        },
-        "rnk": {
-          "lg": 4,
-          "cf": 2,
-          "dv": 1,
-          "wc": null
-        }
-      },
-      {
-        "team": {
-          "id": "BUF",
-          "city": "Buffalo",
-          "nick": "Sabres",
-          "full": "Buffalo Sabres",
-          "div": {
-            "id": "div-atlantic",
-            "name": "Atlantic Division"
-          },
-          "conf": {
-            "id": "conf-eastern",
-            "name": "Eastern Conference"
-          }
-        },
-        "stats": {
-          "gp": 78,
-          "w": 47,
-          "l": 23,
-          "t": 0,
-          "otl": 8,
-          "pts": 102,
-          "pct": 0.65385,
-          "stk": "W1",
-          "gf": 270,
-          "ga": 233,
-          "gd": 37
         },
         "rnk": {
           "lg": 5,
@@ -869,7 +869,7 @@
           "gd": -10
         },
         "rnk": {
-          "lg": 13,
+          "lg": 14,
           "cf": 10,
           "dv": 6,
           "wc": 4
@@ -904,7 +904,7 @@
           "gd": -3
         },
         "rnk": {
-          "lg": 14,
+          "lg": 15,
           "cf": 11,
           "dv": 5,
           "wc": 5
@@ -926,20 +926,20 @@
           }
         },
         "stats": {
-          "gp": 78,
-          "w": 39,
+          "gp": 79,
+          "w": 40,
           "l": 30,
           "t": 0,
           "otl": 9,
-          "pts": 87,
-          "pct": 0.55769,
-          "stk": "L1",
-          "gf": 248,
+          "pts": 89,
+          "pct": 0.56329,
+          "stk": "W1",
+          "gf": 252,
           "ga": 240,
-          "gd": 8
+          "gd": 12
         },
         "rnk": {
-          "lg": 18,
+          "lg": 16,
           "cf": 12,
           "dv": 6,
           "wc": 6
@@ -982,41 +982,6 @@
       },
       {
         "team": {
-          "id": "TOR",
-          "city": "Toronto",
-          "nick": "Maple Leafs",
-          "full": "Toronto Maple Leafs",
-          "div": {
-            "id": "div-atlantic",
-            "name": "Atlantic Division"
-          },
-          "conf": {
-            "id": "conf-eastern",
-            "name": "Eastern Conference"
-          }
-        },
-        "stats": {
-          "gp": 77,
-          "w": 32,
-          "l": 31,
-          "t": 0,
-          "otl": 14,
-          "pts": 78,
-          "pct": 0.50649,
-          "stk": "OT1",
-          "gf": 242,
-          "ga": 275,
-          "gd": -33
-        },
-        "rnk": {
-          "lg": 26,
-          "cf": 14,
-          "dv": 7,
-          "wc": 8
-        }
-      },
-      {
-        "team": {
           "id": "FLA",
           "city": "Florida",
           "nick": "Panthers",
@@ -1044,6 +1009,41 @@
           "gd": -33
         },
         "rnk": {
+          "lg": 26,
+          "cf": 14,
+          "dv": 7,
+          "wc": 8
+        }
+      },
+      {
+        "team": {
+          "id": "TOR",
+          "city": "Toronto",
+          "nick": "Maple Leafs",
+          "full": "Toronto Maple Leafs",
+          "div": {
+            "id": "div-atlantic",
+            "name": "Atlantic Division"
+          },
+          "conf": {
+            "id": "conf-eastern",
+            "name": "Eastern Conference"
+          }
+        },
+        "stats": {
+          "gp": 78,
+          "w": 32,
+          "l": 32,
+          "t": 0,
+          "otl": 14,
+          "pts": 78,
+          "pct": 0.5,
+          "stk": "L1",
+          "gf": 242,
+          "ga": 279,
+          "gd": -37
+        },
+        "rnk": {
           "lg": 27,
           "cf": 15,
           "dv": 8,
@@ -1066,17 +1066,17 @@
           }
         },
         "stats": {
-          "gp": 78,
+          "gp": 79,
           "w": 33,
-          "l": 36,
+          "l": 37,
           "t": 0,
           "otl": 9,
           "pts": 75,
-          "pct": 0.48077,
-          "stk": "W2",
-          "gf": 229,
-          "ga": 238,
-          "gd": -9
+          "pct": 0.47468,
+          "stk": "L1",
+          "gf": 232,
+          "ga": 243,
+          "gd": -11
         },
         "rnk": {
           "lg": 29,
