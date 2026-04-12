@@ -15,89 +15,21 @@
       }
     },
     "stats": {
-      "gp": 13,
-      "w": 8,
+      "gp": 14,
+      "w": 9,
       "l": 5,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".615",
-      "stk": "W1",
-      "rf": 56,
-      "ra": 48,
-      "rd": 8
+      "pct": ".643",
+      "stk": "W2",
+      "rf": 60,
+      "ra": 51,
+      "rd": 9
     },
     "rnk": {
-      "lg": "5",
-      "cf": "5",
+      "lg": "2",
+      "cf": "2",
       "dv": "1",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "STL",
-      "city": "St. Louis",
-      "nick": "Cardinals",
-      "full": "St. Louis Cardinals",
-      "div": {
-        "id": "national-league-central",
-        "name": "National League Central"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 13,
-      "w": 8,
-      "l": 5,
-      "gb_div": "-",
-      "gb_wc": "+0.5",
-      "pct": ".615",
-      "stk": "W3",
-      "rf": 62,
-      "ra": 64,
-      "rd": -2
-    },
-    "rnk": {
-      "lg": "4",
-      "cf": "4",
-      "dv": "2",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "MIL",
-      "city": "Milwaukee",
-      "nick": "Brewers",
-      "full": "Milwaukee Brewers",
-      "div": {
-        "id": "national-league-central",
-        "name": "National League Central"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 13,
-      "w": 8,
-      "l": 5,
-      "gb_div": "-",
-      "gb_wc": "+0.5",
-      "pct": ".615",
-      "stk": "L3",
-      "rf": 73,
-      "ra": 53,
-      "rd": 20
-    },
-    "rnk": {
-      "lg": "3",
-      "cf": "3",
-      "dv": "3",
       "clinch": ""
     }
   },
@@ -117,20 +49,88 @@
       }
     },
     "stats": {
+      "gp": 15,
+      "w": 9,
+      "l": 6,
+      "gb_div": "0.5",
+      "gb_wc": "+0.5",
+      "pct": ".600",
+      "stk": "W1",
+      "rf": 48,
+      "ra": 61,
+      "rd": -13
+    },
+    "rnk": {
+      "lg": "5",
+      "cf": "5",
+      "dv": "2",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "STL",
+      "city": "St. Louis",
+      "nick": "Cardinals",
+      "full": "St. Louis Cardinals",
+      "div": {
+        "id": "national-league-central",
+        "name": "National League Central"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
       "gp": 14,
       "w": 8,
       "l": 6,
-      "gb_div": "0.5",
+      "gb_div": "1.0",
       "gb_wc": "-",
       "pct": ".571",
-      "stk": "L3",
-      "rf": 41,
-      "ra": 58,
-      "rd": -17
+      "stk": "L1",
+      "rf": 63,
+      "ra": 71,
+      "rd": -8
     },
     "rnk": {
-      "lg": "9",
-      "cf": "9",
+      "lg": "7",
+      "cf": "7",
+      "dv": "3",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "MIL",
+      "city": "Milwaukee",
+      "nick": "Brewers",
+      "full": "Milwaukee Brewers",
+      "div": {
+        "id": "national-league-central",
+        "name": "National League Central"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 14,
+      "w": 8,
+      "l": 6,
+      "gb_div": "1.0",
+      "gb_wc": "-",
+      "pct": ".571",
+      "stk": "L4",
+      "rf": 74,
+      "ra": 56,
+      "rd": 18
+    },
+    "rnk": {
+      "lg": "6",
+      "cf": "6",
       "dv": "4",
       "clinch": ""
     }
@@ -151,20 +151,20 @@
       }
     },
     "stats": {
-      "gp": 13,
+      "gp": 14,
       "w": 6,
-      "l": 7,
-      "gb_div": "2.0",
-      "gb_wc": "1.5",
-      "pct": ".462",
-      "stk": "L1",
-      "rf": 56,
-      "ra": 46,
-      "rd": 10
+      "l": 8,
+      "gb_div": "3.0",
+      "gb_wc": "2.0",
+      "pct": ".429",
+      "stk": "L2",
+      "rf": 59,
+      "ra": 50,
+      "rd": 9
     },
     "rnk": {
-      "lg": "11",
-      "cf": "11",
+      "lg": "12",
+      "cf": "12",
       "dv": "5",
       "clinch": ""
     }
