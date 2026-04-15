@@ -49,17 +49,17 @@
           "id": "BOS",
           "name": "Boston Bruins",
           "stats": {
-            "gp": 81,
-            "w": 44,
+            "gp": 82,
+            "w": 45,
             "l": 27,
             "t": 0,
             "otl": 10,
-            "pts": 98,
-            "pct": 0.60494,
-            "stk": "W1",
-            "gf": 268,
+            "pts": 100,
+            "pct": 0.60976,
+            "stk": "W2",
+            "gf": 272,
             "ga": 250,
-            "gd": 18
+            "gd": 22
           }
         }
       },
@@ -136,17 +136,17 @@
           "id": "MTL",
           "name": "Montreal Canadiens",
           "stats": {
-            "gp": 81,
+            "gp": 82,
             "w": 48,
-            "l": 23,
+            "l": 24,
             "t": 0,
             "otl": 10,
             "pts": 106,
-            "pct": 0.65432,
-            "stk": "W1",
-            "gf": 281,
-            "ga": 252,
-            "gd": 29
+            "pct": 0.64634,
+            "stk": "L1",
+            "gf": 283,
+            "ga": 256,
+            "gd": 27
           }
         }
       },
@@ -165,17 +165,17 @@
           "id": "BOS",
           "name": "Boston Bruins",
           "stats": {
-            "gp": 81,
-            "w": 44,
+            "gp": 82,
+            "w": 45,
             "l": 27,
             "t": 0,
             "otl": 10,
-            "pts": 98,
-            "pct": 0.60494,
-            "stk": "W1",
-            "gf": 268,
+            "pts": 100,
+            "pct": 0.60976,
+            "stk": "W2",
+            "gf": 272,
             "ga": 250,
-            "gd": 18
+            "gd": 22
           }
         }
       },
@@ -329,17 +329,17 @@
           }
         },
         "stats": {
-          "gp": 81,
+          "gp": 82,
           "w": 48,
-          "l": 23,
+          "l": 24,
           "t": 0,
           "otl": 10,
           "pts": 106,
-          "pct": 0.65432,
-          "stk": "W1",
-          "gf": 281,
-          "ga": 252,
-          "gd": 29
+          "pct": 0.64634,
+          "stk": "L1",
+          "gf": 283,
+          "ga": 256,
+          "gd": 27
         },
         "rnk": {
           "lg": 6,
@@ -364,21 +364,21 @@
           }
         },
         "stats": {
-          "gp": 81,
-          "w": 44,
+          "gp": 82,
+          "w": 45,
           "l": 27,
           "t": 0,
           "otl": 10,
-          "pts": 98,
-          "pct": 0.60494,
-          "stk": "W1",
-          "gf": 268,
+          "pts": 100,
+          "pct": 0.60976,
+          "stk": "W2",
+          "gf": 272,
           "ga": 250,
-          "gd": 18
+          "gd": 22
         },
         "rnk": {
-          "lg": 9,
-          "cf": 6,
+          "lg": 8,
+          "cf": 5,
           "dv": 4,
           "wc": 1
         }
@@ -412,8 +412,8 @@
           "gd": 30
         },
         "rnk": {
-          "lg": 10,
-          "cf": 7,
+          "lg": 11,
+          "cf": 8,
           "dv": 5,
           "wc": 2
         }
@@ -447,7 +447,7 @@
           "gd": -10
         },
         "rnk": {
-          "lg": 14,
+          "lg": 15,
           "cf": 10,
           "dv": 6,
           "wc": 4
@@ -482,7 +482,7 @@
           "gd": -32
         },
         "rnk": {
-          "lg": 26,
+          "lg": 25,
           "cf": 14,
           "dv": 7,
           "wc": 8
@@ -541,17 +541,17 @@
           }
         },
         "stats": {
-          "gp": 81,
-          "w": 52,
+          "gp": 82,
+          "w": 53,
           "l": 22,
           "t": 0,
           "otl": 7,
-          "pts": 111,
-          "pct": 0.68519,
-          "stk": "OT1",
-          "gf": 294,
-          "ga": 239,
-          "gd": 55
+          "pts": 113,
+          "pct": 0.68902,
+          "stk": "W1",
+          "gf": 296,
+          "ga": 240,
+          "gd": 56
         },
         "rnk": {
           "lg": 2,
@@ -646,57 +646,22 @@
           }
         },
         "stats": {
-          "gp": 81,
+          "gp": 82,
           "w": 48,
-          "l": 23,
+          "l": 24,
           "t": 0,
           "otl": 10,
           "pts": 106,
-          "pct": 0.65432,
-          "stk": "W1",
-          "gf": 281,
-          "ga": 252,
-          "gd": 29
+          "pct": 0.64634,
+          "stk": "L1",
+          "gf": 283,
+          "ga": 256,
+          "gd": 27
         },
         "rnk": {
           "lg": 6,
           "cf": 4,
           "dv": 3,
-          "wc": null
-        }
-      },
-      {
-        "team": {
-          "id": "PIT",
-          "city": "Pittsburgh",
-          "nick": "Penguins",
-          "full": "Pittsburgh Penguins",
-          "div": {
-            "id": "div-metropolitan",
-            "name": "Metropolitan Division"
-          },
-          "conf": {
-            "id": "conf-eastern",
-            "name": "Eastern Conference"
-          }
-        },
-        "stats": {
-          "gp": 81,
-          "w": 41,
-          "l": 24,
-          "t": 0,
-          "otl": 16,
-          "pts": 98,
-          "pct": 0.60494,
-          "stk": "L2",
-          "gf": 288,
-          "ga": 261,
-          "gd": 27
-        },
-        "rnk": {
-          "lg": 8,
-          "cf": 5,
-          "dv": 2,
           "wc": null
         }
       },
@@ -716,23 +681,93 @@
           }
         },
         "stats": {
-          "gp": 81,
-          "w": 44,
+          "gp": 82,
+          "w": 45,
           "l": 27,
           "t": 0,
           "otl": 10,
-          "pts": 98,
-          "pct": 0.60494,
-          "stk": "W1",
-          "gf": 268,
+          "pts": 100,
+          "pct": 0.60976,
+          "stk": "W2",
+          "gf": 272,
           "ga": 250,
-          "gd": 18
+          "gd": 22
+        },
+        "rnk": {
+          "lg": 8,
+          "cf": 5,
+          "dv": 4,
+          "wc": 1
+        }
+      },
+      {
+        "team": {
+          "id": "PIT",
+          "city": "Pittsburgh",
+          "nick": "Penguins",
+          "full": "Pittsburgh Penguins",
+          "div": {
+            "id": "div-metropolitan",
+            "name": "Metropolitan Division"
+          },
+          "conf": {
+            "id": "conf-eastern",
+            "name": "Eastern Conference"
+          }
+        },
+        "stats": {
+          "gp": 82,
+          "w": 41,
+          "l": 25,
+          "t": 0,
+          "otl": 16,
+          "pts": 98,
+          "pct": 0.59756,
+          "stk": "L3",
+          "gf": 293,
+          "ga": 268,
+          "gd": 25
         },
         "rnk": {
           "lg": 9,
           "cf": 6,
-          "dv": 4,
-          "wc": 1
+          "dv": 2,
+          "wc": null
+        }
+      },
+      {
+        "team": {
+          "id": "PHI",
+          "city": "Philadelphia",
+          "nick": "Flyers",
+          "full": "Philadelphia Flyers",
+          "div": {
+            "id": "div-metropolitan",
+            "name": "Metropolitan Division"
+          },
+          "conf": {
+            "id": "conf-eastern",
+            "name": "Eastern Conference"
+          }
+        },
+        "stats": {
+          "gp": 82,
+          "w": 43,
+          "l": 27,
+          "t": 0,
+          "otl": 12,
+          "pts": 98,
+          "pct": 0.59756,
+          "stk": "W3",
+          "gf": 250,
+          "ga": 243,
+          "gd": 7
+        },
+        "rnk": {
+          "lg": 10,
+          "cf": 7,
+          "dv": 3,
+          "wc": null
         }
       },
       {
@@ -764,45 +799,10 @@
           "gd": 30
         },
         "rnk": {
-          "lg": 10,
-          "cf": 7,
-          "dv": 5,
-          "wc": 2
-        }
-      },
-      {
-        "team": {
-          "id": "PHI",
-          "city": "Philadelphia",
-          "nick": "Flyers",
-          "full": "Philadelphia Flyers",
-          "div": {
-            "id": "div-metropolitan",
-            "name": "Metropolitan Division"
-          },
-          "conf": {
-            "id": "conf-eastern",
-            "name": "Eastern Conference"
-          }
-        },
-        "stats": {
-          "gp": 81,
-          "w": 42,
-          "l": 27,
-          "t": 0,
-          "otl": 12,
-          "pts": 96,
-          "pct": 0.59259,
-          "stk": "W2",
-          "gf": 246,
-          "ga": 241,
-          "gd": 5
-        },
-        "rnk": {
           "lg": 11,
           "cf": 8,
-          "dv": 3,
-          "wc": null
+          "dv": 5,
+          "wc": 2
         }
       },
       {
@@ -821,17 +821,17 @@
           }
         },
         "stats": {
-          "gp": 81,
-          "w": 42,
+          "gp": 82,
+          "w": 43,
           "l": 30,
           "t": 0,
           "otl": 9,
-          "pts": 93,
-          "pct": 0.57407,
-          "stk": "W3",
-          "gf": 261,
-          "ga": 243,
-          "gd": 18
+          "pts": 95,
+          "pct": 0.57927,
+          "stk": "W4",
+          "gf": 263,
+          "ga": 244,
+          "gd": 19
         },
         "rnk": {
           "lg": 12,
@@ -869,7 +869,7 @@
           "gd": -10
         },
         "rnk": {
-          "lg": 14,
+          "lg": 15,
           "cf": 10,
           "dv": 6,
           "wc": 4
@@ -891,20 +891,20 @@
           }
         },
         "stats": {
-          "gp": 81,
+          "gp": 82,
           "w": 40,
-          "l": 29,
+          "l": 30,
           "t": 0,
           "otl": 12,
           "pts": 92,
-          "pct": 0.5679,
-          "stk": "L1",
-          "gf": 252,
-          "ga": 251,
-          "gd": 1
+          "pct": 0.56098,
+          "stk": "L2",
+          "gf": 253,
+          "ga": 253,
+          "gd": 0
         },
         "rnk": {
-          "lg": 15,
+          "lg": 16,
           "cf": 11,
           "dv": 5,
           "wc": 5
@@ -926,20 +926,20 @@
           }
         },
         "stats": {
-          "gp": 81,
+          "gp": 82,
           "w": 43,
-          "l": 33,
+          "l": 34,
           "t": 0,
           "otl": 5,
           "pts": 91,
-          "pct": 0.56173,
-          "stk": "L2",
-          "gf": 232,
-          "ga": 239,
-          "gd": -7
+          "pct": 0.55488,
+          "stk": "L3",
+          "gf": 233,
+          "ga": 241,
+          "gd": -8
         },
         "rnk": {
-          "lg": 17,
+          "lg": 18,
           "cf": 12,
           "dv": 6,
           "wc": 6
@@ -961,17 +961,17 @@
           }
         },
         "stats": {
-          "gp": 81,
+          "gp": 82,
           "w": 42,
-          "l": 36,
+          "l": 37,
           "t": 0,
           "otl": 3,
           "pts": 87,
-          "pct": 0.53704,
-          "stk": "W2",
+          "pct": 0.53049,
+          "stk": "L1",
           "gf": 230,
-          "ga": 250,
-          "gd": -20
+          "ga": 254,
+          "gd": -24
         },
         "rnk": {
           "lg": 21,
@@ -1009,7 +1009,7 @@
           "gd": -32
         },
         "rnk": {
-          "lg": 26,
+          "lg": 25,
           "cf": 14,
           "dv": 7,
           "wc": 8
