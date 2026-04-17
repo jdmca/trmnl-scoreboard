@@ -15,17 +15,17 @@
       }
     },
     "stats": {
-      "gp": 81,
-      "w": 54,
+      "gp": 82,
+      "w": 55,
       "l": 16,
       "t": 0,
       "otl": 11,
-      "pts": 119,
-      "pct": 0.73457,
-      "stk": "W2",
-      "gf": 300,
+      "pts": 121,
+      "pct": 0.7378,
+      "stk": "W3",
+      "gf": 302,
       "ga": 203,
-      "gd": 97
+      "gd": 99
     },
     "rnk": {
       "lg": 1,
@@ -120,58 +120,23 @@
       }
     },
     "stats": {
-      "gp": 81,
+      "gp": 82,
       "w": 43,
-      "l": 32,
+      "l": 33,
       "t": 0,
       "otl": 6,
       "pts": 92,
-      "pct": 0.5679,
-      "stk": "W1",
-      "gf": 265,
-      "ga": 235,
-      "gd": 30
+      "pct": 0.56098,
+      "stk": "L1",
+      "gf": 268,
+      "ga": 240,
+      "gd": 28
     },
     "rnk": {
-      "lg": 14,
-      "cf": 5,
+      "lg": 15,
+      "cf": 6,
       "dv": 4,
       "wc": 1
-    }
-  },
-  {
-    "team": {
-      "id": "NSH",
-      "city": "Nashville",
-      "nick": "Predators",
-      "full": "Nashville Predators",
-      "div": {
-        "id": "div-central",
-        "name": "Central Division"
-      },
-      "conf": {
-        "id": "conf-western",
-        "name": "Western Conference"
-      }
-    },
-    "stats": {
-      "gp": 81,
-      "w": 38,
-      "l": 33,
-      "t": 0,
-      "otl": 10,
-      "pts": 86,
-      "pct": 0.53086,
-      "stk": "L1",
-      "gf": 243,
-      "ga": 264,
-      "gd": -21
-    },
-    "rnk": {
-      "lg": 22,
-      "cf": 9,
-      "dv": 5,
-      "wc": 3
     }
   },
   {
@@ -190,17 +155,52 @@
       }
     },
     "stats": {
-      "gp": 81,
-      "w": 36,
+      "gp": 82,
+      "w": 37,
       "l": 33,
       "t": 0,
       "otl": 12,
-      "pts": 84,
-      "pct": 0.51852,
-      "stk": "W3",
-      "gf": 226,
-      "ga": 255,
-      "gd": -29
+      "pts": 86,
+      "pct": 0.52439,
+      "stk": "W4",
+      "gf": 231,
+      "ga": 258,
+      "gd": -27
+    },
+    "rnk": {
+      "lg": 22,
+      "cf": 9,
+      "dv": 5,
+      "wc": 3
+    }
+  },
+  {
+    "team": {
+      "id": "NSH",
+      "city": "Nashville",
+      "nick": "Predators",
+      "full": "Nashville Predators",
+      "div": {
+        "id": "div-central",
+        "name": "Central Division"
+      },
+      "conf": {
+        "id": "conf-western",
+        "name": "Western Conference"
+      }
+    },
+    "stats": {
+      "gp": 82,
+      "w": 38,
+      "l": 34,
+      "t": 0,
+      "otl": 10,
+      "pts": 86,
+      "pct": 0.52439,
+      "stk": "L2",
+      "gf": 247,
+      "ga": 269,
+      "gd": -22
     },
     "rnk": {
       "lg": 23,
@@ -225,17 +225,17 @@
       }
     },
     "stats": {
-      "gp": 81,
+      "gp": 82,
       "w": 35,
-      "l": 34,
+      "l": 35,
       "t": 0,
       "otl": 12,
       "pts": 82,
-      "pct": 0.50617,
-      "stk": "L3",
-      "gf": 230,
-      "ga": 254,
-      "gd": -24
+      "pct": 0.5,
+      "stk": "L4",
+      "gf": 231,
+      "ga": 260,
+      "gd": -29
     },
     "rnk": {
       "lg": 26,
