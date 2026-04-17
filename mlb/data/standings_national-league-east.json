@@ -69,6 +69,40 @@
   },
   {
     "team": {
+      "id": "WSH",
+      "city": "Washington",
+      "nick": "Nationals",
+      "full": "Washington Nationals",
+      "div": {
+        "id": "national-league-east",
+        "name": "National League East"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 19,
+      "w": 9,
+      "l": 10,
+      "gb_div": "3.0",
+      "gb_wc": "2.0",
+      "pct": ".474",
+      "stk": "W1",
+      "rf": 107,
+      "ra": 117,
+      "rd": -10
+    },
+    "rnk": {
+      "lg": "11",
+      "cf": "11",
+      "dv": "3",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
       "id": "PHI",
       "city": "Philadelphia",
       "nick": "Phillies",
@@ -97,40 +131,6 @@
     "rnk": {
       "lg": "12",
       "cf": "12",
-      "dv": "3",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "WSH",
-      "city": "Washington",
-      "nick": "Nationals",
-      "full": "Washington Nationals",
-      "div": {
-        "id": "national-league-east",
-        "name": "National League East"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 18,
-      "w": 8,
-      "l": 10,
-      "gb_div": "3.5",
-      "gb_wc": "2.5",
-      "pct": ".444",
-      "stk": "L1",
-      "rf": 99,
-      "ra": 110,
-      "rd": -11
-    },
-    "rnk": {
-      "lg": "11",
-      "cf": "11",
       "dv": "4",
       "clinch": ""
     }
@@ -163,8 +163,8 @@
       "rd": -14
     },
     "rnk": {
-      "lg": "13",
-      "cf": "13",
+      "lg": "14",
+      "cf": "14",
       "dv": "5",
       "clinch": ""
     }
