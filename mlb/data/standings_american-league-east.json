@@ -1,40 +1,6 @@
 [
   {
     "team": {
-      "id": "TB",
-      "city": "Tampa Bay",
-      "nick": "Rays",
-      "full": "Tampa Bay Rays",
-      "div": {
-        "id": "american-league-east",
-        "name": "American League East"
-      },
-      "conf": {
-        "id": "american-league",
-        "name": "American League"
-      }
-    },
-    "stats": {
-      "gp": 20,
-      "w": 12,
-      "l": 8,
-      "gb_div": "-",
-      "gb_wc": "-",
-      "pct": ".600",
-      "stk": "W1",
-      "rf": 100,
-      "ra": 103,
-      "rd": -3
-    },
-    "rnk": {
-      "lg": "1",
-      "cf": "1",
-      "dv": "1",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
       "id": "NYY",
       "city": "New York",
       "nick": "Yankees",
@@ -49,16 +15,50 @@
       }
     },
     "stats": {
+      "gp": 22,
+      "w": 13,
+      "l": 9,
+      "gb_div": "-",
+      "gb_wc": "-",
+      "pct": ".591",
+      "stk": "W3",
+      "rf": 110,
+      "ra": 82,
+      "rd": 28
+    },
+    "rnk": {
+      "lg": "1",
+      "cf": "1",
+      "dv": "1",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "TB",
+      "city": "Tampa Bay",
+      "nick": "Rays",
+      "full": "Tampa Bay Rays",
+      "div": {
+        "id": "american-league-east",
+        "name": "American League East"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
       "gp": 21,
       "w": 12,
       "l": 9,
       "gb_div": "0.5",
-      "gb_wc": "+1.0",
+      "gb_wc": "+1.5",
       "pct": ".571",
-      "stk": "W2",
+      "stk": "L1",
       "rf": 103,
-      "ra": 82,
-      "rd": 21
+      "ra": 109,
+      "rd": -6
     },
     "rnk": {
       "lg": "2",
@@ -83,55 +83,21 @@
       }
     },
     "stats": {
-      "gp": 21,
+      "gp": 22,
       "w": 10,
-      "l": 11,
-      "gb_div": "2.5",
+      "l": 12,
+      "gb_div": "3.0",
       "gb_wc": "1.0",
-      "pct": ".476",
-      "stk": "L1",
-      "rf": 87,
-      "ra": 90,
-      "rd": -3
+      "pct": ".455",
+      "stk": "L2",
+      "rf": 91,
+      "ra": 98,
+      "rd": -7
     },
     "rnk": {
       "lg": "9",
       "cf": "9",
       "dv": "3",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "BOS",
-      "city": "Boston",
-      "nick": "Red Sox",
-      "full": "Boston Red Sox",
-      "div": {
-        "id": "american-league-east",
-        "name": "American League East"
-      },
-      "conf": {
-        "id": "american-league",
-        "name": "American League"
-      }
-    },
-    "stats": {
-      "gp": 20,
-      "w": 8,
-      "l": 12,
-      "gb_div": "4.0",
-      "gb_wc": "2.5",
-      "pct": ".400",
-      "stk": "L1",
-      "rf": 79,
-      "ra": 90,
-      "rd": -11
-    },
-    "rnk": {
-      "lg": "11",
-      "cf": "11",
-      "dv": "4",
       "clinch": ""
     }
   },
@@ -151,20 +117,54 @@
       }
     },
     "stats": {
-      "gp": 20,
-      "w": 7,
+      "gp": 21,
+      "w": 8,
       "l": 13,
-      "gb_div": "5.0",
-      "gb_wc": "3.5",
-      "pct": ".350",
-      "stk": "L4",
-      "rf": 73,
-      "ra": 105,
-      "rd": -32
+      "gb_div": "4.5",
+      "gb_wc": "2.5",
+      "pct": ".381",
+      "stk": "W1",
+      "rf": 83,
+      "ra": 109,
+      "rd": -26
     },
     "rnk": {
-      "lg": "13",
-      "cf": "13",
+      "lg": "11",
+      "cf": "11",
+      "dv": "4",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "BOS",
+      "city": "Boston",
+      "nick": "Red Sox",
+      "full": "Boston Red Sox",
+      "div": {
+        "id": "american-league-east",
+        "name": "American League East"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 21,
+      "w": 8,
+      "l": 13,
+      "gb_div": "4.5",
+      "gb_wc": "2.5",
+      "pct": ".381",
+      "stk": "L2",
+      "rf": 81,
+      "ra": 96,
+      "rd": -15
+    },
+    "rnk": {
+      "lg": "12",
+      "cf": "12",
       "dv": "5",
       "clinch": ""
     }
