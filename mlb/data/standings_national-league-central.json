@@ -15,55 +15,21 @@
       }
     },
     "stats": {
-      "gp": 22,
-      "w": 14,
+      "gp": 23,
+      "w": 15,
       "l": 8,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".636",
-      "stk": "W3",
-      "rf": 78,
-      "ra": 86,
-      "rd": -8
+      "pct": ".652",
+      "stk": "W4",
+      "rf": 84,
+      "ra": 87,
+      "rd": -3
     },
     "rnk": {
       "lg": "4",
       "cf": "4",
       "dv": "1",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "STL",
-      "city": "St. Louis",
-      "nick": "Cardinals",
-      "full": "St. Louis Cardinals",
-      "div": {
-        "id": "national-league-central",
-        "name": "National League Central"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 21,
-      "w": 13,
-      "l": 8,
-      "gb_div": "0.5",
-      "gb_wc": "+0.5",
-      "pct": ".619",
-      "stk": "W5",
-      "rf": 103,
-      "ra": 111,
-      "rd": -8
-    },
-    "rnk": {
-      "lg": "5",
-      "cf": "5",
-      "dv": "2",
       "clinch": ""
     }
   },
@@ -86,7 +52,7 @@
       "gp": 22,
       "w": 13,
       "l": 9,
-      "gb_div": "1.0",
+      "gb_div": "1.5",
       "gb_wc": "-",
       "pct": ".591",
       "stk": "W1",
@@ -95,9 +61,9 @@
       "rd": 25
     },
     "rnk": {
-      "lg": "7",
-      "cf": "7",
-      "dv": "3",
+      "lg": "8",
+      "cf": "8",
+      "dv": "2",
       "clinch": ""
     }
   },
@@ -117,20 +83,54 @@
       }
     },
     "stats": {
-      "gp": 21,
-      "w": 12,
+      "gp": 22,
+      "w": 13,
       "l": 9,
       "gb_div": "1.5",
-      "gb_wc": "0.5",
-      "pct": ".571",
-      "stk": "W5",
-      "rf": 112,
-      "ra": 82,
-      "rd": 30
+      "gb_wc": "-",
+      "pct": ".591",
+      "stk": "W6",
+      "rf": 117,
+      "ra": 83,
+      "rd": 34
     },
     "rnk": {
-      "lg": "9",
-      "cf": "9",
+      "lg": "6",
+      "cf": "6",
+      "dv": "3",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "STL",
+      "city": "St. Louis",
+      "nick": "Cardinals",
+      "full": "St. Louis Cardinals",
+      "div": {
+        "id": "national-league-central",
+        "name": "National League Central"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 22,
+      "w": 13,
+      "l": 9,
+      "gb_div": "1.5",
+      "gb_wc": "-",
+      "pct": ".591",
+      "stk": "L1",
+      "rf": 106,
+      "ra": 116,
+      "rd": -10
+    },
+    "rnk": {
+      "lg": "5",
+      "cf": "5",
       "dv": "4",
       "clinch": ""
     }
@@ -154,7 +154,7 @@
       "gp": 21,
       "w": 12,
       "l": 9,
-      "gb_div": "1.5",
+      "gb_div": "2.0",
       "gb_wc": "0.5",
       "pct": ".571",
       "stk": "L1",
@@ -163,8 +163,8 @@
       "rd": 19
     },
     "rnk": {
-      "lg": "8",
-      "cf": "8",
+      "lg": "9",
+      "cf": "9",
       "dv": "5",
       "clinch": ""
     }
