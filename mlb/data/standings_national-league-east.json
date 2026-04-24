@@ -15,16 +15,16 @@
       }
     },
     "stats": {
-      "gp": 25,
-      "w": 17,
+      "gp": 26,
+      "w": 18,
       "l": 8,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".680",
-      "stk": "W1",
-      "rf": 143,
-      "ra": 86,
-      "rd": 57
+      "pct": ".692",
+      "stk": "W2",
+      "rf": 150,
+      "ra": 88,
+      "rd": 62
     },
     "rnk": {
       "lg": "1",
@@ -52,7 +52,7 @@
       "gp": 25,
       "w": 12,
       "l": 13,
-      "gb_div": "5.0",
+      "gb_div": "5.5",
       "gb_wc": "2.5",
       "pct": ".480",
       "stk": "W1",
@@ -83,55 +83,21 @@
       }
     },
     "stats": {
-      "gp": 25,
+      "gp": 26,
       "w": 11,
-      "l": 14,
-      "gb_div": "6.0",
-      "gb_wc": "3.5",
-      "pct": ".440",
-      "stk": "L1",
-      "rf": 142,
-      "ra": 155,
-      "rd": -13
+      "l": 15,
+      "gb_div": "7.0",
+      "gb_wc": "4.0",
+      "pct": ".423",
+      "stk": "L2",
+      "rf": 144,
+      "ra": 162,
+      "rd": -18
     },
     "rnk": {
       "lg": "12",
       "cf": "12",
       "dv": "3",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "PHI",
-      "city": "Philadelphia",
-      "nick": "Phillies",
-      "full": "Philadelphia Phillies",
-      "div": {
-        "id": "national-league-east",
-        "name": "National League East"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 24,
-      "w": 8,
-      "l": 16,
-      "gb_div": "8.5",
-      "gb_wc": "6.0",
-      "pct": ".333",
-      "stk": "L8",
-      "rf": 82,
-      "ra": 132,
-      "rd": -50
-    },
-    "rnk": {
-      "lg": "15",
-      "cf": "15",
-      "dv": "4",
       "clinch": ""
     }
   },
@@ -151,20 +117,54 @@
       }
     },
     "stats": {
-      "gp": 24,
-      "w": 8,
+      "gp": 25,
+      "w": 9,
       "l": 16,
       "gb_div": "8.5",
-      "gb_wc": "6.0",
-      "pct": ".333",
-      "stk": "W1",
-      "rf": 78,
-      "ra": 104,
-      "rd": -26
+      "gb_wc": "5.5",
+      "pct": ".360",
+      "stk": "W2",
+      "rf": 88,
+      "ra": 112,
+      "rd": -24
     },
     "rnk": {
       "lg": "14",
       "cf": "14",
+      "dv": "4",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "PHI",
+      "city": "Philadelphia",
+      "nick": "Phillies",
+      "full": "Philadelphia Phillies",
+      "div": {
+        "id": "national-league-east",
+        "name": "National League East"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 25,
+      "w": 8,
+      "l": 17,
+      "gb_div": "9.5",
+      "gb_wc": "6.5",
+      "pct": ".320",
+      "stk": "L9",
+      "rf": 89,
+      "ra": 140,
+      "rd": -51
+    },
+    "rnk": {
+      "lg": "15",
+      "cf": "15",
       "dv": "5",
       "clinch": ""
     }
