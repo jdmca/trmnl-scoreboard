@@ -15,20 +15,20 @@
       }
     },
     "stats": {
-      "gp": 28,
-      "w": 19,
+      "gp": 29,
+      "w": 20,
       "l": 9,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".679",
-      "stk": "L1",
-      "rf": 160,
-      "ra": 99,
-      "rd": 61
+      "pct": ".690",
+      "stk": "W1",
+      "rf": 166,
+      "ra": 101,
+      "rd": 65
     },
     "rnk": {
-      "lg": "2",
-      "cf": "2",
+      "lg": "1",
+      "cf": "1",
       "dv": "1",
       "clinch": ""
     }
@@ -49,20 +49,20 @@
       }
     },
     "stats": {
-      "gp": 27,
+      "gp": 28,
       "w": 13,
-      "l": 14,
-      "gb_div": "5.5",
+      "l": 15,
+      "gb_div": "6.5",
       "gb_wc": "3.0",
-      "pct": ".481",
-      "stk": "L1",
-      "rf": 123,
-      "ra": 120,
-      "rd": 3
+      "pct": ".464",
+      "stk": "L2",
+      "rf": 126,
+      "ra": 126,
+      "rd": 0
     },
     "rnk": {
-      "lg": "10",
-      "cf": "10",
+      "lg": "11",
+      "cf": "11",
       "dv": "2",
       "clinch": ""
     }
@@ -83,55 +83,21 @@
       }
     },
     "stats": {
-      "gp": 28,
-      "w": 12,
+      "gp": 29,
+      "w": 13,
       "l": 16,
       "gb_div": "7.0",
-      "gb_wc": "4.5",
-      "pct": ".429",
-      "stk": "W1",
-      "rf": 154,
-      "ra": 170,
-      "rd": -16
+      "gb_wc": "3.5",
+      "pct": ".448",
+      "stk": "W2",
+      "rf": 156,
+      "ra": 171,
+      "rd": -15
     },
     "rnk": {
       "lg": "12",
       "cf": "12",
       "dv": "3",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "NYM",
-      "city": "New York",
-      "nick": "Mets",
-      "full": "New York Mets",
-      "div": {
-        "id": "national-league-east",
-        "name": "National League East"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 26,
-      "w": 9,
-      "l": 17,
-      "gb_div": "9.0",
-      "gb_wc": "6.5",
-      "pct": ".346",
-      "stk": "L1",
-      "rf": 91,
-      "ra": 116,
-      "rd": -25
-    },
-    "rnk": {
-      "lg": "14",
-      "cf": "14",
-      "dv": "4",
       "clinch": ""
     }
   },
@@ -151,20 +117,54 @@
       }
     },
     "stats": {
-      "gp": 27,
+      "gp": 28,
       "w": 9,
-      "l": 18,
-      "gb_div": "9.5",
+      "l": 19,
+      "gb_div": "10.5",
       "gb_wc": "7.0",
-      "pct": ".333",
-      "stk": "W1",
-      "rf": 100,
-      "ra": 150,
-      "rd": -50
+      "pct": ".321",
+      "stk": "L1",
+      "rf": 102,
+      "ra": 156,
+      "rd": -54
     },
     "rnk": {
       "lg": "15",
       "cf": "15",
+      "dv": "4",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "NYM",
+      "city": "New York",
+      "nick": "Mets",
+      "full": "New York Mets",
+      "div": {
+        "id": "national-league-east",
+        "name": "National League East"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 28,
+      "w": 9,
+      "l": 19,
+      "gb_div": "10.5",
+      "gb_wc": "7.0",
+      "pct": ".321",
+      "stk": "L3",
+      "rf": 92,
+      "ra": 122,
+      "rd": -30
+    },
+    "rnk": {
+      "lg": "14",
+      "cf": "14",
       "dv": "5",
       "clinch": ""
     }
