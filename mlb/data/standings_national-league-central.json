@@ -15,16 +15,16 @@
       }
     },
     "stats": {
-      "gp": 28,
-      "w": 18,
+      "gp": 29,
+      "w": 19,
       "l": 10,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".643",
-      "stk": "L1",
-      "rf": 118,
-      "ra": 117,
-      "rd": 1
+      "pct": ".655",
+      "stk": "W1",
+      "rf": 125,
+      "ra": 119,
+      "rd": 6
     },
     "rnk": {
       "lg": "4",
@@ -49,55 +49,21 @@
       }
     },
     "stats": {
-      "gp": 29,
-      "w": 17,
+      "gp": 30,
+      "w": 18,
       "l": 12,
       "gb_div": "1.5",
-      "gb_wc": "+1.0",
-      "pct": ".586",
-      "stk": "L3",
-      "rf": 156,
-      "ra": 127,
-      "rd": 29
+      "gb_wc": "+1.5",
+      "pct": ".600",
+      "stk": "W1",
+      "rf": 164,
+      "ra": 130,
+      "rd": 34
     },
     "rnk": {
       "lg": "5",
       "cf": "5",
       "dv": "2",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "PIT",
-      "city": "Pittsburgh",
-      "nick": "Pirates",
-      "full": "Pittsburgh Pirates",
-      "div": {
-        "id": "national-league-central",
-        "name": "National League Central"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 29,
-      "w": 16,
-      "l": 13,
-      "gb_div": "2.5",
-      "gb_wc": "-",
-      "pct": ".552",
-      "stk": "L2",
-      "rf": 137,
-      "ra": 115,
-      "rd": 22
-    },
-    "rnk": {
-      "lg": "7",
-      "cf": "7",
-      "dv": "3",
       "clinch": ""
     }
   },
@@ -117,21 +83,21 @@
       }
     },
     "stats": {
-      "gp": 28,
-      "w": 15,
+      "gp": 29,
+      "w": 16,
       "l": 13,
       "gb_div": "3.0",
-      "gb_wc": "0.5",
-      "pct": ".536",
-      "stk": "W1",
-      "rf": 129,
-      "ra": 142,
-      "rd": -13
+      "gb_wc": "-",
+      "pct": ".552",
+      "stk": "W2",
+      "rf": 140,
+      "ra": 149,
+      "rd": -9
     },
     "rnk": {
-      "lg": "8",
-      "cf": "8",
-      "dv": "4",
+      "lg": "6",
+      "cf": "6",
+      "dv": "3",
       "clinch": ""
     }
   },
@@ -151,16 +117,50 @@
       }
     },
     "stats": {
-      "gp": 27,
-      "w": 14,
+      "gp": 28,
+      "w": 15,
       "l": 13,
       "gb_div": "3.5",
-      "gb_wc": "1.0",
-      "pct": ".519",
-      "stk": "W1",
-      "rf": 132,
-      "ra": 113,
-      "rd": 19
+      "gb_wc": "0.5",
+      "pct": ".536",
+      "stk": "W2",
+      "rf": 145,
+      "ra": 115,
+      "rd": 30
+    },
+    "rnk": {
+      "lg": "7",
+      "cf": "7",
+      "dv": "4",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "PIT",
+      "city": "Pittsburgh",
+      "nick": "Pirates",
+      "full": "Pittsburgh Pirates",
+      "div": {
+        "id": "national-league-central",
+        "name": "National League Central"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 30,
+      "w": 16,
+      "l": 14,
+      "gb_div": "3.5",
+      "gb_wc": "0.5",
+      "pct": ".533",
+      "stk": "L3",
+      "rf": 144,
+      "ra": 126,
+      "rd": 18
     },
     "rnk": {
       "lg": "9",
