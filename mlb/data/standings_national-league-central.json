@@ -15,55 +15,21 @@
       }
     },
     "stats": {
-      "gp": 32,
-      "w": 20,
+      "gp": 33,
+      "w": 21,
       "l": 12,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".625",
-      "stk": "W3",
-      "rf": 175,
+      "pct": ".636",
+      "stk": "W4",
+      "rf": 177,
       "ra": 139,
-      "rd": 36
+      "rd": 38
     },
     "rnk": {
       "lg": "2",
       "cf": "2",
       "dv": "1",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "CIN",
-      "city": "Cincinnati",
-      "nick": "Reds",
-      "full": "Cincinnati Reds",
-      "div": {
-        "id": "national-league-central",
-        "name": "National League Central"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 32,
-      "w": 20,
-      "l": 12,
-      "gb_div": "-",
-      "gb_wc": "+1.0",
-      "pct": ".625",
-      "stk": "L1",
-      "rf": 134,
-      "ra": 145,
-      "rd": -11
-    },
-    "rnk": {
-      "lg": "4",
-      "cf": "4",
-      "dv": "2",
       "clinch": ""
     }
   },
@@ -83,20 +49,54 @@
       }
     },
     "stats": {
-      "gp": 32,
-      "w": 19,
+      "gp": 33,
+      "w": 20,
       "l": 13,
       "gb_div": "1.0",
-      "gb_wc": "-",
-      "pct": ".594",
-      "stk": "W5",
-      "rf": 162,
-      "ra": 160,
-      "rd": 2
+      "gb_wc": "+0.5",
+      "pct": ".606",
+      "stk": "W6",
+      "rf": 165,
+      "ra": 162,
+      "rd": 3
     },
     "rnk": {
-      "lg": "6",
-      "cf": "6",
+      "lg": "3",
+      "cf": "3",
+      "dv": "2",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "CIN",
+      "city": "Cincinnati",
+      "nick": "Reds",
+      "full": "Cincinnati Reds",
+      "div": {
+        "id": "national-league-central",
+        "name": "National League Central"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 33,
+      "w": 20,
+      "l": 13,
+      "gb_div": "1.0",
+      "gb_wc": "+0.5",
+      "pct": ".606",
+      "stk": "L2",
+      "rf": 141,
+      "ra": 162,
+      "rd": -21
+    },
+    "rnk": {
+      "lg": "5",
+      "cf": "5",
       "dv": "3",
       "clinch": ""
     }
@@ -117,16 +117,16 @@
       }
     },
     "stats": {
-      "gp": 31,
-      "w": 17,
+      "gp": 32,
+      "w": 18,
       "l": 14,
       "gb_div": "2.5",
-      "gb_wc": "1.5",
-      "pct": ".548",
-      "stk": "W2",
-      "rf": 166,
-      "ra": 123,
-      "rd": 43
+      "gb_wc": "1.0",
+      "pct": ".563",
+      "stk": "W3",
+      "rf": 170,
+      "ra": 124,
+      "rd": 46
     },
     "rnk": {
       "lg": "7",
@@ -151,20 +151,20 @@
       }
     },
     "stats": {
-      "gp": 33,
-      "w": 17,
+      "gp": 34,
+      "w": 18,
       "l": 16,
       "gb_div": "3.5",
-      "gb_wc": "2.5",
-      "pct": ".515",
-      "stk": "W1",
-      "rf": 162,
-      "ra": 142,
-      "rd": 20
+      "gb_wc": "2.0",
+      "pct": ".529",
+      "stk": "W2",
+      "rf": 179,
+      "ra": 149,
+      "rd": 30
     },
     "rnk": {
-      "lg": "9",
-      "cf": "9",
+      "lg": "8",
+      "cf": "8",
       "dv": "5",
       "clinch": ""
     }

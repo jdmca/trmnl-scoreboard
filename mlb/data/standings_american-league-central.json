@@ -15,20 +15,20 @@
       }
     },
     "stats": {
-      "gp": 33,
-      "w": 17,
+      "gp": 34,
+      "w": 18,
       "l": 16,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".515",
-      "stk": "W2",
-      "rf": 131,
-      "ra": 136,
-      "rd": -5
+      "pct": ".529",
+      "stk": "W3",
+      "rf": 145,
+      "ra": 142,
+      "rd": 3
     },
     "rnk": {
-      "lg": "4",
-      "cf": "4",
+      "lg": "3",
+      "cf": "3",
       "dv": "1",
       "clinch": ""
     }
@@ -49,20 +49,20 @@
       }
     },
     "stats": {
-      "gp": 33,
-      "w": 16,
+      "gp": 34,
+      "w": 17,
       "l": 17,
       "gb_div": "1.0",
-      "gb_wc": "-",
-      "pct": ".485",
-      "stk": "L1",
-      "rf": 146,
-      "ra": 138,
-      "rd": 8
+      "gb_wc": "+0.5",
+      "pct": ".500",
+      "stk": "W1",
+      "rf": 151,
+      "ra": 139,
+      "rd": 12
     },
     "rnk": {
-      "lg": "7",
-      "cf": "7",
+      "lg": "5",
+      "cf": "5",
       "dv": "2",
       "clinch": ""
     }
@@ -83,55 +83,21 @@
       }
     },
     "stats": {
-      "gp": 32,
-      "w": 15,
+      "gp": 33,
+      "w": 16,
       "l": 17,
       "gb_div": "1.5",
-      "gb_wc": "0.5",
-      "pct": ".469",
-      "stk": "W4",
-      "rf": 137,
+      "gb_wc": "-",
+      "pct": ".485",
+      "stk": "W5",
+      "rf": 141,
       "ra": 155,
-      "rd": -18
+      "rd": -14
     },
     "rnk": {
-      "lg": "10",
-      "cf": "10",
+      "lg": "8",
+      "cf": "8",
       "dv": "3",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "MIN",
-      "city": "Minnesota",
-      "nick": "Twins",
-      "full": "Minnesota Twins",
-      "div": {
-        "id": "american-league-central",
-        "name": "American League Central"
-      },
-      "conf": {
-        "id": "american-league",
-        "name": "American League"
-      }
-    },
-    "stats": {
-      "gp": 33,
-      "w": 14,
-      "l": 19,
-      "gb_div": "3.0",
-      "gb_wc": "2.0",
-      "pct": ".424",
-      "stk": "L1",
-      "rf": 157,
-      "ra": 156,
-      "rd": 1
-    },
-    "rnk": {
-      "lg": "11",
-      "cf": "11",
-      "dv": "4",
       "clinch": ""
     }
   },
@@ -151,20 +117,54 @@
       }
     },
     "stats": {
-      "gp": 32,
-      "w": 13,
+      "gp": 33,
+      "w": 14,
       "l": 19,
       "gb_div": "3.5",
-      "gb_wc": "2.5",
-      "pct": ".406",
-      "stk": "W1",
-      "rf": 133,
-      "ra": 154,
-      "rd": -21
+      "gb_wc": "2.0",
+      "pct": ".424",
+      "stk": "W2",
+      "rf": 136,
+      "ra": 156,
+      "rd": -20
     },
     "rnk": {
-      "lg": "13",
-      "cf": "13",
+      "lg": "11",
+      "cf": "11",
+      "dv": "4",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "MIN",
+      "city": "Minnesota",
+      "nick": "Twins",
+      "full": "Minnesota Twins",
+      "div": {
+        "id": "american-league-central",
+        "name": "American League Central"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 34,
+      "w": 14,
+      "l": 20,
+      "gb_div": "4.0",
+      "gb_wc": "2.5",
+      "pct": ".412",
+      "stk": "L2",
+      "rf": 161,
+      "ra": 167,
+      "rd": -6
+    },
+    "rnk": {
+      "lg": "12",
+      "cf": "12",
       "dv": "5",
       "clinch": ""
     }
