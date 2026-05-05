@@ -15,16 +15,16 @@
       }
     },
     "stats": {
-      "gp": 34,
-      "w": 22,
+      "gp": 35,
+      "w": 23,
       "l": 12,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".647",
-      "stk": "W5",
-      "rf": 185,
-      "ra": 143,
-      "rd": 42
+      "pct": ".657",
+      "stk": "W6",
+      "rf": 190,
+      "ra": 147,
+      "rd": 43
     },
     "rnk": {
       "lg": "2",
@@ -49,20 +49,20 @@
       }
     },
     "stats": {
-      "gp": 34,
-      "w": 20,
+      "gp": 35,
+      "w": 21,
       "l": 14,
       "gb_div": "2.0",
-      "gb_wc": "-",
-      "pct": ".588",
-      "stk": "L1",
-      "rf": 166,
-      "ra": 166,
-      "rd": 0
+      "gb_wc": "+1.0",
+      "pct": ".600",
+      "stk": "W1",
+      "rf": 172,
+      "ra": 169,
+      "rd": 3
     },
     "rnk": {
-      "lg": "5",
-      "cf": "5",
+      "lg": "4",
+      "cf": "4",
       "dv": "2",
       "clinch": ""
     }
@@ -83,55 +83,21 @@
       }
     },
     "stats": {
-      "gp": 34,
+      "gp": 35,
       "w": 20,
-      "l": 14,
-      "gb_div": "2.0",
+      "l": 15,
+      "gb_div": "3.0",
       "gb_wc": "-",
-      "pct": ".588",
-      "stk": "L3",
-      "rf": 141,
-      "ra": 163,
-      "rd": -22
+      "pct": ".571",
+      "stk": "L4",
+      "rf": 145,
+      "ra": 168,
+      "rd": -23
     },
     "rnk": {
       "lg": "6",
       "cf": "6",
       "dv": "3",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "MIL",
-      "city": "Milwaukee",
-      "nick": "Brewers",
-      "full": "Milwaukee Brewers",
-      "div": {
-        "id": "national-league-central",
-        "name": "National League Central"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 33,
-      "w": 18,
-      "l": 15,
-      "gb_div": "3.5",
-      "gb_wc": "1.5",
-      "pct": ".545",
-      "stk": "L1",
-      "rf": 172,
-      "ra": 127,
-      "rd": 45
-    },
-    "rnk": {
-      "lg": "7",
-      "cf": "7",
-      "dv": "4",
       "clinch": ""
     }
   },
@@ -154,13 +120,47 @@
       "gp": 35,
       "w": 19,
       "l": 16,
-      "gb_div": "3.5",
-      "gb_wc": "1.5",
+      "gb_div": "4.0",
+      "gb_wc": "1.0",
       "pct": ".543",
       "stk": "W3",
       "rf": 180,
       "ra": 149,
       "rd": 31
+    },
+    "rnk": {
+      "lg": "7",
+      "cf": "7",
+      "dv": "4",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "MIL",
+      "city": "Milwaukee",
+      "nick": "Brewers",
+      "full": "Milwaukee Brewers",
+      "div": {
+        "id": "national-league-central",
+        "name": "National League Central"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 34,
+      "w": 18,
+      "l": 16,
+      "gb_div": "4.5",
+      "gb_wc": "1.5",
+      "pct": ".529",
+      "stk": "L2",
+      "rf": 175,
+      "ra": 133,
+      "rd": 42
     },
     "rnk": {
       "lg": "8",
