@@ -15,16 +15,16 @@
       }
     },
     "stats": {
-      "gp": 35,
-      "w": 23,
+      "gp": 36,
+      "w": 24,
       "l": 12,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".657",
-      "stk": "W6",
-      "rf": 190,
-      "ra": 147,
-      "rd": 43
+      "pct": ".667",
+      "stk": "W7",
+      "rf": 193,
+      "ra": 149,
+      "rd": 44
     },
     "rnk": {
       "lg": "2",
@@ -52,8 +52,8 @@
       "gp": 35,
       "w": 21,
       "l": 14,
-      "gb_div": "2.0",
-      "gb_wc": "+1.0",
+      "gb_div": "2.5",
+      "gb_wc": "+1.5",
       "pct": ".600",
       "stk": "W1",
       "rf": 172,
@@ -83,55 +83,21 @@
       }
     },
     "stats": {
-      "gp": 35,
+      "gp": 36,
       "w": 20,
-      "l": 15,
-      "gb_div": "3.0",
+      "l": 16,
+      "gb_div": "4.0",
       "gb_wc": "-",
-      "pct": ".571",
-      "stk": "L4",
-      "rf": 145,
-      "ra": 168,
-      "rd": -23
+      "pct": ".556",
+      "stk": "L5",
+      "rf": 147,
+      "ra": 171,
+      "rd": -24
     },
     "rnk": {
       "lg": "6",
       "cf": "6",
       "dv": "3",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "PIT",
-      "city": "Pittsburgh",
-      "nick": "Pirates",
-      "full": "Pittsburgh Pirates",
-      "div": {
-        "id": "national-league-central",
-        "name": "National League Central"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 35,
-      "w": 19,
-      "l": 16,
-      "gb_div": "4.0",
-      "gb_wc": "1.0",
-      "pct": ".543",
-      "stk": "W3",
-      "rf": 180,
-      "ra": 149,
-      "rd": 31
-    },
-    "rnk": {
-      "lg": "7",
-      "cf": "7",
-      "dv": "4",
       "clinch": ""
     }
   },
@@ -154,13 +120,47 @@
       "gp": 34,
       "w": 18,
       "l": 16,
-      "gb_div": "4.5",
-      "gb_wc": "1.5",
+      "gb_div": "5.0",
+      "gb_wc": "1.0",
       "pct": ".529",
       "stk": "L2",
       "rf": 175,
       "ra": 133,
       "rd": 42
+    },
+    "rnk": {
+      "lg": "7",
+      "cf": "7",
+      "dv": "4",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "PIT",
+      "city": "Pittsburgh",
+      "nick": "Pirates",
+      "full": "Pittsburgh Pirates",
+      "div": {
+        "id": "national-league-central",
+        "name": "National League Central"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 36,
+      "w": 19,
+      "l": 17,
+      "gb_div": "5.0",
+      "gb_wc": "1.0",
+      "pct": ".528",
+      "stk": "L1",
+      "rf": 180,
+      "ra": 158,
+      "rd": 22
     },
     "rnk": {
       "lg": "8",
