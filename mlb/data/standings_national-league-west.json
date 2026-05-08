@@ -49,20 +49,20 @@
       }
     },
     "stats": {
-      "gp": 36,
+      "gp": 37,
       "w": 22,
-      "l": 14,
-      "gb_div": "0.5",
-      "gb_wc": "+2.5",
-      "pct": ".611",
-      "stk": "W2",
-      "rf": 162,
-      "ra": 155,
-      "rd": 7
+      "l": 15,
+      "gb_div": "1.0",
+      "gb_wc": "+1.5",
+      "pct": ".595",
+      "stk": "L1",
+      "rf": 163,
+      "ra": 157,
+      "rd": 6
     },
     "rnk": {
-      "lg": "4",
-      "cf": "4",
+      "lg": "5",
+      "cf": "5",
       "dv": "2",
       "clinch": ""
     }
@@ -83,21 +83,55 @@
       }
     },
     "stats": {
-      "gp": 35,
+      "gp": 36,
       "w": 17,
-      "l": 18,
-      "gb_div": "5.0",
-      "gb_wc": "2.0",
-      "pct": ".486",
-      "stk": "L1",
-      "rf": 159,
-      "ra": 182,
-      "rd": -23
+      "l": 19,
+      "gb_div": "5.5",
+      "gb_wc": "3.0",
+      "pct": ".472",
+      "stk": "L2",
+      "rf": 161,
+      "ra": 186,
+      "rd": -25
     },
     "rnk": {
-      "lg": "9",
-      "cf": "9",
+      "lg": "10",
+      "cf": "10",
       "dv": "3",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "COL",
+      "city": "Colorado",
+      "nick": "Rockies",
+      "full": "Colorado Rockies",
+      "div": {
+        "id": "national-league-west",
+        "name": "National League West"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 38,
+      "w": 15,
+      "l": 23,
+      "gb_div": "8.5",
+      "gb_wc": "6.0",
+      "pct": ".395",
+      "stk": "W1",
+      "rf": 163,
+      "ra": 188,
+      "rd": -25
+    },
+    "rnk": {
+      "lg": "13",
+      "cf": "13",
+      "dv": "4",
       "clinch": ""
     }
   },
@@ -121,7 +155,7 @@
       "w": 14,
       "l": 23,
       "gb_div": "9.0",
-      "gb_wc": "6.0",
+      "gb_wc": "6.5",
       "pct": ".378",
       "stk": "L2",
       "rf": 115,
@@ -131,40 +165,6 @@
     "rnk": {
       "lg": "14",
       "cf": "14",
-      "dv": "4",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "COL",
-      "city": "Colorado",
-      "nick": "Rockies",
-      "full": "Colorado Rockies",
-      "div": {
-        "id": "national-league-west",
-        "name": "National League West"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 37,
-      "w": 14,
-      "l": 23,
-      "gb_div": "9.0",
-      "gb_wc": "6.0",
-      "pct": ".378",
-      "stk": "L6",
-      "rf": 157,
-      "ra": 186,
-      "rd": -29
-    },
-    "rnk": {
-      "lg": "15",
-      "cf": "15",
       "dv": "5",
       "clinch": ""
     }
