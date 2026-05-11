@@ -14,53 +14,25 @@
     }
   },
   "stats": {
-    "gp": 39,
-    "w": 23,
+    "gp": 40,
+    "w": 24,
     "l": 16,
-    "gb_div": "1.0",
-    "gb_wc": "+1.0",
-    "pct": ".590",
-    "stk": "W1",
-    "rf": 167,
-    "ra": 165,
-    "rd": 2
+    "gb_div": "-",
+    "gb_wc": "-",
+    "pct": ".600",
+    "stk": "W2",
+    "rf": 170,
+    "ra": 167,
+    "rd": 3
   },
   "rnk": {
-    "lg": "5",
-    "cf": "5",
-    "dv": "2",
+    "lg": "4",
+    "cf": "4",
+    "dv": "1",
     "clinch": ""
   },
   "games": {
     "past": [
-      {
-        "game_id": "20260507-SD-STL-1",
-        "game_time_utc": "2026-05-08 02:10:00+00:00",
-        "game_date": "2026-05-07",
-        "final": "Final",
-        "outcome": "loss",
-        "location": "Home",
-        "score": [
-          1,
-          2
-        ],
-        "opponent": {
-          "id": "STL",
-          "name": "St. Louis Cardinals",
-          "stats": {
-            "gp": 39,
-            "w": 23,
-            "l": 16,
-            "gb_div": "3.5",
-            "gb_wc": "+1.0",
-            "pct": ".590",
-            "stk": "L1",
-            "rf": 184,
-            "ra": 180,
-            "rd": 4
-          }
-        }
-      },
       {
         "game_id": "20260508-SD-STL-1",
         "game_time_utc": "2026-05-09 01:45:00+00:00",
@@ -76,16 +48,16 @@
           "id": "STL",
           "name": "St. Louis Cardinals",
           "stats": {
-            "gp": 39,
+            "gp": 40,
             "w": 23,
-            "l": 16,
+            "l": 17,
             "gb_div": "3.5",
-            "gb_wc": "+1.0",
-            "pct": ".590",
-            "stk": "L1",
-            "rf": 184,
-            "ra": 180,
-            "rd": 4
+            "gb_wc": "-",
+            "pct": ".575",
+            "stk": "L2",
+            "rf": 186,
+            "ra": 183,
+            "rd": 3
           }
         }
       },
@@ -104,49 +76,49 @@
           "id": "STL",
           "name": "St. Louis Cardinals",
           "stats": {
-            "gp": 39,
+            "gp": 40,
             "w": 23,
-            "l": 16,
+            "l": 17,
             "gb_div": "3.5",
-            "gb_wc": "+1.0",
-            "pct": ".590",
-            "stk": "L1",
-            "rf": 184,
-            "ra": 180,
-            "rd": 4
+            "gb_wc": "-",
+            "pct": ".575",
+            "stk": "L2",
+            "rf": 186,
+            "ra": 183,
+            "rd": 3
           }
         }
-      }
-    ],
-    "upcoming": [
+      },
       {
         "game_id": "20260510-SD-STL-1",
         "game_time_utc": "2026-05-10 20:10:00+00:00",
         "game_date": "2026-05-10",
-        "final": "",
-        "outcome": "upcoming",
+        "final": "Final",
+        "outcome": "win",
         "location": "Home",
         "score": [
-          null,
-          null
+          3,
+          2
         ],
         "opponent": {
           "id": "STL",
           "name": "St. Louis Cardinals",
           "stats": {
-            "gp": 39,
+            "gp": 40,
             "w": 23,
-            "l": 16,
+            "l": 17,
             "gb_div": "3.5",
-            "gb_wc": "+1.0",
-            "pct": ".590",
-            "stk": "L1",
-            "rf": 184,
-            "ra": 180,
-            "rd": 4
+            "gb_wc": "-",
+            "pct": ".575",
+            "stk": "L2",
+            "rf": 186,
+            "ra": 183,
+            "rd": 3
           }
         }
-      },
+      }
+    ],
+    "upcoming": [
       {
         "game_id": "20260512-MIL-SD-1",
         "game_time_utc": "2026-05-12 23:40:00+00:00",
@@ -162,16 +134,16 @@
           "id": "MIL",
           "name": "Milwaukee Brewers",
           "stats": {
-            "gp": 37,
-            "w": 21,
+            "gp": 38,
+            "w": 22,
             "l": 16,
-            "gb_div": "4.5",
+            "gb_div": "3.5",
             "gb_wc": "-",
-            "pct": ".568",
-            "stk": "W3",
-            "rf": 191,
-            "ra": 138,
-            "rd": 53
+            "pct": ".579",
+            "stk": "W4",
+            "rf": 195,
+            "ra": 141,
+            "rd": 54
           }
         }
       },
@@ -190,16 +162,16 @@
           "id": "MIL",
           "name": "Milwaukee Brewers",
           "stats": {
-            "gp": 37,
-            "w": 21,
+            "gp": 38,
+            "w": 22,
             "l": 16,
-            "gb_div": "4.5",
+            "gb_div": "3.5",
             "gb_wc": "-",
-            "pct": ".568",
-            "stk": "W3",
-            "rf": 191,
-            "ra": 138,
-            "rd": 53
+            "pct": ".579",
+            "stk": "W4",
+            "rf": 195,
+            "ra": 141,
+            "rd": 54
           }
         }
       },
@@ -218,16 +190,44 @@
           "id": "MIL",
           "name": "Milwaukee Brewers",
           "stats": {
-            "gp": 37,
-            "w": 21,
+            "gp": 38,
+            "w": 22,
             "l": 16,
-            "gb_div": "4.5",
+            "gb_div": "3.5",
             "gb_wc": "-",
-            "pct": ".568",
-            "stk": "W3",
-            "rf": 191,
-            "ra": 138,
-            "rd": 53
+            "pct": ".579",
+            "stk": "W4",
+            "rf": 195,
+            "ra": 141,
+            "rd": 54
+          }
+        }
+      },
+      {
+        "game_id": "20260515-SEA-SD-1",
+        "game_time_utc": "2026-05-16 01:40:00+00:00",
+        "game_date": "2026-05-15",
+        "final": "",
+        "location": "Away",
+        "outcome": "upcoming",
+        "score": [
+          null,
+          null
+        ],
+        "opponent": {
+          "id": "SEA",
+          "name": "Seattle Mariners",
+          "stats": {
+            "gp": 41,
+            "w": 19,
+            "l": 22,
+            "gb_div": "2.5",
+            "gb_wc": "0.5",
+            "pct": ".463",
+            "stk": "L2",
+            "rf": 167,
+            "ra": 165,
+            "rd": 2
           }
         }
       }
@@ -235,40 +235,6 @@
   },
   "standings": {
     "division": [
-      {
-        "team": {
-          "id": "LAD",
-          "city": "Los Angeles",
-          "nick": "Dodgers",
-          "full": "Los Angeles Dodgers",
-          "div": {
-            "id": "national-league-west",
-            "name": "National League West"
-          },
-          "conf": {
-            "id": "national-league",
-            "name": "National League"
-          }
-        },
-        "stats": {
-          "gp": 39,
-          "w": 24,
-          "l": 15,
-          "gb_div": "-",
-          "gb_wc": "-",
-          "pct": ".615",
-          "stk": "L1",
-          "rf": 201,
-          "ra": 127,
-          "rd": 74
-        },
-        "rnk": {
-          "lg": "3",
-          "cf": "3",
-          "dv": "1",
-          "clinch": ""
-        }
-      },
       {
         "team": {
           "id": "SD",
@@ -285,20 +251,54 @@
           }
         },
         "stats": {
-          "gp": 39,
-          "w": 23,
+          "gp": 40,
+          "w": 24,
           "l": 16,
-          "gb_div": "1.0",
-          "gb_wc": "+1.0",
-          "pct": ".590",
-          "stk": "W1",
-          "rf": 167,
-          "ra": 165,
-          "rd": 2
+          "gb_div": "-",
+          "gb_wc": "-",
+          "pct": ".600",
+          "stk": "W2",
+          "rf": 170,
+          "ra": 167,
+          "rd": 3
         },
         "rnk": {
-          "lg": "5",
-          "cf": "5",
+          "lg": "4",
+          "cf": "4",
+          "dv": "1",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
+          "id": "LAD",
+          "city": "Los Angeles",
+          "nick": "Dodgers",
+          "full": "Los Angeles Dodgers",
+          "div": {
+            "id": "national-league-west",
+            "name": "National League West"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 40,
+          "w": 24,
+          "l": 16,
+          "gb_div": "-",
+          "gb_wc": "+1.0",
+          "pct": ".600",
+          "stk": "L2",
+          "rf": 203,
+          "ra": 134,
+          "rd": 69
+        },
+        "rnk": {
+          "lg": "3",
+          "cf": "3",
           "dv": "2",
           "clinch": ""
         }
@@ -319,55 +319,21 @@
           }
         },
         "stats": {
-          "gp": 38,
-          "w": 18,
+          "gp": 39,
+          "w": 19,
           "l": 20,
-          "gb_div": "5.5",
+          "gb_div": "4.5",
           "gb_wc": "3.5",
-          "pct": ".474",
-          "stk": "W1",
-          "rf": 164,
-          "ra": 190,
-          "rd": -26
+          "pct": ".487",
+          "stk": "W2",
+          "rf": 169,
+          "ra": 191,
+          "rd": -22
         },
         "rnk": {
-          "lg": "10",
-          "cf": "10",
+          "lg": "9",
+          "cf": "9",
           "dv": "3",
-          "clinch": ""
-        }
-      },
-      {
-        "team": {
-          "id": "COL",
-          "city": "Colorado",
-          "nick": "Rockies",
-          "full": "Colorado Rockies",
-          "div": {
-            "id": "national-league-west",
-            "name": "National League West"
-          },
-          "conf": {
-            "id": "national-league",
-            "name": "National League"
-          }
-        },
-        "stats": {
-          "gp": 40,
-          "w": 16,
-          "l": 24,
-          "gb_div": "8.5",
-          "gb_wc": "6.5",
-          "pct": ".400",
-          "stk": "L1",
-          "rf": 175,
-          "ra": 204,
-          "rd": -29
-        },
-        "rnk": {
-          "lg": "13",
-          "cf": "13",
-          "dv": "4",
           "clinch": ""
         }
       },
@@ -387,16 +353,50 @@
           }
         },
         "stats": {
-          "gp": 39,
-          "w": 15,
+          "gp": 40,
+          "w": 16,
           "l": 24,
-          "gb_div": "9.0",
+          "gb_div": "8.0",
           "gb_wc": "7.0",
-          "pct": ".385",
-          "stk": "L1",
-          "rf": 123,
-          "ra": 172,
-          "rd": -49
+          "pct": ".400",
+          "stk": "W1",
+          "rf": 130,
+          "ra": 178,
+          "rd": -48
+        },
+        "rnk": {
+          "lg": "13",
+          "cf": "13",
+          "dv": "4",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
+          "id": "COL",
+          "city": "Colorado",
+          "nick": "Rockies",
+          "full": "Colorado Rockies",
+          "div": {
+            "id": "national-league-west",
+            "name": "National League West"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 41,
+          "w": 16,
+          "l": 25,
+          "gb_div": "8.5",
+          "gb_wc": "7.5",
+          "pct": ".390",
+          "stk": "L2",
+          "rf": 175,
+          "ra": 210,
+          "rd": -35
         },
         "rnk": {
           "lg": "14",
@@ -423,55 +423,21 @@
           }
         },
         "stats": {
-          "gp": 40,
-          "w": 27,
+          "gp": 41,
+          "w": 28,
           "l": 13,
           "gb_div": "-",
           "gb_wc": "-",
-          "pct": ".675",
-          "stk": "W1",
-          "rf": 221,
-          "ra": 139,
-          "rd": 82
+          "pct": ".683",
+          "stk": "W2",
+          "rf": 228,
+          "ra": 141,
+          "rd": 87
         },
         "rnk": {
           "lg": "1",
           "cf": "1",
           "dv": "1",
-          "clinch": ""
-        }
-      },
-      {
-        "team": {
-          "id": "WSH",
-          "city": "Washington",
-          "nick": "Nationals",
-          "full": "Washington Nationals",
-          "div": {
-            "id": "national-league-east",
-            "name": "National League East"
-          },
-          "conf": {
-            "id": "national-league",
-            "name": "National League"
-          }
-        },
-        "stats": {
-          "gp": 40,
-          "w": 19,
-          "l": 21,
-          "gb_div": "8.0",
-          "gb_wc": "3.5",
-          "pct": ".475",
-          "stk": "L1",
-          "rf": 215,
-          "ra": 225,
-          "rd": -10
-        },
-        "rnk": {
-          "lg": "9",
-          "cf": "9",
-          "dv": "2",
           "clinch": ""
         }
       },
@@ -491,21 +457,21 @@
           }
         },
         "stats": {
-          "gp": 40,
-          "w": 18,
+          "gp": 41,
+          "w": 19,
           "l": 22,
           "gb_div": "9.0",
           "gb_wc": "4.5",
-          "pct": ".450",
-          "stk": "W1",
-          "rf": 164,
+          "pct": ".463",
+          "stk": "W2",
+          "rf": 170,
           "ra": 202,
-          "rd": -38
+          "rd": -32
         },
         "rnk": {
           "lg": "12",
           "cf": "12",
-          "dv": "3",
+          "dv": "2",
           "clinch": ""
         }
       },
@@ -525,16 +491,50 @@
           }
         },
         "stats": {
-          "gp": 40,
-          "w": 18,
+          "gp": 41,
+          "w": 19,
           "l": 22,
           "gb_div": "9.0",
           "gb_wc": "4.5",
-          "pct": ".450",
-          "stk": "W1",
-          "rf": 171,
-          "ra": 177,
-          "rd": -6
+          "pct": ".463",
+          "stk": "W2",
+          "rf": 176,
+          "ra": 179,
+          "rd": -3
+        },
+        "rnk": {
+          "lg": "10",
+          "cf": "10",
+          "dv": "3",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
+          "id": "WSH",
+          "city": "Washington",
+          "nick": "Nationals",
+          "full": "Washington Nationals",
+          "div": {
+            "id": "national-league-east",
+            "name": "National League East"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 41,
+          "w": 19,
+          "l": 22,
+          "gb_div": "9.0",
+          "gb_wc": "4.5",
+          "pct": ".463",
+          "stk": "L2",
+          "rf": 217,
+          "ra": 230,
+          "rd": -13
         },
         "rnk": {
           "lg": "11",
@@ -559,16 +559,16 @@
           }
         },
         "stats": {
-          "gp": 39,
+          "gp": 40,
           "w": 15,
-          "l": 24,
-          "gb_div": "11.5",
-          "gb_wc": "7.0",
-          "pct": ".385",
-          "stk": "L1",
-          "rf": 138,
-          "ra": 165,
-          "rd": -27
+          "l": 25,
+          "gb_div": "12.5",
+          "gb_wc": "8.0",
+          "pct": ".375",
+          "stk": "L2",
+          "rf": 139,
+          "ra": 170,
+          "rd": -31
         },
         "rnk": {
           "lg": "15",
@@ -593,55 +593,21 @@
           }
         },
         "stats": {
-          "gp": 40,
+          "gp": 41,
           "w": 27,
-          "l": 13,
+          "l": 14,
           "gb_div": "-",
           "gb_wc": "-",
-          "pct": ".675",
-          "stk": "L1",
+          "pct": ".659",
+          "stk": "L2",
           "rf": 215,
-          "ra": 165,
-          "rd": 50
+          "ra": 168,
+          "rd": 47
         },
         "rnk": {
           "lg": "2",
           "cf": "2",
           "dv": "1",
-          "clinch": ""
-        }
-      },
-      {
-        "team": {
-          "id": "STL",
-          "city": "St. Louis",
-          "nick": "Cardinals",
-          "full": "St. Louis Cardinals",
-          "div": {
-            "id": "national-league-central",
-            "name": "National League Central"
-          },
-          "conf": {
-            "id": "national-league",
-            "name": "National League"
-          }
-        },
-        "stats": {
-          "gp": 39,
-          "w": 23,
-          "l": 16,
-          "gb_div": "3.5",
-          "gb_wc": "+1.0",
-          "pct": ".590",
-          "stk": "L1",
-          "rf": 184,
-          "ra": 180,
-          "rd": 4
-        },
-        "rnk": {
-          "lg": "4",
-          "cf": "4",
-          "dv": "2",
           "clinch": ""
         }
       },
@@ -661,16 +627,50 @@
           }
         },
         "stats": {
-          "gp": 37,
-          "w": 21,
+          "gp": 38,
+          "w": 22,
           "l": 16,
-          "gb_div": "4.5",
+          "gb_div": "3.5",
           "gb_wc": "-",
-          "pct": ".568",
-          "stk": "W3",
-          "rf": 191,
-          "ra": 138,
-          "rd": 53
+          "pct": ".579",
+          "stk": "W4",
+          "rf": 195,
+          "ra": 141,
+          "rd": 54
+        },
+        "rnk": {
+          "lg": "5",
+          "cf": "5",
+          "dv": "2",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
+          "id": "STL",
+          "city": "St. Louis",
+          "nick": "Cardinals",
+          "full": "St. Louis Cardinals",
+          "div": {
+            "id": "national-league-central",
+            "name": "National League Central"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 40,
+          "w": 23,
+          "l": 17,
+          "gb_div": "3.5",
+          "gb_wc": "-",
+          "pct": ".575",
+          "stk": "L2",
+          "rf": 186,
+          "ra": 183,
+          "rd": 3
         },
         "rnk": {
           "lg": "6",
@@ -695,16 +695,16 @@
           }
         },
         "stats": {
-          "gp": 40,
+          "gp": 41,
           "w": 22,
-          "l": 18,
+          "l": 19,
           "gb_div": "5.0",
-          "gb_wc": "0.5",
-          "pct": ".550",
-          "stk": "W1",
-          "rf": 200,
-          "ra": 168,
-          "rd": 32
+          "gb_wc": "1.5",
+          "pct": ".537",
+          "stk": "L1",
+          "rf": 206,
+          "ra": 175,
+          "rd": 31
         },
         "rnk": {
           "lg": "7",
@@ -729,55 +729,21 @@
           }
         },
         "stats": {
-          "gp": 40,
-          "w": 21,
+          "gp": 41,
+          "w": 22,
           "l": 19,
-          "gb_div": "6.0",
+          "gb_div": "5.0",
           "gb_wc": "1.5",
-          "pct": ".525",
-          "stk": "W1",
-          "rf": 159,
+          "pct": ".537",
+          "stk": "W2",
+          "rf": 164,
           "ra": 197,
-          "rd": -38
+          "rd": -33
         },
         "rnk": {
           "lg": "8",
           "cf": "8",
           "dv": "5",
-          "clinch": ""
-        }
-      },
-      {
-        "team": {
-          "id": "LAD",
-          "city": "Los Angeles",
-          "nick": "Dodgers",
-          "full": "Los Angeles Dodgers",
-          "div": {
-            "id": "national-league-west",
-            "name": "National League West"
-          },
-          "conf": {
-            "id": "national-league",
-            "name": "National League"
-          }
-        },
-        "stats": {
-          "gp": 39,
-          "w": 24,
-          "l": 15,
-          "gb_div": "-",
-          "gb_wc": "-",
-          "pct": ".615",
-          "stk": "L1",
-          "rf": 201,
-          "ra": 127,
-          "rd": 74
-        },
-        "rnk": {
-          "lg": "3",
-          "cf": "3",
-          "dv": "1",
           "clinch": ""
         }
       },
@@ -797,20 +763,54 @@
           }
         },
         "stats": {
-          "gp": 39,
-          "w": 23,
+          "gp": 40,
+          "w": 24,
           "l": 16,
-          "gb_div": "1.0",
-          "gb_wc": "+1.0",
-          "pct": ".590",
-          "stk": "W1",
-          "rf": 167,
-          "ra": 165,
-          "rd": 2
+          "gb_div": "-",
+          "gb_wc": "-",
+          "pct": ".600",
+          "stk": "W2",
+          "rf": 170,
+          "ra": 167,
+          "rd": 3
         },
         "rnk": {
-          "lg": "5",
-          "cf": "5",
+          "lg": "4",
+          "cf": "4",
+          "dv": "1",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
+          "id": "LAD",
+          "city": "Los Angeles",
+          "nick": "Dodgers",
+          "full": "Los Angeles Dodgers",
+          "div": {
+            "id": "national-league-west",
+            "name": "National League West"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 40,
+          "w": 24,
+          "l": 16,
+          "gb_div": "-",
+          "gb_wc": "+1.0",
+          "pct": ".600",
+          "stk": "L2",
+          "rf": 203,
+          "ra": 134,
+          "rd": 69
+        },
+        "rnk": {
+          "lg": "3",
+          "cf": "3",
           "dv": "2",
           "clinch": ""
         }
@@ -831,55 +831,21 @@
           }
         },
         "stats": {
-          "gp": 38,
-          "w": 18,
+          "gp": 39,
+          "w": 19,
           "l": 20,
-          "gb_div": "5.5",
+          "gb_div": "4.5",
           "gb_wc": "3.5",
-          "pct": ".474",
-          "stk": "W1",
-          "rf": 164,
-          "ra": 190,
-          "rd": -26
+          "pct": ".487",
+          "stk": "W2",
+          "rf": 169,
+          "ra": 191,
+          "rd": -22
         },
         "rnk": {
-          "lg": "10",
-          "cf": "10",
+          "lg": "9",
+          "cf": "9",
           "dv": "3",
-          "clinch": ""
-        }
-      },
-      {
-        "team": {
-          "id": "COL",
-          "city": "Colorado",
-          "nick": "Rockies",
-          "full": "Colorado Rockies",
-          "div": {
-            "id": "national-league-west",
-            "name": "National League West"
-          },
-          "conf": {
-            "id": "national-league",
-            "name": "National League"
-          }
-        },
-        "stats": {
-          "gp": 40,
-          "w": 16,
-          "l": 24,
-          "gb_div": "8.5",
-          "gb_wc": "6.5",
-          "pct": ".400",
-          "stk": "L1",
-          "rf": 175,
-          "ra": 204,
-          "rd": -29
-        },
-        "rnk": {
-          "lg": "13",
-          "cf": "13",
-          "dv": "4",
           "clinch": ""
         }
       },
@@ -899,16 +865,50 @@
           }
         },
         "stats": {
-          "gp": 39,
-          "w": 15,
+          "gp": 40,
+          "w": 16,
           "l": 24,
-          "gb_div": "9.0",
+          "gb_div": "8.0",
           "gb_wc": "7.0",
-          "pct": ".385",
-          "stk": "L1",
-          "rf": 123,
-          "ra": 172,
-          "rd": -49
+          "pct": ".400",
+          "stk": "W1",
+          "rf": 130,
+          "ra": 178,
+          "rd": -48
+        },
+        "rnk": {
+          "lg": "13",
+          "cf": "13",
+          "dv": "4",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
+          "id": "COL",
+          "city": "Colorado",
+          "nick": "Rockies",
+          "full": "Colorado Rockies",
+          "div": {
+            "id": "national-league-west",
+            "name": "National League West"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 41,
+          "w": 16,
+          "l": 25,
+          "gb_div": "8.5",
+          "gb_wc": "7.5",
+          "pct": ".390",
+          "stk": "L2",
+          "rf": 175,
+          "ra": 210,
+          "rd": -35
         },
         "rnk": {
           "lg": "14",

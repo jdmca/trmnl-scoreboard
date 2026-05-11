@@ -1,40 +1,6 @@
 [
   {
     "team": {
-      "id": "LAD",
-      "city": "Los Angeles",
-      "nick": "Dodgers",
-      "full": "Los Angeles Dodgers",
-      "div": {
-        "id": "national-league-west",
-        "name": "National League West"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 39,
-      "w": 24,
-      "l": 15,
-      "gb_div": "-",
-      "gb_wc": "-",
-      "pct": ".615",
-      "stk": "L1",
-      "rf": 201,
-      "ra": 127,
-      "rd": 74
-    },
-    "rnk": {
-      "lg": "3",
-      "cf": "3",
-      "dv": "1",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
       "id": "SD",
       "city": "San Diego",
       "nick": "Padres",
@@ -49,20 +15,54 @@
       }
     },
     "stats": {
-      "gp": 39,
-      "w": 23,
+      "gp": 40,
+      "w": 24,
       "l": 16,
-      "gb_div": "1.0",
-      "gb_wc": "+1.0",
-      "pct": ".590",
-      "stk": "W1",
-      "rf": 167,
-      "ra": 165,
-      "rd": 2
+      "gb_div": "-",
+      "gb_wc": "-",
+      "pct": ".600",
+      "stk": "W2",
+      "rf": 170,
+      "ra": 167,
+      "rd": 3
     },
     "rnk": {
-      "lg": "5",
-      "cf": "5",
+      "lg": "4",
+      "cf": "4",
+      "dv": "1",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "LAD",
+      "city": "Los Angeles",
+      "nick": "Dodgers",
+      "full": "Los Angeles Dodgers",
+      "div": {
+        "id": "national-league-west",
+        "name": "National League West"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 40,
+      "w": 24,
+      "l": 16,
+      "gb_div": "-",
+      "gb_wc": "+1.0",
+      "pct": ".600",
+      "stk": "L2",
+      "rf": 203,
+      "ra": 134,
+      "rd": 69
+    },
+    "rnk": {
+      "lg": "3",
+      "cf": "3",
       "dv": "2",
       "clinch": ""
     }
@@ -83,55 +83,21 @@
       }
     },
     "stats": {
-      "gp": 38,
-      "w": 18,
+      "gp": 39,
+      "w": 19,
       "l": 20,
-      "gb_div": "5.5",
+      "gb_div": "4.5",
       "gb_wc": "3.5",
-      "pct": ".474",
-      "stk": "W1",
-      "rf": 164,
-      "ra": 190,
-      "rd": -26
+      "pct": ".487",
+      "stk": "W2",
+      "rf": 169,
+      "ra": 191,
+      "rd": -22
     },
     "rnk": {
-      "lg": "10",
-      "cf": "10",
+      "lg": "9",
+      "cf": "9",
       "dv": "3",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "COL",
-      "city": "Colorado",
-      "nick": "Rockies",
-      "full": "Colorado Rockies",
-      "div": {
-        "id": "national-league-west",
-        "name": "National League West"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 40,
-      "w": 16,
-      "l": 24,
-      "gb_div": "8.5",
-      "gb_wc": "6.5",
-      "pct": ".400",
-      "stk": "L1",
-      "rf": 175,
-      "ra": 204,
-      "rd": -29
-    },
-    "rnk": {
-      "lg": "13",
-      "cf": "13",
-      "dv": "4",
       "clinch": ""
     }
   },
@@ -151,16 +117,50 @@
       }
     },
     "stats": {
-      "gp": 39,
-      "w": 15,
+      "gp": 40,
+      "w": 16,
       "l": 24,
-      "gb_div": "9.0",
+      "gb_div": "8.0",
       "gb_wc": "7.0",
-      "pct": ".385",
-      "stk": "L1",
-      "rf": 123,
-      "ra": 172,
-      "rd": -49
+      "pct": ".400",
+      "stk": "W1",
+      "rf": 130,
+      "ra": 178,
+      "rd": -48
+    },
+    "rnk": {
+      "lg": "13",
+      "cf": "13",
+      "dv": "4",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "COL",
+      "city": "Colorado",
+      "nick": "Rockies",
+      "full": "Colorado Rockies",
+      "div": {
+        "id": "national-league-west",
+        "name": "National League West"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 41,
+      "w": 16,
+      "l": 25,
+      "gb_div": "8.5",
+      "gb_wc": "7.5",
+      "pct": ".390",
+      "stk": "L2",
+      "rf": 175,
+      "ra": 210,
+      "rd": -35
     },
     "rnk": {
       "lg": "14",

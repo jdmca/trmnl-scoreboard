@@ -15,55 +15,21 @@
       }
     },
     "stats": {
-      "gp": 39,
+      "gp": 40,
       "w": 21,
-      "l": 18,
+      "l": 19,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".538",
-      "stk": "W3",
-      "rf": 175,
-      "ra": 180,
-      "rd": -5
+      "pct": ".525",
+      "stk": "L1",
+      "rf": 176,
+      "ra": 182,
+      "rd": -6
     },
     "rnk": {
       "lg": "3",
       "cf": "3",
       "dv": "1",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "SEA",
-      "city": "Seattle",
-      "nick": "Mariners",
-      "full": "Seattle Mariners",
-      "div": {
-        "id": "american-league-west",
-        "name": "American League West"
-      },
-      "conf": {
-        "id": "american-league",
-        "name": "American League"
-      }
-    },
-    "stats": {
-      "gp": 40,
-      "w": 19,
-      "l": 21,
-      "gb_div": "2.5",
-      "gb_wc": "-",
-      "pct": ".475",
-      "stk": "L1",
-      "rf": 166,
-      "ra": 163,
-      "rd": 3
-    },
-    "rnk": {
-      "lg": "5",
-      "cf": "5",
-      "dv": "2",
       "clinch": ""
     }
   },
@@ -83,30 +49,30 @@
       }
     },
     "stats": {
-      "gp": 39,
-      "w": 18,
+      "gp": 40,
+      "w": 19,
       "l": 21,
-      "gb_div": "3.0",
-      "gb_wc": "0.5",
-      "pct": ".462",
-      "stk": "W1",
-      "rf": 146,
+      "gb_div": "2.0",
+      "gb_wc": "-",
+      "pct": ".475",
+      "stk": "W2",
+      "rf": 149,
       "ra": 152,
-      "rd": -6
+      "rd": -3
     },
     "rnk": {
-      "lg": "8",
-      "cf": "8",
-      "dv": "3",
+      "lg": "5",
+      "cf": "5",
+      "dv": "2",
       "clinch": ""
     }
   },
   {
     "team": {
-      "id": "HOU",
-      "city": "Houston",
-      "nick": "Astros",
-      "full": "Houston Astros",
+      "id": "SEA",
+      "city": "Seattle",
+      "nick": "Mariners",
+      "full": "Seattle Mariners",
       "div": {
         "id": "american-league-west",
         "name": "American League West"
@@ -117,21 +83,21 @@
       }
     },
     "stats": {
-      "gp": 40,
-      "w": 16,
-      "l": 24,
-      "gb_div": "5.5",
-      "gb_wc": "3.0",
-      "pct": ".400",
-      "stk": "L1",
-      "rf": 196,
-      "ra": 225,
-      "rd": -29
+      "gp": 41,
+      "w": 19,
+      "l": 22,
+      "gb_div": "2.5",
+      "gb_wc": "0.5",
+      "pct": ".463",
+      "stk": "L2",
+      "rf": 167,
+      "ra": 165,
+      "rd": 2
     },
     "rnk": {
-      "lg": "14",
-      "cf": "14",
-      "dv": "4",
+      "lg": "7",
+      "cf": "7",
+      "dv": "3",
       "clinch": ""
     }
   },
@@ -151,16 +117,50 @@
       }
     },
     "stats": {
-      "gp": 40,
-      "w": 15,
+      "gp": 41,
+      "w": 16,
       "l": 25,
-      "gb_div": "6.5",
-      "gb_wc": "4.0",
-      "pct": ".375",
+      "gb_div": "5.5",
+      "gb_wc": "3.5",
+      "pct": ".390",
+      "stk": "W1",
+      "rf": 177,
+      "ra": 201,
+      "rd": -24
+    },
+    "rnk": {
+      "lg": "14",
+      "cf": "14",
+      "dv": "4",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "HOU",
+      "city": "Houston",
+      "nick": "Astros",
+      "full": "Houston Astros",
+      "div": {
+        "id": "american-league-west",
+        "name": "American League West"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 41,
+      "w": 16,
+      "l": 25,
+      "gb_div": "5.5",
+      "gb_wc": "3.5",
+      "pct": ".390",
       "stk": "L2",
-      "rf": 171,
-      "ra": 200,
-      "rd": -29
+      "rf": 196,
+      "ra": 230,
+      "rd": -34
     },
     "rnk": {
       "lg": "15",

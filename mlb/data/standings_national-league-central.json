@@ -15,55 +15,21 @@
       }
     },
     "stats": {
-      "gp": 40,
+      "gp": 41,
       "w": 27,
-      "l": 13,
+      "l": 14,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".675",
-      "stk": "L1",
+      "pct": ".659",
+      "stk": "L2",
       "rf": 215,
-      "ra": 165,
-      "rd": 50
+      "ra": 168,
+      "rd": 47
     },
     "rnk": {
       "lg": "2",
       "cf": "2",
       "dv": "1",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "STL",
-      "city": "St. Louis",
-      "nick": "Cardinals",
-      "full": "St. Louis Cardinals",
-      "div": {
-        "id": "national-league-central",
-        "name": "National League Central"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 39,
-      "w": 23,
-      "l": 16,
-      "gb_div": "3.5",
-      "gb_wc": "+1.0",
-      "pct": ".590",
-      "stk": "L1",
-      "rf": 184,
-      "ra": 180,
-      "rd": 4
-    },
-    "rnk": {
-      "lg": "4",
-      "cf": "4",
-      "dv": "2",
       "clinch": ""
     }
   },
@@ -83,16 +49,50 @@
       }
     },
     "stats": {
-      "gp": 37,
-      "w": 21,
+      "gp": 38,
+      "w": 22,
       "l": 16,
-      "gb_div": "4.5",
+      "gb_div": "3.5",
       "gb_wc": "-",
-      "pct": ".568",
-      "stk": "W3",
-      "rf": 191,
-      "ra": 138,
-      "rd": 53
+      "pct": ".579",
+      "stk": "W4",
+      "rf": 195,
+      "ra": 141,
+      "rd": 54
+    },
+    "rnk": {
+      "lg": "5",
+      "cf": "5",
+      "dv": "2",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "STL",
+      "city": "St. Louis",
+      "nick": "Cardinals",
+      "full": "St. Louis Cardinals",
+      "div": {
+        "id": "national-league-central",
+        "name": "National League Central"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 40,
+      "w": 23,
+      "l": 17,
+      "gb_div": "3.5",
+      "gb_wc": "-",
+      "pct": ".575",
+      "stk": "L2",
+      "rf": 186,
+      "ra": 183,
+      "rd": 3
     },
     "rnk": {
       "lg": "6",
@@ -117,16 +117,16 @@
       }
     },
     "stats": {
-      "gp": 40,
+      "gp": 41,
       "w": 22,
-      "l": 18,
+      "l": 19,
       "gb_div": "5.0",
-      "gb_wc": "0.5",
-      "pct": ".550",
-      "stk": "W1",
-      "rf": 200,
-      "ra": 168,
-      "rd": 32
+      "gb_wc": "1.5",
+      "pct": ".537",
+      "stk": "L1",
+      "rf": 206,
+      "ra": 175,
+      "rd": 31
     },
     "rnk": {
       "lg": "7",
@@ -151,16 +151,16 @@
       }
     },
     "stats": {
-      "gp": 40,
-      "w": 21,
+      "gp": 41,
+      "w": 22,
       "l": 19,
-      "gb_div": "6.0",
+      "gb_div": "5.0",
       "gb_wc": "1.5",
-      "pct": ".525",
-      "stk": "W1",
-      "rf": 159,
+      "pct": ".537",
+      "stk": "W2",
+      "rf": 164,
       "ra": 197,
-      "rd": -38
+      "rd": -33
     },
     "rnk": {
       "lg": "8",

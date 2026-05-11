@@ -15,16 +15,16 @@
       }
     },
     "stats": {
-      "gp": 38,
-      "w": 25,
+      "gp": 39,
+      "w": 26,
       "l": 13,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".658",
-      "stk": "L1",
-      "rf": 167,
-      "ra": 150,
-      "rd": 17
+      "pct": ".667",
+      "stk": "W1",
+      "rf": 171,
+      "ra": 151,
+      "rd": 20
     },
     "rnk": {
       "lg": "1",
@@ -49,16 +49,16 @@
       }
     },
     "stats": {
-      "gp": 40,
+      "gp": 41,
       "w": 26,
-      "l": 14,
-      "gb_div": "-",
-      "gb_wc": "+7.0",
-      "pct": ".650",
-      "stk": "L2",
-      "rf": 212,
-      "ra": 138,
-      "rd": 74
+      "l": 15,
+      "gb_div": "1.0",
+      "gb_wc": "+6.5",
+      "pct": ".634",
+      "stk": "L3",
+      "rf": 215,
+      "ra": 142,
+      "rd": 73
     },
     "rnk": {
       "lg": "2",
@@ -83,55 +83,21 @@
       }
     },
     "stats": {
-      "gp": 39,
+      "gp": 40,
       "w": 18,
-      "l": 21,
-      "gb_div": "7.5",
-      "gb_wc": "0.5",
-      "pct": ".462",
-      "stk": "W2",
-      "rf": 163,
-      "ra": 170,
-      "rd": -7
-    },
-    "rnk": {
-      "lg": "7",
-      "cf": "7",
-      "dv": "3",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "BOS",
-      "city": "Boston",
-      "nick": "Red Sox",
-      "full": "Boston Red Sox",
-      "div": {
-        "id": "american-league-east",
-        "name": "American League East"
-      },
-      "conf": {
-        "id": "american-league",
-        "name": "American League"
-      }
-    },
-    "stats": {
-      "gp": 39,
-      "w": 17,
       "l": 22,
       "gb_div": "8.5",
-      "gb_wc": "1.5",
-      "pct": ".436",
-      "stk": "W1",
-      "rf": 155,
-      "ra": 164,
-      "rd": -9
+      "gb_wc": "1.0",
+      "pct": ".450",
+      "stk": "L1",
+      "rf": 164,
+      "ra": 176,
+      "rd": -12
     },
     "rnk": {
-      "lg": "11",
-      "cf": "11",
-      "dv": "4",
+      "lg": "10",
+      "cf": "10",
+      "dv": "3",
       "clinch": ""
     }
   },
@@ -151,20 +117,54 @@
       }
     },
     "stats": {
+      "gp": 41,
+      "w": 18,
+      "l": 23,
+      "gb_div": "9.0",
+      "gb_wc": "1.5",
+      "pct": ".439",
+      "stk": "W1",
+      "rf": 181,
+      "ra": 222,
+      "rd": -41
+    },
+    "rnk": {
+      "lg": "11",
+      "cf": "11",
+      "dv": "4",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "BOS",
+      "city": "Boston",
+      "nick": "Red Sox",
+      "full": "Boston Red Sox",
+      "div": {
+        "id": "american-league-east",
+        "name": "American League East"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
       "gp": 40,
       "w": 17,
       "l": 23,
-      "gb_div": "9.0",
+      "gb_div": "9.5",
       "gb_wc": "2.0",
       "pct": ".425",
-      "stk": "L3",
-      "rf": 179,
-      "ra": 221,
-      "rd": -42
+      "stk": "L1",
+      "rf": 156,
+      "ra": 168,
+      "rd": -12
     },
     "rnk": {
-      "lg": "12",
-      "cf": "12",
+      "lg": "13",
+      "cf": "13",
       "dv": "5",
       "clinch": ""
     }

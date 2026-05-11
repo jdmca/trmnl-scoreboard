@@ -14,53 +14,25 @@
     }
   },
   "stats": {
-    "gp": 40,
-    "w": 17,
+    "gp": 41,
+    "w": 18,
     "l": 23,
     "gb_div": "9.0",
-    "gb_wc": "2.0",
-    "pct": ".425",
-    "stk": "L3",
-    "rf": 179,
-    "ra": 221,
-    "rd": -42
+    "gb_wc": "1.5",
+    "pct": ".439",
+    "stk": "W1",
+    "rf": 181,
+    "ra": 222,
+    "rd": -41
   },
   "rnk": {
-    "lg": "12",
-    "cf": "12",
-    "dv": "5",
+    "lg": "11",
+    "cf": "11",
+    "dv": "4",
     "clinch": ""
   },
   "games": {
     "past": [
-      {
-        "game_id": "20260507-MIA-BAL-1",
-        "game_time_utc": "2026-05-07 22:40:00+00:00",
-        "game_date": "2026-05-07",
-        "final": "Final",
-        "location": "Away",
-        "outcome": "loss",
-        "score": [
-          3,
-          4
-        ],
-        "opponent": {
-          "id": "MIA",
-          "name": "Miami Marlins",
-          "stats": {
-            "gp": 40,
-            "w": 18,
-            "l": 22,
-            "gb_div": "9.0",
-            "gb_wc": "4.5",
-            "pct": ".450",
-            "stk": "W1",
-            "rf": 171,
-            "ra": 177,
-            "rd": -6
-          }
-        }
-      },
       {
         "game_id": "20260508-BAL-ATH-1",
         "game_time_utc": "2026-05-08 23:05:00+00:00",
@@ -76,16 +48,16 @@
           "id": "ATH",
           "name": "Athletics",
           "stats": {
-            "gp": 39,
+            "gp": 40,
             "w": 21,
-            "l": 18,
+            "l": 19,
             "gb_div": "-",
             "gb_wc": "-",
-            "pct": ".538",
-            "stk": "W3",
-            "rf": 175,
-            "ra": 180,
-            "rd": -5
+            "pct": ".525",
+            "stk": "L1",
+            "rf": 176,
+            "ra": 182,
+            "rd": -6
           }
         }
       },
@@ -104,49 +76,49 @@
           "id": "ATH",
           "name": "Athletics",
           "stats": {
-            "gp": 39,
+            "gp": 40,
             "w": 21,
-            "l": 18,
+            "l": 19,
             "gb_div": "-",
             "gb_wc": "-",
-            "pct": ".538",
-            "stk": "W3",
-            "rf": 175,
-            "ra": 180,
-            "rd": -5
+            "pct": ".525",
+            "stk": "L1",
+            "rf": 176,
+            "ra": 182,
+            "rd": -6
           }
         }
-      }
-    ],
-    "upcoming": [
+      },
       {
         "game_id": "20260510-BAL-ATH-1",
         "game_time_utc": "2026-05-10 17:35:00+00:00",
         "game_date": "2026-05-10",
-        "final": "",
-        "outcome": "upcoming",
+        "final": "Final",
+        "outcome": "win",
         "location": "Home",
         "score": [
-          null,
-          null
+          2,
+          1
         ],
         "opponent": {
           "id": "ATH",
           "name": "Athletics",
           "stats": {
-            "gp": 39,
+            "gp": 40,
             "w": 21,
-            "l": 18,
+            "l": 19,
             "gb_div": "-",
             "gb_wc": "-",
-            "pct": ".538",
-            "stk": "W3",
-            "rf": 175,
-            "ra": 180,
-            "rd": -5
+            "pct": ".525",
+            "stk": "L1",
+            "rf": 176,
+            "ra": 182,
+            "rd": -6
           }
         }
-      },
+      }
+    ],
+    "upcoming": [
       {
         "game_id": "20260511-BAL-NYY-1",
         "game_time_utc": "2026-05-11 22:35:00+00:00",
@@ -162,16 +134,16 @@
           "id": "NYY",
           "name": "New York Yankees",
           "stats": {
-            "gp": 40,
+            "gp": 41,
             "w": 26,
-            "l": 14,
-            "gb_div": "-",
-            "gb_wc": "+7.0",
-            "pct": ".650",
-            "stk": "L2",
-            "rf": 212,
-            "ra": 138,
-            "rd": 74
+            "l": 15,
+            "gb_div": "1.0",
+            "gb_wc": "+6.5",
+            "pct": ".634",
+            "stk": "L3",
+            "rf": 215,
+            "ra": 142,
+            "rd": 73
           }
         }
       },
@@ -190,16 +162,16 @@
           "id": "NYY",
           "name": "New York Yankees",
           "stats": {
-            "gp": 40,
+            "gp": 41,
             "w": 26,
-            "l": 14,
-            "gb_div": "-",
-            "gb_wc": "+7.0",
-            "pct": ".650",
-            "stk": "L2",
-            "rf": 212,
-            "ra": 138,
-            "rd": 74
+            "l": 15,
+            "gb_div": "1.0",
+            "gb_wc": "+6.5",
+            "pct": ".634",
+            "stk": "L3",
+            "rf": 215,
+            "ra": 142,
+            "rd": 73
           }
         }
       },
@@ -218,16 +190,44 @@
           "id": "NYY",
           "name": "New York Yankees",
           "stats": {
-            "gp": 40,
+            "gp": 41,
             "w": 26,
-            "l": 14,
-            "gb_div": "-",
-            "gb_wc": "+7.0",
-            "pct": ".650",
+            "l": 15,
+            "gb_div": "1.0",
+            "gb_wc": "+6.5",
+            "pct": ".634",
+            "stk": "L3",
+            "rf": 215,
+            "ra": 142,
+            "rd": 73
+          }
+        }
+      },
+      {
+        "game_id": "20260515-WSH-BAL-1",
+        "game_time_utc": "2026-05-15 22:45:00+00:00",
+        "game_date": "2026-05-15",
+        "final": "",
+        "location": "Away",
+        "outcome": "upcoming",
+        "score": [
+          null,
+          null
+        ],
+        "opponent": {
+          "id": "WSH",
+          "name": "Washington Nationals",
+          "stats": {
+            "gp": 41,
+            "w": 19,
+            "l": 22,
+            "gb_div": "9.0",
+            "gb_wc": "4.5",
+            "pct": ".463",
             "stk": "L2",
-            "rf": 212,
-            "ra": 138,
-            "rd": 74
+            "rf": 217,
+            "ra": 230,
+            "rd": -13
           }
         }
       }
@@ -251,16 +251,16 @@
           }
         },
         "stats": {
-          "gp": 38,
-          "w": 25,
+          "gp": 39,
+          "w": 26,
           "l": 13,
           "gb_div": "-",
           "gb_wc": "-",
-          "pct": ".658",
-          "stk": "L1",
-          "rf": 167,
-          "ra": 150,
-          "rd": 17
+          "pct": ".667",
+          "stk": "W1",
+          "rf": 171,
+          "ra": 151,
+          "rd": 20
         },
         "rnk": {
           "lg": "1",
@@ -285,16 +285,16 @@
           }
         },
         "stats": {
-          "gp": 40,
+          "gp": 41,
           "w": 26,
-          "l": 14,
-          "gb_div": "-",
-          "gb_wc": "+7.0",
-          "pct": ".650",
-          "stk": "L2",
-          "rf": 212,
-          "ra": 138,
-          "rd": 74
+          "l": 15,
+          "gb_div": "1.0",
+          "gb_wc": "+6.5",
+          "pct": ".634",
+          "stk": "L3",
+          "rf": 215,
+          "ra": 142,
+          "rd": 73
         },
         "rnk": {
           "lg": "2",
@@ -319,55 +319,21 @@
           }
         },
         "stats": {
-          "gp": 39,
+          "gp": 40,
           "w": 18,
-          "l": 21,
-          "gb_div": "7.5",
-          "gb_wc": "0.5",
-          "pct": ".462",
-          "stk": "W2",
-          "rf": 163,
-          "ra": 170,
-          "rd": -7
-        },
-        "rnk": {
-          "lg": "7",
-          "cf": "7",
-          "dv": "3",
-          "clinch": ""
-        }
-      },
-      {
-        "team": {
-          "id": "BOS",
-          "city": "Boston",
-          "nick": "Red Sox",
-          "full": "Boston Red Sox",
-          "div": {
-            "id": "american-league-east",
-            "name": "American League East"
-          },
-          "conf": {
-            "id": "american-league",
-            "name": "American League"
-          }
-        },
-        "stats": {
-          "gp": 39,
-          "w": 17,
           "l": 22,
           "gb_div": "8.5",
-          "gb_wc": "1.5",
-          "pct": ".436",
-          "stk": "W1",
-          "rf": 155,
-          "ra": 164,
-          "rd": -9
+          "gb_wc": "1.0",
+          "pct": ".450",
+          "stk": "L1",
+          "rf": 164,
+          "ra": 176,
+          "rd": -12
         },
         "rnk": {
-          "lg": "11",
-          "cf": "11",
-          "dv": "4",
+          "lg": "10",
+          "cf": "10",
+          "dv": "3",
           "clinch": ""
         }
       },
@@ -387,20 +353,54 @@
           }
         },
         "stats": {
+          "gp": 41,
+          "w": 18,
+          "l": 23,
+          "gb_div": "9.0",
+          "gb_wc": "1.5",
+          "pct": ".439",
+          "stk": "W1",
+          "rf": 181,
+          "ra": 222,
+          "rd": -41
+        },
+        "rnk": {
+          "lg": "11",
+          "cf": "11",
+          "dv": "4",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
+          "id": "BOS",
+          "city": "Boston",
+          "nick": "Red Sox",
+          "full": "Boston Red Sox",
+          "div": {
+            "id": "american-league-east",
+            "name": "American League East"
+          },
+          "conf": {
+            "id": "american-league",
+            "name": "American League"
+          }
+        },
+        "stats": {
           "gp": 40,
           "w": 17,
           "l": 23,
-          "gb_div": "9.0",
+          "gb_div": "9.5",
           "gb_wc": "2.0",
           "pct": ".425",
-          "stk": "L3",
-          "rf": 179,
-          "ra": 221,
-          "rd": -42
+          "stk": "L1",
+          "rf": 156,
+          "ra": 168,
+          "rd": -12
         },
         "rnk": {
-          "lg": "12",
-          "cf": "12",
+          "lg": "13",
+          "cf": "13",
           "dv": "5",
           "clinch": ""
         }
@@ -423,16 +423,16 @@
           }
         },
         "stats": {
-          "gp": 38,
-          "w": 25,
+          "gp": 39,
+          "w": 26,
           "l": 13,
           "gb_div": "-",
           "gb_wc": "-",
-          "pct": ".658",
-          "stk": "L1",
-          "rf": 167,
-          "ra": 150,
-          "rd": 17
+          "pct": ".667",
+          "stk": "W1",
+          "rf": 171,
+          "ra": 151,
+          "rd": 20
         },
         "rnk": {
           "lg": "1",
@@ -457,16 +457,16 @@
           }
         },
         "stats": {
-          "gp": 40,
+          "gp": 41,
           "w": 26,
-          "l": 14,
-          "gb_div": "-",
-          "gb_wc": "+7.0",
-          "pct": ".650",
-          "stk": "L2",
-          "rf": 212,
-          "ra": 138,
-          "rd": 74
+          "l": 15,
+          "gb_div": "1.0",
+          "gb_wc": "+6.5",
+          "pct": ".634",
+          "stk": "L3",
+          "rf": 215,
+          "ra": 142,
+          "rd": 73
         },
         "rnk": {
           "lg": "2",
@@ -491,55 +491,21 @@
           }
         },
         "stats": {
-          "gp": 39,
+          "gp": 40,
           "w": 18,
-          "l": 21,
-          "gb_div": "7.5",
-          "gb_wc": "0.5",
-          "pct": ".462",
-          "stk": "W2",
-          "rf": 163,
-          "ra": 170,
-          "rd": -7
-        },
-        "rnk": {
-          "lg": "7",
-          "cf": "7",
-          "dv": "3",
-          "clinch": ""
-        }
-      },
-      {
-        "team": {
-          "id": "BOS",
-          "city": "Boston",
-          "nick": "Red Sox",
-          "full": "Boston Red Sox",
-          "div": {
-            "id": "american-league-east",
-            "name": "American League East"
-          },
-          "conf": {
-            "id": "american-league",
-            "name": "American League"
-          }
-        },
-        "stats": {
-          "gp": 39,
-          "w": 17,
           "l": 22,
           "gb_div": "8.5",
-          "gb_wc": "1.5",
-          "pct": ".436",
-          "stk": "W1",
-          "rf": 155,
-          "ra": 164,
-          "rd": -9
+          "gb_wc": "1.0",
+          "pct": ".450",
+          "stk": "L1",
+          "rf": 164,
+          "ra": 176,
+          "rd": -12
         },
         "rnk": {
-          "lg": "11",
-          "cf": "11",
-          "dv": "4",
+          "lg": "10",
+          "cf": "10",
+          "dv": "3",
           "clinch": ""
         }
       },
@@ -559,20 +525,54 @@
           }
         },
         "stats": {
+          "gp": 41,
+          "w": 18,
+          "l": 23,
+          "gb_div": "9.0",
+          "gb_wc": "1.5",
+          "pct": ".439",
+          "stk": "W1",
+          "rf": 181,
+          "ra": 222,
+          "rd": -41
+        },
+        "rnk": {
+          "lg": "11",
+          "cf": "11",
+          "dv": "4",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
+          "id": "BOS",
+          "city": "Boston",
+          "nick": "Red Sox",
+          "full": "Boston Red Sox",
+          "div": {
+            "id": "american-league-east",
+            "name": "American League East"
+          },
+          "conf": {
+            "id": "american-league",
+            "name": "American League"
+          }
+        },
+        "stats": {
           "gp": 40,
           "w": 17,
           "l": 23,
-          "gb_div": "9.0",
+          "gb_div": "9.5",
           "gb_wc": "2.0",
           "pct": ".425",
-          "stk": "L3",
-          "rf": 179,
-          "ra": 221,
-          "rd": -42
+          "stk": "L1",
+          "rf": 156,
+          "ra": 168,
+          "rd": -12
         },
         "rnk": {
-          "lg": "12",
-          "cf": "12",
+          "lg": "13",
+          "cf": "13",
           "dv": "5",
           "clinch": ""
         }
@@ -593,55 +593,21 @@
           }
         },
         "stats": {
-          "gp": 41,
+          "gp": 42,
           "w": 21,
-          "l": 20,
+          "l": 21,
           "gb_div": "-",
           "gb_wc": "-",
-          "pct": ".512",
-          "stk": "L1",
-          "rf": 169,
-          "ra": 172,
-          "rd": -3
+          "pct": ".500",
+          "stk": "L2",
+          "rf": 173,
+          "ra": 177,
+          "rd": -4
         },
         "rnk": {
           "lg": "4",
           "cf": "4",
           "dv": "1",
-          "clinch": ""
-        }
-      },
-      {
-        "team": {
-          "id": "KC",
-          "city": "Kansas City",
-          "nick": "Royals",
-          "full": "Kansas City Royals",
-          "div": {
-            "id": "american-league-central",
-            "name": "American League Central"
-          },
-          "conf": {
-            "id": "american-league",
-            "name": "American League"
-          }
-        },
-        "stats": {
-          "gp": 40,
-          "w": 19,
-          "l": 21,
-          "gb_div": "1.5",
-          "gb_wc": "-",
-          "pct": ".475",
-          "stk": "W2",
-          "rf": 166,
-          "ra": 177,
-          "rd": -11
-        },
-        "rnk": {
-          "lg": "6",
-          "cf": "6",
-          "dv": "2",
           "clinch": ""
         }
       },
@@ -661,21 +627,21 @@
           }
         },
         "stats": {
-          "gp": 39,
-          "w": 18,
+          "gp": 40,
+          "w": 19,
           "l": 21,
-          "gb_div": "2.0",
-          "gb_wc": "0.5",
-          "pct": ".462",
-          "stk": "W1",
-          "rf": 169,
-          "ra": 184,
-          "rd": -15
+          "gb_div": "1.0",
+          "gb_wc": "-",
+          "pct": ".475",
+          "stk": "W2",
+          "rf": 171,
+          "ra": 185,
+          "rd": -14
         },
         "rnk": {
-          "lg": "9",
-          "cf": "9",
-          "dv": "3",
+          "lg": "6",
+          "cf": "6",
+          "dv": "2",
           "clinch": ""
         }
       },
@@ -695,20 +661,54 @@
           }
         },
         "stats": {
-          "gp": 40,
-          "w": 18,
+          "gp": 41,
+          "w": 19,
           "l": 22,
-          "gb_div": "2.5",
-          "gb_wc": "1.0",
-          "pct": ".450",
-          "stk": "L5",
-          "rf": 169,
-          "ra": 168,
-          "rd": 1
+          "gb_div": "1.5",
+          "gb_wc": "0.5",
+          "pct": ".463",
+          "stk": "W1",
+          "rf": 175,
+          "ra": 171,
+          "rd": 4
         },
         "rnk": {
-          "lg": "10",
-          "cf": "10",
+          "lg": "9",
+          "cf": "9",
+          "dv": "3",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
+          "id": "KC",
+          "city": "Kansas City",
+          "nick": "Royals",
+          "full": "Kansas City Royals",
+          "div": {
+            "id": "american-league-central",
+            "name": "American League Central"
+          },
+          "conf": {
+            "id": "american-league",
+            "name": "American League"
+          }
+        },
+        "stats": {
+          "gp": 41,
+          "w": 19,
+          "l": 22,
+          "gb_div": "1.5",
+          "gb_wc": "0.5",
+          "pct": ".463",
+          "stk": "L1",
+          "rf": 169,
+          "ra": 183,
+          "rd": -14
+        },
+        "rnk": {
+          "lg": "8",
+          "cf": "8",
           "dv": "4",
           "clinch": ""
         }
@@ -729,20 +729,20 @@
           }
         },
         "stats": {
-          "gp": 40,
-          "w": 17,
+          "gp": 41,
+          "w": 18,
           "l": 23,
-          "gb_div": "3.5",
-          "gb_wc": "2.0",
-          "pct": ".425",
-          "stk": "W1",
-          "rf": 189,
-          "ra": 202,
-          "rd": -13
+          "gb_div": "2.5",
+          "gb_wc": "1.5",
+          "pct": ".439",
+          "stk": "W2",
+          "rf": 194,
+          "ra": 206,
+          "rd": -12
         },
         "rnk": {
-          "lg": "13",
-          "cf": "13",
+          "lg": "12",
+          "cf": "12",
           "dv": "5",
           "clinch": ""
         }
@@ -763,55 +763,21 @@
           }
         },
         "stats": {
-          "gp": 39,
+          "gp": 40,
           "w": 21,
-          "l": 18,
+          "l": 19,
           "gb_div": "-",
           "gb_wc": "-",
-          "pct": ".538",
-          "stk": "W3",
-          "rf": 175,
-          "ra": 180,
-          "rd": -5
+          "pct": ".525",
+          "stk": "L1",
+          "rf": 176,
+          "ra": 182,
+          "rd": -6
         },
         "rnk": {
           "lg": "3",
           "cf": "3",
           "dv": "1",
-          "clinch": ""
-        }
-      },
-      {
-        "team": {
-          "id": "SEA",
-          "city": "Seattle",
-          "nick": "Mariners",
-          "full": "Seattle Mariners",
-          "div": {
-            "id": "american-league-west",
-            "name": "American League West"
-          },
-          "conf": {
-            "id": "american-league",
-            "name": "American League"
-          }
-        },
-        "stats": {
-          "gp": 40,
-          "w": 19,
-          "l": 21,
-          "gb_div": "2.5",
-          "gb_wc": "-",
-          "pct": ".475",
-          "stk": "L1",
-          "rf": 166,
-          "ra": 163,
-          "rd": 3
-        },
-        "rnk": {
-          "lg": "5",
-          "cf": "5",
-          "dv": "2",
           "clinch": ""
         }
       },
@@ -831,30 +797,30 @@
           }
         },
         "stats": {
-          "gp": 39,
-          "w": 18,
+          "gp": 40,
+          "w": 19,
           "l": 21,
-          "gb_div": "3.0",
-          "gb_wc": "0.5",
-          "pct": ".462",
-          "stk": "W1",
-          "rf": 146,
+          "gb_div": "2.0",
+          "gb_wc": "-",
+          "pct": ".475",
+          "stk": "W2",
+          "rf": 149,
           "ra": 152,
-          "rd": -6
+          "rd": -3
         },
         "rnk": {
-          "lg": "8",
-          "cf": "8",
-          "dv": "3",
+          "lg": "5",
+          "cf": "5",
+          "dv": "2",
           "clinch": ""
         }
       },
       {
         "team": {
-          "id": "HOU",
-          "city": "Houston",
-          "nick": "Astros",
-          "full": "Houston Astros",
+          "id": "SEA",
+          "city": "Seattle",
+          "nick": "Mariners",
+          "full": "Seattle Mariners",
           "div": {
             "id": "american-league-west",
             "name": "American League West"
@@ -865,21 +831,21 @@
           }
         },
         "stats": {
-          "gp": 40,
-          "w": 16,
-          "l": 24,
-          "gb_div": "5.5",
-          "gb_wc": "3.0",
-          "pct": ".400",
-          "stk": "L1",
-          "rf": 196,
-          "ra": 225,
-          "rd": -29
+          "gp": 41,
+          "w": 19,
+          "l": 22,
+          "gb_div": "2.5",
+          "gb_wc": "0.5",
+          "pct": ".463",
+          "stk": "L2",
+          "rf": 167,
+          "ra": 165,
+          "rd": 2
         },
         "rnk": {
-          "lg": "14",
-          "cf": "14",
-          "dv": "4",
+          "lg": "7",
+          "cf": "7",
+          "dv": "3",
           "clinch": ""
         }
       },
@@ -899,16 +865,50 @@
           }
         },
         "stats": {
-          "gp": 40,
-          "w": 15,
+          "gp": 41,
+          "w": 16,
           "l": 25,
-          "gb_div": "6.5",
-          "gb_wc": "4.0",
-          "pct": ".375",
+          "gb_div": "5.5",
+          "gb_wc": "3.5",
+          "pct": ".390",
+          "stk": "W1",
+          "rf": 177,
+          "ra": 201,
+          "rd": -24
+        },
+        "rnk": {
+          "lg": "14",
+          "cf": "14",
+          "dv": "4",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
+          "id": "HOU",
+          "city": "Houston",
+          "nick": "Astros",
+          "full": "Houston Astros",
+          "div": {
+            "id": "american-league-west",
+            "name": "American League West"
+          },
+          "conf": {
+            "id": "american-league",
+            "name": "American League"
+          }
+        },
+        "stats": {
+          "gp": 41,
+          "w": 16,
+          "l": 25,
+          "gb_div": "5.5",
+          "gb_wc": "3.5",
+          "pct": ".390",
           "stk": "L2",
-          "rf": 171,
-          "ra": 200,
-          "rd": -29
+          "rf": 196,
+          "ra": 230,
+          "rd": -34
         },
         "rnk": {
           "lg": "15",
