@@ -35,10 +35,10 @@
   },
   {
     "team": {
-      "id": "TEX",
-      "city": "Texas",
-      "nick": "Rangers",
-      "full": "Texas Rangers",
+      "id": "SEA",
+      "city": "Seattle",
+      "nick": "Mariners",
+      "full": "Seattle Mariners",
       "div": {
         "id": "american-league-west",
         "name": "American League West"
@@ -49,16 +49,16 @@
       }
     },
     "stats": {
-      "gp": 40,
-      "w": 19,
-      "l": 21,
+      "gp": 42,
+      "w": 20,
+      "l": 22,
       "gb_div": "2.0",
       "gb_wc": "-",
-      "pct": ".475",
-      "stk": "W2",
-      "rf": 149,
-      "ra": 152,
-      "rd": -3
+      "pct": ".476",
+      "stk": "W1",
+      "rf": 170,
+      "ra": 166,
+      "rd": 4
     },
     "rnk": {
       "lg": "5",
@@ -69,10 +69,10 @@
   },
   {
     "team": {
-      "id": "SEA",
-      "city": "Seattle",
-      "nick": "Mariners",
-      "full": "Seattle Mariners",
+      "id": "TEX",
+      "city": "Texas",
+      "nick": "Rangers",
+      "full": "Texas Rangers",
       "div": {
         "id": "american-league-west",
         "name": "American League West"
@@ -89,10 +89,10 @@
       "gb_div": "2.5",
       "gb_wc": "0.5",
       "pct": ".463",
-      "stk": "L2",
-      "rf": 167,
-      "ra": 165,
-      "rd": 2
+      "stk": "L1",
+      "rf": 149,
+      "ra": 153,
+      "rd": -4
     },
     "rnk": {
       "lg": "7",
@@ -117,16 +117,16 @@
       }
     },
     "stats": {
-      "gp": 41,
+      "gp": 42,
       "w": 16,
-      "l": 25,
-      "gb_div": "5.5",
-      "gb_wc": "3.5",
-      "pct": ".390",
-      "stk": "W1",
-      "rf": 177,
-      "ra": 201,
-      "rd": -24
+      "l": 26,
+      "gb_div": "6.0",
+      "gb_wc": "4.0",
+      "pct": ".381",
+      "stk": "L1",
+      "rf": 179,
+      "ra": 208,
+      "rd": -29
     },
     "rnk": {
       "lg": "14",
@@ -151,16 +151,16 @@
       }
     },
     "stats": {
-      "gp": 41,
+      "gp": 42,
       "w": 16,
-      "l": 25,
-      "gb_div": "5.5",
-      "gb_wc": "3.5",
-      "pct": ".390",
-      "stk": "L2",
-      "rf": 196,
-      "ra": 230,
-      "rd": -34
+      "l": 26,
+      "gb_div": "6.0",
+      "gb_wc": "4.0",
+      "pct": ".381",
+      "stk": "L3",
+      "rf": 197,
+      "ra": 233,
+      "rd": -36
     },
     "rnk": {
       "lg": "15",
