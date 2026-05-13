@@ -15,20 +15,20 @@
       }
     },
     "stats": {
-      "gp": 43,
-      "w": 22,
+      "gp": 44,
+      "w": 23,
       "l": 21,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".512",
-      "stk": "W1",
-      "rf": 180,
-      "ra": 179,
-      "rd": 1
+      "pct": ".523",
+      "stk": "W2",
+      "rf": 183,
+      "ra": 181,
+      "rd": 2
     },
     "rnk": {
-      "lg": "4",
-      "cf": "4",
+      "lg": "3",
+      "cf": "3",
       "dv": "1",
       "clinch": ""
     }
@@ -49,16 +49,16 @@
       }
     },
     "stats": {
-      "gp": 40,
-      "w": 19,
+      "gp": 41,
+      "w": 20,
       "l": 21,
       "gb_div": "1.5",
       "gb_wc": "-",
-      "pct": ".475",
-      "stk": "W2",
-      "rf": 171,
-      "ra": 185,
-      "rd": -14
+      "pct": ".488",
+      "stk": "W3",
+      "rf": 177,
+      "ra": 190,
+      "rd": -13
     },
     "rnk": {
       "lg": "6",
@@ -69,10 +69,10 @@
   },
   {
     "team": {
-      "id": "DET",
-      "city": "Detroit",
-      "nick": "Tigers",
-      "full": "Detroit Tigers",
+      "id": "MIN",
+      "city": "Minnesota",
+      "nick": "Twins",
+      "full": "Minnesota Twins",
       "div": {
         "id": "american-league-central",
         "name": "American League Central"
@@ -83,20 +83,20 @@
       }
     },
     "stats": {
-      "gp": 41,
+      "gp": 42,
       "w": 19,
-      "l": 22,
-      "gb_div": "2.0",
-      "gb_wc": "0.5",
-      "pct": ".463",
-      "stk": "W1",
-      "rf": 175,
-      "ra": 171,
-      "rd": 4
+      "l": 23,
+      "gb_div": "3.0",
+      "gb_wc": "1.5",
+      "pct": ".452",
+      "stk": "W3",
+      "rf": 197,
+      "ra": 206,
+      "rd": -9
     },
     "rnk": {
-      "lg": "9",
-      "cf": "9",
+      "lg": "10",
+      "cf": "10",
       "dv": "3",
       "clinch": ""
     }
@@ -117,16 +117,16 @@
       }
     },
     "stats": {
-      "gp": 41,
+      "gp": 42,
       "w": 19,
-      "l": 22,
-      "gb_div": "2.0",
-      "gb_wc": "0.5",
-      "pct": ".463",
-      "stk": "L1",
-      "rf": 169,
-      "ra": 183,
-      "rd": -14
+      "l": 23,
+      "gb_div": "3.0",
+      "gb_wc": "1.5",
+      "pct": ".452",
+      "stk": "L2",
+      "rf": 174,
+      "ra": 189,
+      "rd": -15
     },
     "rnk": {
       "lg": "8",
@@ -137,10 +137,10 @@
   },
   {
     "team": {
-      "id": "MIN",
-      "city": "Minnesota",
-      "nick": "Twins",
-      "full": "Minnesota Twins",
+      "id": "DET",
+      "city": "Detroit",
+      "nick": "Tigers",
+      "full": "Detroit Tigers",
       "div": {
         "id": "american-league-central",
         "name": "American League Central"
@@ -151,20 +151,20 @@
       }
     },
     "stats": {
-      "gp": 41,
-      "w": 18,
+      "gp": 42,
+      "w": 19,
       "l": 23,
       "gb_div": "3.0",
       "gb_wc": "1.5",
-      "pct": ".439",
-      "stk": "W2",
-      "rf": 194,
-      "ra": 206,
-      "rd": -12
+      "pct": ".452",
+      "stk": "L1",
+      "rf": 177,
+      "ra": 181,
+      "rd": -4
     },
     "rnk": {
-      "lg": "12",
-      "cf": "12",
+      "lg": "9",
+      "cf": "9",
       "dv": "5",
       "clinch": ""
     }

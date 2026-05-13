@@ -15,16 +15,16 @@
       }
     },
     "stats": {
-      "gp": 41,
-      "w": 28,
+      "gp": 42,
+      "w": 29,
       "l": 13,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".683",
-      "stk": "W2",
-      "rf": 228,
-      "ra": 141,
-      "rd": 87
+      "pct": ".690",
+      "stk": "W3",
+      "rf": 233,
+      "ra": 143,
+      "rd": 90
     },
     "rnk": {
       "lg": "1",
@@ -49,55 +49,21 @@
       }
     },
     "stats": {
-      "gp": 41,
-      "w": 19,
+      "gp": 42,
+      "w": 20,
       "l": 22,
       "gb_div": "9.0",
-      "gb_wc": "4.5",
-      "pct": ".463",
-      "stk": "W2",
-      "rf": 170,
-      "ra": 202,
-      "rd": -32
+      "gb_wc": "4.0",
+      "pct": ".476",
+      "stk": "W3",
+      "rf": 172,
+      "ra": 203,
+      "rd": -31
     },
     "rnk": {
-      "lg": "12",
-      "cf": "12",
+      "lg": "11",
+      "cf": "11",
       "dv": "2",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "MIA",
-      "city": "Miami",
-      "nick": "Marlins",
-      "full": "Miami Marlins",
-      "div": {
-        "id": "national-league-east",
-        "name": "National League East"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 41,
-      "w": 19,
-      "l": 22,
-      "gb_div": "9.0",
-      "gb_wc": "4.5",
-      "pct": ".463",
-      "stk": "W2",
-      "rf": 176,
-      "ra": 179,
-      "rd": -3
-    },
-    "rnk": {
-      "lg": "10",
-      "cf": "10",
-      "dv": "3",
       "clinch": ""
     }
   },
@@ -117,20 +83,54 @@
       }
     },
     "stats": {
-      "gp": 41,
-      "w": 19,
+      "gp": 42,
+      "w": 20,
       "l": 22,
       "gb_div": "9.0",
-      "gb_wc": "4.5",
-      "pct": ".463",
-      "stk": "L2",
-      "rf": 217,
-      "ra": 230,
-      "rd": -13
+      "gb_wc": "4.0",
+      "pct": ".476",
+      "stk": "W1",
+      "rf": 227,
+      "ra": 234,
+      "rd": -7
     },
     "rnk": {
-      "lg": "11",
-      "cf": "11",
+      "lg": "10",
+      "cf": "10",
+      "dv": "3",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "MIA",
+      "city": "Miami",
+      "nick": "Marlins",
+      "full": "Miami Marlins",
+      "div": {
+        "id": "national-league-east",
+        "name": "National League East"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 42,
+      "w": 19,
+      "l": 23,
+      "gb_div": "10.0",
+      "gb_wc": "5.0",
+      "pct": ".452",
+      "stk": "L1",
+      "rf": 176,
+      "ra": 182,
+      "rd": -6
+    },
+    "rnk": {
+      "lg": "12",
+      "cf": "12",
       "dv": "4",
       "clinch": ""
     }
@@ -151,20 +151,20 @@
       }
     },
     "stats": {
-      "gp": 40,
-      "w": 15,
+      "gp": 41,
+      "w": 16,
       "l": 25,
       "gb_div": "12.5",
-      "gb_wc": "8.0",
-      "pct": ".375",
-      "stk": "L2",
-      "rf": 139,
-      "ra": 170,
-      "rd": -31
+      "gb_wc": "7.5",
+      "pct": ".390",
+      "stk": "W1",
+      "rf": 149,
+      "ra": 172,
+      "rd": -23
     },
     "rnk": {
-      "lg": "15",
-      "cf": "15",
+      "lg": "14",
+      "cf": "14",
       "dv": "5",
       "clinch": ""
     }
