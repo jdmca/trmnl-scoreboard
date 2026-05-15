@@ -15,21 +15,55 @@
       }
     },
     "stats": {
-      "gp": 42,
+      "gp": 43,
       "w": 22,
-      "l": 20,
+      "l": 21,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".524",
-      "stk": "W1",
-      "rf": 186,
-      "ra": 190,
-      "rd": -4
+      "pct": ".512",
+      "stk": "L1",
+      "rf": 190,
+      "ra": 195,
+      "rd": -5
     },
     "rnk": {
       "lg": "4",
       "cf": "4",
       "dv": "1",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "SEA",
+      "city": "Seattle",
+      "nick": "Mariners",
+      "full": "Seattle Mariners",
+      "div": {
+        "id": "american-league-west",
+        "name": "American League West"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 45,
+      "w": 22,
+      "l": 23,
+      "gb_div": "1.0",
+      "gb_wc": "-",
+      "pct": ".489",
+      "stk": "W1",
+      "rf": 191,
+      "ra": 175,
+      "rd": 16
+    },
+    "rnk": {
+      "lg": "6",
+      "cf": "6",
+      "dv": "2",
       "clinch": ""
     }
   },
@@ -52,47 +86,13 @@
       "gp": 43,
       "w": 21,
       "l": 22,
-      "gb_div": "1.5",
+      "gb_div": "1.0",
       "gb_wc": "-",
       "pct": ".488",
       "stk": "W2",
       "rf": 162,
       "ra": 162,
       "rd": 0
-    },
-    "rnk": {
-      "lg": "6",
-      "cf": "6",
-      "dv": "2",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "SEA",
-      "city": "Seattle",
-      "nick": "Mariners",
-      "full": "Seattle Mariners",
-      "div": {
-        "id": "american-league-west",
-        "name": "American League West"
-      },
-      "conf": {
-        "id": "american-league",
-        "name": "American League"
-      }
-    },
-    "stats": {
-      "gp": 44,
-      "w": 21,
-      "l": 23,
-      "gb_div": "2.0",
-      "gb_wc": "0.5",
-      "pct": ".477",
-      "stk": "L1",
-      "rf": 183,
-      "ra": 172,
-      "rd": 11
     },
     "rnk": {
       "lg": "7",
@@ -117,16 +117,16 @@
       }
     },
     "stats": {
-      "gp": 44,
+      "gp": 45,
       "w": 17,
-      "l": 27,
+      "l": 28,
       "gb_div": "6.0",
-      "gb_wc": "4.5",
-      "pct": ".386",
-      "stk": "W1",
-      "rf": 203,
-      "ra": 246,
-      "rd": -43
+      "gb_wc": "5.0",
+      "pct": ".378",
+      "stk": "L1",
+      "rf": 206,
+      "ra": 254,
+      "rd": -48
     },
     "rnk": {
       "lg": "14",
@@ -154,7 +154,7 @@
       "gp": 44,
       "w": 16,
       "l": 28,
-      "gb_div": "7.0",
+      "gb_div": "6.5",
       "gb_wc": "5.5",
       "pct": ".364",
       "stk": "L3",
