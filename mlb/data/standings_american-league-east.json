@@ -15,16 +15,16 @@
       }
     },
     "stats": {
-      "gp": 43,
+      "gp": 44,
       "w": 29,
-      "l": 14,
+      "l": 15,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".674",
-      "stk": "W1",
-      "rf": 196,
-      "ra": 169,
-      "rd": 27
+      "pct": ".659",
+      "stk": "L1",
+      "rf": 201,
+      "ra": 179,
+      "rd": 22
     },
     "rnk": {
       "lg": "1",
@@ -49,55 +49,21 @@
       }
     },
     "stats": {
-      "gp": 45,
+      "gp": 46,
       "w": 28,
-      "l": 17,
+      "l": 18,
       "gb_div": "2.0",
       "gb_wc": "+6.5",
-      "pct": ".622",
-      "stk": "W1",
-      "rf": 228,
-      "ra": 156,
-      "rd": 72
+      "pct": ".609",
+      "stk": "L1",
+      "rf": 231,
+      "ra": 162,
+      "rd": 69
     },
     "rnk": {
       "lg": "2",
       "cf": "2",
       "dv": "2",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "BAL",
-      "city": "Baltimore",
-      "nick": "Orioles",
-      "full": "Baltimore Orioles",
-      "div": {
-        "id": "american-league-east",
-        "name": "American League East"
-      },
-      "conf": {
-        "id": "american-league",
-        "name": "American League"
-      }
-    },
-    "stats": {
-      "gp": 45,
-      "w": 20,
-      "l": 25,
-      "gb_div": "10.0",
-      "gb_wc": "1.5",
-      "pct": ".444",
-      "stk": "L1",
-      "rf": 195,
-      "ra": 233,
-      "rd": -38
-    },
-    "rnk": {
-      "lg": "8",
-      "cf": "8",
-      "dv": "3",
       "clinch": ""
     }
   },
@@ -117,20 +83,54 @@
       }
     },
     "stats": {
-      "gp": 44,
-      "w": 19,
+      "gp": 45,
+      "w": 20,
       "l": 25,
-      "gb_div": "10.5",
-      "gb_wc": "2.0",
-      "pct": ".432",
-      "stk": "L1",
-      "rf": 182,
-      "ra": 197,
-      "rd": -15
+      "gb_div": "9.5",
+      "gb_wc": "1.0",
+      "pct": ".444",
+      "stk": "W1",
+      "rf": 184,
+      "ra": 198,
+      "rd": -14
     },
     "rnk": {
-      "lg": "11",
-      "cf": "11",
+      "lg": "8",
+      "cf": "8",
+      "dv": "3",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "BAL",
+      "city": "Baltimore",
+      "nick": "Orioles",
+      "full": "Baltimore Orioles",
+      "div": {
+        "id": "american-league-east",
+        "name": "American League East"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 46,
+      "w": 20,
+      "l": 26,
+      "gb_div": "10.0",
+      "gb_wc": "1.5",
+      "pct": ".435",
+      "stk": "L2",
+      "rf": 198,
+      "ra": 246,
+      "rd": -48
+    },
+    "rnk": {
+      "lg": "9",
+      "cf": "9",
       "dv": "4",
       "clinch": ""
     }
@@ -151,20 +151,20 @@
       }
     },
     "stats": {
-      "gp": 44,
-      "w": 18,
+      "gp": 45,
+      "w": 19,
       "l": 26,
-      "gb_div": "11.5",
-      "gb_wc": "3.0",
-      "pct": ".409",
-      "stk": "L2",
-      "rf": 163,
-      "ra": 177,
-      "rd": -14
+      "gb_div": "10.5",
+      "gb_wc": "2.0",
+      "pct": ".422",
+      "stk": "W1",
+      "rf": 166,
+      "ra": 179,
+      "rd": -13
     },
     "rnk": {
-      "lg": "13",
-      "cf": "13",
+      "lg": "12",
+      "cf": "12",
       "dv": "5",
       "clinch": ""
     }
