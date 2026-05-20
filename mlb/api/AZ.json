@@ -14,53 +14,25 @@
     }
   },
   "stats": {
-    "gp": 46,
-    "w": 23,
+    "gp": 47,
+    "w": 24,
     "l": 23,
-    "gb_div": "5.5",
+    "gb_div": "5.0",
     "gb_wc": "4.0",
-    "pct": ".500",
-    "stk": "W2",
-    "rf": 210,
-    "ra": 217,
-    "rd": -7
+    "pct": ".511",
+    "stk": "W3",
+    "rf": 215,
+    "ra": 220,
+    "rd": -5
   },
   "rnk": {
-    "lg": "10",
-    "cf": "10",
+    "lg": "11",
+    "cf": "7",
     "dv": "3",
     "clinch": ""
   },
   "games": {
     "past": [
-      {
-        "game_id": "20260516-COL-AZ-1",
-        "game_time_utc": "2026-05-16 19:10:00+00:00",
-        "game_date": "2026-05-16",
-        "final": "Final",
-        "location": "Away",
-        "outcome": "loss",
-        "score": [
-          2,
-          4
-        ],
-        "opponent": {
-          "id": "COL",
-          "name": "Colorado Rockies",
-          "stats": {
-            "gp": 48,
-            "w": 19,
-            "l": 29,
-            "gb_div": "10.5",
-            "gb_wc": "9.0",
-            "pct": ".396",
-            "stk": "W1",
-            "rf": 206,
-            "ra": 249,
-            "rd": -43
-          }
-        }
-      },
       {
         "game_id": "20260517-COL-AZ-1",
         "game_time_utc": "2026-05-17 19:10:00+00:00",
@@ -76,16 +48,16 @@
           "id": "COL",
           "name": "Colorado Rockies",
           "stats": {
-            "gp": 48,
+            "gp": 49,
             "w": 19,
-            "l": 29,
-            "gb_div": "10.5",
-            "gb_wc": "9.0",
-            "pct": ".396",
-            "stk": "W1",
+            "l": 30,
+            "gb_div": "11.0",
+            "gb_wc": "10.0",
+            "pct": ".388",
+            "stk": "L1",
             "rf": 206,
-            "ra": 249,
-            "rd": -43
+            "ra": 259,
+            "rd": -53
           }
         }
       },
@@ -104,49 +76,49 @@
           "id": "SF",
           "name": "San Francisco Giants",
           "stats": {
-            "gp": 48,
+            "gp": 49,
             "w": 20,
-            "l": 28,
-            "gb_div": "9.5",
-            "gb_wc": "8.0",
-            "pct": ".417",
-            "stk": "L1",
-            "rf": 167,
-            "ra": 214,
-            "rd": -47
+            "l": 29,
+            "gb_div": "10.0",
+            "gb_wc": "9.0",
+            "pct": ".408",
+            "stk": "L2",
+            "rf": 170,
+            "ra": 219,
+            "rd": -49
           }
         }
-      }
-    ],
-    "upcoming": [
+      },
       {
         "game_id": "20260519-AZ-SF-1",
         "game_time_utc": "2026-05-20 01:40:00+00:00",
         "game_date": "2026-05-19",
-        "final": "",
-        "outcome": "upcoming",
+        "final": "Final",
+        "outcome": "win",
         "location": "Home",
         "score": [
-          null,
-          null
+          5,
+          3
         ],
         "opponent": {
           "id": "SF",
           "name": "San Francisco Giants",
           "stats": {
-            "gp": 48,
+            "gp": 49,
             "w": 20,
-            "l": 28,
-            "gb_div": "9.5",
-            "gb_wc": "8.0",
-            "pct": ".417",
-            "stk": "L1",
-            "rf": 167,
-            "ra": 214,
-            "rd": -47
+            "l": 29,
+            "gb_div": "10.0",
+            "gb_wc": "9.0",
+            "pct": ".408",
+            "stk": "L2",
+            "rf": 170,
+            "ra": 219,
+            "rd": -49
           }
         }
-      },
+      }
+    ],
+    "upcoming": [
       {
         "game_id": "20260520-AZ-SF-1",
         "game_time_utc": "2026-05-20 19:40:00+00:00",
@@ -162,16 +134,16 @@
           "id": "SF",
           "name": "San Francisco Giants",
           "stats": {
-            "gp": 48,
+            "gp": 49,
             "w": 20,
-            "l": 28,
-            "gb_div": "9.5",
-            "gb_wc": "8.0",
-            "pct": ".417",
-            "stk": "L1",
-            "rf": 167,
-            "ra": 214,
-            "rd": -47
+            "l": 29,
+            "gb_div": "10.0",
+            "gb_wc": "9.0",
+            "pct": ".408",
+            "stk": "L2",
+            "rf": 170,
+            "ra": 219,
+            "rd": -49
           }
         }
       },
@@ -190,16 +162,16 @@
           "id": "COL",
           "name": "Colorado Rockies",
           "stats": {
-            "gp": 48,
+            "gp": 49,
             "w": 19,
-            "l": 29,
-            "gb_div": "10.5",
-            "gb_wc": "9.0",
-            "pct": ".396",
-            "stk": "W1",
+            "l": 30,
+            "gb_div": "11.0",
+            "gb_wc": "10.0",
+            "pct": ".388",
+            "stk": "L1",
             "rf": 206,
-            "ra": 249,
-            "rd": -43
+            "ra": 259,
+            "rd": -53
           }
         }
       },
@@ -218,16 +190,44 @@
           "id": "COL",
           "name": "Colorado Rockies",
           "stats": {
-            "gp": 48,
+            "gp": 49,
             "w": 19,
-            "l": 29,
-            "gb_div": "10.5",
-            "gb_wc": "9.0",
-            "pct": ".396",
-            "stk": "W1",
+            "l": 30,
+            "gb_div": "11.0",
+            "gb_wc": "10.0",
+            "pct": ".388",
+            "stk": "L1",
             "rf": 206,
-            "ra": 249,
-            "rd": -43
+            "ra": 259,
+            "rd": -53
+          }
+        }
+      },
+      {
+        "game_id": "20260523-AZ-COL-1",
+        "game_time_utc": "2026-05-24 02:10:00+00:00",
+        "game_date": "2026-05-23",
+        "final": "",
+        "outcome": "upcoming",
+        "location": "Home",
+        "score": [
+          null,
+          null
+        ],
+        "opponent": {
+          "id": "COL",
+          "name": "Colorado Rockies",
+          "stats": {
+            "gp": 49,
+            "w": 19,
+            "l": 30,
+            "gb_div": "11.0",
+            "gb_wc": "10.0",
+            "pct": ".388",
+            "stk": "L1",
+            "rf": 206,
+            "ra": 259,
+            "rd": -53
           }
         }
       }
@@ -235,40 +235,6 @@
   },
   "standings": {
     "division": [
-      {
-        "team": {
-          "id": "SD",
-          "city": "San Diego",
-          "nick": "Padres",
-          "full": "San Diego Padres",
-          "div": {
-            "id": "national-league-west",
-            "name": "National League West"
-          },
-          "conf": {
-            "id": "national-league",
-            "name": "National League"
-          }
-        },
-        "stats": {
-          "gp": 47,
-          "w": 29,
-          "l": 18,
-          "gb_div": "-",
-          "gb_wc": "-",
-          "pct": ".617",
-          "stk": "W4",
-          "rf": 196,
-          "ra": 188,
-          "rd": 8
-        },
-        "rnk": {
-          "lg": "2",
-          "cf": "2",
-          "dv": "1",
-          "clinch": ""
-        }
-      },
       {
         "team": {
           "id": "LAD",
@@ -285,19 +251,53 @@
           }
         },
         "stats": {
+          "gp": 49,
+          "w": 30,
+          "l": 19,
+          "gb_div": "-",
+          "gb_wc": "-",
+          "pct": ".612",
+          "stk": "W1",
+          "rf": 253,
+          "ra": 159,
+          "rd": 94
+        },
+        "rnk": {
+          "lg": "4",
+          "cf": "2",
+          "dv": "1",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
+          "id": "SD",
+          "city": "San Diego",
+          "nick": "Padres",
+          "full": "San Diego Padres",
+          "div": {
+            "id": "national-league-west",
+            "name": "National League West"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
           "gp": 48,
           "w": 29,
           "l": 19,
           "gb_div": "0.5",
-          "gb_wc": "+1.0",
+          "gb_wc": "+0.5",
           "pct": ".604",
           "stk": "L1",
-          "rf": 248,
-          "ra": 155,
-          "rd": 93
+          "rf": 200,
+          "ra": 193,
+          "rd": 7
         },
         "rnk": {
-          "lg": "4",
+          "lg": "6",
           "cf": "4",
           "dv": "2",
           "clinch": ""
@@ -319,20 +319,20 @@
           }
         },
         "stats": {
-          "gp": 46,
-          "w": 23,
+          "gp": 47,
+          "w": 24,
           "l": 23,
-          "gb_div": "5.5",
+          "gb_div": "5.0",
           "gb_wc": "4.0",
-          "pct": ".500",
-          "stk": "W2",
-          "rf": 210,
-          "ra": 217,
-          "rd": -7
+          "pct": ".511",
+          "stk": "W3",
+          "rf": 215,
+          "ra": 220,
+          "rd": -5
         },
         "rnk": {
-          "lg": "10",
-          "cf": "10",
+          "lg": "11",
+          "cf": "7",
           "dv": "3",
           "clinch": ""
         }
@@ -353,19 +353,19 @@
           }
         },
         "stats": {
-          "gp": 48,
+          "gp": 49,
           "w": 20,
-          "l": 28,
-          "gb_div": "9.5",
-          "gb_wc": "8.0",
-          "pct": ".417",
-          "stk": "L1",
-          "rf": 167,
-          "ra": 214,
-          "rd": -47
+          "l": 29,
+          "gb_div": "10.0",
+          "gb_wc": "9.0",
+          "pct": ".408",
+          "stk": "L2",
+          "rf": 170,
+          "ra": 219,
+          "rd": -49
         },
         "rnk": {
-          "lg": "14",
+          "lg": "25",
           "cf": "14",
           "dv": "4",
           "clinch": ""
@@ -387,19 +387,19 @@
           }
         },
         "stats": {
-          "gp": 48,
+          "gp": 49,
           "w": 19,
-          "l": 29,
-          "gb_div": "10.5",
-          "gb_wc": "9.0",
-          "pct": ".396",
-          "stk": "W1",
+          "l": 30,
+          "gb_div": "11.0",
+          "gb_wc": "10.0",
+          "pct": ".388",
+          "stk": "L1",
           "rf": 206,
-          "ra": 249,
-          "rd": -43
+          "ra": 259,
+          "rd": -53
         },
         "rnk": {
-          "lg": "15",
+          "lg": "29",
           "cf": "15",
           "dv": "5",
           "clinch": ""
@@ -423,19 +423,19 @@
           }
         },
         "stats": {
-          "gp": 48,
-          "w": 32,
+          "gp": 49,
+          "w": 33,
           "l": 16,
           "gb_div": "-",
           "gb_wc": "-",
-          "pct": ".667",
-          "stk": "L1",
-          "rf": 250,
-          "ra": 164,
-          "rd": 86
+          "pct": ".673",
+          "stk": "W1",
+          "rf": 258,
+          "ra": 168,
+          "rd": 90
         },
         "rnk": {
-          "lg": "1",
+          "lg": "2",
           "cf": "1",
           "dv": "1",
           "clinch": ""
@@ -457,20 +457,20 @@
           }
         },
         "stats": {
-          "gp": 48,
+          "gp": 49,
           "w": 25,
-          "l": 23,
-          "gb_div": "7.0",
-          "gb_wc": "3.0",
-          "pct": ".521",
-          "stk": "W5",
-          "rf": 204,
-          "ra": 220,
-          "rd": -16
+          "l": 24,
+          "gb_div": "8.0",
+          "gb_wc": "4.0",
+          "pct": ".510",
+          "stk": "L1",
+          "rf": 205,
+          "ra": 224,
+          "rd": -19
         },
         "rnk": {
-          "lg": "7",
-          "cf": "7",
+          "lg": "12",
+          "cf": "8",
           "dv": "2",
           "clinch": ""
         }
@@ -491,19 +491,19 @@
           }
         },
         "stats": {
-          "gp": 48,
-          "w": 23,
+          "gp": 49,
+          "w": 24,
           "l": 25,
           "gb_div": "9.0",
           "gb_wc": "5.0",
-          "pct": ".479",
-          "stk": "L2",
-          "rf": 262,
-          "ra": 284,
-          "rd": -22
+          "pct": ".490",
+          "stk": "W1",
+          "rf": 271,
+          "ra": 290,
+          "rd": -19
         },
         "rnk": {
-          "lg": "11",
+          "lg": "16",
           "cf": "11",
           "dv": "3",
           "clinch": ""
@@ -525,19 +525,19 @@
           }
         },
         "stats": {
-          "gp": 48,
+          "gp": 49,
           "w": 22,
-          "l": 26,
-          "gb_div": "10.0",
-          "gb_wc": "6.0",
-          "pct": ".458",
-          "stk": "W1",
-          "rf": 213,
-          "ra": 214,
-          "rd": -1
+          "l": 27,
+          "gb_div": "11.0",
+          "gb_wc": "7.0",
+          "pct": ".449",
+          "stk": "L1",
+          "rf": 217,
+          "ra": 222,
+          "rd": -5
         },
         "rnk": {
-          "lg": "12",
+          "lg": "20",
           "cf": "12",
           "dv": "4",
           "clinch": ""
@@ -559,55 +559,21 @@
           }
         },
         "stats": {
-          "gp": 47,
+          "gp": 48,
           "w": 21,
-          "l": 26,
-          "gb_div": "10.5",
-          "gb_wc": "6.5",
-          "pct": ".447",
-          "stk": "W3",
-          "rf": 192,
-          "ra": 199,
-          "rd": -7
+          "l": 27,
+          "gb_div": "11.5",
+          "gb_wc": "7.5",
+          "pct": ".438",
+          "stk": "L1",
+          "rf": 198,
+          "ra": 208,
+          "rd": -10
         },
         "rnk": {
-          "lg": "13",
+          "lg": "21",
           "cf": "13",
           "dv": "5",
-          "clinch": ""
-        }
-      },
-      {
-        "team": {
-          "id": "CHC",
-          "city": "Chicago",
-          "nick": "Cubs",
-          "full": "Chicago Cubs",
-          "div": {
-            "id": "national-league-central",
-            "name": "National League Central"
-          },
-          "conf": {
-            "id": "national-league",
-            "name": "National League"
-          }
-        },
-        "stats": {
-          "gp": 48,
-          "w": 29,
-          "l": 19,
-          "gb_div": "-",
-          "gb_wc": "-",
-          "pct": ".604",
-          "stk": "L3",
-          "rf": 244,
-          "ra": 208,
-          "rd": 36
-        },
-        "rnk": {
-          "lg": "3",
-          "cf": "3",
-          "dv": "1",
           "clinch": ""
         }
       },
@@ -627,21 +593,21 @@
           }
         },
         "stats": {
-          "gp": 45,
-          "w": 27,
+          "gp": 46,
+          "w": 28,
           "l": 18,
-          "gb_div": "0.5",
-          "gb_wc": "+0.5",
-          "pct": ".600",
-          "stk": "W1",
-          "rf": 227,
-          "ra": 160,
-          "rd": 67
+          "gb_div": "-",
+          "gb_wc": "-",
+          "pct": ".609",
+          "stk": "W2",
+          "rf": 232,
+          "ra": 162,
+          "rd": 70
         },
         "rnk": {
           "lg": "5",
-          "cf": "5",
-          "dv": "2",
+          "cf": "3",
+          "dv": "1",
           "clinch": ""
         }
       },
@@ -661,30 +627,30 @@
           }
         },
         "stats": {
-          "gp": 46,
-          "w": 27,
+          "gp": 47,
+          "w": 28,
           "l": 19,
-          "gb_div": "1.0",
+          "gb_div": "0.5",
           "gb_wc": "-",
-          "pct": ".587",
-          "stk": "L1",
-          "rf": 208,
-          "ra": 205,
-          "rd": 3
+          "pct": ".596",
+          "stk": "W1",
+          "rf": 217,
+          "ra": 211,
+          "rd": 6
         },
         "rnk": {
-          "lg": "6",
-          "cf": "6",
-          "dv": "3",
+          "lg": "7",
+          "cf": "5",
+          "dv": "2",
           "clinch": ""
         }
       },
       {
         "team": {
-          "id": "PIT",
-          "city": "Pittsburgh",
-          "nick": "Pirates",
-          "full": "Pittsburgh Pirates",
+          "id": "CHC",
+          "city": "Chicago",
+          "nick": "Cubs",
+          "full": "Chicago Cubs",
           "div": {
             "id": "national-league-central",
             "name": "National League Central"
@@ -695,21 +661,21 @@
           }
         },
         "stats": {
-          "gp": 47,
-          "w": 24,
-          "l": 23,
-          "gb_div": "4.5",
-          "gb_wc": "3.5",
-          "pct": ".511",
-          "stk": "L3",
-          "rf": 229,
-          "ra": 211,
-          "rd": 18
+          "gp": 49,
+          "w": 29,
+          "l": 20,
+          "gb_div": "0.5",
+          "gb_wc": "-",
+          "pct": ".592",
+          "stk": "L4",
+          "rf": 246,
+          "ra": 213,
+          "rd": 33
         },
         "rnk": {
           "lg": "8",
-          "cf": "8",
-          "dv": "4",
+          "cf": "6",
+          "dv": "3",
           "clinch": ""
         }
       },
@@ -729,33 +695,33 @@
           }
         },
         "stats": {
-          "gp": 48,
-          "w": 24,
+          "gp": 49,
+          "w": 25,
           "l": 24,
-          "gb_div": "5.0",
+          "gb_div": "4.5",
           "gb_wc": "4.0",
-          "pct": ".500",
-          "stk": "L3",
-          "rf": 208,
-          "ra": 244,
-          "rd": -36
+          "pct": ".510",
+          "stk": "W1",
+          "rf": 212,
+          "ra": 245,
+          "rd": -33
         },
         "rnk": {
-          "lg": "9",
+          "lg": "13",
           "cf": "9",
-          "dv": "5",
+          "dv": "4",
           "clinch": ""
         }
       },
       {
         "team": {
-          "id": "SD",
-          "city": "San Diego",
-          "nick": "Padres",
-          "full": "San Diego Padres",
+          "id": "PIT",
+          "city": "Pittsburgh",
+          "nick": "Pirates",
+          "full": "Pittsburgh Pirates",
           "div": {
-            "id": "national-league-west",
-            "name": "National League West"
+            "id": "national-league-central",
+            "name": "National League Central"
           },
           "conf": {
             "id": "national-league",
@@ -763,21 +729,21 @@
           }
         },
         "stats": {
-          "gp": 47,
-          "w": 29,
-          "l": 18,
-          "gb_div": "-",
-          "gb_wc": "-",
-          "pct": ".617",
-          "stk": "W4",
-          "rf": 196,
-          "ra": 188,
-          "rd": 8
+          "gp": 48,
+          "w": 24,
+          "l": 24,
+          "gb_div": "5.0",
+          "gb_wc": "4.5",
+          "pct": ".500",
+          "stk": "L4",
+          "rf": 235,
+          "ra": 220,
+          "rd": 15
         },
         "rnk": {
-          "lg": "2",
-          "cf": "2",
-          "dv": "1",
+          "lg": "15",
+          "cf": "10",
+          "dv": "5",
           "clinch": ""
         }
       },
@@ -797,19 +763,53 @@
           }
         },
         "stats": {
+          "gp": 49,
+          "w": 30,
+          "l": 19,
+          "gb_div": "-",
+          "gb_wc": "-",
+          "pct": ".612",
+          "stk": "W1",
+          "rf": 253,
+          "ra": 159,
+          "rd": 94
+        },
+        "rnk": {
+          "lg": "4",
+          "cf": "2",
+          "dv": "1",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
+          "id": "SD",
+          "city": "San Diego",
+          "nick": "Padres",
+          "full": "San Diego Padres",
+          "div": {
+            "id": "national-league-west",
+            "name": "National League West"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
           "gp": 48,
           "w": 29,
           "l": 19,
           "gb_div": "0.5",
-          "gb_wc": "+1.0",
+          "gb_wc": "+0.5",
           "pct": ".604",
           "stk": "L1",
-          "rf": 248,
-          "ra": 155,
-          "rd": 93
+          "rf": 200,
+          "ra": 193,
+          "rd": 7
         },
         "rnk": {
-          "lg": "4",
+          "lg": "6",
           "cf": "4",
           "dv": "2",
           "clinch": ""
@@ -831,20 +831,20 @@
           }
         },
         "stats": {
-          "gp": 46,
-          "w": 23,
+          "gp": 47,
+          "w": 24,
           "l": 23,
-          "gb_div": "5.5",
+          "gb_div": "5.0",
           "gb_wc": "4.0",
-          "pct": ".500",
-          "stk": "W2",
-          "rf": 210,
-          "ra": 217,
-          "rd": -7
+          "pct": ".511",
+          "stk": "W3",
+          "rf": 215,
+          "ra": 220,
+          "rd": -5
         },
         "rnk": {
-          "lg": "10",
-          "cf": "10",
+          "lg": "11",
+          "cf": "7",
           "dv": "3",
           "clinch": ""
         }
@@ -865,19 +865,19 @@
           }
         },
         "stats": {
-          "gp": 48,
+          "gp": 49,
           "w": 20,
-          "l": 28,
-          "gb_div": "9.5",
-          "gb_wc": "8.0",
-          "pct": ".417",
-          "stk": "L1",
-          "rf": 167,
-          "ra": 214,
-          "rd": -47
+          "l": 29,
+          "gb_div": "10.0",
+          "gb_wc": "9.0",
+          "pct": ".408",
+          "stk": "L2",
+          "rf": 170,
+          "ra": 219,
+          "rd": -49
         },
         "rnk": {
-          "lg": "14",
+          "lg": "25",
           "cf": "14",
           "dv": "4",
           "clinch": ""
@@ -899,19 +899,19 @@
           }
         },
         "stats": {
-          "gp": 48,
+          "gp": 49,
           "w": 19,
-          "l": 29,
-          "gb_div": "10.5",
-          "gb_wc": "9.0",
-          "pct": ".396",
-          "stk": "W1",
+          "l": 30,
+          "gb_div": "11.0",
+          "gb_wc": "10.0",
+          "pct": ".388",
+          "stk": "L1",
           "rf": 206,
-          "ra": 249,
-          "rd": -43
+          "ra": 259,
+          "rd": -53
         },
         "rnk": {
-          "lg": "15",
+          "lg": "29",
           "cf": "15",
           "dv": "5",
           "clinch": ""

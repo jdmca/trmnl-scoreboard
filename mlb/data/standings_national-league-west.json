@@ -1,40 +1,6 @@
 [
   {
     "team": {
-      "id": "SD",
-      "city": "San Diego",
-      "nick": "Padres",
-      "full": "San Diego Padres",
-      "div": {
-        "id": "national-league-west",
-        "name": "National League West"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 47,
-      "w": 29,
-      "l": 18,
-      "gb_div": "-",
-      "gb_wc": "-",
-      "pct": ".617",
-      "stk": "W4",
-      "rf": 196,
-      "ra": 188,
-      "rd": 8
-    },
-    "rnk": {
-      "lg": "2",
-      "cf": "2",
-      "dv": "1",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
       "id": "LAD",
       "city": "Los Angeles",
       "nick": "Dodgers",
@@ -49,19 +15,53 @@
       }
     },
     "stats": {
+      "gp": 49,
+      "w": 30,
+      "l": 19,
+      "gb_div": "-",
+      "gb_wc": "-",
+      "pct": ".612",
+      "stk": "W1",
+      "rf": 253,
+      "ra": 159,
+      "rd": 94
+    },
+    "rnk": {
+      "lg": "4",
+      "cf": "2",
+      "dv": "1",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "SD",
+      "city": "San Diego",
+      "nick": "Padres",
+      "full": "San Diego Padres",
+      "div": {
+        "id": "national-league-west",
+        "name": "National League West"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
       "gp": 48,
       "w": 29,
       "l": 19,
       "gb_div": "0.5",
-      "gb_wc": "+1.0",
+      "gb_wc": "+0.5",
       "pct": ".604",
       "stk": "L1",
-      "rf": 248,
-      "ra": 155,
-      "rd": 93
+      "rf": 200,
+      "ra": 193,
+      "rd": 7
     },
     "rnk": {
-      "lg": "4",
+      "lg": "6",
       "cf": "4",
       "dv": "2",
       "clinch": ""
@@ -83,20 +83,20 @@
       }
     },
     "stats": {
-      "gp": 46,
-      "w": 23,
+      "gp": 47,
+      "w": 24,
       "l": 23,
-      "gb_div": "5.5",
+      "gb_div": "5.0",
       "gb_wc": "4.0",
-      "pct": ".500",
-      "stk": "W2",
-      "rf": 210,
-      "ra": 217,
-      "rd": -7
+      "pct": ".511",
+      "stk": "W3",
+      "rf": 215,
+      "ra": 220,
+      "rd": -5
     },
     "rnk": {
-      "lg": "10",
-      "cf": "10",
+      "lg": "11",
+      "cf": "7",
       "dv": "3",
       "clinch": ""
     }
@@ -117,19 +117,19 @@
       }
     },
     "stats": {
-      "gp": 48,
+      "gp": 49,
       "w": 20,
-      "l": 28,
-      "gb_div": "9.5",
-      "gb_wc": "8.0",
-      "pct": ".417",
-      "stk": "L1",
-      "rf": 167,
-      "ra": 214,
-      "rd": -47
+      "l": 29,
+      "gb_div": "10.0",
+      "gb_wc": "9.0",
+      "pct": ".408",
+      "stk": "L2",
+      "rf": 170,
+      "ra": 219,
+      "rd": -49
     },
     "rnk": {
-      "lg": "14",
+      "lg": "25",
       "cf": "14",
       "dv": "4",
       "clinch": ""
@@ -151,19 +151,19 @@
       }
     },
     "stats": {
-      "gp": 48,
+      "gp": 49,
       "w": 19,
-      "l": 29,
-      "gb_div": "10.5",
-      "gb_wc": "9.0",
-      "pct": ".396",
-      "stk": "W1",
+      "l": 30,
+      "gb_div": "11.0",
+      "gb_wc": "10.0",
+      "pct": ".388",
+      "stk": "L1",
       "rf": 206,
-      "ra": 249,
-      "rd": -43
+      "ra": 259,
+      "rd": -53
     },
     "rnk": {
-      "lg": "15",
+      "lg": "29",
       "cf": "15",
       "dv": "5",
       "clinch": ""
