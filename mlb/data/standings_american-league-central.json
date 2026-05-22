@@ -15,19 +15,19 @@
       }
     },
     "stats": {
-      "gp": 51,
-      "w": 29,
+      "gp": 52,
+      "w": 30,
       "l": 22,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".569",
-      "stk": "W5",
-      "rf": 225,
-      "ra": 204,
-      "rd": 21
+      "pct": ".577",
+      "stk": "W6",
+      "rf": 228,
+      "ra": 205,
+      "rd": 23
     },
     "rnk": {
-      "lg": "9",
+      "lg": "8",
       "cf": "3",
       "dv": "1",
       "clinch": ""
@@ -52,7 +52,7 @@
       "gp": 49,
       "w": 25,
       "l": 24,
-      "gb_div": "3.0",
+      "gb_div": "3.5",
       "gb_wc": "+1.0",
       "pct": ".510",
       "stk": "L1",
@@ -61,8 +61,8 @@
       "rd": -12
     },
     "rnk": {
-      "lg": "12",
-      "cf": "4",
+      "lg": "14",
+      "cf": "5",
       "dv": "2",
       "clinch": ""
     }
@@ -86,7 +86,7 @@
       "gp": 50,
       "w": 23,
       "l": 27,
-      "gb_div": "5.5",
+      "gb_div": "6.0",
       "gb_wc": "1.5",
       "pct": ".460",
       "stk": "W1",
@@ -98,40 +98,6 @@
       "lg": "19",
       "cf": "8",
       "dv": "3",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "DET",
-      "city": "Detroit",
-      "nick": "Tigers",
-      "full": "Detroit Tigers",
-      "div": {
-        "id": "american-league-central",
-        "name": "American League Central"
-      },
-      "conf": {
-        "id": "american-league",
-        "name": "American League"
-      }
-    },
-    "stats": {
-      "gp": 50,
-      "w": 20,
-      "l": 30,
-      "gb_div": "8.5",
-      "gb_wc": "4.5",
-      "pct": ".400",
-      "stk": "L5",
-      "rf": 195,
-      "ra": 216,
-      "rd": -21
-    },
-    "rnk": {
-      "lg": "27",
-      "cf": "12",
-      "dv": "4",
       "clinch": ""
     }
   },
@@ -154,7 +120,7 @@
       "gp": 50,
       "w": 20,
       "l": 30,
-      "gb_div": "8.5",
+      "gb_div": "9.0",
       "gb_wc": "4.5",
       "pct": ".400",
       "stk": "L3",
@@ -164,7 +130,41 @@
     },
     "rnk": {
       "lg": "26",
-      "cf": "13",
+      "cf": "12",
+      "dv": "4",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "DET",
+      "city": "Detroit",
+      "nick": "Tigers",
+      "full": "Detroit Tigers",
+      "div": {
+        "id": "american-league-central",
+        "name": "American League Central"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 51,
+      "w": 20,
+      "l": 31,
+      "gb_div": "9.5",
+      "gb_wc": "5.0",
+      "pct": ".392",
+      "stk": "L6",
+      "rf": 196,
+      "ra": 219,
+      "rd": -23
+    },
+    "rnk": {
+      "lg": "28",
+      "cf": "14",
       "dv": "5",
       "clinch": ""
     }

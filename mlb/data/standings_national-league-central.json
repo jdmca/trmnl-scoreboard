@@ -35,40 +35,6 @@
   },
   {
     "team": {
-      "id": "STL",
-      "city": "St. Louis",
-      "nick": "Cardinals",
-      "full": "St. Louis Cardinals",
-      "div": {
-        "id": "national-league-central",
-        "name": "National League Central"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 48,
-      "w": 28,
-      "l": 20,
-      "gb_div": "1.5",
-      "gb_wc": "-",
-      "pct": ".583",
-      "stk": "L1",
-      "rf": 217,
-      "ra": 218,
-      "rd": -1
-    },
-    "rnk": {
-      "lg": "7",
-      "cf": "5",
-      "dv": "2",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
       "id": "CHC",
       "city": "Chicago",
       "nick": "Cubs",
@@ -87,7 +53,7 @@
       "w": 29,
       "l": 21,
       "gb_div": "1.5",
-      "gb_wc": "-",
+      "gb_wc": "+0.5",
       "pct": ".580",
       "stk": "L5",
       "rf": 246,
@@ -95,9 +61,77 @@
       "rd": 28
     },
     "rnk": {
-      "lg": "8",
+      "lg": "7",
+      "cf": "5",
+      "dv": "2",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "STL",
+      "city": "St. Louis",
+      "nick": "Cardinals",
+      "full": "St. Louis Cardinals",
+      "div": {
+        "id": "national-league-central",
+        "name": "National League Central"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 49,
+      "w": 28,
+      "l": 21,
+      "gb_div": "2.0",
+      "gb_wc": "-",
+      "pct": ".571",
+      "stk": "L2",
+      "rf": 219,
+      "ra": 224,
+      "rd": -5
+    },
+    "rnk": {
+      "lg": "9",
       "cf": "6",
       "dv": "3",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "PIT",
+      "city": "Pittsburgh",
+      "nick": "Pirates",
+      "full": "Pittsburgh Pirates",
+      "div": {
+        "id": "national-league-central",
+        "name": "National League Central"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 50,
+      "w": 26,
+      "l": 24,
+      "gb_div": "4.5",
+      "gb_wc": "2.5",
+      "pct": ".520",
+      "stk": "W2",
+      "rf": 248,
+      "ra": 222,
+      "rd": 26
+    },
+    "rnk": {
+      "lg": "11",
+      "cf": "8",
+      "dv": "4",
       "clinch": ""
     }
   },
@@ -121,7 +155,7 @@
       "w": 26,
       "l": 24,
       "gb_div": "4.5",
-      "gb_wc": "3.0",
+      "gb_wc": "2.5",
       "pct": ".520",
       "stk": "W2",
       "rf": 221,
@@ -129,41 +163,7 @@
       "rd": -28
     },
     "rnk": {
-      "lg": "11",
-      "cf": "8",
-      "dv": "4",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "PIT",
-      "city": "Pittsburgh",
-      "nick": "Pirates",
-      "full": "Pittsburgh Pirates",
-      "div": {
-        "id": "national-league-central",
-        "name": "National League Central"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 49,
-      "w": 25,
-      "l": 24,
-      "gb_div": "5.0",
-      "gb_wc": "3.5",
-      "pct": ".510",
-      "stk": "W1",
-      "rf": 242,
-      "ra": 220,
-      "rd": 22
-    },
-    "rnk": {
-      "lg": "14",
+      "lg": "12",
       "cf": "9",
       "dv": "5",
       "clinch": ""
