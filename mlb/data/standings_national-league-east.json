@@ -15,55 +15,21 @@
       }
     },
     "stats": {
-      "gp": 53,
+      "gp": 54,
       "w": 36,
-      "l": 17,
+      "l": 18,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".679",
-      "stk": "L1",
-      "rf": 281,
-      "ra": 178,
-      "rd": 103
+      "pct": ".667",
+      "stk": "L2",
+      "rf": 282,
+      "ra": 180,
+      "rd": 102
     },
     "rnk": {
       "lg": "2",
       "cf": "1",
       "dv": "1",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "PHI",
-      "city": "Philadelphia",
-      "nick": "Phillies",
-      "full": "Philadelphia Phillies",
-      "div": {
-        "id": "national-league-east",
-        "name": "National League East"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 52,
-      "w": 26,
-      "l": 26,
-      "gb_div": "9.5",
-      "gb_wc": "3.0",
-      "pct": ".500",
-      "stk": "W1",
-      "rf": 212,
-      "ra": 234,
-      "rd": -22
-    },
-    "rnk": {
-      "lg": "15",
-      "cf": "9",
-      "dv": "2",
       "clinch": ""
     }
   },
@@ -83,19 +49,53 @@
       }
     },
     "stats": {
+      "gp": 54,
+      "w": 27,
+      "l": 27,
+      "gb_div": "9.0",
+      "gb_wc": "2.5",
+      "pct": ".500",
+      "stk": "W2",
+      "rf": 288,
+      "ra": 302,
+      "rd": -14
+    },
+    "rnk": {
+      "lg": "14",
+      "cf": "10",
+      "dv": "2",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "PHI",
+      "city": "Philadelphia",
+      "nick": "Phillies",
+      "full": "Philadelphia Phillies",
+      "div": {
+        "id": "national-league-east",
+        "name": "National League East"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
       "gp": 53,
       "w": 26,
       "l": 27,
-      "gb_div": "10.0",
-      "gb_wc": "3.5",
+      "gb_div": "9.5",
+      "gb_wc": "3.0",
       "pct": ".491",
-      "stk": "W1",
-      "rf": 286,
-      "ra": 301,
-      "rd": -15
+      "stk": "L1",
+      "rf": 213,
+      "ra": 237,
+      "rd": -24
     },
     "rnk": {
-      "lg": "16",
+      "lg": "17",
       "cf": "11",
       "dv": "3",
       "clinch": ""
@@ -117,19 +117,19 @@
       }
     },
     "stats": {
-      "gp": 53,
-      "w": 24,
+      "gp": 54,
+      "w": 25,
       "l": 29,
-      "gb_div": "12.0",
-      "gb_wc": "5.5",
-      "pct": ".453",
-      "stk": "W2",
-      "rf": 227,
+      "gb_div": "11.0",
+      "gb_wc": "4.5",
+      "pct": ".463",
+      "stk": "W3",
+      "rf": 231,
       "ra": 242,
-      "rd": -15
+      "rd": -11
     },
     "rnk": {
-      "lg": "21",
+      "lg": "20",
       "cf": "12",
       "dv": "4",
       "clinch": ""
@@ -151,19 +151,19 @@
       }
     },
     "stats": {
-      "gp": 52,
+      "gp": 53,
       "w": 22,
-      "l": 30,
+      "l": 31,
       "gb_div": "13.5",
       "gb_wc": "7.0",
-      "pct": ".423",
-      "stk": "L2",
+      "pct": ".415",
+      "stk": "L3",
       "rf": 206,
-      "ra": 223,
-      "rd": -17
+      "ra": 227,
+      "rd": -21
     },
     "rnk": {
-      "lg": "24",
+      "lg": "27",
       "cf": "13",
       "dv": "5",
       "clinch": ""
