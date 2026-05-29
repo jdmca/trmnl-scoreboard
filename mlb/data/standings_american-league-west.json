@@ -53,7 +53,7 @@
       "w": 27,
       "l": 29,
       "gb_div": "0.5",
-      "gb_wc": "-",
+      "gb_wc": "0.5",
       "pct": ".482",
       "stk": "L3",
       "rf": 236,
@@ -64,40 +64,6 @@
       "lg": "18",
       "cf": "7",
       "dv": "2",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "TEX",
-      "city": "Texas",
-      "nick": "Rangers",
-      "full": "Texas Rangers",
-      "div": {
-        "id": "american-league-west",
-        "name": "American League West"
-      },
-      "conf": {
-        "id": "american-league",
-        "name": "American League"
-      }
-    },
-    "stats": {
-      "gp": 55,
-      "w": 25,
-      "l": 30,
-      "gb_div": "2.0",
-      "gb_wc": "1.5",
-      "pct": ".455",
-      "stk": "L1",
-      "rf": 214,
-      "ra": 215,
-      "rd": -1
-    },
-    "rnk": {
-      "lg": "22",
-      "cf": "10",
-      "dv": "3",
       "clinch": ""
     }
   },
@@ -117,16 +83,50 @@
       }
     },
     "stats": {
-      "gp": 57,
-      "w": 25,
+      "gp": 58,
+      "w": 26,
       "l": 32,
-      "gb_div": "3.0",
+      "gb_div": "2.5",
       "gb_wc": "2.5",
-      "pct": ".439",
-      "stk": "W1",
-      "rf": 253,
-      "ra": 294,
-      "rd": -41
+      "pct": ".448",
+      "stk": "W2",
+      "rf": 258,
+      "ra": 295,
+      "rd": -37
+    },
+    "rnk": {
+      "lg": "22",
+      "cf": "10",
+      "dv": "3",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "TEX",
+      "city": "Texas",
+      "nick": "Rangers",
+      "full": "Texas Rangers",
+      "div": {
+        "id": "american-league-west",
+        "name": "American League West"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 56,
+      "w": 25,
+      "l": 31,
+      "gb_div": "2.5",
+      "gb_wc": "2.5",
+      "pct": ".446",
+      "stk": "L2",
+      "rf": 215,
+      "ra": 220,
+      "rd": -5
     },
     "rnk": {
       "lg": "23",
@@ -151,20 +151,20 @@
       }
     },
     "stats": {
-      "gp": 56,
-      "w": 21,
+      "gp": 57,
+      "w": 22,
       "l": 35,
-      "gb_div": "6.5",
+      "gb_div": "6.0",
       "gb_wc": "6.0",
-      "pct": ".375",
-      "stk": "L1",
-      "rf": 227,
-      "ra": 289,
-      "rd": -62
+      "pct": ".386",
+      "stk": "W1",
+      "rf": 234,
+      "ra": 290,
+      "rd": -56
     },
     "rnk": {
-      "lg": "29",
-      "cf": "15",
+      "lg": "28",
+      "cf": "14",
       "dv": "5",
       "clinch": ""
     }

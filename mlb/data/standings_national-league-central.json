@@ -35,6 +35,40 @@
   },
   {
     "team": {
+      "id": "CHC",
+      "city": "Chicago",
+      "nick": "Cubs",
+      "full": "Chicago Cubs",
+      "div": {
+        "id": "national-league-central",
+        "name": "National League Central"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 57,
+      "w": 31,
+      "l": 26,
+      "gb_div": "4.0",
+      "gb_wc": "-",
+      "pct": ".544",
+      "stk": "W2",
+      "rf": 272,
+      "ra": 253,
+      "rd": 19
+    },
+    "rnk": {
+      "lg": "9",
+      "cf": "6",
+      "dv": "2",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
       "id": "STL",
       "city": "St. Louis",
       "nick": "Cardinals",
@@ -53,46 +87,12 @@
       "w": 29,
       "l": 25,
       "gb_div": "4.5",
-      "gb_wc": "-",
+      "gb_wc": "0.5",
       "pct": ".537",
       "stk": "L4",
       "rf": 235,
       "ra": 245,
       "rd": -10
-    },
-    "rnk": {
-      "lg": "9",
-      "cf": "6",
-      "dv": "2",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "CHC",
-      "city": "Chicago",
-      "nick": "Cubs",
-      "full": "Chicago Cubs",
-      "div": {
-        "id": "national-league-central",
-        "name": "National League Central"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 56,
-      "w": 30,
-      "l": 26,
-      "gb_div": "4.5",
-      "gb_wc": "-",
-      "pct": ".536",
-      "stk": "W1",
-      "rf": 265,
-      "ra": 251,
-      "rd": 14
     },
     "rnk": {
       "lg": "10",
@@ -121,7 +121,7 @@
       "w": 29,
       "l": 26,
       "gb_div": "5.0",
-      "gb_wc": "0.5",
+      "gb_wc": "1.0",
       "pct": ".527",
       "stk": "L1",
       "rf": 245,
@@ -151,19 +151,19 @@
       }
     },
     "stats": {
-      "gp": 56,
+      "gp": 57,
       "w": 29,
-      "l": 27,
-      "gb_div": "5.5",
-      "gb_wc": "1.0",
-      "pct": ".518",
-      "stk": "L1",
-      "rf": 274,
-      "ra": 246,
-      "rd": 28
+      "l": 28,
+      "gb_div": "6.0",
+      "gb_wc": "2.0",
+      "pct": ".509",
+      "stk": "L2",
+      "rf": 276,
+      "ra": 253,
+      "rd": 23
     },
     "rnk": {
-      "lg": "13",
+      "lg": "14",
       "cf": "10",
       "dv": "5",
       "clinch": ""

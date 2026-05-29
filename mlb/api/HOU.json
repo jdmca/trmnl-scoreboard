@@ -14,53 +14,25 @@
     }
   },
   "stats": {
-    "gp": 57,
-    "w": 25,
+    "gp": 58,
+    "w": 26,
     "l": 32,
-    "gb_div": "3.0",
+    "gb_div": "2.5",
     "gb_wc": "2.5",
-    "pct": ".439",
-    "stk": "W1",
-    "rf": 253,
-    "ra": 294,
-    "rd": -41
+    "pct": ".448",
+    "stk": "W2",
+    "rf": 258,
+    "ra": 295,
+    "rd": -37
   },
   "rnk": {
-    "lg": "23",
-    "cf": "11",
-    "dv": "4",
+    "lg": "22",
+    "cf": "10",
+    "dv": "3",
     "clinch": ""
   },
   "games": {
     "past": [
-      {
-        "game_id": "20260525-TEX-HOU-1",
-        "game_time_utc": "2026-05-25 23:05:00+00:00",
-        "game_date": "2026-05-25",
-        "final": "Final",
-        "location": "Away",
-        "outcome": "win",
-        "score": [
-          9,
-          0
-        ],
-        "opponent": {
-          "id": "TEX",
-          "name": "Texas Rangers",
-          "stats": {
-            "gp": 55,
-            "w": 25,
-            "l": 30,
-            "gb_div": "2.0",
-            "gb_wc": "1.5",
-            "pct": ".455",
-            "stk": "L1",
-            "rf": 214,
-            "ra": 215,
-            "rd": -1
-          }
-        }
-      },
       {
         "game_id": "20260526-TEX-HOU-1",
         "game_time_utc": "2026-05-27 00:05:00+00:00",
@@ -76,16 +48,16 @@
           "id": "TEX",
           "name": "Texas Rangers",
           "stats": {
-            "gp": 55,
+            "gp": 56,
             "w": 25,
-            "l": 30,
-            "gb_div": "2.0",
-            "gb_wc": "1.5",
-            "pct": ".455",
-            "stk": "L1",
-            "rf": 214,
-            "ra": 215,
-            "rd": -1
+            "l": 31,
+            "gb_div": "2.5",
+            "gb_wc": "2.5",
+            "pct": ".446",
+            "stk": "L2",
+            "rf": 215,
+            "ra": 220,
+            "rd": -5
           }
         }
       },
@@ -104,49 +76,49 @@
           "id": "TEX",
           "name": "Texas Rangers",
           "stats": {
-            "gp": 55,
+            "gp": 56,
             "w": 25,
-            "l": 30,
-            "gb_div": "2.0",
-            "gb_wc": "1.5",
-            "pct": ".455",
-            "stk": "L1",
-            "rf": 214,
-            "ra": 215,
-            "rd": -1
+            "l": 31,
+            "gb_div": "2.5",
+            "gb_wc": "2.5",
+            "pct": ".446",
+            "stk": "L2",
+            "rf": 215,
+            "ra": 220,
+            "rd": -5
           }
         }
-      }
-    ],
-    "upcoming": [
+      },
       {
         "game_id": "20260528-TEX-HOU-1",
         "game_time_utc": "2026-05-29 00:05:00+00:00",
         "game_date": "2026-05-28",
-        "final": "",
+        "final": "Final",
         "location": "Away",
-        "outcome": "upcoming",
+        "outcome": "win",
         "score": [
-          null,
-          null
+          5,
+          1
         ],
         "opponent": {
           "id": "TEX",
           "name": "Texas Rangers",
           "stats": {
-            "gp": 55,
+            "gp": 56,
             "w": 25,
-            "l": 30,
-            "gb_div": "2.0",
-            "gb_wc": "1.5",
-            "pct": ".455",
-            "stk": "L1",
-            "rf": 214,
-            "ra": 215,
-            "rd": -1
+            "l": 31,
+            "gb_div": "2.5",
+            "gb_wc": "2.5",
+            "pct": ".446",
+            "stk": "L2",
+            "rf": 215,
+            "ra": 220,
+            "rd": -5
           }
         }
-      },
+      }
+    ],
+    "upcoming": [
       {
         "game_id": "20260529-HOU-MIL-1",
         "game_time_utc": "2026-05-30 00:10:00+00:00",
@@ -230,6 +202,34 @@
             "rd": 78
           }
         }
+      },
+      {
+        "game_id": "20260602-HOU-PIT-1",
+        "game_time_utc": "2026-06-03 00:10:00+00:00",
+        "game_date": "2026-06-02",
+        "final": "",
+        "outcome": "upcoming",
+        "location": "Home",
+        "score": [
+          null,
+          null
+        ],
+        "opponent": {
+          "id": "PIT",
+          "name": "Pittsburgh Pirates",
+          "stats": {
+            "gp": 57,
+            "w": 29,
+            "l": 28,
+            "gb_div": "6.0",
+            "gb_wc": "2.0",
+            "pct": ".509",
+            "stk": "L2",
+            "rf": 276,
+            "ra": 253,
+            "rd": 23
+          }
+        }
       }
     ]
   },
@@ -289,7 +289,7 @@
           "w": 27,
           "l": 29,
           "gb_div": "0.5",
-          "gb_wc": "-",
+          "gb_wc": "0.5",
           "pct": ".482",
           "stk": "L3",
           "rf": 236,
@@ -300,40 +300,6 @@
           "lg": "18",
           "cf": "7",
           "dv": "2",
-          "clinch": ""
-        }
-      },
-      {
-        "team": {
-          "id": "TEX",
-          "city": "Texas",
-          "nick": "Rangers",
-          "full": "Texas Rangers",
-          "div": {
-            "id": "american-league-west",
-            "name": "American League West"
-          },
-          "conf": {
-            "id": "american-league",
-            "name": "American League"
-          }
-        },
-        "stats": {
-          "gp": 55,
-          "w": 25,
-          "l": 30,
-          "gb_div": "2.0",
-          "gb_wc": "1.5",
-          "pct": ".455",
-          "stk": "L1",
-          "rf": 214,
-          "ra": 215,
-          "rd": -1
-        },
-        "rnk": {
-          "lg": "22",
-          "cf": "10",
-          "dv": "3",
           "clinch": ""
         }
       },
@@ -353,16 +319,50 @@
           }
         },
         "stats": {
-          "gp": 57,
-          "w": 25,
+          "gp": 58,
+          "w": 26,
           "l": 32,
-          "gb_div": "3.0",
+          "gb_div": "2.5",
           "gb_wc": "2.5",
-          "pct": ".439",
-          "stk": "W1",
-          "rf": 253,
-          "ra": 294,
-          "rd": -41
+          "pct": ".448",
+          "stk": "W2",
+          "rf": 258,
+          "ra": 295,
+          "rd": -37
+        },
+        "rnk": {
+          "lg": "22",
+          "cf": "10",
+          "dv": "3",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
+          "id": "TEX",
+          "city": "Texas",
+          "nick": "Rangers",
+          "full": "Texas Rangers",
+          "div": {
+            "id": "american-league-west",
+            "name": "American League West"
+          },
+          "conf": {
+            "id": "american-league",
+            "name": "American League"
+          }
+        },
+        "stats": {
+          "gp": 56,
+          "w": 25,
+          "l": 31,
+          "gb_div": "2.5",
+          "gb_wc": "2.5",
+          "pct": ".446",
+          "stk": "L2",
+          "rf": 215,
+          "ra": 220,
+          "rd": -5
         },
         "rnk": {
           "lg": "23",
@@ -387,20 +387,20 @@
           }
         },
         "stats": {
-          "gp": 56,
-          "w": 21,
+          "gp": 57,
+          "w": 22,
           "l": 35,
-          "gb_div": "6.5",
+          "gb_div": "6.0",
           "gb_wc": "6.0",
-          "pct": ".375",
-          "stk": "L1",
-          "rf": 227,
-          "ra": 289,
-          "rd": -62
+          "pct": ".386",
+          "stk": "W1",
+          "rf": 234,
+          "ra": 290,
+          "rd": -56
         },
         "rnk": {
-          "lg": "29",
-          "cf": "15",
+          "lg": "28",
+          "cf": "14",
           "dv": "5",
           "clinch": ""
         }
@@ -461,7 +461,7 @@
           "w": 34,
           "l": 22,
           "gb_div": "1.5",
-          "gb_wc": "+7.0",
+          "gb_wc": "+6.5",
           "pct": ".607",
           "stk": "W4",
           "rf": 280,
@@ -491,20 +491,20 @@
           }
         },
         "stats": {
-          "gp": 56,
-          "w": 27,
+          "gp": 57,
+          "w": 28,
           "l": 29,
-          "gb_div": "8.5",
+          "gb_div": "8.0",
           "gb_wc": "-",
-          "pct": ".482",
-          "stk": "W2",
-          "rf": 226,
-          "ra": 230,
-          "rd": -4
+          "pct": ".491",
+          "stk": "W3",
+          "rf": 228,
+          "ra": 231,
+          "rd": -3
         },
         "rnk": {
-          "lg": "19",
-          "cf": "8",
+          "lg": "17",
+          "cf": "6",
           "dv": "3",
           "clinch": ""
         }
@@ -525,16 +525,16 @@
           }
         },
         "stats": {
-          "gp": 56,
+          "gp": 57,
           "w": 26,
-          "l": 30,
-          "gb_div": "9.5",
-          "gb_wc": "1.0",
-          "pct": ".464",
-          "stk": "W3",
-          "rf": 254,
-          "ra": 295,
-          "rd": -41
+          "l": 31,
+          "gb_div": "10.0",
+          "gb_wc": "2.0",
+          "pct": ".456",
+          "stk": "L1",
+          "rf": 255,
+          "ra": 297,
+          "rd": -42
         },
         "rnk": {
           "lg": "20",
@@ -559,16 +559,16 @@
           }
         },
         "stats": {
-          "gp": 54,
+          "gp": 55,
           "w": 23,
-          "l": 31,
-          "gb_div": "11.5",
-          "gb_wc": "3.0",
-          "pct": ".426",
-          "stk": "W1",
-          "rf": 208,
-          "ra": 217,
-          "rd": -9
+          "l": 32,
+          "gb_div": "12.0",
+          "gb_wc": "4.0",
+          "pct": ".418",
+          "stk": "L1",
+          "rf": 210,
+          "ra": 227,
+          "rd": -17
         },
         "rnk": {
           "lg": "24",
@@ -627,19 +627,19 @@
           }
         },
         "stats": {
-          "gp": 55,
-          "w": 28,
+          "gp": 56,
+          "w": 29,
           "l": 27,
-          "gb_div": "3.5",
+          "gb_div": "3.0",
           "gb_wc": "+1.5",
-          "pct": ".509",
-          "stk": "W1",
-          "rf": 256,
-          "ra": 260,
-          "rd": -4
+          "pct": ".518",
+          "stk": "W2",
+          "rf": 262,
+          "ra": 262,
+          "rd": 0
         },
         "rnk": {
-          "lg": "14",
+          "lg": "12",
           "cf": "4",
           "dv": "2",
           "clinch": ""
@@ -661,55 +661,21 @@
           }
         },
         "stats": {
-          "gp": 56,
+          "gp": 57,
           "w": 27,
-          "l": 29,
-          "gb_div": "5.0",
-          "gb_wc": "-",
-          "pct": ".482",
-          "stk": "L1",
-          "rf": 256,
-          "ra": 265,
-          "rd": -9
+          "l": 30,
+          "gb_div": "5.5",
+          "gb_wc": "1.0",
+          "pct": ".474",
+          "stk": "L2",
+          "rf": 258,
+          "ra": 271,
+          "rd": -13
         },
         "rnk": {
-          "lg": "17",
-          "cf": "6",
+          "lg": "19",
+          "cf": "8",
           "dv": "3",
-          "clinch": ""
-        }
-      },
-      {
-        "team": {
-          "id": "DET",
-          "city": "Detroit",
-          "nick": "Tigers",
-          "full": "Detroit Tigers",
-          "div": {
-            "id": "american-league-central",
-            "name": "American League Central"
-          },
-          "conf": {
-            "id": "american-league",
-            "name": "American League"
-          }
-        },
-        "stats": {
-          "gp": 56,
-          "w": 22,
-          "l": 34,
-          "gb_div": "10.0",
-          "gb_wc": "5.0",
-          "pct": ".393",
-          "stk": "W1",
-          "rf": 217,
-          "ra": 242,
-          "rd": -25
-        },
-        "rnk": {
-          "lg": "28",
-          "cf": "13",
-          "dv": "4",
           "clinch": ""
         }
       },
@@ -733,7 +699,7 @@
           "w": 22,
           "l": 34,
           "gb_div": "10.0",
-          "gb_wc": "5.0",
+          "gb_wc": "5.5",
           "pct": ".393",
           "stk": "L3",
           "rf": 211,
@@ -742,7 +708,41 @@
         },
         "rnk": {
           "lg": "26",
-          "cf": "14",
+          "cf": "13",
+          "dv": "4",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
+          "id": "DET",
+          "city": "Detroit",
+          "nick": "Tigers",
+          "full": "Detroit Tigers",
+          "div": {
+            "id": "american-league-central",
+            "name": "American League Central"
+          },
+          "conf": {
+            "id": "american-league",
+            "name": "American League"
+          }
+        },
+        "stats": {
+          "gp": 57,
+          "w": 22,
+          "l": 35,
+          "gb_div": "10.5",
+          "gb_wc": "6.0",
+          "pct": ".386",
+          "stk": "L1",
+          "rf": 218,
+          "ra": 249,
+          "rd": -31
+        },
+        "rnk": {
+          "lg": "29",
+          "cf": "15",
           "dv": "5",
           "clinch": ""
         }
@@ -801,7 +801,7 @@
           "w": 27,
           "l": 29,
           "gb_div": "0.5",
-          "gb_wc": "-",
+          "gb_wc": "0.5",
           "pct": ".482",
           "stk": "L3",
           "rf": 236,
@@ -812,40 +812,6 @@
           "lg": "18",
           "cf": "7",
           "dv": "2",
-          "clinch": ""
-        }
-      },
-      {
-        "team": {
-          "id": "TEX",
-          "city": "Texas",
-          "nick": "Rangers",
-          "full": "Texas Rangers",
-          "div": {
-            "id": "american-league-west",
-            "name": "American League West"
-          },
-          "conf": {
-            "id": "american-league",
-            "name": "American League"
-          }
-        },
-        "stats": {
-          "gp": 55,
-          "w": 25,
-          "l": 30,
-          "gb_div": "2.0",
-          "gb_wc": "1.5",
-          "pct": ".455",
-          "stk": "L1",
-          "rf": 214,
-          "ra": 215,
-          "rd": -1
-        },
-        "rnk": {
-          "lg": "22",
-          "cf": "10",
-          "dv": "3",
           "clinch": ""
         }
       },
@@ -865,16 +831,50 @@
           }
         },
         "stats": {
-          "gp": 57,
-          "w": 25,
+          "gp": 58,
+          "w": 26,
           "l": 32,
-          "gb_div": "3.0",
+          "gb_div": "2.5",
           "gb_wc": "2.5",
-          "pct": ".439",
-          "stk": "W1",
-          "rf": 253,
-          "ra": 294,
-          "rd": -41
+          "pct": ".448",
+          "stk": "W2",
+          "rf": 258,
+          "ra": 295,
+          "rd": -37
+        },
+        "rnk": {
+          "lg": "22",
+          "cf": "10",
+          "dv": "3",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
+          "id": "TEX",
+          "city": "Texas",
+          "nick": "Rangers",
+          "full": "Texas Rangers",
+          "div": {
+            "id": "american-league-west",
+            "name": "American League West"
+          },
+          "conf": {
+            "id": "american-league",
+            "name": "American League"
+          }
+        },
+        "stats": {
+          "gp": 56,
+          "w": 25,
+          "l": 31,
+          "gb_div": "2.5",
+          "gb_wc": "2.5",
+          "pct": ".446",
+          "stk": "L2",
+          "rf": 215,
+          "ra": 220,
+          "rd": -5
         },
         "rnk": {
           "lg": "23",
@@ -899,20 +899,20 @@
           }
         },
         "stats": {
-          "gp": 56,
-          "w": 21,
+          "gp": 57,
+          "w": 22,
           "l": 35,
-          "gb_div": "6.5",
+          "gb_div": "6.0",
           "gb_wc": "6.0",
-          "pct": ".375",
-          "stk": "L1",
-          "rf": 227,
-          "ra": 289,
-          "rd": -62
+          "pct": ".386",
+          "stk": "W1",
+          "rf": 234,
+          "ra": 290,
+          "rd": -56
         },
         "rnk": {
-          "lg": "29",
-          "cf": "15",
+          "lg": "28",
+          "cf": "14",
           "dv": "5",
           "clinch": ""
         }
