@@ -15,55 +15,21 @@
       }
     },
     "stats": {
-      "gp": 56,
-      "w": 36,
+      "gp": 57,
+      "w": 37,
       "l": 20,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".643",
-      "stk": "W5",
-      "rf": 298,
-      "ra": 178,
-      "rd": 120
+      "pct": ".649",
+      "stk": "W6",
+      "rf": 302,
+      "ra": 180,
+      "rd": 122
     },
     "rnk": {
       "lg": "2",
       "cf": "2",
       "dv": "1",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "AZ",
-      "city": "Arizona",
-      "nick": "Diamondbacks",
-      "full": "Arizona Diamondbacks",
-      "div": {
-        "id": "national-league-west",
-        "name": "National League West"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 55,
-      "w": 31,
-      "l": 24,
-      "gb_div": "4.5",
-      "gb_wc": "+1.0",
-      "pct": ".564",
-      "stk": "W5",
-      "rf": 255,
-      "ra": 241,
-      "rd": 14
-    },
-    "rnk": {
-      "lg": "7",
-      "cf": "4",
-      "dv": "2",
       "clinch": ""
     }
   },
@@ -83,16 +49,50 @@
       }
     },
     "stats": {
-      "gp": 55,
-      "w": 31,
+      "gp": 56,
+      "w": 32,
       "l": 24,
       "gb_div": "4.5",
-      "gb_wc": "+1.0",
-      "pct": ".564",
-      "stk": "L4",
-      "rf": 214,
-      "ra": 215,
-      "rd": -1
+      "gb_wc": "+1.5",
+      "pct": ".571",
+      "stk": "W1",
+      "rf": 221,
+      "ra": 220,
+      "rd": 1
+    },
+    "rnk": {
+      "lg": "7",
+      "cf": "4",
+      "dv": "2",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "AZ",
+      "city": "Arizona",
+      "nick": "Diamondbacks",
+      "full": "Arizona Diamondbacks",
+      "div": {
+        "id": "national-league-west",
+        "name": "National League West"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 56,
+      "w": 31,
+      "l": 25,
+      "gb_div": "5.5",
+      "gb_wc": "+0.5",
+      "pct": ".554",
+      "stk": "L1",
+      "rf": 261,
+      "ra": 248,
+      "rd": 13
     },
     "rnk": {
       "lg": "8",
@@ -117,16 +117,16 @@
       }
     },
     "stats": {
-      "gp": 56,
+      "gp": 57,
       "w": 22,
-      "l": 34,
-      "gb_div": "14.0",
-      "gb_wc": "8.5",
-      "pct": ".393",
-      "stk": "L3",
-      "rf": 204,
-      "ra": 258,
-      "rd": -54
+      "l": 35,
+      "gb_div": "15.0",
+      "gb_wc": "9.0",
+      "pct": ".386",
+      "stk": "L4",
+      "rf": 210,
+      "ra": 266,
+      "rd": -56
     },
     "rnk": {
       "lg": "27",
@@ -151,16 +151,16 @@
       }
     },
     "stats": {
-      "gp": 57,
-      "w": 20,
+      "gp": 58,
+      "w": 21,
       "l": 37,
       "gb_div": "16.5",
-      "gb_wc": "11.0",
-      "pct": ".351",
-      "stk": "L5",
-      "rf": 229,
-      "ra": 306,
-      "rd": -77
+      "gb_wc": "10.5",
+      "pct": ".362",
+      "stk": "W1",
+      "rf": 237,
+      "ra": 312,
+      "rd": -75
     },
     "rnk": {
       "lg": "30",
