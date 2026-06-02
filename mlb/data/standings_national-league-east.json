@@ -35,40 +35,6 @@
   },
   {
     "team": {
-      "id": "WSH",
-      "city": "Washington",
-      "nick": "Nationals",
-      "full": "Washington Nationals",
-      "div": {
-        "id": "national-league-east",
-        "name": "National League East"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 60,
-      "w": 31,
-      "l": 29,
-      "gb_div": "9.0",
-      "gb_wc": "1.0",
-      "pct": ".517",
-      "stk": "W2",
-      "rf": 324,
-      "ra": 323,
-      "rd": 1
-    },
-    "rnk": {
-      "lg": "15",
-      "cf": "10",
-      "dv": "2",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
       "id": "PHI",
       "city": "Philadelphia",
       "nick": "Phillies",
@@ -95,18 +61,18 @@
       "rd": -26
     },
     "rnk": {
-      "lg": "16",
-      "cf": "11",
-      "dv": "3",
+      "lg": "15",
+      "cf": "10",
+      "dv": "2",
       "clinch": ""
     }
   },
   {
     "team": {
-      "id": "NYM",
-      "city": "New York",
-      "nick": "Mets",
-      "full": "New York Mets",
+      "id": "WSH",
+      "city": "Washington",
+      "nick": "Nationals",
+      "full": "Washington Nationals",
       "div": {
         "id": "national-league-east",
         "name": "National League East"
@@ -117,21 +83,21 @@
       }
     },
     "stats": {
-      "gp": 59,
-      "w": 26,
-      "l": 33,
-      "gb_div": "13.5",
-      "gb_wc": "5.5",
-      "pct": ".441",
-      "stk": "W4",
-      "rf": 239,
-      "ra": 252,
-      "rd": -13
+      "gp": 61,
+      "w": 31,
+      "l": 30,
+      "gb_div": "9.5",
+      "gb_wc": "1.5",
+      "pct": ".508",
+      "stk": "L1",
+      "rf": 327,
+      "ra": 330,
+      "rd": -3
     },
     "rnk": {
-      "lg": "23",
-      "cf": "12",
-      "dv": "4",
+      "lg": "16",
+      "cf": "11",
+      "dv": "3",
       "clinch": ""
     }
   },
@@ -151,16 +117,50 @@
       }
     },
     "stats": {
+      "gp": 61,
+      "w": 27,
+      "l": 34,
+      "gb_div": "13.5",
+      "gb_wc": "5.5",
+      "pct": ".443",
+      "stk": "W1",
+      "rf": 257,
+      "ra": 282,
+      "rd": -25
+    },
+    "rnk": {
+      "lg": "22",
+      "cf": "12",
+      "dv": "4",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "NYM",
+      "city": "New York",
+      "nick": "Mets",
+      "full": "New York Mets",
+      "div": {
+        "id": "national-league-east",
+        "name": "National League East"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
       "gp": 60,
       "w": 26,
       "l": 34,
       "gb_div": "14.0",
       "gb_wc": "6.0",
       "pct": ".433",
-      "stk": "L5",
-      "rf": 250,
-      "ra": 279,
-      "rd": -29
+      "stk": "L1",
+      "rf": 241,
+      "ra": 255,
+      "rd": -14
     },
     "rnk": {
       "lg": "24",
