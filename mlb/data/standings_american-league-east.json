@@ -15,16 +15,16 @@
       }
     },
     "stats": {
-      "gp": 57,
+      "gp": 58,
       "w": 36,
-      "l": 21,
+      "l": 22,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".632",
-      "stk": "L1",
+      "pct": ".621",
+      "stk": "L2",
       "rf": 271,
-      "ra": 253,
-      "rd": 18
+      "ra": 261,
+      "rd": 10
     },
     "rnk": {
       "lg": "4",
@@ -49,55 +49,21 @@
       }
     },
     "stats": {
-      "gp": 59,
+      "gp": 60,
       "w": 36,
-      "l": 23,
+      "l": 24,
       "gb_div": "1.0",
-      "gb_wc": "+7.5",
-      "pct": ".610",
-      "stk": "W1",
-      "rf": 305,
-      "ra": 207,
-      "rd": 98
+      "gb_wc": "+6.5",
+      "pct": ".600",
+      "stk": "L1",
+      "rf": 309,
+      "ra": 216,
+      "rd": 93
     },
     "rnk": {
       "lg": "5",
       "cf": "2",
       "dv": "2",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "TOR",
-      "city": "Toronto",
-      "nick": "Blue Jays",
-      "full": "Toronto Blue Jays",
-      "div": {
-        "id": "american-league-east",
-        "name": "American League East"
-      },
-      "conf": {
-        "id": "american-league",
-        "name": "American League"
-      }
-    },
-    "stats": {
-      "gp": 60,
-      "w": 29,
-      "l": 31,
-      "gb_div": "8.5",
-      "gb_wc": "-",
-      "pct": ".483",
-      "stk": "L2",
-      "rf": 244,
-      "ra": 251,
-      "rd": -7
-    },
-    "rnk": {
-      "lg": "17",
-      "cf": "6",
-      "dv": "3",
       "clinch": ""
     }
   },
@@ -117,16 +83,50 @@
       }
     },
     "stats": {
-      "gp": 60,
-      "w": 28,
+      "gp": 61,
+      "w": 29,
       "l": 32,
-      "gb_div": "9.5",
+      "gb_div": "8.5",
       "gb_wc": "1.0",
-      "pct": ".467",
-      "stk": "W2",
-      "rf": 275,
-      "ra": 313,
-      "rd": -38
+      "pct": ".475",
+      "stk": "W3",
+      "rf": 279,
+      "ra": 315,
+      "rd": -36
+    },
+    "rnk": {
+      "lg": "19",
+      "cf": "8",
+      "dv": "3",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "TOR",
+      "city": "Toronto",
+      "nick": "Blue Jays",
+      "full": "Toronto Blue Jays",
+      "div": {
+        "id": "american-league-east",
+        "name": "American League East"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 61,
+      "w": 29,
+      "l": 32,
+      "gb_div": "8.5",
+      "gb_wc": "1.0",
+      "pct": ".475",
+      "stk": "L3",
+      "rf": 247,
+      "ra": 255,
+      "rd": -8
     },
     "rnk": {
       "lg": "20",
@@ -151,16 +151,16 @@
       }
     },
     "stats": {
-      "gp": 58,
+      "gp": 59,
       "w": 25,
-      "l": 33,
+      "l": 34,
       "gb_div": "11.5",
-      "gb_wc": "3.0",
-      "pct": ".431",
-      "stk": "W2",
-      "rf": 231,
-      "ra": 236,
-      "rd": -5
+      "gb_wc": "4.0",
+      "pct": ".424",
+      "stk": "L1",
+      "rf": 233,
+      "ra": 240,
+      "rd": -7
     },
     "rnk": {
       "lg": "25",

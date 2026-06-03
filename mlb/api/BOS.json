@@ -14,16 +14,16 @@
     }
   },
   "stats": {
-    "gp": 58,
+    "gp": 59,
     "w": 25,
-    "l": 33,
+    "l": 34,
     "gb_div": "11.5",
-    "gb_wc": "3.0",
-    "pct": ".431",
-    "stk": "W2",
-    "rf": 231,
-    "ra": 236,
-    "rd": -5
+    "gb_wc": "4.0",
+    "pct": ".424",
+    "stk": "L1",
+    "rf": 233,
+    "ra": 240,
+    "rd": -7
   },
   "rnk": {
     "lg": "25",
@@ -33,34 +33,6 @@
   },
   "games": {
     "past": [
-      {
-        "game_id": "20260529-CLE-BOS-1",
-        "game_time_utc": "2026-05-29 23:10:00+00:00",
-        "game_date": "2026-05-29",
-        "final": "Final",
-        "location": "Away",
-        "outcome": "loss",
-        "score": [
-          3,
-          4
-        ],
-        "opponent": {
-          "id": "CLE",
-          "name": "Cleveland Guardians",
-          "stats": {
-            "gp": 61,
-            "w": 34,
-            "l": 27,
-            "gb_div": "-",
-            "gb_wc": "-",
-            "pct": ".557",
-            "stk": "L2",
-            "rf": 249,
-            "ra": 248,
-            "rd": 1
-          }
-        }
-      },
       {
         "game_id": "20260530-CLE-BOS-1",
         "game_time_utc": "2026-05-30 20:10:00+00:00",
@@ -76,16 +48,16 @@
           "id": "CLE",
           "name": "Cleveland Guardians",
           "stats": {
-            "gp": 61,
-            "w": 34,
+            "gp": 62,
+            "w": 35,
             "l": 27,
             "gb_div": "-",
             "gb_wc": "-",
-            "pct": ".557",
-            "stk": "L2",
-            "rf": 249,
-            "ra": 248,
-            "rd": 1
+            "pct": ".565",
+            "stk": "W1",
+            "rf": 258,
+            "ra": 252,
+            "rd": 6
           }
         }
       },
@@ -104,49 +76,49 @@
           "id": "CLE",
           "name": "Cleveland Guardians",
           "stats": {
-            "gp": 61,
-            "w": 34,
+            "gp": 62,
+            "w": 35,
             "l": 27,
             "gb_div": "-",
             "gb_wc": "-",
-            "pct": ".557",
-            "stk": "L2",
-            "rf": 249,
-            "ra": 248,
-            "rd": 1
+            "pct": ".565",
+            "stk": "W1",
+            "rf": 258,
+            "ra": 252,
+            "rd": 6
           }
         }
-      }
-    ],
-    "upcoming": [
+      },
       {
         "game_id": "20260602-BOS-BAL-1",
         "game_time_utc": "2026-06-02 22:45:00+00:00",
         "game_date": "2026-06-02",
-        "final": "",
-        "outcome": "upcoming",
+        "final": "Final",
+        "outcome": "loss",
         "location": "Home",
         "score": [
-          null,
-          null
+          2,
+          4
         ],
         "opponent": {
           "id": "BAL",
           "name": "Baltimore Orioles",
           "stats": {
-            "gp": 60,
-            "w": 28,
+            "gp": 61,
+            "w": 29,
             "l": 32,
-            "gb_div": "9.5",
+            "gb_div": "8.5",
             "gb_wc": "1.0",
-            "pct": ".467",
-            "stk": "W2",
-            "rf": 275,
-            "ra": 313,
-            "rd": -38
+            "pct": ".475",
+            "stk": "W3",
+            "rf": 279,
+            "ra": 315,
+            "rd": -36
           }
         }
-      },
+      }
+    ],
+    "upcoming": [
       {
         "game_id": "20260603-BOS-BAL-1",
         "game_time_utc": "2026-06-03 22:45:00+00:00",
@@ -162,16 +134,16 @@
           "id": "BAL",
           "name": "Baltimore Orioles",
           "stats": {
-            "gp": 60,
-            "w": 28,
+            "gp": 61,
+            "w": 29,
             "l": 32,
-            "gb_div": "9.5",
+            "gb_div": "8.5",
             "gb_wc": "1.0",
-            "pct": ".467",
-            "stk": "W2",
-            "rf": 275,
-            "ra": 313,
-            "rd": -38
+            "pct": ".475",
+            "stk": "W3",
+            "rf": 279,
+            "ra": 315,
+            "rd": -36
           }
         }
       },
@@ -190,16 +162,16 @@
           "id": "BAL",
           "name": "Baltimore Orioles",
           "stats": {
-            "gp": 60,
-            "w": 28,
+            "gp": 61,
+            "w": 29,
             "l": 32,
-            "gb_div": "9.5",
+            "gb_div": "8.5",
             "gb_wc": "1.0",
-            "pct": ".467",
-            "stk": "W2",
-            "rf": 275,
-            "ra": 313,
-            "rd": -38
+            "pct": ".475",
+            "stk": "W3",
+            "rf": 279,
+            "ra": 315,
+            "rd": -36
           }
         }
       },
@@ -218,16 +190,44 @@
           "id": "NYY",
           "name": "New York Yankees",
           "stats": {
-            "gp": 59,
+            "gp": 60,
             "w": 36,
-            "l": 23,
+            "l": 24,
             "gb_div": "1.0",
-            "gb_wc": "+7.5",
-            "pct": ".610",
-            "stk": "W1",
-            "rf": 305,
-            "ra": 207,
-            "rd": 98
+            "gb_wc": "+6.5",
+            "pct": ".600",
+            "stk": "L1",
+            "rf": 309,
+            "ra": 216,
+            "rd": 93
+          }
+        }
+      },
+      {
+        "game_id": "20260606-NYY-BOS-1",
+        "game_time_utc": "2026-06-06 23:35:00+00:00",
+        "game_date": "2026-06-06",
+        "final": "",
+        "location": "Away",
+        "outcome": "upcoming",
+        "score": [
+          null,
+          null
+        ],
+        "opponent": {
+          "id": "NYY",
+          "name": "New York Yankees",
+          "stats": {
+            "gp": 60,
+            "w": 36,
+            "l": 24,
+            "gb_div": "1.0",
+            "gb_wc": "+6.5",
+            "pct": ".600",
+            "stk": "L1",
+            "rf": 309,
+            "ra": 216,
+            "rd": 93
           }
         }
       }
@@ -251,16 +251,16 @@
           }
         },
         "stats": {
-          "gp": 57,
+          "gp": 58,
           "w": 36,
-          "l": 21,
+          "l": 22,
           "gb_div": "-",
           "gb_wc": "-",
-          "pct": ".632",
-          "stk": "L1",
+          "pct": ".621",
+          "stk": "L2",
           "rf": 271,
-          "ra": 253,
-          "rd": 18
+          "ra": 261,
+          "rd": 10
         },
         "rnk": {
           "lg": "4",
@@ -285,55 +285,21 @@
           }
         },
         "stats": {
-          "gp": 59,
+          "gp": 60,
           "w": 36,
-          "l": 23,
+          "l": 24,
           "gb_div": "1.0",
-          "gb_wc": "+7.5",
-          "pct": ".610",
-          "stk": "W1",
-          "rf": 305,
-          "ra": 207,
-          "rd": 98
+          "gb_wc": "+6.5",
+          "pct": ".600",
+          "stk": "L1",
+          "rf": 309,
+          "ra": 216,
+          "rd": 93
         },
         "rnk": {
           "lg": "5",
           "cf": "2",
           "dv": "2",
-          "clinch": ""
-        }
-      },
-      {
-        "team": {
-          "id": "TOR",
-          "city": "Toronto",
-          "nick": "Blue Jays",
-          "full": "Toronto Blue Jays",
-          "div": {
-            "id": "american-league-east",
-            "name": "American League East"
-          },
-          "conf": {
-            "id": "american-league",
-            "name": "American League"
-          }
-        },
-        "stats": {
-          "gp": 60,
-          "w": 29,
-          "l": 31,
-          "gb_div": "8.5",
-          "gb_wc": "-",
-          "pct": ".483",
-          "stk": "L2",
-          "rf": 244,
-          "ra": 251,
-          "rd": -7
-        },
-        "rnk": {
-          "lg": "17",
-          "cf": "6",
-          "dv": "3",
           "clinch": ""
         }
       },
@@ -353,16 +319,50 @@
           }
         },
         "stats": {
-          "gp": 60,
-          "w": 28,
+          "gp": 61,
+          "w": 29,
           "l": 32,
-          "gb_div": "9.5",
+          "gb_div": "8.5",
           "gb_wc": "1.0",
-          "pct": ".467",
-          "stk": "W2",
-          "rf": 275,
-          "ra": 313,
-          "rd": -38
+          "pct": ".475",
+          "stk": "W3",
+          "rf": 279,
+          "ra": 315,
+          "rd": -36
+        },
+        "rnk": {
+          "lg": "19",
+          "cf": "8",
+          "dv": "3",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
+          "id": "TOR",
+          "city": "Toronto",
+          "nick": "Blue Jays",
+          "full": "Toronto Blue Jays",
+          "div": {
+            "id": "american-league-east",
+            "name": "American League East"
+          },
+          "conf": {
+            "id": "american-league",
+            "name": "American League"
+          }
+        },
+        "stats": {
+          "gp": 61,
+          "w": 29,
+          "l": 32,
+          "gb_div": "8.5",
+          "gb_wc": "1.0",
+          "pct": ".475",
+          "stk": "L3",
+          "rf": 247,
+          "ra": 255,
+          "rd": -8
         },
         "rnk": {
           "lg": "20",
@@ -387,16 +387,16 @@
           }
         },
         "stats": {
-          "gp": 58,
+          "gp": 59,
           "w": 25,
-          "l": 33,
+          "l": 34,
           "gb_div": "11.5",
-          "gb_wc": "3.0",
-          "pct": ".431",
-          "stk": "W2",
-          "rf": 231,
-          "ra": 236,
-          "rd": -5
+          "gb_wc": "4.0",
+          "pct": ".424",
+          "stk": "L1",
+          "rf": 233,
+          "ra": 240,
+          "rd": -7
         },
         "rnk": {
           "lg": "25",
@@ -423,16 +423,16 @@
           }
         },
         "stats": {
-          "gp": 57,
+          "gp": 58,
           "w": 36,
-          "l": 21,
+          "l": 22,
           "gb_div": "-",
           "gb_wc": "-",
-          "pct": ".632",
-          "stk": "L1",
+          "pct": ".621",
+          "stk": "L2",
           "rf": 271,
-          "ra": 253,
-          "rd": 18
+          "ra": 261,
+          "rd": 10
         },
         "rnk": {
           "lg": "4",
@@ -457,55 +457,21 @@
           }
         },
         "stats": {
-          "gp": 59,
+          "gp": 60,
           "w": 36,
-          "l": 23,
+          "l": 24,
           "gb_div": "1.0",
-          "gb_wc": "+7.5",
-          "pct": ".610",
-          "stk": "W1",
-          "rf": 305,
-          "ra": 207,
-          "rd": 98
+          "gb_wc": "+6.5",
+          "pct": ".600",
+          "stk": "L1",
+          "rf": 309,
+          "ra": 216,
+          "rd": 93
         },
         "rnk": {
           "lg": "5",
           "cf": "2",
           "dv": "2",
-          "clinch": ""
-        }
-      },
-      {
-        "team": {
-          "id": "TOR",
-          "city": "Toronto",
-          "nick": "Blue Jays",
-          "full": "Toronto Blue Jays",
-          "div": {
-            "id": "american-league-east",
-            "name": "American League East"
-          },
-          "conf": {
-            "id": "american-league",
-            "name": "American League"
-          }
-        },
-        "stats": {
-          "gp": 60,
-          "w": 29,
-          "l": 31,
-          "gb_div": "8.5",
-          "gb_wc": "-",
-          "pct": ".483",
-          "stk": "L2",
-          "rf": 244,
-          "ra": 251,
-          "rd": -7
-        },
-        "rnk": {
-          "lg": "17",
-          "cf": "6",
-          "dv": "3",
           "clinch": ""
         }
       },
@@ -525,16 +491,50 @@
           }
         },
         "stats": {
-          "gp": 60,
-          "w": 28,
+          "gp": 61,
+          "w": 29,
           "l": 32,
-          "gb_div": "9.5",
+          "gb_div": "8.5",
           "gb_wc": "1.0",
-          "pct": ".467",
-          "stk": "W2",
-          "rf": 275,
-          "ra": 313,
-          "rd": -38
+          "pct": ".475",
+          "stk": "W3",
+          "rf": 279,
+          "ra": 315,
+          "rd": -36
+        },
+        "rnk": {
+          "lg": "19",
+          "cf": "8",
+          "dv": "3",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
+          "id": "TOR",
+          "city": "Toronto",
+          "nick": "Blue Jays",
+          "full": "Toronto Blue Jays",
+          "div": {
+            "id": "american-league-east",
+            "name": "American League East"
+          },
+          "conf": {
+            "id": "american-league",
+            "name": "American League"
+          }
+        },
+        "stats": {
+          "gp": 61,
+          "w": 29,
+          "l": 32,
+          "gb_div": "8.5",
+          "gb_wc": "1.0",
+          "pct": ".475",
+          "stk": "L3",
+          "rf": 247,
+          "ra": 255,
+          "rd": -8
         },
         "rnk": {
           "lg": "20",
@@ -559,16 +559,16 @@
           }
         },
         "stats": {
-          "gp": 58,
+          "gp": 59,
           "w": 25,
-          "l": 33,
+          "l": 34,
           "gb_div": "11.5",
-          "gb_wc": "3.0",
-          "pct": ".431",
-          "stk": "W2",
-          "rf": 231,
-          "ra": 236,
-          "rd": -5
+          "gb_wc": "4.0",
+          "pct": ".424",
+          "stk": "L1",
+          "rf": 233,
+          "ra": 240,
+          "rd": -7
         },
         "rnk": {
           "lg": "25",
@@ -593,16 +593,16 @@
           }
         },
         "stats": {
-          "gp": 61,
-          "w": 34,
+          "gp": 62,
+          "w": 35,
           "l": 27,
           "gb_div": "-",
           "gb_wc": "-",
-          "pct": ".557",
-          "stk": "L2",
-          "rf": 249,
-          "ra": 248,
-          "rd": 1
+          "pct": ".565",
+          "stk": "W1",
+          "rf": 258,
+          "ra": 252,
+          "rd": 6
         },
         "rnk": {
           "lg": "6",
@@ -627,20 +627,20 @@
           }
         },
         "stats": {
-          "gp": 60,
+          "gp": 61,
           "w": 32,
-          "l": 28,
-          "gb_div": "1.5",
-          "gb_wc": "+3.0",
-          "pct": ".533",
-          "stk": "L1",
-          "rf": 281,
-          "ra": 276,
-          "rd": 5
+          "l": 29,
+          "gb_div": "2.5",
+          "gb_wc": "+2.0",
+          "pct": ".525",
+          "stk": "L2",
+          "rf": 285,
+          "ra": 282,
+          "rd": 3
         },
         "rnk": {
-          "lg": "10",
-          "cf": "4",
+          "lg": "12",
+          "cf": "5",
           "dv": "2",
           "clinch": ""
         }
@@ -661,55 +661,21 @@
           }
         },
         "stats": {
-          "gp": 61,
-          "w": 28,
+          "gp": 62,
+          "w": 29,
           "l": 33,
           "gb_div": "6.0",
           "gb_wc": "1.5",
-          "pct": ".459",
-          "stk": "W1",
-          "rf": 284,
-          "ra": 302,
-          "rd": -18
+          "pct": ".468",
+          "stk": "W2",
+          "rf": 290,
+          "ra": 306,
+          "rd": -16
         },
         "rnk": {
           "lg": "21",
           "cf": "10",
           "dv": "3",
-          "clinch": ""
-        }
-      },
-      {
-        "team": {
-          "id": "KC",
-          "city": "Kansas City",
-          "nick": "Royals",
-          "full": "Kansas City Royals",
-          "div": {
-            "id": "american-league-central",
-            "name": "American League Central"
-          },
-          "conf": {
-            "id": "american-league",
-            "name": "American League"
-          }
-        },
-        "stats": {
-          "gp": 60,
-          "w": 23,
-          "l": 37,
-          "gb_div": "10.5",
-          "gb_wc": "6.0",
-          "pct": ".383",
-          "stk": "W1",
-          "rf": 230,
-          "ra": 282,
-          "rd": -52
-        },
-        "rnk": {
-          "lg": "26",
-          "cf": "13",
-          "dv": "4",
           "clinch": ""
         }
       },
@@ -729,20 +695,54 @@
           }
         },
         "stats": {
-          "gp": 61,
-          "w": 23,
+          "gp": 62,
+          "w": 24,
           "l": 38,
           "gb_div": "11.0",
           "gb_wc": "6.5",
-          "pct": ".377",
-          "stk": "W1",
-          "rf": 233,
+          "pct": ".387",
+          "stk": "W2",
+          "rf": 241,
           "ra": 271,
-          "rd": -38
+          "rd": -30
         },
         "rnk": {
-          "lg": "30",
-          "cf": "15",
+          "lg": "27",
+          "cf": "13",
+          "dv": "4",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
+          "id": "KC",
+          "city": "Kansas City",
+          "nick": "Royals",
+          "full": "Kansas City Royals",
+          "div": {
+            "id": "american-league-central",
+            "name": "American League Central"
+          },
+          "conf": {
+            "id": "american-league",
+            "name": "American League"
+          }
+        },
+        "stats": {
+          "gp": 61,
+          "w": 23,
+          "l": 38,
+          "gb_div": "11.5",
+          "gb_wc": "7.0",
+          "pct": ".377",
+          "stk": "L1",
+          "rf": 233,
+          "ra": 286,
+          "rd": -53
+        },
+        "rnk": {
+          "lg": "28",
+          "cf": "14",
           "dv": "5",
           "clinch": ""
         }
@@ -763,20 +763,20 @@
           }
         },
         "stats": {
-          "gp": 61,
-          "w": 32,
+          "gp": 62,
+          "w": 33,
           "l": 29,
           "gb_div": "-",
           "gb_wc": "-",
-          "pct": ".525",
-          "stk": "W7",
-          "rf": 258,
-          "ra": 227,
-          "rd": 31
+          "pct": ".532",
+          "stk": "W8",
+          "rf": 266,
+          "ra": 230,
+          "rd": 36
         },
         "rnk": {
-          "lg": "13",
-          "cf": "5",
+          "lg": "10",
+          "cf": "4",
           "dv": "1",
           "clinch": ""
         }
@@ -797,20 +797,20 @@
           }
         },
         "stats": {
-          "gp": 60,
-          "w": 29,
+          "gp": 61,
+          "w": 30,
           "l": 31,
           "gb_div": "2.5",
           "gb_wc": "-",
-          "pct": ".483",
-          "stk": "W4",
-          "rf": 239,
-          "ra": 231,
-          "rd": 8
+          "pct": ".492",
+          "stk": "W5",
+          "rf": 246,
+          "ra": 235,
+          "rd": 11
         },
         "rnk": {
-          "lg": "18",
-          "cf": "7",
+          "lg": "17",
+          "cf": "6",
           "dv": "2",
           "clinch": ""
         }
@@ -831,20 +831,20 @@
           }
         },
         "stats": {
-          "gp": 59,
-          "w": 28,
+          "gp": 60,
+          "w": 29,
           "l": 31,
           "gb_div": "3.0",
           "gb_wc": "0.5",
-          "pct": ".475",
-          "stk": "L1",
-          "rf": 252,
-          "ra": 286,
-          "rd": -34
+          "pct": ".483",
+          "stk": "W1",
+          "rf": 254,
+          "ra": 287,
+          "rd": -33
         },
         "rnk": {
-          "lg": "19",
-          "cf": "8",
+          "lg": "18",
+          "cf": "7",
           "dv": "3",
           "clinch": ""
         }
@@ -865,16 +865,16 @@
           }
         },
         "stats": {
-          "gp": 61,
+          "gp": 62,
           "w": 27,
-          "l": 34,
-          "gb_div": "5.0",
-          "gb_wc": "2.5",
-          "pct": ".443",
-          "stk": "L1",
-          "rf": 271,
-          "ra": 304,
-          "rd": -33
+          "l": 35,
+          "gb_div": "6.0",
+          "gb_wc": "3.5",
+          "pct": ".435",
+          "stk": "L2",
+          "rf": 277,
+          "ra": 314,
+          "rd": -37
         },
         "rnk": {
           "lg": "23",
@@ -899,20 +899,20 @@
           }
         },
         "stats": {
-          "gp": 61,
+          "gp": 62,
           "w": 23,
-          "l": 38,
-          "gb_div": "9.0",
-          "gb_wc": "6.5",
-          "pct": ".377",
-          "stk": "L2",
-          "rf": 263,
-          "ra": 315,
-          "rd": -52
+          "l": 39,
+          "gb_div": "10.0",
+          "gb_wc": "7.5",
+          "pct": ".371",
+          "stk": "L3",
+          "rf": 265,
+          "ra": 323,
+          "rd": -58
         },
         "rnk": {
-          "lg": "28",
-          "cf": "14",
+          "lg": "30",
+          "cf": "15",
           "dv": "5",
           "clinch": ""
         }
