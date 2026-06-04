@@ -15,16 +15,16 @@
       }
     },
     "stats": {
-      "gp": 61,
-      "w": 39,
+      "gp": 62,
+      "w": 40,
       "l": 22,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".639",
-      "stk": "W1",
-      "rf": 321,
+      "pct": ".645",
+      "stk": "W2",
+      "rf": 328,
       "ra": 194,
-      "rd": 127
+      "rd": 134
     },
     "rnk": {
       "lg": "2",
@@ -49,16 +49,16 @@
       }
     },
     "stats": {
-      "gp": 59,
+      "gp": 60,
       "w": 32,
-      "l": 27,
-      "gb_div": "6.0",
-      "gb_wc": "+0.5",
-      "pct": ".542",
-      "stk": "L3",
-      "rf": 229,
-      "ra": 236,
-      "rd": -7
+      "l": 28,
+      "gb_div": "7.0",
+      "gb_wc": "-",
+      "pct": ".533",
+      "stk": "L4",
+      "rf": 231,
+      "ra": 239,
+      "rd": -8
     },
     "rnk": {
       "lg": "7",
@@ -83,55 +83,21 @@
       }
     },
     "stats": {
-      "gp": 60,
+      "gp": 61,
       "w": 32,
-      "l": 28,
-      "gb_div": "6.5",
-      "gb_wc": "-",
-      "pct": ".533",
-      "stk": "L1",
+      "l": 29,
+      "gb_div": "7.5",
+      "gb_wc": "0.5",
+      "pct": ".525",
+      "stk": "L2",
       "rf": 273,
-      "ra": 263,
-      "rd": 10
+      "ra": 270,
+      "rd": 3
     },
     "rnk": {
-      "lg": "9",
-      "cf": "6",
+      "lg": "11",
+      "cf": "7",
       "dv": "3",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "COL",
-      "city": "Colorado",
-      "nick": "Rockies",
-      "full": "Colorado Rockies",
-      "div": {
-        "id": "national-league-west",
-        "name": "National League West"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 62,
-      "w": 24,
-      "l": 38,
-      "gb_div": "15.5",
-      "gb_wc": "9.0",
-      "pct": ".387",
-      "stk": "W2",
-      "rf": 268,
-      "ra": 344,
-      "rd": -76
-    },
-    "rnk": {
-      "lg": "26",
-      "cf": "14",
-      "dv": "4",
       "clinch": ""
     }
   },
@@ -151,16 +117,50 @@
       }
     },
     "stats": {
-      "gp": 61,
-      "w": 23,
+      "gp": 62,
+      "w": 24,
       "l": 38,
       "gb_div": "16.0",
-      "gb_wc": "9.5",
-      "pct": ".377",
-      "stk": "L2",
-      "rf": 237,
+      "gb_wc": "9.0",
+      "pct": ".387",
+      "stk": "W1",
+      "rf": 238,
       "ra": 304,
-      "rd": -67
+      "rd": -66
+    },
+    "rnk": {
+      "lg": "28",
+      "cf": "14",
+      "dv": "4",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "COL",
+      "city": "Colorado",
+      "nick": "Rockies",
+      "full": "Colorado Rockies",
+      "div": {
+        "id": "national-league-west",
+        "name": "National League West"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 63,
+      "w": 24,
+      "l": 39,
+      "gb_div": "16.5",
+      "gb_wc": "9.5",
+      "pct": ".381",
+      "stk": "L1",
+      "rf": 272,
+      "ra": 355,
+      "rd": -83
     },
     "rnk": {
       "lg": "29",
