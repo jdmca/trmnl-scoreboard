@@ -14,16 +14,16 @@
     }
   },
   "stats": {
-    "gp": 64,
-    "w": 28,
+    "gp": 65,
+    "w": 29,
     "l": 36,
-    "gb_div": "5.5",
+    "gb_div": "4.5",
     "gb_wc": "3.0",
-    "pct": ".438",
-    "stk": "L1",
-    "rf": 289,
-    "ra": 328,
-    "rd": -39
+    "pct": ".446",
+    "stk": "W1",
+    "rf": 294,
+    "ra": 329,
+    "rd": -35
   },
   "rnk": {
     "lg": "23",
@@ -33,34 +33,6 @@
   },
   "games": {
     "past": [
-      {
-        "game_id": "20260602-HOU-PIT-1",
-        "game_time_utc": "2026-06-03 00:10:00+00:00",
-        "game_date": "2026-06-02",
-        "final": "Final",
-        "outcome": "loss",
-        "location": "Home",
-        "score": [
-          6,
-          10
-        ],
-        "opponent": {
-          "id": "PIT",
-          "name": "Pittsburgh Pirates",
-          "stats": {
-            "gp": 63,
-            "w": 34,
-            "l": 29,
-            "gb_div": "4.5",
-            "gb_wc": "+0.5",
-            "pct": ".540",
-            "stk": "W1",
-            "rf": 325,
-            "ra": 288,
-            "rd": 37
-          }
-        }
-      },
       {
         "game_id": "20260603-HOU-PIT-1",
         "game_time_utc": "2026-06-04 00:10:00+00:00",
@@ -76,16 +48,16 @@
           "id": "PIT",
           "name": "Pittsburgh Pirates",
           "stats": {
-            "gp": 63,
+            "gp": 64,
             "w": 34,
-            "l": 29,
-            "gb_div": "4.5",
-            "gb_wc": "+0.5",
-            "pct": ".540",
-            "stk": "W1",
-            "rf": 325,
-            "ra": 288,
-            "rd": 37
+            "l": 30,
+            "gb_div": "5.5",
+            "gb_wc": "-",
+            "pct": ".531",
+            "stk": "L1",
+            "rf": 328,
+            "ra": 294,
+            "rd": 34
           }
         }
       },
@@ -104,49 +76,49 @@
           "id": "PIT",
           "name": "Pittsburgh Pirates",
           "stats": {
-            "gp": 63,
+            "gp": 64,
             "w": 34,
-            "l": 29,
-            "gb_div": "4.5",
-            "gb_wc": "+0.5",
-            "pct": ".540",
-            "stk": "W1",
-            "rf": 325,
-            "ra": 288,
-            "rd": 37
+            "l": 30,
+            "gb_div": "5.5",
+            "gb_wc": "-",
+            "pct": ".531",
+            "stk": "L1",
+            "rf": 328,
+            "ra": 294,
+            "rd": 34
           }
         }
-      }
-    ],
-    "upcoming": [
+      },
       {
         "game_id": "20260605-HOU-ATH-1",
         "game_time_utc": "2026-06-06 00:10:00+00:00",
         "game_date": "2026-06-05",
-        "final": "",
-        "outcome": "upcoming",
+        "final": "Final",
+        "outcome": "win",
         "location": "Home",
         "score": [
-          null,
-          null
+          5,
+          1
         ],
         "opponent": {
           "id": "ATH",
           "name": "Athletics",
           "stats": {
-            "gp": 62,
+            "gp": 63,
             "w": 30,
-            "l": 32,
+            "l": 33,
             "gb_div": "2.5",
-            "gb_wc": "-",
-            "pct": ".484",
-            "stk": "L1",
-            "rf": 265,
-            "ra": 298,
-            "rd": -33
+            "gb_wc": "1.0",
+            "pct": ".476",
+            "stk": "L2",
+            "rf": 266,
+            "ra": 303,
+            "rd": -37
           }
         }
-      },
+      }
+    ],
+    "upcoming": [
       {
         "game_id": "20260606-HOU-ATH-1",
         "game_time_utc": "2026-06-06 20:10:00+00:00",
@@ -162,16 +134,16 @@
           "id": "ATH",
           "name": "Athletics",
           "stats": {
-            "gp": 62,
+            "gp": 63,
             "w": 30,
-            "l": 32,
+            "l": 33,
             "gb_div": "2.5",
-            "gb_wc": "-",
-            "pct": ".484",
-            "stk": "L1",
-            "rf": 265,
-            "ra": 298,
-            "rd": -33
+            "gb_wc": "1.0",
+            "pct": ".476",
+            "stk": "L2",
+            "rf": 266,
+            "ra": 303,
+            "rd": -37
           }
         }
       },
@@ -190,16 +162,16 @@
           "id": "ATH",
           "name": "Athletics",
           "stats": {
-            "gp": 62,
+            "gp": 63,
             "w": 30,
-            "l": 32,
+            "l": 33,
             "gb_div": "2.5",
-            "gb_wc": "-",
-            "pct": ".484",
-            "stk": "L1",
-            "rf": 265,
-            "ra": 298,
-            "rd": -33
+            "gb_wc": "1.0",
+            "pct": ".476",
+            "stk": "L2",
+            "rf": 266,
+            "ra": 303,
+            "rd": -37
           }
         }
       },
@@ -218,16 +190,44 @@
           "id": "LAA",
           "name": "Los Angeles Angels",
           "stats": {
-            "gp": 63,
+            "gp": 64,
             "w": 24,
-            "l": 39,
+            "l": 40,
             "gb_div": "9.0",
-            "gb_wc": "6.5",
-            "pct": ".381",
-            "stk": "W1",
+            "gb_wc": "7.5",
+            "pct": ".375",
+            "stk": "L1",
             "rf": 276,
-            "ra": 327,
-            "rd": -51
+            "ra": 328,
+            "rd": -52
+          }
+        }
+      },
+      {
+        "game_id": "20260609-LAA-HOU-1",
+        "game_time_utc": "2026-06-10 01:38:00+00:00",
+        "game_date": "2026-06-09",
+        "final": "",
+        "location": "Away",
+        "outcome": "upcoming",
+        "score": [
+          null,
+          null
+        ],
+        "opponent": {
+          "id": "LAA",
+          "name": "Los Angeles Angels",
+          "stats": {
+            "gp": 64,
+            "w": 24,
+            "l": 40,
+            "gb_div": "9.0",
+            "gb_wc": "7.5",
+            "pct": ".375",
+            "stk": "L1",
+            "rf": 276,
+            "ra": 328,
+            "rd": -52
           }
         }
       }
@@ -251,55 +251,21 @@
           }
         },
         "stats": {
-          "gp": 63,
+          "gp": 64,
           "w": 33,
-          "l": 30,
+          "l": 31,
           "gb_div": "-",
           "gb_wc": "-",
-          "pct": ".524",
-          "stk": "L1",
-          "rf": 267,
-          "ra": 237,
-          "rd": 30
+          "pct": ".516",
+          "stk": "L2",
+          "rf": 270,
+          "ra": 244,
+          "rd": 26
         },
         "rnk": {
           "lg": "13",
           "cf": "5",
           "dv": "1",
-          "clinch": ""
-        }
-      },
-      {
-        "team": {
-          "id": "ATH",
-          "city": "Athletics",
-          "nick": "Athletics",
-          "full": "Athletics",
-          "div": {
-            "id": "american-league-west",
-            "name": "American League West"
-          },
-          "conf": {
-            "id": "american-league",
-            "name": "American League"
-          }
-        },
-        "stats": {
-          "gp": 62,
-          "w": 30,
-          "l": 32,
-          "gb_div": "2.5",
-          "gb_wc": "-",
-          "pct": ".484",
-          "stk": "L1",
-          "rf": 265,
-          "ra": 298,
-          "rd": -33
-        },
-        "rnk": {
-          "lg": "17",
-          "cf": "6",
-          "dv": "2",
           "clinch": ""
         }
       },
@@ -319,20 +285,54 @@
           }
         },
         "stats": {
-          "gp": 62,
-          "w": 30,
+          "gp": 63,
+          "w": 31,
           "l": 32,
-          "gb_div": "2.5",
+          "gb_div": "1.5",
           "gb_wc": "-",
-          "pct": ".484",
-          "stk": "L1",
-          "rf": 249,
-          "ra": 240,
-          "rd": 9
+          "pct": ".492",
+          "stk": "W1",
+          "rf": 252,
+          "ra": 242,
+          "rd": 10
         },
         "rnk": {
-          "lg": "18",
-          "cf": "7",
+          "lg": "17",
+          "cf": "6",
+          "dv": "2",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
+          "id": "ATH",
+          "city": "Athletics",
+          "nick": "Athletics",
+          "full": "Athletics",
+          "div": {
+            "id": "american-league-west",
+            "name": "American League West"
+          },
+          "conf": {
+            "id": "american-league",
+            "name": "American League"
+          }
+        },
+        "stats": {
+          "gp": 63,
+          "w": 30,
+          "l": 33,
+          "gb_div": "2.5",
+          "gb_wc": "1.0",
+          "pct": ".476",
+          "stk": "L2",
+          "rf": 266,
+          "ra": 303,
+          "rd": -37
+        },
+        "rnk": {
+          "lg": "19",
+          "cf": "8",
           "dv": "3",
           "clinch": ""
         }
@@ -353,16 +353,16 @@
           }
         },
         "stats": {
-          "gp": 64,
-          "w": 28,
+          "gp": 65,
+          "w": 29,
           "l": 36,
-          "gb_div": "5.5",
+          "gb_div": "4.5",
           "gb_wc": "3.0",
-          "pct": ".438",
-          "stk": "L1",
-          "rf": 289,
-          "ra": 328,
-          "rd": -39
+          "pct": ".446",
+          "stk": "W1",
+          "rf": 294,
+          "ra": 329,
+          "rd": -35
         },
         "rnk": {
           "lg": "23",
@@ -387,16 +387,16 @@
           }
         },
         "stats": {
-          "gp": 63,
+          "gp": 64,
           "w": 24,
-          "l": 39,
+          "l": 40,
           "gb_div": "9.0",
-          "gb_wc": "6.5",
-          "pct": ".381",
-          "stk": "W1",
+          "gb_wc": "7.5",
+          "pct": ".375",
+          "stk": "L1",
           "rf": 276,
-          "ra": 327,
-          "rd": -51
+          "ra": 328,
+          "rd": -52
         },
         "rnk": {
           "lg": "30",
@@ -423,16 +423,16 @@
           }
         },
         "stats": {
-          "gp": 59,
-          "w": 36,
+          "gp": 60,
+          "w": 37,
           "l": 23,
           "gb_div": "-",
           "gb_wc": "-",
-          "pct": ".610",
-          "stk": "L3",
-          "rf": 273,
+          "pct": ".617",
+          "stk": "W1",
+          "rf": 279,
           "ra": 268,
-          "rd": 5
+          "rd": 11
         },
         "rnk": {
           "lg": "4",
@@ -457,16 +457,16 @@
           }
         },
         "stats": {
-          "gp": 62,
+          "gp": 63,
           "w": 37,
-          "l": 25,
-          "gb_div": "0.5",
-          "gb_wc": "+7.0",
-          "pct": ".597",
-          "stk": "W1",
-          "rf": 315,
-          "ra": 222,
-          "rd": 93
+          "l": 26,
+          "gb_div": "1.5",
+          "gb_wc": "+6.0",
+          "pct": ".587",
+          "stk": "L1",
+          "rf": 318,
+          "ra": 227,
+          "rd": 91
         },
         "rnk": {
           "lg": "5",
@@ -491,20 +491,20 @@
           }
         },
         "stats": {
-          "gp": 63,
-          "w": 30,
+          "gp": 64,
+          "w": 31,
           "l": 33,
           "gb_div": "8.0",
           "gb_wc": "0.5",
-          "pct": ".476",
-          "stk": "W1",
-          "rf": 288,
-          "ra": 325,
-          "rd": -37
+          "pct": ".484",
+          "stk": "W2",
+          "rf": 301,
+          "ra": 328,
+          "rd": -27
         },
         "rnk": {
-          "lg": "19",
-          "cf": "8",
+          "lg": "18",
+          "cf": "7",
           "dv": "3",
           "clinch": ""
         }
@@ -525,16 +525,16 @@
           }
         },
         "stats": {
-          "gp": 63,
+          "gp": 64,
           "w": 30,
-          "l": 33,
-          "gb_div": "8.0",
-          "gb_wc": "0.5",
-          "pct": ".476",
-          "stk": "W1",
-          "rf": 257,
-          "ra": 264,
-          "rd": -7
+          "l": 34,
+          "gb_div": "9.0",
+          "gb_wc": "1.5",
+          "pct": ".469",
+          "stk": "L1",
+          "rf": 260,
+          "ra": 277,
+          "rd": -17
         },
         "rnk": {
           "lg": "20",
@@ -559,16 +559,16 @@
           }
         },
         "stats": {
-          "gp": 61,
-          "w": 26,
+          "gp": 62,
+          "w": 27,
           "l": 35,
           "gb_div": "11.0",
           "gb_wc": "3.5",
-          "pct": ".426",
-          "stk": "L1",
-          "rf": 243,
-          "ra": 249,
-          "rd": -6
+          "pct": ".435",
+          "stk": "W1",
+          "rf": 248,
+          "ra": 252,
+          "rd": -4
         },
         "rnk": {
           "lg": "25",
@@ -593,16 +593,16 @@
           }
         },
         "stats": {
-          "gp": 64,
+          "gp": 65,
           "w": 36,
-          "l": 28,
+          "l": 29,
           "gb_div": "-",
           "gb_wc": "-",
-          "pct": ".563",
-          "stk": "L1",
-          "rf": 264,
-          "ra": 258,
-          "rd": 6
+          "pct": ".554",
+          "stk": "L2",
+          "rf": 266,
+          "ra": 261,
+          "rd": 5
         },
         "rnk": {
           "lg": "6",
@@ -627,19 +627,19 @@
           }
         },
         "stats": {
-          "gp": 62,
+          "gp": 63,
           "w": 33,
-          "l": 29,
+          "l": 30,
           "gb_div": "2.0",
-          "gb_wc": "+3.0",
-          "pct": ".532",
-          "stk": "W1",
-          "rf": 293,
-          "ra": 282,
-          "rd": 11
+          "gb_wc": "+2.0",
+          "pct": ".524",
+          "stk": "L1",
+          "rf": 299,
+          "ra": 290,
+          "rd": 9
         },
         "rnk": {
-          "lg": "9",
+          "lg": "10",
           "cf": "4",
           "dv": "2",
           "clinch": ""
@@ -661,19 +661,19 @@
           }
         },
         "stats": {
-          "gp": 64,
-          "w": 29,
+          "gp": 65,
+          "w": 30,
           "l": 35,
-          "gb_div": "7.0",
+          "gb_div": "6.0",
           "gb_wc": "2.0",
-          "pct": ".453",
-          "stk": "L2",
-          "rf": 296,
-          "ra": 322,
-          "rd": -26
+          "pct": ".462",
+          "stk": "W1",
+          "rf": 301,
+          "ra": 325,
+          "rd": -24
         },
         "rnk": {
-          "lg": "22",
+          "lg": "21",
           "cf": "10",
           "dv": "3",
           "clinch": ""
@@ -695,19 +695,19 @@
           }
         },
         "stats": {
-          "gp": 63,
-          "w": 25,
+          "gp": 64,
+          "w": 26,
           "l": 38,
-          "gb_div": "10.5",
+          "gb_div": "9.5",
           "gb_wc": "5.5",
-          "pct": ".397",
-          "stk": "W3",
-          "rf": 248,
-          "ra": 273,
-          "rd": -25
+          "pct": ".406",
+          "stk": "W4",
+          "rf": 255,
+          "ra": 276,
+          "rd": -21
         },
         "rnk": {
-          "lg": "28",
+          "lg": "27",
           "cf": "13",
           "dv": "4",
           "clinch": ""
@@ -729,19 +729,19 @@
           }
         },
         "stats": {
-          "gp": 63,
+          "gp": 64,
           "w": 25,
-          "l": 38,
+          "l": 39,
           "gb_div": "10.5",
-          "gb_wc": "5.5",
-          "pct": ".397",
-          "stk": "W2",
-          "rf": 246,
-          "ra": 294,
-          "rd": -48
+          "gb_wc": "6.5",
+          "pct": ".391",
+          "stk": "L1",
+          "rf": 249,
+          "ra": 299,
+          "rd": -50
         },
         "rnk": {
-          "lg": "26",
+          "lg": "28",
           "cf": "14",
           "dv": "5",
           "clinch": ""
@@ -763,55 +763,21 @@
           }
         },
         "stats": {
-          "gp": 63,
+          "gp": 64,
           "w": 33,
-          "l": 30,
+          "l": 31,
           "gb_div": "-",
           "gb_wc": "-",
-          "pct": ".524",
-          "stk": "L1",
-          "rf": 267,
-          "ra": 237,
-          "rd": 30
+          "pct": ".516",
+          "stk": "L2",
+          "rf": 270,
+          "ra": 244,
+          "rd": 26
         },
         "rnk": {
           "lg": "13",
           "cf": "5",
           "dv": "1",
-          "clinch": ""
-        }
-      },
-      {
-        "team": {
-          "id": "ATH",
-          "city": "Athletics",
-          "nick": "Athletics",
-          "full": "Athletics",
-          "div": {
-            "id": "american-league-west",
-            "name": "American League West"
-          },
-          "conf": {
-            "id": "american-league",
-            "name": "American League"
-          }
-        },
-        "stats": {
-          "gp": 62,
-          "w": 30,
-          "l": 32,
-          "gb_div": "2.5",
-          "gb_wc": "-",
-          "pct": ".484",
-          "stk": "L1",
-          "rf": 265,
-          "ra": 298,
-          "rd": -33
-        },
-        "rnk": {
-          "lg": "17",
-          "cf": "6",
-          "dv": "2",
           "clinch": ""
         }
       },
@@ -831,20 +797,54 @@
           }
         },
         "stats": {
-          "gp": 62,
-          "w": 30,
+          "gp": 63,
+          "w": 31,
           "l": 32,
-          "gb_div": "2.5",
+          "gb_div": "1.5",
           "gb_wc": "-",
-          "pct": ".484",
-          "stk": "L1",
-          "rf": 249,
-          "ra": 240,
-          "rd": 9
+          "pct": ".492",
+          "stk": "W1",
+          "rf": 252,
+          "ra": 242,
+          "rd": 10
         },
         "rnk": {
-          "lg": "18",
-          "cf": "7",
+          "lg": "17",
+          "cf": "6",
+          "dv": "2",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
+          "id": "ATH",
+          "city": "Athletics",
+          "nick": "Athletics",
+          "full": "Athletics",
+          "div": {
+            "id": "american-league-west",
+            "name": "American League West"
+          },
+          "conf": {
+            "id": "american-league",
+            "name": "American League"
+          }
+        },
+        "stats": {
+          "gp": 63,
+          "w": 30,
+          "l": 33,
+          "gb_div": "2.5",
+          "gb_wc": "1.0",
+          "pct": ".476",
+          "stk": "L2",
+          "rf": 266,
+          "ra": 303,
+          "rd": -37
+        },
+        "rnk": {
+          "lg": "19",
+          "cf": "8",
           "dv": "3",
           "clinch": ""
         }
@@ -865,16 +865,16 @@
           }
         },
         "stats": {
-          "gp": 64,
-          "w": 28,
+          "gp": 65,
+          "w": 29,
           "l": 36,
-          "gb_div": "5.5",
+          "gb_div": "4.5",
           "gb_wc": "3.0",
-          "pct": ".438",
-          "stk": "L1",
-          "rf": 289,
-          "ra": 328,
-          "rd": -39
+          "pct": ".446",
+          "stk": "W1",
+          "rf": 294,
+          "ra": 329,
+          "rd": -35
         },
         "rnk": {
           "lg": "23",
@@ -899,16 +899,16 @@
           }
         },
         "stats": {
-          "gp": 63,
+          "gp": 64,
           "w": 24,
-          "l": 39,
+          "l": 40,
           "gb_div": "9.0",
-          "gb_wc": "6.5",
-          "pct": ".381",
-          "stk": "W1",
+          "gb_wc": "7.5",
+          "pct": ".375",
+          "stk": "L1",
           "rf": 276,
-          "ra": 327,
-          "rd": -51
+          "ra": 328,
+          "rd": -52
         },
         "rnk": {
           "lg": "30",
