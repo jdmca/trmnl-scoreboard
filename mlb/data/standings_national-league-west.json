@@ -15,55 +15,21 @@
       }
     },
     "stats": {
-      "gp": 76,
+      "gp": 77,
       "w": 49,
-      "l": 27,
+      "l": 28,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".645",
-      "stk": "W4",
-      "rf": 402,
-      "ra": 257,
-      "rd": 145
+      "pct": ".636",
+      "stk": "L1",
+      "rf": 404,
+      "ra": 260,
+      "rd": 144
     },
     "rnk": {
-      "lg": "1",
-      "cf": "1",
+      "lg": "2",
+      "cf": "2",
       "dv": "1",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "AZ",
-      "city": "Arizona",
-      "nick": "Diamondbacks",
-      "full": "Arizona Diamondbacks",
-      "div": {
-        "id": "national-league-west",
-        "name": "National League West"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 75,
-      "w": 39,
-      "l": 36,
-      "gb_div": "9.5",
-      "gb_wc": "0.5",
-      "pct": ".520",
-      "stk": "W2",
-      "rf": 321,
-      "ra": 336,
-      "rd": -15
-    },
-    "rnk": {
-      "lg": "11",
-      "cf": "7",
-      "dv": "2",
       "clinch": ""
     }
   },
@@ -83,20 +49,54 @@
       }
     },
     "stats": {
-      "gp": 74,
-      "w": 38,
+      "gp": 75,
+      "w": 39,
       "l": 36,
-      "gb_div": "10.0",
-      "gb_wc": "1.0",
-      "pct": ".514",
-      "stk": "L1",
-      "rf": 287,
-      "ra": 298,
-      "rd": -11
+      "gb_div": "9.0",
+      "gb_wc": "-",
+      "pct": ".520",
+      "stk": "W1",
+      "rf": 293,
+      "ra": 302,
+      "rd": -9
     },
     "rnk": {
-      "lg": "12",
-      "cf": "8",
+      "lg": "10",
+      "cf": "6",
+      "dv": "2",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "AZ",
+      "city": "Arizona",
+      "nick": "Diamondbacks",
+      "full": "Arizona Diamondbacks",
+      "div": {
+        "id": "national-league-west",
+        "name": "National League West"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 76,
+      "w": 39,
+      "l": 37,
+      "gb_div": "9.5",
+      "gb_wc": "0.5",
+      "pct": ".513",
+      "stk": "L1",
+      "rf": 329,
+      "ra": 352,
+      "rd": -23
+    },
+    "rnk": {
+      "lg": "13",
+      "cf": "9",
       "dv": "3",
       "clinch": ""
     }
@@ -117,19 +117,19 @@
       }
     },
     "stats": {
-      "gp": 75,
+      "gp": 76,
       "w": 31,
-      "l": 44,
+      "l": 45,
       "gb_div": "17.5",
       "gb_wc": "8.5",
-      "pct": ".413",
-      "stk": "L1",
-      "rf": 313,
-      "ra": 363,
-      "rd": -50
+      "pct": ".408",
+      "stk": "L2",
+      "rf": 316,
+      "ra": 369,
+      "rd": -53
     },
     "rnk": {
-      "lg": "26",
+      "lg": "28",
       "cf": "14",
       "dv": "4",
       "clinch": ""
@@ -151,16 +151,16 @@
       }
     },
     "stats": {
-      "gp": 76,
-      "w": 29,
+      "gp": 77,
+      "w": 30,
       "l": 47,
-      "gb_div": "20.0",
-      "gb_wc": "11.0",
-      "pct": ".382",
-      "stk": "W1",
-      "rf": 348,
-      "ra": 437,
-      "rd": -89
+      "gb_div": "19.0",
+      "gb_wc": "10.0",
+      "pct": ".390",
+      "stk": "W2",
+      "rf": 350,
+      "ra": 438,
+      "rd": -88
     },
     "rnk": {
       "lg": "30",

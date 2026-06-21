@@ -1,40 +1,6 @@
 [
   {
     "team": {
-      "id": "CWS",
-      "city": "Chicago",
-      "nick": "White Sox",
-      "full": "Chicago White Sox",
-      "div": {
-        "id": "american-league-central",
-        "name": "American League Central"
-      },
-      "conf": {
-        "id": "american-league",
-        "name": "American League"
-      }
-    },
-    "stats": {
-      "gp": 74,
-      "w": 39,
-      "l": 35,
-      "gb_div": "-",
-      "gb_wc": "-",
-      "pct": ".527",
-      "stk": "L1",
-      "rf": 348,
-      "ra": 348,
-      "rd": 0
-    },
-    "rnk": {
-      "lg": "8",
-      "cf": "3",
-      "dv": "1",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
       "id": "CLE",
       "city": "Cleveland",
       "nick": "Guardians",
@@ -49,16 +15,50 @@
       }
     },
     "stats": {
-      "gp": 76,
-      "w": 40,
+      "gp": 77,
+      "w": 41,
       "l": 36,
       "gb_div": "-",
+      "gb_wc": "-",
+      "pct": ".532",
+      "stk": "W1",
+      "rf": 309,
+      "ra": 315,
+      "rd": -6
+    },
+    "rnk": {
+      "lg": "8",
+      "cf": "3",
+      "dv": "1",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "CWS",
+      "city": "Chicago",
+      "nick": "White Sox",
+      "full": "Chicago White Sox",
+      "div": {
+        "id": "american-league-central",
+        "name": "American League Central"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 75,
+      "w": 39,
+      "l": 36,
+      "gb_div": "1.0",
       "gb_wc": "+2.0",
-      "pct": ".526",
-      "stk": "L1",
-      "rf": 301,
-      "ra": 314,
-      "rd": -13
+      "pct": ".520",
+      "stk": "L2",
+      "rf": 349,
+      "ra": 352,
+      "rd": -3
     },
     "rnk": {
       "lg": "9",
@@ -83,21 +83,55 @@
       }
     },
     "stats": {
-      "gp": 77,
-      "w": 36,
+      "gp": 78,
+      "w": 37,
       "l": 41,
       "gb_div": "4.5",
-      "gb_wc": "2.5",
-      "pct": ".468",
-      "stk": "L1",
-      "rf": 368,
-      "ra": 396,
-      "rd": -28
+      "gb_wc": "1.5",
+      "pct": ".474",
+      "stk": "W1",
+      "rf": 384,
+      "ra": 404,
+      "rd": -20
     },
     "rnk": {
-      "lg": "21",
-      "cf": "9",
+      "lg": "20",
+      "cf": "8",
       "dv": "3",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "DET",
+      "city": "Detroit",
+      "nick": "Tigers",
+      "full": "Detroit Tigers",
+      "div": {
+        "id": "american-league-central",
+        "name": "American League Central"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 76,
+      "w": 32,
+      "l": 44,
+      "gb_div": "8.5",
+      "gb_wc": "5.5",
+      "pct": ".421",
+      "stk": "W2",
+      "rf": 309,
+      "ra": 315,
+      "rd": -6
+    },
+    "rnk": {
+      "lg": "25",
+      "cf": "12",
+      "dv": "4",
       "clinch": ""
     }
   },
@@ -120,8 +154,8 @@
       "gp": 77,
       "w": 32,
       "l": 45,
-      "gb_div": "8.5",
-      "gb_wc": "6.5",
+      "gb_div": "9.0",
+      "gb_wc": "6.0",
       "pct": ".416",
       "stk": "W3",
       "rf": 321,
@@ -129,42 +163,8 @@
       "rd": -42
     },
     "rnk": {
-      "lg": "25",
-      "cf": "12",
-      "dv": "4",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "DET",
-      "city": "Detroit",
-      "nick": "Tigers",
-      "full": "Detroit Tigers",
-      "div": {
-        "id": "american-league-central",
-        "name": "American League Central"
-      },
-      "conf": {
-        "id": "american-league",
-        "name": "American League"
-      }
-    },
-    "stats": {
-      "gp": 75,
-      "w": 31,
-      "l": 44,
-      "gb_div": "8.5",
-      "gb_wc": "6.5",
-      "pct": ".413",
-      "stk": "W1",
-      "rf": 305,
-      "ra": 314,
-      "rd": -9
-    },
-    "rnk": {
       "lg": "27",
-      "cf": "13",
+      "cf": "14",
       "dv": "5",
       "clinch": ""
     }
