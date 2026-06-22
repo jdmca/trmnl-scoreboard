@@ -15,16 +15,16 @@
       }
     },
     "stats": {
-      "gp": 75,
+      "gp": 76,
       "w": 48,
-      "l": 27,
+      "l": 28,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".640",
-      "stk": "W2",
-      "rf": 373,
-      "ra": 271,
-      "rd": 102
+      "pct": ".632",
+      "stk": "L1",
+      "rf": 377,
+      "ra": 280,
+      "rd": 97
     },
     "rnk": {
       "lg": "1",
@@ -49,55 +49,21 @@
       }
     },
     "stats": {
-      "gp": 76,
-      "w": 41,
+      "gp": 77,
+      "w": 42,
       "l": 35,
-      "gb_div": "7.5",
-      "gb_wc": "+1.5",
-      "pct": ".539",
-      "stk": "W1",
-      "rf": 323,
-      "ra": 331,
-      "rd": -8
+      "gb_div": "6.5",
+      "gb_wc": "+2.0",
+      "pct": ".545",
+      "stk": "W2",
+      "rf": 329,
+      "ra": 333,
+      "rd": -4
     },
     "rnk": {
       "lg": "7",
       "cf": "5",
       "dv": "2",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "WSH",
-      "city": "Washington",
-      "nick": "Nationals",
-      "full": "Washington Nationals",
-      "div": {
-        "id": "national-league-east",
-        "name": "National League East"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 77,
-      "w": 40,
-      "l": 37,
-      "gb_div": "9.0",
-      "gb_wc": "-",
-      "pct": ".519",
-      "stk": "W1",
-      "rf": 413,
-      "ra": 400,
-      "rd": 13
-    },
-    "rnk": {
-      "lg": "11",
-      "cf": "7",
-      "dv": "3",
       "clinch": ""
     }
   },
@@ -117,20 +83,54 @@
       }
     },
     "stats": {
-      "gp": 77,
-      "w": 39,
+      "gp": 78,
+      "w": 40,
       "l": 38,
-      "gb_div": "10.0",
-      "gb_wc": "1.0",
-      "pct": ".506",
-      "stk": "W3",
-      "rf": 334,
-      "ra": 335,
-      "rd": -1
+      "gb_div": "9.0",
+      "gb_wc": "0.5",
+      "pct": ".513",
+      "stk": "W4",
+      "rf": 336,
+      "ra": 336,
+      "rd": 0
     },
     "rnk": {
-      "lg": "14",
-      "cf": "10",
+      "lg": "12",
+      "cf": "8",
+      "dv": "3",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "WSH",
+      "city": "Washington",
+      "nick": "Nationals",
+      "full": "Washington Nationals",
+      "div": {
+        "id": "national-league-east",
+        "name": "National League East"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 78,
+      "w": 40,
+      "l": 38,
+      "gb_div": "9.0",
+      "gb_wc": "0.5",
+      "pct": ".513",
+      "stk": "L1",
+      "rf": 416,
+      "ra": 404,
+      "rd": 12
+    },
+    "rnk": {
+      "lg": "13",
+      "cf": "9",
       "dv": "4",
       "clinch": ""
     }
@@ -151,16 +151,16 @@
       }
     },
     "stats": {
-      "gp": 76,
+      "gp": 77,
       "w": 34,
-      "l": 42,
+      "l": 43,
       "gb_div": "14.5",
-      "gb_wc": "5.5",
-      "pct": ".447",
-      "stk": "L1",
-      "rf": 309,
-      "ra": 336,
-      "rd": -27
+      "gb_wc": "6.0",
+      "pct": ".442",
+      "stk": "L2",
+      "rf": 311,
+      "ra": 342,
+      "rd": -31
     },
     "rnk": {
       "lg": "24",
