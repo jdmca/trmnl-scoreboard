@@ -15,89 +15,21 @@
       }
     },
     "stats": {
-      "gp": 80,
+      "gp": 81,
       "w": 41,
-      "l": 39,
+      "l": 40,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".513",
-      "stk": "W2",
-      "rf": 329,
-      "ra": 311,
-      "rd": 18
+      "pct": ".506",
+      "stk": "L1",
+      "rf": 330,
+      "ra": 322,
+      "rd": 8
     },
     "rnk": {
-      "lg": "12",
+      "lg": "15",
       "cf": "5",
       "dv": "1",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "ATH",
-      "city": "Athletics",
-      "nick": "Athletics",
-      "full": "Athletics",
-      "div": {
-        "id": "american-league-west",
-        "name": "American League West"
-      },
-      "conf": {
-        "id": "american-league",
-        "name": "American League"
-      }
-    },
-    "stats": {
-      "gp": 79,
-      "w": 38,
-      "l": 41,
-      "gb_div": "2.5",
-      "gb_wc": "1.0",
-      "pct": ".481",
-      "stk": "L3",
-      "rf": 365,
-      "ra": 421,
-      "rd": -56
-    },
-    "rnk": {
-      "lg": "18",
-      "cf": "7",
-      "dv": "2",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "TEX",
-      "city": "Texas",
-      "nick": "Rangers",
-      "full": "Texas Rangers",
-      "div": {
-        "id": "american-league-west",
-        "name": "American League West"
-      },
-      "conf": {
-        "id": "american-league",
-        "name": "American League"
-      }
-    },
-    "stats": {
-      "gp": 79,
-      "w": 38,
-      "l": 41,
-      "gb_div": "2.5",
-      "gb_wc": "1.0",
-      "pct": ".481",
-      "stk": "L1",
-      "rf": 317,
-      "ra": 329,
-      "rd": -12
-    },
-    "rnk": {
-      "lg": "19",
-      "cf": "8",
-      "dv": "3",
       "clinch": ""
     }
   },
@@ -117,20 +49,88 @@
       }
     },
     "stats": {
-      "gp": 81,
-      "w": 38,
+      "gp": 82,
+      "w": 39,
       "l": 43,
-      "gb_div": "3.5",
-      "gb_wc": "2.0",
-      "pct": ".469",
-      "stk": "W1",
-      "rf": 367,
-      "ra": 408,
-      "rd": -41
+      "gb_div": "2.5",
+      "gb_wc": "1.0",
+      "pct": ".476",
+      "stk": "W2",
+      "rf": 370,
+      "ra": 409,
+      "rd": -39
     },
     "rnk": {
-      "lg": "22",
-      "cf": "10",
+      "lg": "18",
+      "cf": "7",
+      "dv": "2",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "ATH",
+      "city": "Athletics",
+      "nick": "Athletics",
+      "full": "Athletics",
+      "div": {
+        "id": "american-league-west",
+        "name": "American League West"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 80,
+      "w": 38,
+      "l": 42,
+      "gb_div": "2.5",
+      "gb_wc": "1.0",
+      "pct": ".475",
+      "stk": "L4",
+      "rf": 366,
+      "ra": 423,
+      "rd": -57
+    },
+    "rnk": {
+      "lg": "19",
+      "cf": "8",
+      "dv": "3",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "TEX",
+      "city": "Texas",
+      "nick": "Rangers",
+      "full": "Texas Rangers",
+      "div": {
+        "id": "american-league-west",
+        "name": "American League West"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 80,
+      "w": 38,
+      "l": 42,
+      "gb_div": "2.5",
+      "gb_wc": "1.0",
+      "pct": ".475",
+      "stk": "L2",
+      "rf": 319,
+      "ra": 333,
+      "rd": -14
+    },
+    "rnk": {
+      "lg": "20",
+      "cf": "9",
       "dv": "4",
       "clinch": ""
     }
@@ -151,20 +151,20 @@
       }
     },
     "stats": {
-      "gp": 81,
-      "w": 33,
+      "gp": 82,
+      "w": 34,
       "l": 48,
-      "gb_div": "8.5",
-      "gb_wc": "7.0",
-      "pct": ".407",
-      "stk": "W1",
-      "rf": 367,
-      "ra": 404,
-      "rd": -37
+      "gb_div": "7.5",
+      "gb_wc": "6.0",
+      "pct": ".415",
+      "stk": "W2",
+      "rf": 374,
+      "ra": 410,
+      "rd": -36
     },
     "rnk": {
-      "lg": "29",
-      "cf": "15",
+      "lg": "28",
+      "cf": "14",
       "dv": "5",
       "clinch": ""
     }
