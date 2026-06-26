@@ -35,6 +35,40 @@
   },
   {
     "team": {
+      "id": "CHC",
+      "city": "Chicago",
+      "nick": "Cubs",
+      "full": "Chicago Cubs",
+      "div": {
+        "id": "national-league-central",
+        "name": "National League Central"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 81,
+      "w": 44,
+      "l": 37,
+      "gb_div": "6.5",
+      "gb_wc": "+0.5",
+      "pct": ".543",
+      "stk": "W4",
+      "rf": 399,
+      "ra": 362,
+      "rd": 37
+    },
+    "rnk": {
+      "lg": "7",
+      "cf": "5",
+      "dv": "2",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
       "id": "STL",
       "city": "St. Louis",
       "nick": "Cardinals",
@@ -61,40 +95,6 @@
       "rd": -1
     },
     "rnk": {
-      "lg": "7",
-      "cf": "5",
-      "dv": "2",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "CHC",
-      "city": "Chicago",
-      "nick": "Cubs",
-      "full": "Chicago Cubs",
-      "div": {
-        "id": "national-league-central",
-        "name": "National League Central"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 80,
-      "w": 43,
-      "l": 37,
-      "gb_div": "7.0",
-      "gb_wc": "-",
-      "pct": ".538",
-      "stk": "W3",
-      "rf": 395,
-      "ra": 359,
-      "rd": 36
-    },
-    "rnk": {
       "lg": "8",
       "cf": "6",
       "dv": "3",
@@ -117,20 +117,20 @@
       }
     },
     "stats": {
-      "gp": 80,
-      "w": 40,
+      "gp": 81,
+      "w": 41,
       "l": 40,
-      "gb_div": "10.0",
-      "gb_wc": "3.0",
-      "pct": ".500",
-      "stk": "W1",
-      "rf": 404,
-      "ra": 381,
-      "rd": 23
+      "gb_div": "9.5",
+      "gb_wc": "2.5",
+      "pct": ".506",
+      "stk": "W2",
+      "rf": 409,
+      "ra": 382,
+      "rd": 27
     },
     "rnk": {
-      "lg": "16",
-      "cf": "11",
+      "lg": "14",
+      "cf": "10",
       "dv": "4",
       "clinch": ""
     }

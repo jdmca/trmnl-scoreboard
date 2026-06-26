@@ -14,53 +14,25 @@
     }
   },
   "stats": {
-    "gp": 79,
+    "gp": 80,
     "w": 33,
-    "l": 46,
-    "gb_div": "18.0",
-    "gb_wc": "9.5",
-    "pct": ".418",
-    "stk": "W2",
-    "rf": 322,
-    "ra": 373,
-    "rd": -51
+    "l": 47,
+    "gb_div": "18.5",
+    "gb_wc": "10.0",
+    "pct": ".413",
+    "stk": "L1",
+    "rf": 328,
+    "ra": 382,
+    "rd": -54
   },
   "rnk": {
-    "lg": "27",
+    "lg": "29",
     "cf": "14",
     "dv": "4",
     "clinch": ""
   },
   "games": {
     "past": [
-      {
-        "game_id": "20260621-MIA-SF-1",
-        "game_time_utc": "2026-06-21 17:40:00+00:00",
-        "game_date": "2026-06-21",
-        "final": "Final",
-        "location": "Away",
-        "outcome": "loss",
-        "score": [
-          1,
-          2
-        ],
-        "opponent": {
-          "id": "MIA",
-          "name": "Miami Marlins",
-          "stats": {
-            "gp": 81,
-            "w": 42,
-            "l": 39,
-            "gb_div": "7.0",
-            "gb_wc": "1.5",
-            "pct": ".519",
-            "stk": "W2",
-            "rf": 349,
-            "ra": 346,
-            "rd": 3
-          }
-        }
-      },
       {
         "game_id": "20260623-SF-ATH-1",
         "game_time_utc": "2026-06-24 01:45:00+00:00",
@@ -76,16 +48,16 @@
           "id": "ATH",
           "name": "Athletics",
           "stats": {
-            "gp": 80,
-            "w": 38,
+            "gp": 81,
+            "w": 39,
             "l": 42,
-            "gb_div": "2.5",
-            "gb_wc": "1.0",
-            "pct": ".475",
-            "stk": "L4",
-            "rf": 366,
-            "ra": 423,
-            "rd": -57
+            "gb_div": "1.5",
+            "gb_wc": "-",
+            "pct": ".481",
+            "stk": "W1",
+            "rf": 375,
+            "ra": 429,
+            "rd": -54
           }
         }
       },
@@ -104,49 +76,49 @@
           "id": "ATH",
           "name": "Athletics",
           "stats": {
-            "gp": 80,
-            "w": 38,
+            "gp": 81,
+            "w": 39,
             "l": 42,
-            "gb_div": "2.5",
-            "gb_wc": "1.0",
-            "pct": ".475",
-            "stk": "L4",
-            "rf": 366,
-            "ra": 423,
-            "rd": -57
+            "gb_div": "1.5",
+            "gb_wc": "-",
+            "pct": ".481",
+            "stk": "W1",
+            "rf": 375,
+            "ra": 429,
+            "rd": -54
           }
         }
-      }
-    ],
-    "upcoming": [
+      },
       {
         "game_id": "20260625-SF-ATH-1",
         "game_time_utc": "2026-06-25 19:45:00+00:00",
         "game_date": "2026-06-25",
-        "final": "",
-        "outcome": "upcoming",
+        "final": "Final",
+        "outcome": "loss",
         "location": "Home",
         "score": [
-          null,
-          null
+          6,
+          9
         ],
         "opponent": {
           "id": "ATH",
           "name": "Athletics",
           "stats": {
-            "gp": 80,
-            "w": 38,
+            "gp": 81,
+            "w": 39,
             "l": 42,
-            "gb_div": "2.5",
-            "gb_wc": "1.0",
-            "pct": ".475",
-            "stk": "L4",
-            "rf": 366,
-            "ra": 423,
-            "rd": -57
+            "gb_div": "1.5",
+            "gb_wc": "-",
+            "pct": ".481",
+            "stk": "W1",
+            "rf": 375,
+            "ra": 429,
+            "rd": -54
           }
         }
-      },
+      }
+    ],
+    "upcoming": [
       {
         "game_id": "20260626-SF-ATL-1",
         "game_time_utc": "2026-06-27 02:15:00+00:00",
@@ -228,6 +200,34 @@
             "rf": 385,
             "ra": 293,
             "rd": 92
+          }
+        }
+      },
+      {
+        "game_id": "20260629-AZ-SF-1",
+        "game_time_utc": "2026-06-30 01:40:00+00:00",
+        "game_date": "2026-06-29",
+        "final": "",
+        "location": "Away",
+        "outcome": "upcoming",
+        "score": [
+          null,
+          null
+        ],
+        "opponent": {
+          "id": "AZ",
+          "name": "Arizona Diamondbacks",
+          "stats": {
+            "gp": 80,
+            "w": 41,
+            "l": 39,
+            "gb_div": "10.5",
+            "gb_wc": "2.0",
+            "pct": ".513",
+            "stk": "W2",
+            "rf": 346,
+            "ra": 366,
+            "rd": -20
           }
         }
       }
@@ -353,19 +353,19 @@
           }
         },
         "stats": {
-          "gp": 79,
+          "gp": 80,
           "w": 33,
-          "l": 46,
-          "gb_div": "18.0",
-          "gb_wc": "9.5",
-          "pct": ".418",
-          "stk": "W2",
-          "rf": 322,
-          "ra": 373,
-          "rd": -51
+          "l": 47,
+          "gb_div": "18.5",
+          "gb_wc": "10.0",
+          "pct": ".413",
+          "stk": "L1",
+          "rf": 328,
+          "ra": 382,
+          "rd": -54
         },
         "rnk": {
-          "lg": "27",
+          "lg": "29",
           "cf": "14",
           "dv": "4",
           "clinch": ""
@@ -457,16 +457,16 @@
           }
         },
         "stats": {
-          "gp": 80,
-          "w": 44,
+          "gp": 81,
+          "w": 45,
           "l": 36,
-          "gb_div": "4.5",
-          "gb_wc": "+1.0",
-          "pct": ".550",
-          "stk": "W2",
-          "rf": 349,
-          "ra": 350,
-          "rd": -1
+          "gb_div": "4.0",
+          "gb_wc": "+1.5",
+          "pct": ".556",
+          "stk": "W3",
+          "rf": 359,
+          "ra": 355,
+          "rd": 4
         },
         "rnk": {
           "lg": "6",
@@ -525,20 +525,20 @@
           }
         },
         "stats": {
-          "gp": 81,
+          "gp": 82,
           "w": 41,
-          "l": 40,
-          "gb_div": "8.0",
-          "gb_wc": "2.5",
-          "pct": ".506",
-          "stk": "L2",
-          "rf": 433,
-          "ra": 424,
-          "rd": 9
+          "l": 41,
+          "gb_div": "8.5",
+          "gb_wc": "3.0",
+          "pct": ".500",
+          "stk": "L3",
+          "rf": 438,
+          "ra": 434,
+          "rd": 4
         },
         "rnk": {
-          "lg": "14",
-          "cf": "10",
+          "lg": "15",
+          "cf": "11",
           "dv": "4",
           "clinch": ""
         }
@@ -559,16 +559,16 @@
           }
         },
         "stats": {
-          "gp": 80,
+          "gp": 81,
           "w": 34,
-          "l": 46,
-          "gb_div": "14.5",
-          "gb_wc": "9.0",
-          "pct": ".425",
-          "stk": "L5",
-          "rf": 325,
-          "ra": 371,
-          "rd": -46
+          "l": 47,
+          "gb_div": "15.0",
+          "gb_wc": "9.5",
+          "pct": ".420",
+          "stk": "L6",
+          "rf": 328,
+          "ra": 375,
+          "rd": -47
         },
         "rnk": {
           "lg": "24",
@@ -613,6 +613,40 @@
       },
       {
         "team": {
+          "id": "CHC",
+          "city": "Chicago",
+          "nick": "Cubs",
+          "full": "Chicago Cubs",
+          "div": {
+            "id": "national-league-central",
+            "name": "National League Central"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 81,
+          "w": 44,
+          "l": 37,
+          "gb_div": "6.5",
+          "gb_wc": "+0.5",
+          "pct": ".543",
+          "stk": "W4",
+          "rf": 399,
+          "ra": 362,
+          "rd": 37
+        },
+        "rnk": {
+          "lg": "7",
+          "cf": "5",
+          "dv": "2",
+          "clinch": ""
+        }
+      },
+      {
+        "team": {
           "id": "STL",
           "city": "St. Louis",
           "nick": "Cardinals",
@@ -639,40 +673,6 @@
           "rd": -1
         },
         "rnk": {
-          "lg": "7",
-          "cf": "5",
-          "dv": "2",
-          "clinch": ""
-        }
-      },
-      {
-        "team": {
-          "id": "CHC",
-          "city": "Chicago",
-          "nick": "Cubs",
-          "full": "Chicago Cubs",
-          "div": {
-            "id": "national-league-central",
-            "name": "National League Central"
-          },
-          "conf": {
-            "id": "national-league",
-            "name": "National League"
-          }
-        },
-        "stats": {
-          "gp": 80,
-          "w": 43,
-          "l": 37,
-          "gb_div": "7.0",
-          "gb_wc": "-",
-          "pct": ".538",
-          "stk": "W3",
-          "rf": 395,
-          "ra": 359,
-          "rd": 36
-        },
-        "rnk": {
           "lg": "8",
           "cf": "6",
           "dv": "3",
@@ -695,20 +695,20 @@
           }
         },
         "stats": {
-          "gp": 80,
-          "w": 40,
+          "gp": 81,
+          "w": 41,
           "l": 40,
-          "gb_div": "10.0",
-          "gb_wc": "3.0",
-          "pct": ".500",
-          "stk": "W1",
-          "rf": 404,
-          "ra": 381,
-          "rd": 23
+          "gb_div": "9.5",
+          "gb_wc": "2.5",
+          "pct": ".506",
+          "stk": "W2",
+          "rf": 409,
+          "ra": 382,
+          "rd": 27
         },
         "rnk": {
-          "lg": "16",
-          "cf": "11",
+          "lg": "14",
+          "cf": "10",
           "dv": "4",
           "clinch": ""
         }
@@ -865,19 +865,19 @@
           }
         },
         "stats": {
-          "gp": 79,
+          "gp": 80,
           "w": 33,
-          "l": 46,
-          "gb_div": "18.0",
-          "gb_wc": "9.5",
-          "pct": ".418",
-          "stk": "W2",
-          "rf": 322,
-          "ra": 373,
-          "rd": -51
+          "l": 47,
+          "gb_div": "18.5",
+          "gb_wc": "10.0",
+          "pct": ".413",
+          "stk": "L1",
+          "rf": 328,
+          "ra": 382,
+          "rd": -54
         },
         "rnk": {
-          "lg": "27",
+          "lg": "29",
           "cf": "14",
           "dv": "4",
           "clinch": ""
