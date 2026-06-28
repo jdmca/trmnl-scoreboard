@@ -15,55 +15,21 @@
       }
     },
     "stats": {
-      "gp": 83,
+      "gp": 84,
       "w": 42,
-      "l": 41,
+      "l": 42,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".506",
-      "stk": "W1",
-      "rf": 334,
-      "ra": 328,
-      "rd": 6
+      "pct": ".500",
+      "stk": "L1",
+      "rf": 337,
+      "ra": 332,
+      "rd": 5
     },
     "rnk": {
       "lg": "14",
       "cf": "5",
       "dv": "1",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "ATH",
-      "city": "Athletics",
-      "nick": "Athletics",
-      "full": "Athletics",
-      "div": {
-        "id": "american-league-west",
-        "name": "American League West"
-      },
-      "conf": {
-        "id": "american-league",
-        "name": "American League"
-      }
-    },
-    "stats": {
-      "gp": 82,
-      "w": 40,
-      "l": 42,
-      "gb_div": "1.5",
-      "gb_wc": "-",
-      "pct": ".488",
-      "stk": "W2",
-      "rf": 384,
-      "ra": 432,
-      "rd": -48
-    },
-    "rnk": {
-      "lg": "17",
-      "cf": "6",
-      "dv": "2",
       "clinch": ""
     }
   },
@@ -83,21 +49,21 @@
       }
     },
     "stats": {
-      "gp": 82,
-      "w": 40,
+      "gp": 83,
+      "w": 41,
       "l": 42,
-      "gb_div": "1.5",
+      "gb_div": "0.5",
       "gb_wc": "-",
-      "pct": ".488",
-      "stk": "W2",
-      "rf": 330,
-      "ra": 342,
-      "rd": -12
+      "pct": ".494",
+      "stk": "W3",
+      "rf": 337,
+      "ra": 346,
+      "rd": -9
     },
     "rnk": {
-      "lg": "18",
-      "cf": "7",
-      "dv": "3",
+      "lg": "16",
+      "cf": "6",
+      "dv": "2",
       "clinch": ""
     }
   },
@@ -117,16 +83,50 @@
       }
     },
     "stats": {
-      "gp": 84,
-      "w": 40,
+      "gp": 85,
+      "w": 41,
       "l": 44,
-      "gb_div": "2.5",
+      "gb_div": "1.5",
       "gb_wc": "1.0",
-      "pct": ".476",
+      "pct": ".482",
+      "stk": "W1",
+      "rf": 380,
+      "ra": 424,
+      "rd": -44
+    },
+    "rnk": {
+      "lg": "18",
+      "cf": "7",
+      "dv": "3",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "ATH",
+      "city": "Athletics",
+      "nick": "Athletics",
+      "full": "Athletics",
+      "div": {
+        "id": "american-league-west",
+        "name": "American League West"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 83,
+      "w": 40,
+      "l": 43,
+      "gb_div": "1.5",
+      "gb_wc": "1.0",
+      "pct": ".482",
       "stk": "L1",
-      "rf": 372,
-      "ra": 418,
-      "rd": -46
+      "rf": 386,
+      "ra": 437,
+      "rd": -51
     },
     "rnk": {
       "lg": "19",
@@ -151,20 +151,20 @@
       }
     },
     "stats": {
-      "gp": 83,
-      "w": 34,
+      "gp": 84,
+      "w": 35,
       "l": 49,
-      "gb_div": "8.0",
+      "gb_div": "7.0",
       "gb_wc": "6.5",
-      "pct": ".410",
-      "stk": "L1",
-      "rf": 377,
-      "ra": 419,
-      "rd": -42
+      "pct": ".417",
+      "stk": "W1",
+      "rf": 382,
+      "ra": 421,
+      "rd": -39
     },
     "rnk": {
-      "lg": "28",
-      "cf": "15",
+      "lg": "27",
+      "cf": "14",
       "dv": "5",
       "clinch": ""
     }
