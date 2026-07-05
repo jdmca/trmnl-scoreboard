@@ -1,40 +1,6 @@
 [
   {
     "team": {
-      "id": "CLE",
-      "city": "Cleveland",
-      "nick": "Guardians",
-      "full": "Cleveland Guardians",
-      "div": {
-        "id": "american-league-central",
-        "name": "American League Central"
-      },
-      "conf": {
-        "id": "american-league",
-        "name": "American League"
-      }
-    },
-    "stats": {
-      "gp": 89,
-      "w": 47,
-      "l": 42,
-      "gb_div": "-",
-      "gb_wc": "-",
-      "pct": ".528",
-      "stk": "W3",
-      "rf": 355,
-      "ra": 361,
-      "rd": -6
-    },
-    "rnk": {
-      "lg": "9",
-      "cf": "3",
-      "dv": "1",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
       "id": "CWS",
       "city": "Chicago",
       "nick": "White Sox",
@@ -49,16 +15,50 @@
       }
     },
     "stats": {
-      "gp": 87,
-      "w": 45,
+      "gp": 88,
+      "w": 46,
       "l": 42,
-      "gb_div": "1.0",
-      "gb_wc": "+1.0",
-      "pct": ".517",
-      "stk": "L3",
-      "rf": 418,
-      "ra": 395,
-      "rd": 23
+      "gb_div": "-",
+      "gb_wc": "-",
+      "pct": ".523",
+      "stk": "W1",
+      "rf": 421,
+      "ra": 396,
+      "rd": 25
+    },
+    "rnk": {
+      "lg": "10",
+      "cf": "3",
+      "dv": "1",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "CLE",
+      "city": "Cleveland",
+      "nick": "Guardians",
+      "full": "Cleveland Guardians",
+      "div": {
+        "id": "american-league-central",
+        "name": "American League Central"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 90,
+      "w": 47,
+      "l": 43,
+      "gb_div": "-",
+      "gb_wc": "+1.5",
+      "pct": ".522",
+      "stk": "L1",
+      "rf": 356,
+      "ra": 364,
+      "rd": -8
     },
     "rnk": {
       "lg": "11",
@@ -83,20 +83,20 @@
       }
     },
     "stats": {
-      "gp": 89,
-      "w": 42,
+      "gp": 90,
+      "w": 43,
       "l": 47,
-      "gb_div": "5.0",
-      "gb_wc": "3.0",
-      "pct": ".472",
-      "stk": "L1",
-      "rf": 431,
-      "ra": 460,
-      "rd": -29
+      "gb_div": "4.0",
+      "gb_wc": "2.5",
+      "pct": ".478",
+      "stk": "W1",
+      "rf": 442,
+      "ra": 464,
+      "rd": -22
     },
     "rnk": {
-      "lg": "20",
-      "cf": "9",
+      "lg": "19",
+      "cf": "8",
       "dv": "3",
       "clinch": ""
     }
@@ -117,16 +117,16 @@
       }
     },
     "stats": {
-      "gp": 88,
-      "w": 38,
+      "gp": 89,
+      "w": 39,
       "l": 50,
-      "gb_div": "8.5",
-      "gb_wc": "6.5",
-      "pct": ".432",
-      "stk": "L1",
-      "rf": 370,
+      "gb_div": "7.5",
+      "gb_wc": "6.0",
+      "pct": ".438",
+      "stk": "W1",
+      "rf": 373,
       "ra": 365,
-      "rd": 5
+      "rd": 8
     },
     "rnk": {
       "lg": "25",
@@ -151,16 +151,16 @@
       }
     },
     "stats": {
-      "gp": 88,
+      "gp": 89,
       "w": 35,
-      "l": 53,
+      "l": 54,
       "gb_div": "11.5",
-      "gb_wc": "9.5",
-      "pct": ".398",
-      "stk": "L3",
-      "rf": 363,
-      "ra": 446,
-      "rd": -83
+      "gb_wc": "10.0",
+      "pct": ".393",
+      "stk": "L4",
+      "rf": 364,
+      "ra": 452,
+      "rd": -88
     },
     "rnk": {
       "lg": "30",
