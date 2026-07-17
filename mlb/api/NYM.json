@@ -14,16 +14,16 @@
     }
   },
   "stats": {
-    "gp": 97,
-    "w": 40,
+    "gp": 98,
+    "w": 41,
     "l": 57,
-    "gb_div": "16.0",
-    "gb_wc": "12.0",
-    "pct": ".412",
-    "stk": "L3",
-    "rf": 398,
-    "ra": 463,
-    "rd": -65
+    "gb_div": "15.5",
+    "gb_wc": "11.5",
+    "pct": ".418",
+    "stk": "W1",
+    "rf": 402,
+    "ra": 464,
+    "rd": -62
   },
   "rnk": {
     "lg": "27",
@@ -33,34 +33,6 @@
   },
   "games": {
     "past": [
-      {
-        "game_id": "20260710-NYM-BOS-1",
-        "game_time_utc": "2026-07-10 23:15:00+00:00",
-        "game_date": "2026-07-10",
-        "final": "Final",
-        "outcome": "loss",
-        "location": "Home",
-        "score": [
-          2,
-          6
-        ],
-        "opponent": {
-          "id": "BOS",
-          "name": "Boston Red Sox",
-          "stats": {
-            "gp": 94,
-            "w": 46,
-            "l": 48,
-            "gb_div": "10.0",
-            "gb_wc": "0.5",
-            "pct": ".489",
-            "stk": "W9",
-            "rf": 385,
-            "ra": 358,
-            "rd": 27
-          }
-        }
-      },
       {
         "game_id": "20260711-NYM-BOS-1",
         "game_time_utc": "2026-07-11 20:10:00+00:00",
@@ -116,37 +88,37 @@
             "rd": 27
           }
         }
-      }
-    ],
-    "upcoming": [
+      },
       {
         "game_id": "20260716-PHI-NYM-1",
-        "game_time_utc": "2026-07-16 23:10:00+00:00",
+        "game_time_utc": "2026-07-16 22:10:00+00:00",
         "game_date": "2026-07-16",
-        "final": "",
+        "final": "Final",
         "location": "Away",
-        "outcome": "upcoming",
+        "outcome": "win",
         "score": [
-          null,
-          null
+          4,
+          1
         ],
         "opponent": {
           "id": "PHI",
           "name": "Philadelphia Phillies",
           "stats": {
-            "gp": 97,
+            "gp": 98,
             "w": 54,
-            "l": 43,
-            "gb_div": "2.0",
-            "gb_wc": "+2.0",
-            "pct": ".557",
-            "stk": "W2",
-            "rf": 424,
-            "ra": 434,
-            "rd": -10
+            "l": 44,
+            "gb_div": "2.5",
+            "gb_wc": "+1.5",
+            "pct": ".551",
+            "stk": "L1",
+            "rf": 425,
+            "ra": 438,
+            "rd": -13
           }
         }
-      },
+      }
+    ],
+    "upcoming": [
       {
         "game_id": "20260718-PHI-NYM-1",
         "game_time_utc": "2026-07-18 20:05:00+00:00",
@@ -162,16 +134,16 @@
           "id": "PHI",
           "name": "Philadelphia Phillies",
           "stats": {
-            "gp": 97,
+            "gp": 98,
             "w": 54,
-            "l": 43,
-            "gb_div": "2.0",
-            "gb_wc": "+2.0",
-            "pct": ".557",
-            "stk": "W2",
-            "rf": 424,
-            "ra": 434,
-            "rd": -10
+            "l": 44,
+            "gb_div": "2.5",
+            "gb_wc": "+1.5",
+            "pct": ".551",
+            "stk": "L1",
+            "rf": 425,
+            "ra": 438,
+            "rd": -13
           }
         }
       },
@@ -190,16 +162,16 @@
           "id": "PHI",
           "name": "Philadelphia Phillies",
           "stats": {
-            "gp": 97,
+            "gp": 98,
             "w": 54,
-            "l": 43,
-            "gb_div": "2.0",
-            "gb_wc": "+2.0",
-            "pct": ".557",
-            "stk": "W2",
-            "rf": 424,
-            "ra": 434,
-            "rd": -10
+            "l": 44,
+            "gb_div": "2.5",
+            "gb_wc": "+1.5",
+            "pct": ".551",
+            "stk": "L1",
+            "rf": 425,
+            "ra": 438,
+            "rd": -13
           }
         }
       },
@@ -207,6 +179,34 @@
         "game_id": "20260720-MIL-NYM-1",
         "game_time_utc": "2026-07-20 23:40:00+00:00",
         "game_date": "2026-07-20",
+        "final": "",
+        "location": "Away",
+        "outcome": "upcoming",
+        "score": [
+          null,
+          null
+        ],
+        "opponent": {
+          "id": "MIL",
+          "name": "Milwaukee Brewers",
+          "stats": {
+            "gp": 96,
+            "w": 59,
+            "l": 37,
+            "gb_div": "-",
+            "gb_wc": "-",
+            "pct": ".615",
+            "stk": "L3",
+            "rf": 489,
+            "ra": 363,
+            "rd": 126
+          }
+        }
+      },
+      {
+        "game_id": "20260721-MIL-NYM-1",
+        "game_time_utc": "2026-07-21 23:40:00+00:00",
+        "game_date": "2026-07-21",
         "final": "",
         "location": "Away",
         "outcome": "upcoming",
@@ -285,16 +285,16 @@
           }
         },
         "stats": {
-          "gp": 97,
+          "gp": 98,
           "w": 54,
-          "l": 43,
-          "gb_div": "2.0",
-          "gb_wc": "+2.0",
-          "pct": ".557",
-          "stk": "W2",
-          "rf": 424,
-          "ra": 434,
-          "rd": -10
+          "l": 44,
+          "gb_div": "2.5",
+          "gb_wc": "+1.5",
+          "pct": ".551",
+          "stk": "L1",
+          "rf": 425,
+          "ra": 438,
+          "rd": -13
         },
         "rnk": {
           "lg": "7",
@@ -387,16 +387,16 @@
           }
         },
         "stats": {
-          "gp": 97,
-          "w": 40,
+          "gp": 98,
+          "w": 41,
           "l": 57,
-          "gb_div": "16.0",
-          "gb_wc": "12.0",
-          "pct": ".412",
-          "stk": "L3",
-          "rf": 398,
-          "ra": 463,
-          "rd": -65
+          "gb_div": "15.5",
+          "gb_wc": "11.5",
+          "pct": ".418",
+          "stk": "W1",
+          "rf": 402,
+          "ra": 464,
+          "rd": -62
         },
         "rnk": {
           "lg": "27",
@@ -457,16 +457,16 @@
           }
         },
         "stats": {
-          "gp": 97,
+          "gp": 98,
           "w": 54,
-          "l": 43,
-          "gb_div": "2.0",
-          "gb_wc": "+2.0",
-          "pct": ".557",
-          "stk": "W2",
-          "rf": 424,
-          "ra": 434,
-          "rd": -10
+          "l": 44,
+          "gb_div": "2.5",
+          "gb_wc": "+1.5",
+          "pct": ".551",
+          "stk": "L1",
+          "rf": 425,
+          "ra": 438,
+          "rd": -13
         },
         "rnk": {
           "lg": "7",
@@ -559,16 +559,16 @@
           }
         },
         "stats": {
-          "gp": 97,
-          "w": 40,
+          "gp": 98,
+          "w": 41,
           "l": 57,
-          "gb_div": "16.0",
-          "gb_wc": "12.0",
-          "pct": ".412",
-          "stk": "L3",
-          "rf": 398,
-          "ra": 463,
-          "rd": -65
+          "gb_div": "15.5",
+          "gb_wc": "11.5",
+          "pct": ".418",
+          "stk": "W1",
+          "rf": 402,
+          "ra": 464,
+          "rd": -62
         },
         "rnk": {
           "lg": "27",

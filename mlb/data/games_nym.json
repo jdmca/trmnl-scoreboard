@@ -2086,16 +2086,16 @@
       "id": "PHI",
       "name": "Philadelphia Phillies",
       "stats": {
-        "gp": 97,
+        "gp": 98,
         "w": 54,
-        "l": 43,
-        "gb_div": "2.0",
-        "gb_wc": "+2.0",
-        "pct": ".557",
-        "stk": "W2",
-        "rf": 424,
-        "ra": 434,
-        "rd": -10
+        "l": 44,
+        "gb_div": "2.5",
+        "gb_wc": "+1.5",
+        "pct": ".551",
+        "stk": "L1",
+        "rf": 425,
+        "ra": 438,
+        "rd": -13
       }
     }
   },
@@ -2114,16 +2114,16 @@
       "id": "PHI",
       "name": "Philadelphia Phillies",
       "stats": {
-        "gp": 97,
+        "gp": 98,
         "w": 54,
-        "l": 43,
-        "gb_div": "2.0",
-        "gb_wc": "+2.0",
-        "pct": ".557",
-        "stk": "W2",
-        "rf": 424,
-        "ra": 434,
-        "rd": -10
+        "l": 44,
+        "gb_div": "2.5",
+        "gb_wc": "+1.5",
+        "pct": ".551",
+        "stk": "L1",
+        "rf": 425,
+        "ra": 438,
+        "rd": -13
       }
     }
   },
@@ -2142,16 +2142,16 @@
       "id": "PHI",
       "name": "Philadelphia Phillies",
       "stats": {
-        "gp": 97,
+        "gp": 98,
         "w": 54,
-        "l": 43,
-        "gb_div": "2.0",
-        "gb_wc": "+2.0",
-        "pct": ".557",
-        "stk": "W2",
-        "rf": 424,
-        "ra": 434,
-        "rd": -10
+        "l": 44,
+        "gb_div": "2.5",
+        "gb_wc": "+1.5",
+        "pct": ".551",
+        "stk": "L1",
+        "rf": 425,
+        "ra": 438,
+        "rd": -13
       }
     }
   },
@@ -2282,16 +2282,16 @@
       "id": "PHI",
       "name": "Philadelphia Phillies",
       "stats": {
-        "gp": 97,
+        "gp": 98,
         "w": 54,
-        "l": 43,
-        "gb_div": "2.0",
-        "gb_wc": "+2.0",
-        "pct": ".557",
-        "stk": "W2",
-        "rf": 424,
-        "ra": 434,
-        "rd": -10
+        "l": 44,
+        "gb_div": "2.5",
+        "gb_wc": "+1.5",
+        "pct": ".551",
+        "stk": "L1",
+        "rf": 425,
+        "ra": 438,
+        "rd": -13
       }
     }
   },
@@ -2310,16 +2310,16 @@
       "id": "PHI",
       "name": "Philadelphia Phillies",
       "stats": {
-        "gp": 97,
+        "gp": 98,
         "w": 54,
-        "l": 43,
-        "gb_div": "2.0",
-        "gb_wc": "+2.0",
-        "pct": ".557",
-        "stk": "W2",
-        "rf": 424,
-        "ra": 434,
-        "rd": -10
+        "l": 44,
+        "gb_div": "2.5",
+        "gb_wc": "+1.5",
+        "pct": ".551",
+        "stk": "L1",
+        "rf": 425,
+        "ra": 438,
+        "rd": -13
       }
     }
   },
@@ -2338,16 +2338,16 @@
       "id": "PHI",
       "name": "Philadelphia Phillies",
       "stats": {
-        "gp": 97,
+        "gp": 98,
         "w": 54,
-        "l": 43,
-        "gb_div": "2.0",
-        "gb_wc": "+2.0",
-        "pct": ".557",
-        "stk": "W2",
-        "rf": 424,
-        "ra": 434,
-        "rd": -10
+        "l": 44,
+        "gb_div": "2.5",
+        "gb_wc": "+1.5",
+        "pct": ".551",
+        "stk": "L1",
+        "rf": 425,
+        "ra": 438,
+        "rd": -13
       }
     }
   },
@@ -2717,29 +2717,29 @@
   },
   {
     "game_id": "20260716-PHI-NYM-1",
-    "game_time_utc": "2026-07-16 23:10:00+00:00",
+    "game_time_utc": "2026-07-16 22:10:00+00:00",
     "game_date": "2026-07-16",
-    "final": "",
+    "final": "Final",
     "location": "Away",
-    "outcome": "upcoming",
+    "outcome": "win",
     "score": [
-      null,
-      null
+      4,
+      1
     ],
     "opponent": {
       "id": "PHI",
       "name": "Philadelphia Phillies",
       "stats": {
-        "gp": 97,
+        "gp": 98,
         "w": 54,
-        "l": 43,
-        "gb_div": "2.0",
-        "gb_wc": "+2.0",
-        "pct": ".557",
-        "stk": "W2",
-        "rf": 424,
-        "ra": 434,
-        "rd": -10
+        "l": 44,
+        "gb_div": "2.5",
+        "gb_wc": "+1.5",
+        "pct": ".551",
+        "stk": "L1",
+        "rf": 425,
+        "ra": 438,
+        "rd": -13
       }
     }
   },
@@ -2758,16 +2758,16 @@
       "id": "PHI",
       "name": "Philadelphia Phillies",
       "stats": {
-        "gp": 97,
+        "gp": 98,
         "w": 54,
-        "l": 43,
-        "gb_div": "2.0",
-        "gb_wc": "+2.0",
-        "pct": ".557",
-        "stk": "W2",
-        "rf": 424,
-        "ra": 434,
-        "rd": -10
+        "l": 44,
+        "gb_div": "2.5",
+        "gb_wc": "+1.5",
+        "pct": ".551",
+        "stk": "L1",
+        "rf": 425,
+        "ra": 438,
+        "rd": -13
       }
     }
   },
@@ -2786,16 +2786,16 @@
       "id": "PHI",
       "name": "Philadelphia Phillies",
       "stats": {
-        "gp": 97,
+        "gp": 98,
         "w": 54,
-        "l": 43,
-        "gb_div": "2.0",
-        "gb_wc": "+2.0",
-        "pct": ".557",
-        "stk": "W2",
-        "rf": 424,
-        "ra": 434,
-        "rd": -10
+        "l": 44,
+        "gb_div": "2.5",
+        "gb_wc": "+1.5",
+        "pct": ".551",
+        "stk": "L1",
+        "rf": 425,
+        "ra": 438,
+        "rd": -13
       }
     }
   },
@@ -4270,16 +4270,16 @@
       "id": "PHI",
       "name": "Philadelphia Phillies",
       "stats": {
-        "gp": 97,
+        "gp": 98,
         "w": 54,
-        "l": 43,
-        "gb_div": "2.0",
-        "gb_wc": "+2.0",
-        "pct": ".557",
-        "stk": "W2",
-        "rf": 424,
-        "ra": 434,
-        "rd": -10
+        "l": 44,
+        "gb_div": "2.5",
+        "gb_wc": "+1.5",
+        "pct": ".551",
+        "stk": "L1",
+        "rf": 425,
+        "ra": 438,
+        "rd": -13
       }
     }
   },
@@ -4298,16 +4298,16 @@
       "id": "PHI",
       "name": "Philadelphia Phillies",
       "stats": {
-        "gp": 97,
+        "gp": 98,
         "w": 54,
-        "l": 43,
-        "gb_div": "2.0",
-        "gb_wc": "+2.0",
-        "pct": ".557",
-        "stk": "W2",
-        "rf": 424,
-        "ra": 434,
-        "rd": -10
+        "l": 44,
+        "gb_div": "2.5",
+        "gb_wc": "+1.5",
+        "pct": ".551",
+        "stk": "L1",
+        "rf": 425,
+        "ra": 438,
+        "rd": -13
       }
     }
   },
@@ -4326,16 +4326,16 @@
       "id": "PHI",
       "name": "Philadelphia Phillies",
       "stats": {
-        "gp": 97,
+        "gp": 98,
         "w": 54,
-        "l": 43,
-        "gb_div": "2.0",
-        "gb_wc": "+2.0",
-        "pct": ".557",
-        "stk": "W2",
-        "rf": 424,
-        "ra": 434,
-        "rd": -10
+        "l": 44,
+        "gb_div": "2.5",
+        "gb_wc": "+1.5",
+        "pct": ".551",
+        "stk": "L1",
+        "rf": 425,
+        "ra": 438,
+        "rd": -13
       }
     }
   },
@@ -4354,16 +4354,16 @@
       "id": "PHI",
       "name": "Philadelphia Phillies",
       "stats": {
-        "gp": 97,
+        "gp": 98,
         "w": 54,
-        "l": 43,
-        "gb_div": "2.0",
-        "gb_wc": "+2.0",
-        "pct": ".557",
-        "stk": "W2",
-        "rf": 424,
-        "ra": 434,
-        "rd": -10
+        "l": 44,
+        "gb_div": "2.5",
+        "gb_wc": "+1.5",
+        "pct": ".551",
+        "stk": "L1",
+        "rf": 425,
+        "ra": 438,
+        "rd": -13
       }
     }
   },
